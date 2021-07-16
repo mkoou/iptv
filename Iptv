@@ -195,7 +195,7 @@ http://185.180.223.89:25461/imiktec@gmail.com/Abd9090/75|User-agent=WSS_User_Age
 #EXTINF:-1 tvg-id="" tvg-name="Bt Sports 3 HD" tvg-logo="" group-title="UK",Bt Sports 3 HD
 http://185.180.223.89:25461/imiktec@gmail.com/Abd9090/74|User-agent=WSS_User_Agent
 
-#EXTINF:-1 tvg-id="" tvg-name="Bt Sports 3" tvg-logo="" group-title="UK",Bt Sports 3
+#EXTINF:-1 tvg-id="" tvg-name="Bt Sports 3" tvg-logo="" group-title="UK",Bt Sports 3 LOW
 http://185.180.223.89:25461/imiktec@gmail.com/Abd9090/73|User-agent=WSS_User_Agent
 
 #EXTINF:-1 tvg-id="" tvg-name="Bt Sports 1 HD" tvg-logo="" group-title="UK",Bt Sports 1 HD
@@ -224,44 +224,49 @@ http://185.180.223.89:25461/imiktec@gmail.com/Abd9090/65|User-agent=WSS_User_Age
 
 #EXTINF:-1 tvg-id="" tvg-name="SkySports News HD" tvg-logo="" group-title="UK",SkySports News HD
 http://185.180.223.89:25461/imiktec@gmail.com/Abd9090/64|User-agent=WSS_User_Agent
+#EXTINF:-1 tvg-id="" tvg-name="SkySports Arena" tvg-logo="" group-title="UK",SkySports Arena HD
+http://185.180.223.89:25461/imiktec@gmail.com/Abd9090/61|User-agent=WSS_User_Agent
 
-
-#EXTINF:-1 tvg-id="" tvg-name="Geo Super" tvg-logo="" group-title="Free Sports Android App",Geo Super
+#EXTINF:-1 tvg-id="" tvg-name="Geo Super" tvg-logo="" group-title="UK",Geo Super HD
  http://185.180.223.89:25461/imiktec@gmail.com/Abd9090/63|User-agent=WSS_User_Agent
+
 #EXTINF:-1 tvg-id="" tvg-name="SkySports Football" tvg-logo="" group-title="Free Sports Android App",SkySports Football
  http://185.180.223.89:25461/imiktec@gmail.com/Abd9090/62|User-agent=WSS_User_Agent
 #EXTINF:-1 tvg-id="" tvg-name="SkySports Arena" tvg-logo="" group-title="Free Sports Android App",SkySports Arena
  http://185.180.223.89:25461/imiktec@gmail.com/Abd9090/61|User-agent=WSS_User_Agent
-#EXTINF:-1 tvg-id="" tvg-name="Bein Sports 3 FR" tvg-logo="" group-title="Free Sports Android App",Bein Sports 3 FR
+#EXTINF:-1 tvg-id="" tvg-name="Bein Sports 3 FR" tvg-logo="" group-title="BEIN SPORTS AR",Bein Sports 3 FR
  http://185.180.223.89:25461/imiktec@gmail.com/Abd9090/60|User-agent=WSS_User_Agent
-#EXTINF:-1 tvg-id="" tvg-name="Bein Sports 2 FR" tvg-logo="" group-title="Free Sports Android App",Bein Sports 2 FR
+#EXTINF:-1 tvg-id="" tvg-name="Bein Sports 2 FR" tvg-logo="" group-title="BEIN SPORTS AR",Bein Sports 2 FR
  http://185.180.223.89:25461/imiktec@gmail.com/Abd9090/59|User-agent=WSS_User_Agent
-#EXTINF:-1 tvg-id="" tvg-name="Bein Sports 1 FR" tvg-logo="" group-title="Free Sports Android App",Bein Sports 1 FR
+#EXTINF:-1 tvg-id="" tvg-name="Bein Sports 1 FR" tvg-logo="" group-title="BEIN SPORTS AR",Bein Sports 1 FR
  http://185.180.223.89:25461/imiktec@gmail.com/Abd9090/58|User-agent=WSS_User_Agent
+
 #EXTINF:-1 tvg-id="" tvg-name="At The Races" tvg-logo="" group-title="Free Sports Android App",At The Races
  http://185.180.223.89:25461/imiktec@gmail.com/Abd9090/57|User-agent=WSS_User_Agent
 #EXTINF:-1 tvg-id="" tvg-name="WWE Network HD" tvg-logo="" group-title="Free Sports Android App",WWE Network HD
  http://185.180.223.89:25461/imiktec@gmail.com/Abd9090/56|User-agent=WSS_User_Agent
-#EXTINF:-1 tvg-id="" tvg-name="Arena Sports 4 HD Croatian" tvg-logo="" group-title="Free Sports Android App",Arena Sports 4 HD Croatian
+#EXTINF:-1 tvg-id="" tvg-name="Arena Sports 4 HD Croatian" tvg-logo="" group-title="SPORTS",Arena Sports 4 HD Croatian
  http://185.180.223.89:25461/imiktec@gmail.com/Abd9090/55|User-agent=WSS_User_Agent
-#EXTINF:-1 tvg-id="" tvg-name="Arena Sports 3 HD Croatian" tvg-logo="" group-title="Free Sports Android App",Arena Sports 3 HD Croatian
+#EXTINF:-1 tvg-id="" tvg-name="Arena Sports 3 HD Croatian" tvg-logo="" group-title="SPORTS",Arena Sports 3 HD Croatian
  http://185.180.223.89:25461/imiktec@gmail.com/Abd9090/54|User-agent=WSS_User_Agent
-#EXTINF:-1 tvg-id="" tvg-name="Arena Sports 2 HD Croatian" tvg-logo="" group-title="Free Sports Android App",Arena Sports 2 HD Croatian
+#EXTINF:-1 tvg-id="" tvg-name="Arena Sports 2 HD Croatian" tvg-logo="" group-title="SPORTS",Arena Sports 2 HD Croatian
  http://185.180.223.89:25461/imiktec@gmail.com/Abd9090/53|User-agent=WSS_User_Agent
-#EXTINF:-1 tvg-id="" tvg-name="Arena Sports 1 HD Croatian" tvg-logo="" group-title="Free Sports Android App",Arena Sports 1 HD Croatian
+#EXTINF:-1 tvg-id="" tvg-name="Arena Sports 1 HD Croatian" tvg-logo="" group-title="SPORTS",Arena Sports 1 HD Croatian
  http://185.180.223.89:25461/imiktec@gmail.com/Abd9090/52|User-agent=WSS_User_Agent
 #EXTINF:-1 tvg-id="" tvg-name="Gtv" tvg-logo="" group-title="Free Sports Android App",Gtv
  http://185.180.223.89:25461/imiktec@gmail.com/Abd9090/39|User-agent=WSS_User_Agent
-#EXTINF:-1 tvg-id="" tvg-name="PTV Sports" tvg-logo="" group-title="Free Sports Android App",PTV Sports
+#EXTINF:-1 tvg-id="" tvg-name="PTV Sports" tvg-logo="" group-title="SPORTS",PTV Sports
  http://185.180.223.89:25461/imiktec@gmail.com/Abd9090/38|User-agent=WSS_User_Agent
-#EXTINF:-1 tvg-id="" tvg-name="Eir Sport 1" tvg-logo="" group-title="Free Sports Android App",Eir Sport 1
+#EXTINF:-1 tvg-id="" tvg-name="Eir Sport 1" tvg-logo="" group-title="SPORTS",Eir Sport 1
  http://185.180.223.89:25461/imiktec@gmail.com/Abd9090/37|User-agent=WSS_User_Agent
-#EXTINF:-1 tvg-id="" tvg-name="Sport Tv 3 HD" tvg-logo="" group-title="Free Sports Android App",Sport Tv 3 HD
+#EXTINF:-1 tvg-id="" tvg-name="Sport Tv 3 HD" tvg-logo="" group-title="SPORTS",Sport Tv 3 HD
  http://185.180.223.89:25461/imiktec@gmail.com/Abd9090/36|User-agent=WSS_User_Agent
-#EXTINF:-1 tvg-id="" tvg-name="Sport Tv 2 HD" tvg-logo="" group-title="Free Sports Android App",Sport Tv 2 HD
+#EXTINF:-1 tvg-id="" tvg-name="Sport Tv 2 HD" tvg-logo="" group-title="SPORTS",Sport Tv 2 HD
  http://185.180.223.89:25461/imiktec@gmail.com/Abd9090/35|User-agent=WSS_User_Agent
-#EXTINF:-1 tvg-id="" tvg-name="Sport Tv 1 HD" tvg-logo="" group-title="Free Sports Android App",Sport Tv 1 HD
+#EXTINF:-1 tvg-id="" tvg-name="Sport Tv 1 HD" tvg-logo="" group-title="SPORTS",Sport Tv 1 HD
  http://185.180.223.89:25461/imiktec@gmail.com/Abd9090/34|User-agent=WSS_User_Agent
+
+
 #EXTINF:-1 tvg-id="" tvg-name="Sky Sport F1 Italy" tvg-logo="" group-title="Free Sports Android App",Sky Sport F1 Italy
  http://185.180.223.89:25461/imiktec@gmail.com/Abd9090/33|User-agent=WSS_User_Agent
 #EXTINF:-1 tvg-id="" tvg-name="Sky Sport Calcio Italy" tvg-logo="" group-title="Free Sports Android App",Sky Sport Calcio Italy
