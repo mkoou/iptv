@@ -1,16 +1,1774 @@
 #EXTM3U
 #PLAYLIST
-#EXTINF:-1, MBC BOLLYWOOD SD
-https://shls-mbcbollywood-prod-dub.shahid.net:443/out/v1/a79c9d7ef2a64a54a64d5c4567b3462a/index_8.m3u8
-#EXTINF:-1, MBC PLUS DRAMA SD
-https://shls-mbcplusdrama-prod-dub.shahid.net:443/out/v1/97ca0ce6fc6142f4b14c0a694af59eab/index_8.m3u8
-#EXTINF:-1, MBC MASR SD
-https://shls-masr-prod-dub.shahid.net:443/out/v1/b7093401da27496797a8949de23f4578/index_8.m3u8
-#EXTINF:-1, MBC MAX SD
-https://shls-mbcmax-prod-dub.shahid.net:443/out/v1/13815a7cda864c249a88c38e66a2e653/index_8.m3u8
-#EXTINF:-1, MBC ACTION SD
-https://shls-mbcaction-prod-dub.shahid.net:443/out/v1/68dd761538e5460096c42422199d050b/index_8.m3u8
-#EXTINF:-1, MBC 4 SD
-https://shls-mbc4-prod-dub.shahid.net:443/out/v1/c08681f81775496ab4afa2bac7ae7638/index_8.m3u8
-#EXTINF:-1, MBC 2 SD
-https://shls-mbc2-prod-dub.shahid.net:443/out/v1/b4befe19798745fe986f5a9bfba62126/index_8.m3u8
+#EXTGRP: FRANCE INFO
+#EXTINF:-1 tvg-id="Franceinfo.fr" tvg-name="Franceinfo" tvg-country="FR" tvg-language="French" tvg-logo="none" group-title="None",Franceinfo
+https://linkastream.co/headless?url=https://www.youtube.com/channel/UCO6K_kkdP-lnSCiO3tPx7WA/live
+#EXTINF:-1,TV5 MONDE
+http://v3plusinfo247hls-i.akamaihd.net:80/hls/live/218877-b/v3plusinfo247hls/v3plusinfo247hls_1_1.m3u8
+#EXTINF:-1 tvg-id="France3.fr" tvg-name="France 3" tvg-country="FR" tvg-language="French" tvg-logo="none" group-title="None",France 3
+http://edge9.iptvnetwork.net/live/france3/playlist.m3u8
+#EXTINF:-1 tvg-id="France4.fr" tvg-name="France 4" tvg-country="FR" tvg-language="French" tvg-logo="none" group-title="None",France 4
+http://edge9.iptvnetwork.net/live/france4/playlist.m3u8
+#EXTINF:-1 tvg-id="France5.fr" tvg-name="France 5" tvg-country="FR" tvg-language="French" tvg-logo="none" group-title="None",France 5
+http://edge9.iptvnetwork.net/live/france5/playlist.m3u8
+#EXTINF:-1,France24
+http://static.france24.com/live/F24_FR_LO_HLS/live_web.m3u8
+#EXTINF:-1,TF1
+https://tf1-hls-live-ssl.tf1.fr/tf1/1/hls/live_2328.m3u8
+#EXTINF:-1, TMC 
+https://tmc-hls-live-ssl.tf1.fr/tmc/1/hls/live_2328.m3u8
+#EXTINF:-1, TF1 SERIE 
+https://tsf-hls-live-ssl.tf1.fr/tsf/1/hls/live_2328.m3u8
+#EXTINF:-1, TFX
+https://tfx-hls-live-ssl.tf1.fr/tfx/1/hls/live_2328.m3u8
+#EXTINF:-1, LCI
+https://lci-hls-live-ssl.tf1.fr/lci/1/hls/live_2328.m3u8
+#EXTINF:-1,TF1 LOW
+https://tf1-hls-live-ssl.tf1.fr/tf1/1/hls/master_1000000.m3u8
+#EXTINF:-1, LCI LOW
+https://lci-hls-live-ssl.tf1.fr/lci/1/hls/master_1000000.m3u8
+#EXTINF: -1 tvg-logo = "https://frenchflicks.com/tl_files/tv5monde/TV5MONDEInfologo.png" group-title = "FRANCE", TV5 Monde Info 
+https://tv5infohls-i.akamaihd.net/hls/live/631613/tv5infohls/index.m3u8
+
+#EXTINF:-1,MBC BOLLYWOOD LOW
+https://shls-mbcbollywood-prod-dub.shahid.net/out/v1/a79c9d7ef2a64a54a64d5c4567b3462a/index_6.m3u8
+#EXTINF:-1,MBC MASR LOW
+https://shls-masr-prod-dub.shahid.net/out/v1/b7093401da27496797a8949de23f4578/index_6.m3u8
+#EXTINF:-1,MBC 2 LOW
+https://shls-mbc2-prod-dub.shahid.net/out/v1/b4befe19798745fe986f5a9bfba62126/index_6.m3u8
+#EXTINF:-1,MBC 3 LOW
+https://shls-mbc3-prod-dub.shahid.net/out/v1/d5bbe570e1514d3d9a142657d33d85e6/index_6.m3u8
+#EXTINF:-1,MBC 4 LOW
+https://shls-mbc4-prod-dub.shahid.net/out/v1/c08681f81775496ab4afa2bac7ae7638/index_6.m3u8
+#EXTINF:-1,MBC 5 LOW
+https://shls-mbc5-prod-dub.shahid.net/out/v1/2720564b6a4641658fdfb6884b160da2/index_6.m3u8
+#EXTINF:-1,MBC ACTION LOW
+https://shls-mbcaction-prod-dub.shahid.net/out/v1/68dd761538e5460096c42422199d050b/index_6.m3u8
+#EXTINF:-1,MBC MAX LOW
+https://shls-mbcmax-prod-dub.shahid.net/out/v1/13815a7cda864c249a88c38e66a2e653/index_6.m3u8
+#EXTINF:-1,MBC DRAMA LOW
+https://shls-mbcdramaksa-prod-dub.shahid.net/out/v1/ce0f0762d89e4394a856c5fd13e43645/index_6.m3u8
+
+#EXTINF:-1,MBC BOLLYWOOD LOW
+https://shls-mbcbollywood-prod-dub.shahid.net/out/v1/a79c9d7ef2a64a54a64d5c4567b3462a/index_8.m3u8
+#EXTINF:-1,MBC MASR LOW
+https://shls-masr-prod-dub.shahid.net/out/v1/b7093401da27496797a8949de23f4578/index_6.m3u8
+#EXTINF:-1,MBC 2 LOW
+https://shls-mbc2-prod-dub.shahid.net/out/v1/b4befe19798745fe986f5a9bfba62126/index_6.m3u8
+#EXTINF:-1,MBC 3 LOW
+https://shls-mbc3-prod-dub.shahid.net/out/v1/d5bbe570e1514d3d9a142657d33d85e6/index_6.m3u8
+#EXTINF:-1,MBC 4 LOW
+https://shls-mbc4-prod-dub.shahid.net/out/v1/c08681f81775496ab4afa2bac7ae7638/index_6.m3u8
+#EXTINF:-1,MBC 5 LOW
+https://shls-mbc5-prod-dub.shahid.net/out/v1/2720564b6a4641658fdfb6884b160da2/index_6.m3u8
+#EXTINF:-1,MBC ACTION LOW
+https://shls-mbcaction-prod-dub.shahid.net/out/v1/68dd761538e5460096c42422199d050b/index_6.m3u8
+#EXTINF:-1,MBC MAX LOW
+https://shls-mbcmax-prod-dub.shahid.net/out/v1/13815a7cda864c249a88c38e66a2e653/index_6.m3u8
+#EXTINF:-1,MBC DRAMA LOW
+https://shls-mbcdramaksa-prod-dub.shahid.net/out/v1/ce0f0762d89e4394a856c5fd13e43645/index_6.m3u8
+
+
+#EXTINF:-1, ROTANA LOW
+https://rotana.hibridcdn.net:443/rotana/khaleejiya_mabr/rotana/khaleejiya_360p.m3u8 
+#EXTINF:-1, ROTANA CINEMA LOW
+https://rotana.hibridcdn.net:443/rotana/cinema_mabr/rotana/cinema_360p/chunks.m3u8
+#EXTINF:-1, ROTANA MASR LOW
+https://rotana.hibridcdn.net:443/rotana/classical_mabr/rotana/classical_360p/chunks.m3u8
+#EXTINF:-1, ROTANA DRAMA LOW
+https://rotana.hibridcdn.net:443/rotana/drama_mabr/rotana/drama_360p/chunks.m3u8
+#EXTINF:-1, ROTANA KIDS LOW
+https://rotana.hibridcdn.net:443/rotana/kids_mabr/rotana/kids_360p/chunks.m3u8
+#EXTINF:-1, ROTANA RISALA LOW
+https://rotana.hibridcdn.net:443/rotana/risala_mabr/rotana/risala_360p/chunks.m3u8
+#EXTINF:-1, ROTANA DRAMA LOW
+https://rotana.hibridcdn.net:443/rotana/lbc_mabr/rotana/lbc_360p/chunks.m3u8
+
+#EXTGRP: WSS LOW 
+#EXTINF:-1,2g: Bein Sports 1
+#EXTVLCOPT:user-agent=WSS_User_Agent
+http://185.180.223.89:25461/imiktec@gmail.com/Abd9090/150|User-agent=WSS_User_Agent
+
+#EXTINF:-1,2g: Bein Sports 2
+http://185.180.223.89:25461/imiktec@gmail.com/Abd9090/149|User-agent=WSS_User_Agent
+
+#EXTINF:-1,2g: Bein Sports 3
+http://185.180.223.89:25461/imiktec@gmail.com/Abd9090/148|User
+-agent=WSS_User_Agent
+
+#EXTINF:-1,2g: Bein Sports 4
+http://185.180.223.89:25461/imiktec@gmail.com/Abd9090/147|User-agent=WSS_User_Agent
+
+#EXTINF:-1,2g: Bein Sports 5
+http://185.180.223.89:25461/imiktec@gmail.com/Abd9090/146|User-agent=WSS_User_Agent
+
+#EXTINF:-1,2g: Bein Sports 6
+http://185.180.223.89:25461/imiktec@gmail.com/Abd9090/145|User-agent=WSS_User_Agent
+
+#EXTINF:-1,2g: Bein Sports 7
+http://185.180.223.89:25461/imiktec@gmail.com/Abd9090/144|User-agent=WSS_User_Agent
+
+#EXTINF:-1,2g: Bein Sports 8
+http://185.180.223.89:25461/imiktec@gmail.com/Abd9090/143|User-agent=WSS_User_Agent
+
+#EXTINF:-1,2g: Bein Sports 9
+http://185.180.223.89:25461/imiktec@gmail.com/Abd9090/142|User-agent=WSS_User_Agent
+
+#EXTINF:-1,2g: Bein Sports 10
+http://185.180.223.89:25461/imiktec@gmail.com/Abd9090/141|User-agent=WSS_User_Agent
+
+#EXTINF:-1,2g: Bein Sports 11
+http://185.180.223.89:25461/imiktec@gmail.com/Abd9090/140|User-agent=WSS_User_Agent
+
+#EXTINF:-1,2g: Bein Sports 12
+http://185.180.223.89:25461/imiktec@gmail.com/Abd9090/139|User-agent=WSS_User_Agent
+
+
+#EXTGRP: WSS HD 
+#EXTINF:-1 tvg-id="" tvg-name="Bein Sports 12 HD" tvg-logo="" group-title="Free Sports Android App",Bein Sports 1 HD
+ http://185.180.223.89:25461/imiktec@gmail.com/Abd9090/40|User-agent=WSS_User_Agent
+#EXTINF:-1 tvg-id="" tvg-name="Bein Sports 11 HD" tvg-logo="" group-title="Free Sports Android App",Bein Sports 2 HD
+http://185.180.223.89:25461/imiktec@gmail.com/Abd9090/41|User-agent=WSS_User_Agent
+#EXTINF:-1 tvg-id="" tvg-name="Bein Sports 10 HD" tvg-logo="" group-title="Free Sports Android App",Bein Sports 3 HD
+ http://185.180.223.89:25461/imiktec@gmail.com/Abd9090/42|User-agent=WSS_User_Agent
+#EXTINF:-1 tvg-id="" tvg-name="Bein Sports 9 HD" tvg-logo="" group-title="Free Sports Android App",Bein Sports 4 HD
+ http://185.180.223.89:25461/imiktec@gmail.com/Abd9090/43|User-agent=WSS_User_Agent
+#EXTINF:-1 tvg-id="" tvg-name="Bein Sports 8 HD" tvg-logo="" group-title="Free Sports Android App",Bein Sports 5 HD
+ http://185.180.223.89:25461/imiktec@gmail.com/Abd9090/44|User-agent=WSS_User_Agent
+#EXTINF:-1 tvg-id="" tvg-name="Bein Sports 7 HD" tvg-logo="" group-title="Free Sports Android App",Bein Sports 6 HD
+ http://185.180.223.89:25461/imiktec@gmail.com/Abd9090/45|User-agent=WSS_User_Agent
+
+#EXTINF:-1 tvg-id="" tvg-name="Bein Sports 6 HD" tvg-logo="" group-title="Free Sports Android App",Bein Sports 7 HD
+http://185.180.223.89:25461/imiktec@gmail.com/Abd9090/46|User-agent=WSS_User_Agent
+#EXTINF:-1 tvg-id="" tvg-name="Bein Sports 5 HD" tvg-logo="" group-title="Free Sports Android App",Bein Sports 8 HD
+ http://185.180.223.89:25461/imiktec@gmail.com/Abd9090/47|User-agent=WSS_User_Agent
+#EXTINF:-1 tvg-id="" tvg-name="Bein Sports 4 HD" tvg-logo="" group-title="Free Sports Android App",Bein Sports 9 HD
+ http://185.180.223.89:25461/imiktec@gmail.com/Abd9090/48|User-agent=WSS_User_Agent
+#EXTINF:-1 tvg-id="" tvg-name="Bein Sports 3 HD" tvg-logo="" group-title="Free Sports Android App",Bein Sports 10 HD
+ http://185.180.223.89:25461/imiktec@gmail.com/Abd9090/49|User-agent=WSS_User_Agent
+#EXTINF:-1 tvg-id="" tvg-name="Bein Sports 2 HD" tvg-logo="" group-title="Free Sports Android App",Bein Sports 11 HD
+ http://185.180.223.89:25461/imiktec@gmail.com/Abd9090/50|User-agent=WSS_User_Agent
+#EXTINF:-1 tvg-id="" tvg-name="Bein Sports 1 HD" tvg-logo="" group-title="Free Sports Android App",Bein Sports 12 HD
+ http://185.180.223.89:25461/imiktec@gmail.com/Abd9090/51|User-agent=WSS_User_Agent
+
+#EXTM3U
+#EXTINF:-1 tvg-id="" tvg-name="PPV 1 HD" tvg-logo="" group-title="Free Sports Android App",PPV 1 HD
+ http://185.180.223.89:25461/imiktec@gmail.com/Abd9090/90|User-agent=WSS_User_Agent
+#EXTINF:-1 tvg-id="" tvg-name="PPV 10 HD" tvg-logo="" group-title="Free Sports Android App",PPV 10 HD
+ http://185.180.223.89:25461/imiktec@gmail.com/Abd9090/89|User-agent=WSS_User_Agent
+#EXTINF:-1 tvg-id="" tvg-name="PPV 11 HD" tvg-logo="" group-title="Free Sports Android App",PPV 11 HD
+ http://185.180.223.89:25461/imiktec@gmail.com/Abd9090/88|User-agent=WSS_User_Agent
+#EXTINF:-1 tvg-id="" tvg-name="PPV 12 HD" tvg-logo="" group-title="Free Sports Android App",PPV 12 HD
+ http://185.180.223.89:25461/imiktec@gmail.com/Abd9090/87|User-agent=WSS_User_Agent
+#EXTINF:-1 tvg-id="" tvg-name="PPV 13 HD" tvg-logo="" group-title="Free Sports Android App",PPV 13 HD
+ http://185.180.223.89:25461/imiktec@gmail.com/Abd9090/86|User-agent=WSS_User_Agent
+#EXTINF:-1 tvg-id="" tvg-name="PPV 14 HD" tvg-logo="" group-title="Free Sports Android App",PPV 14 HD
+ http://185.180.223.89:25461/imiktec@gmail.com/Abd9090/85|User-agent=WSS_User_Agent
+#EXTINF:-1 tvg-id="" tvg-name="PPV 2 HD" tvg-logo="" group-title="Free Sports Android App",PPV 2 HD
+ http://185.180.223.89:25461/imiktec@gmail.com/Abd9090/84|User-agent=WSS_User_Agent
+#EXTINF:-1 tvg-id="" tvg-name="PPV 3 HD" tvg-logo="" group-title="Free Sports Android App",PPV 3 HD
+ http://185.180.223.89:25461/imiktec@gmail.com/Abd9090/83|User-agent=WSS_User_Agent
+#EXTINF:-1 tvg-id="" tvg-name="PPV 4 HD" tvg-logo="" group-title="Free Sports Android App",PPV 4 HD
+ http://185.180.223.89:25461/imiktec@gmail.com/Abd9090/82|User-agent=WSS_User_Agent
+#EXTINF:-1 tvg-id="" tvg-name="PPV 5 HD" tvg-logo="" group-title="Free Sports Android App",PPV 5 HD
+ http://185.180.223.89:25461/imiktec@gmail.com/Abd9090/81|User-agent=WSS_User_Agent
+#EXTINF:-1 tvg-id="" tvg-name="PPV 6 HD" tvg-logo="" group-title="Free Sports Android App",PPV 6 HD
+ http://185.180.223.89:25461/imiktec@gmail.com/Abd9090/80|User-agent=WSS_User_Agent
+#EXTINF:-1 tvg-id="" tvg-name="PPV 7 HD" tvg-logo="" group-title="Free Sports Android App",PPV 7 HD
+ http://185.180.223.89:25461/imiktec@gmail.com/Abd9090/79|User-agent=WSS_User_Agent
+#EXTINF:-1 tvg-id="" tvg-name="PPV 8 HD" tvg-logo="" group-title="Free Sports Android App",PPV 8 HD
+ http://185.180.223.89:25461/imiktec@gmail.com/Abd9090/78|User-agent=WSS_User_Agent
+#EXTINF:-1 tvg-id="" tvg-name="PPV 9 HD" tvg-logo="" group-title="Free Sports Android App",PPV 9 HD
+ http://185.180.223.89:25461/imiktec@gmail.com/Abd9090/77|User-agent=WSS_User_Agent
+#EXTINF:-1 tvg-id="" tvg-name="SkySports Football HQ" tvg-logo="" group-title="Free Sports Android App",SkySports Football HQ
+ http://185.180.223.89:25461/imiktec@gmail.com/Abd9090/76|User-agent=WSS_User_Agent
+#EXTINF:-1 tvg-id="" tvg-name="SkySports Arena HQ" tvg-logo="" group-title="Free Sports Android App",SkySports Arena HQ
+ http://185.180.223.89:25461/imiktec@gmail.com/Abd9090/75|User-agent=WSS_User_Agent
+#EXTINF:-1 tvg-id="" tvg-name="Bt Sports 3 HQ" tvg-logo="" group-title="Free Sports Android App",Bt Sports 3 HQ
+ http://185.180.223.89:25461/imiktec@gmail.com/Abd9090/74|User-agent=WSS_User_Agent
+#EXTINF:-1 tvg-id="" tvg-name="Bt Sports 3" tvg-logo="" group-title="Free Sports Android App",Bt Sports 3
+ http://185.180.223.89:25461/imiktec@gmail.com/Abd9090/73|User-agent=WSS_User_Agent
+#EXTINF:-1 tvg-id="" tvg-name="Bt Sports 1 HQ" tvg-logo="" group-title="Free Sports Android App",Bt Sports 1 HQ
+ http://185.180.223.89:25461/imiktec@gmail.com/Abd9090/72|User-agent=WSS_User_Agent
+#EXTINF:-1 tvg-id="" tvg-name="Bt Sports 2 HQ" tvg-logo="" group-title="Free Sports Android App",Bt Sports 2 HQ
+ http://185.180.223.89:25461/imiktec@gmail.com/Abd9090/71|User-agent=WSS_User_Agent
+#EXTINF:-1 tvg-id="" tvg-name="SkySports Main Event HQ" tvg-logo="" group-title="Free Sports Android App",SkySports Main Event HQ
+ http://185.180.223.89:25461/imiktec@gmail.com/Abd9090/70|User-agent=WSS_User_Agent
+#EXTINF:-1 tvg-id="" tvg-name="SkySports Cricket HQ" tvg-logo="" group-title="Free Sports Android App",SkySports Cricket HQ
+ http://185.180.223.89:25461/imiktec@gmail.com/Abd9090/69|User-agent=WSS_User_Agent
+#EXTINF:-1 tvg-id="" tvg-name="SkySports Action HQ" tvg-logo="" group-title="Free Sports Android App",SkySports Action HQ
+ http://185.180.223.89:25461/imiktec@gmail.com/Abd9090/68|User-agent=WSS_User_Agent
+#EXTINF:-1 tvg-id="" tvg-name="SkySports Golf HQ" tvg-logo="" group-title="Free Sports Android App",SkySports Golf HQ
+ http://185.180.223.89:25461/imiktec@gmail.com/Abd9090/67|User-agent=WSS_User_Agent
+#EXTINF:-1 tvg-id="" tvg-name="SkySports Premier League HQ" tvg-logo="" group-title="Free Sports Android App",SkySports Premier League HQ
+ http://185.180.223.89:25461/imiktec@gmail.com/Abd9090/66|User-agent=WSS_User_Agent
+#EXTINF:-1 tvg-id="" tvg-name="SkySports F1 HQ" tvg-logo="" group-title="Free Sports Android App",SkySports F1 HQ
+ http://185.180.223.89:25461/imiktec@gmail.com/Abd9090/65|User-agent=WSS_User_Agent
+#EXTINF:-1 tvg-id="" tvg-name="SkySports News HQ" tvg-logo="" group-title="Free Sports Android App",SkySports News HQ
+ http://185.180.223.89:25461/imiktec@gmail.com/Abd9090/64|User-agent=WSS_User_Agent
+#EXTINF:-1 tvg-id="" tvg-name="Geo Super" tvg-logo="" group-title="Free Sports Android App",Geo Super
+ http://185.180.223.89:25461/imiktec@gmail.com/Abd9090/63|User-agent=WSS_User_Agent
+#EXTINF:-1 tvg-id="" tvg-name="SkySports Football" tvg-logo="" group-title="Free Sports Android App",SkySports Football
+ http://185.180.223.89:25461/imiktec@gmail.com/Abd9090/62|User-agent=WSS_User_Agent
+#EXTINF:-1 tvg-id="" tvg-name="SkySports Arena" tvg-logo="" group-title="Free Sports Android App",SkySports Arena
+ http://185.180.223.89:25461/imiktec@gmail.com/Abd9090/61|User-agent=WSS_User_Agent
+#EXTINF:-1 tvg-id="" tvg-name="Bein Sports 3 FR" tvg-logo="" group-title="Free Sports Android App",Bein Sports 3 FR
+ http://185.180.223.89:25461/imiktec@gmail.com/Abd9090/60|User-agent=WSS_User_Agent
+#EXTINF:-1 tvg-id="" tvg-name="Bein Sports 2 FR" tvg-logo="" group-title="Free Sports Android App",Bein Sports 2 FR
+ http://185.180.223.89:25461/imiktec@gmail.com/Abd9090/59|User-agent=WSS_User_Agent
+#EXTINF:-1 tvg-id="" tvg-name="Bein Sports 1 FR" tvg-logo="" group-title="Free Sports Android App",Bein Sports 1 FR
+ http://185.180.223.89:25461/imiktec@gmail.com/Abd9090/58|User-agent=WSS_User_Agent
+#EXTINF:-1 tvg-id="" tvg-name="At The Races" tvg-logo="" group-title="Free Sports Android App",At The Races
+ http://185.180.223.89:25461/imiktec@gmail.com/Abd9090/57|User-agent=WSS_User_Agent
+#EXTINF:-1 tvg-id="" tvg-name="WWE Network HD" tvg-logo="" group-title="Free Sports Android App",WWE Network HD
+ http://185.180.223.89:25461/imiktec@gmail.com/Abd9090/56|User-agent=WSS_User_Agent
+#EXTINF:-1 tvg-id="" tvg-name="Arena Sports 4 HD Croatian" tvg-logo="" group-title="Free Sports Android App",Arena Sports 4 HD Croatian
+ http://185.180.223.89:25461/imiktec@gmail.com/Abd9090/55|User-agent=WSS_User_Agent
+#EXTINF:-1 tvg-id="" tvg-name="Arena Sports 3 HD Croatian" tvg-logo="" group-title="Free Sports Android App",Arena Sports 3 HD Croatian
+ http://185.180.223.89:25461/imiktec@gmail.com/Abd9090/54|User-agent=WSS_User_Agent
+#EXTINF:-1 tvg-id="" tvg-name="Arena Sports 2 HD Croatian" tvg-logo="" group-title="Free Sports Android App",Arena Sports 2 HD Croatian
+ http://185.180.223.89:25461/imiktec@gmail.com/Abd9090/53|User-agent=WSS_User_Agent
+#EXTINF:-1 tvg-id="" tvg-name="Arena Sports 1 HD Croatian" tvg-logo="" group-title="Free Sports Android App",Arena Sports 1 HD Croatian
+ http://185.180.223.89:25461/imiktec@gmail.com/Abd9090/52|User-agent=WSS_User_Agent
+#EXTINF:-1 tvg-id="" tvg-name="Gtv" tvg-logo="" group-title="Free Sports Android App",Gtv
+ http://185.180.223.89:25461/imiktec@gmail.com/Abd9090/39|User-agent=WSS_User_Agent
+#EXTINF:-1 tvg-id="" tvg-name="PTV Sports" tvg-logo="" group-title="Free Sports Android App",PTV Sports
+ http://185.180.223.89:25461/imiktec@gmail.com/Abd9090/38|User-agent=WSS_User_Agent
+#EXTINF:-1 tvg-id="" tvg-name="Eir Sport 1" tvg-logo="" group-title="Free Sports Android App",Eir Sport 1
+ http://185.180.223.89:25461/imiktec@gmail.com/Abd9090/37|User-agent=WSS_User_Agent
+#EXTINF:-1 tvg-id="" tvg-name="Sport Tv 3 HD" tvg-logo="" group-title="Free Sports Android App",Sport Tv 3 HD
+ http://185.180.223.89:25461/imiktec@gmail.com/Abd9090/36|User-agent=WSS_User_Agent
+#EXTINF:-1 tvg-id="" tvg-name="Sport Tv 2 HD" tvg-logo="" group-title="Free Sports Android App",Sport Tv 2 HD
+ http://185.180.223.89:25461/imiktec@gmail.com/Abd9090/35|User-agent=WSS_User_Agent
+#EXTINF:-1 tvg-id="" tvg-name="Sport Tv 1 HD" tvg-logo="" group-title="Free Sports Android App",Sport Tv 1 HD
+ http://185.180.223.89:25461/imiktec@gmail.com/Abd9090/34|User-agent=WSS_User_Agent
+#EXTINF:-1 tvg-id="" tvg-name="Sky Sport F1 Italy" tvg-logo="" group-title="Free Sports Android App",Sky Sport F1 Italy
+ http://185.180.223.89:25461/imiktec@gmail.com/Abd9090/33|User-agent=WSS_User_Agent
+#EXTINF:-1 tvg-id="" tvg-name="Sky Sport Calcio Italy" tvg-logo="" group-title="Free Sports Android App",Sky Sport Calcio Italy
+ http://185.180.223.89:25461/imiktec@gmail.com/Abd9090/32|User-agent=WSS_User_Agent
+#EXTINF:-1 tvg-id="" tvg-name="Sky Sport 3 Italy" tvg-logo="" group-title="Free Sports Android App",Sky Sport 3 Italy
+ http://185.180.223.89:25461/imiktec@gmail.com/Abd9090/31|User-agent=WSS_User_Agent
+#EXTINF:-1 tvg-id="" tvg-name="Sky Sport 2 Italy" tvg-logo="" group-title="Free Sports Android App",Sky Sport 2 Italy
+ http://185.180.223.89:25461/imiktec@gmail.com/Abd9090/30|User-agent=WSS_User_Agent
+#EXTINF:-1 tvg-id="" tvg-name="Sky Sport 1 Italy" tvg-logo="" group-title="Free Sports Android App",Sky Sport 1 Italy
+ http://185.180.223.89:25461/imiktec@gmail.com/Abd9090/29|User-agent=WSS_User_Agent
+#EXTINF:-1 tvg-id="" tvg-name="Sport Klub 3 HD" tvg-logo="" group-title="Free Sports Android App",Sport Klub 3 HD
+ http://185.180.223.89:25461/imiktec@gmail.com/Abd9090/28|User-agent=WSS_User_Agent
+#EXTINF:-1 tvg-id="" tvg-name="Sport Klub 2 HD" tvg-logo="" group-title="Free Sports Android App",Sport Klub 2 HD
+ http://185.180.223.89:25461/imiktec@gmail.com/Abd9090/27|User-agent=WSS_User_Agent
+#EXTINF:-1 tvg-id="" tvg-name="Sport Klub 1 HD" tvg-logo="" group-title="Free Sports Android App",Sport Klub 1 HD
+ http://185.180.223.89:25461/imiktec@gmail.com/Abd9090/26|User-agent=WSS_User_Agent
+#EXTINF:-1 tvg-id="" tvg-name="Fox Sports 5 HD NL" tvg-logo="" group-title="Free Sports Android App",Fox Sports 5 HD NL
+ http://185.180.223.89:25461/imiktec@gmail.com/Abd9090/25|User-agent=WSS_User_Agent
+#EXTINF:-1 tvg-id="" tvg-name="Fox Sports 4 HD NL" tvg-logo="" group-title="Free Sports Android App",Fox Sports 4 HD NL
+ http://185.180.223.89:25461/imiktec@gmail.com/Abd9090/24|User-agent=WSS_User_Agent
+#EXTINF:-1 tvg-id="" tvg-name="Fox Sports 3 HD NL" tvg-logo="" group-title="Free Sports Android App",Fox Sports 3 HD NL
+ http://185.180.223.89:25461/imiktec@gmail.com/Abd9090/23|User-agent=WSS_User_Agent
+#EXTINF:-1 tvg-id="" tvg-name="Fox Sports 2 HD NL" tvg-logo="" group-title="Free Sports Android App",Fox Sports 2 HD NL
+ http://185.180.223.89:25461/imiktec@gmail.com/Abd9090/22|User-agent=WSS_User_Agent
+#EXTINF:-1 tvg-id="" tvg-name="Fox Sports 1 HD NL" tvg-logo="" group-title="Free Sports Android App",Fox Sports 1 HD NL
+ http://185.180.223.89:25461/imiktec@gmail.com/Abd9090/21|User-agent=WSS_User_Agent
+#EXTINF:-1 tvg-id="" tvg-name="NBC Sports" tvg-logo="" group-title="Free Sports Android App",NBC Sports
+ http://185.180.223.89:25461/imiktec@gmail.com/Abd9090/20|User-agent=WSS_User_Agent
+#EXTINF:-1 tvg-id="" tvg-name="Chelsea TV" tvg-logo="" group-title="Free Sports Android App",Chelsea TV
+ http://185.180.223.89:25461/imiktec@gmail.com/Abd9090/19|User-agent=WSS_User_Agent
+#EXTINF:-1 tvg-id="" tvg-name="Liverpool TV" tvg-logo="" group-title="Free Sports Android App",Liverpool TV
+ http://185.180.223.89:25461/imiktec@gmail.com/Abd9090/18|User-agent=WSS_User_Agent
+#EXTINF:-1 tvg-id="" tvg-name="MUTV" tvg-logo="" group-title="Free Sports Android App",MUTV
+ http://185.180.223.89:25461/imiktec@gmail.com/Abd9090/17|User-agent=WSS_User_Agent
+#EXTINF:-1 tvg-id="" tvg-name="Motors TV UK" tvg-logo="" group-title="Free Sports Android App",Motors TV UK
+ http://185.180.223.89:25461/imiktec@gmail.com/Abd9090/16|User-agent=WSS_User_Agent
+#EXTINF:-1 tvg-id="" tvg-name="Eurosport 2" tvg-logo="" group-title="Free Sports Android App",Eurosport 2
+ http://185.180.223.89:25461/imiktec@gmail.com/Abd9090/15|User-agent=WSS_User_Agent
+#EXTINF:-1 tvg-id="" tvg-name="Eurosport 1" tvg-logo="" group-title="Free Sports Android App",Eurosport 1
+ http://185.180.223.89:25461/imiktec@gmail.com/Abd9090/14|User-agent=WSS_User_Agent
+#EXTINF:-1 tvg-id="" tvg-name="BoxNation" tvg-logo="" group-title="Free Sports Android App",BoxNation
+ http://185.180.223.89:25461/imiktec@gmail.com/Abd9090/13|User-agent=WSS_User_Agent
+#EXTINF:-1 tvg-id="" tvg-name="Racing UK" tvg-logo="" group-title="Free Sports Android App",Racing UK
+ http://185.180.223.89:25461/imiktec@gmail.com/Abd9090/12|User-agent=WSS_User_Agent
+#EXTINF:-1 tvg-id="" tvg-name="Premier Sports" tvg-logo="" group-title="Free Sports Android App",Premier Sports
+ http://185.180.223.89:25461/imiktec@gmail.com/Abd9090/11|User-agent=WSS_User_Agent
+#EXTINF:-1 tvg-id="" tvg-name="Bt Sports ESPN UK" tvg-logo="" group-title="Free Sports Android App",Bt Sports ESPN UK
+ http://185.180.223.89:25461/imiktec@gmail.com/Abd9090/10|User-agent=WSS_User_Agent
+#EXTINF:-1 tvg-id="" tvg-name="SkySports News" tvg-logo="" group-title="Free Sports Android App",SkySports News
+ http://185.180.223.89:25461/imiktec@gmail.com/Abd9090/9|User-agent=WSS_User_Agent
+#EXTINF:-1 tvg-id="" tvg-name="SkySports F1" tvg-logo="" group-title="Free Sports Android App",SkySports F1
+ http://185.180.223.89:25461/imiktec@gmail.com/Abd9090/8|User-agent=WSS_User_Agent
+#EXTINF:-1 tvg-id="" tvg-name="SkySports Premier League" tvg-logo="" group-title="Free Sports Android App",SkySports Premier League
+ http://185.180.223.89:25461/imiktec@gmail.com/Abd9090/7|User-agent=WSS_User_Agent
+#EXTINF:-1 tvg-id="" tvg-name="SkySports Golf" tvg-logo="" group-title="Free Sports Android App",SkySports Golf
+ http://185.180.223.89:25461/imiktec@gmail.com/Abd9090/6|User-agent=WSS_User_Agent
+#EXTINF:-1 tvg-id="" tvg-name="SkySports Action" tvg-logo="" group-title="Free Sports Android App",SkySports Action
+ http://185.180.223.89:25461/imiktec@gmail.com/Abd9090/5|User-agent=WSS_User_Agent
+#EXTINF:-1 tvg-id="" tvg-name="SkySports Cricket" tvg-logo="" group-title="Free Sports Android App",SkySports Cricket
+ http://185.180.223.89:25461/imiktec@gmail.com/Abd9090/4|User-agent=WSS_User_Agent
+#EXTINF:-1 tvg-id="" tvg-name="SkySports Main Event" tvg-logo="" group-title="Free Sports Android App",SkySports Main Event
+ http://185.180.223.89:25461/imiktec@gmail.com/Abd9090/3|User-agent=WSS_User_Agent
+#EXTINF:-1 tvg-id="" tvg-name="Bt Sports 2" tvg-logo="" group-title="Free Sports Android App",Bt Sports 2
+ http://185.180.223.89:25461/imiktec@gmail.com/Abd9090/2|User-agent=WSS_User_Agent
+#EXTINF:-1 tvg-id="" tvg-name="Bt Sports 1" tvg-logo="" group-title="Free Sports Android App",Bt Sports 1
+ http://185.180.223.89:25461/imiktec@gmail.com/Abd9090/1|User-agent=WSS_User_Agent
+#EXTINF:-1 tvg-id="" tvg-name="USMAAN: SKY SPORTS CRICKET HD" tvg-logo="" group-title="Free Sports Android App",USMAAN: SKY SPORTS CRICKET HD
+ http://185.180.223.89:25461/imiktec@gmail.com/Abd9090/95|User-agent=WSS_User_Agent
+#EXTINF:-1 tvg-id="" tvg-name="USMAAN: SKY SPORTS ACTION HD" tvg-logo="" group-title="Free Sports Android App",USMAAN: SKY SPORTS ACTION HD
+ http://185.180.223.89:25461/imiktec@gmail.com/Abd9090/94|User-agent=WSS_User_Agent
+#EXTINF:-1 tvg-id="" tvg-name="USMAAN: SKY SPORTS F1 HD" tvg-logo="" group-title="Free Sports Android App",USMAAN: SKY SPORTS F1 HD
+ http://185.180.223.89:25461/imiktec@gmail.com/Abd9090/96|User-agent=WSS_User_Agent
+#EXTINF:-1 tvg-id="" tvg-name="USMAAN: SKY SPORTS FOOTBALL HD" tvg-logo="" group-title="Free Sports Android App",USMAAN: SKY SPORTS FOOTBALL HD
+ http://185.180.223.89:25461/imiktec@gmail.com/Abd9090/97|User-agent=WSS_User_Agent
+#EXTINF:-1 tvg-id="" tvg-name="USMAAN: SKY SPORTS GOLF HD" tvg-logo="" group-title="Free Sports Android App",USMAAN: SKY SPORTS GOLF HD
+ http://185.180.223.89:25461/imiktec@gmail.com/Abd9090/98|User-agent=WSS_User_Agent
+#EXTINF:-1 tvg-id="" tvg-name="USMAAN: SKY SPORTS MAIN EVENT HD" tvg-logo="" group-title="Free Sports Android App",USMAAN: SKY SPORTS MAIN EVENT HD
+ http://185.180.223.89:25461/imiktec@gmail.com/Abd9090/99|User-agent=WSS_User_Agent
+#EXTINF:-1 tvg-id="" tvg-name="USMAAN: SKY SPORTS MIX HD" tvg-logo="" group-title="Free Sports Android App",USMAAN: SKY SPORTS MIX HD
+ http://185.180.223.89:25461/imiktec@gmail.com/Abd9090/100|User-agent=WSS_User_Agent
+#EXTINF:-1 tvg-id="" tvg-name="USMAAN: SKY SPORTS NEWS HD" tvg-logo="" group-title="Free Sports Android App",USMAAN: SKY SPORTS NEWS HD
+ http://185.180.223.89:25461/imiktec@gmail.com/Abd9090/101|User-agent=WSS_User_Agent
+#EXTINF:-1 tvg-id="" tvg-name="USMAAN: BT SPORTS 1" tvg-logo="" group-title="Free Sports Android App",USMAAN: BT SPORTS 1
+ http://185.180.223.89:25461/imiktec@gmail.com/Abd9090/102|User-agent=WSS_User_Agent
+#EXTINF:-1 tvg-id="" tvg-name="USMAAN: BT SPORTS 2" tvg-logo="" group-title="Free Sports Android App",USMAAN: BT SPORTS 2
+ http://185.180.223.89:25461/imiktec@gmail.com/Abd9090/103|User-agent=WSS_User_Agent
+#EXTINF:-1 tvg-id="" tvg-name="USMAAN: BT SPORTS 3" tvg-logo="" group-title="Free Sports Android App",USMAAN: BT SPORTS 3
+ http://185.180.223.89:25461/imiktec@gmail.com/Abd9090/104|User-agent=WSS_User_Agent
+#EXTINF:-1 tvg-id="" tvg-name="USMAAN: BT SPORTS ESPN HD" tvg-logo="" group-title="Free Sports Android App",USMAAN: BT SPORTS ESPN HD
+ http://185.180.223.89:25461/imiktec@gmail.com/Abd9090/105|User-agent=WSS_User_Agent
+#EXTINF:-1 tvg-id="" tvg-name="Sony Six" tvg-logo="" group-title="Free Sports Android App",Sony Six
+ http://185.180.223.89:25461/imiktec@gmail.com/Abd9090/117|User-agent=WSS_User_Agent
+#EXTINF:-1 tvg-id="" tvg-name="Sony ESPN" tvg-logo="" group-title="Free Sports Android App",Sony ESPN
+ http://185.180.223.89:25461/imiktec@gmail.com/Abd9090/118|User-agent=WSS_User_Agent
+#EXTINF:-1 tvg-id="" tvg-name="Ten 1" tvg-logo="" group-title="Free Sports Android App",Ten 1
+ http://185.180.223.89:25461/imiktec@gmail.com/Abd9090/119|User-agent=WSS_User_Agent
+#EXTINF:-1 tvg-id="" tvg-name="Ten 2" tvg-logo="" group-title="Free Sports Android App",Ten 2
+ http://185.180.223.89:25461/imiktec@gmail.com/Abd9090/120|User-agent=WSS_User_Agent
+#EXTINF:-1 tvg-id="" tvg-name="Ten 3" tvg-logo="" group-title="Free Sports Android App",Ten 3
+ http://185.180.223.89:25461/imiktec@gmail.com/Abd9090/121|User-agent=WSS_User_Agent
+#EXTINF:-1 tvg-id="" tvg-name="UK: Sky Cinema Select" tvg-logo="" group-title="Free Sports Android App",UK: Sky Cinema Select
+ http://185.180.223.89:25461/imiktec@gmail.com/Abd9090/122|User-agent=WSS_User_Agent
+#EXTINF:-1 tvg-id="" tvg-name="UK: Sky Cinema Family" tvg-logo="" group-title="Free Sports Android App",UK: Sky Cinema Family
+ http://185.180.223.89:25461/imiktec@gmail.com/Abd9090/123|User-agent=WSS_User_Agent
+#EXTINF:-1 tvg-id="" tvg-name="UK: Sky Cinema Comedy" tvg-logo="" group-title="Free Sports Android App",UK: Sky Cinema Comedy
+ http://185.180.223.89:25461/imiktec@gmail.com/Abd9090/124|User-agent=WSS_User_Agent
+#EXTINF:-1 tvg-id="" tvg-name="UK: Sky Cinema Greats" tvg-logo="" group-title="Free Sports Android App",UK: Sky Cinema Greats
+ http://185.180.223.89:25461/imiktec@gmail.com/Abd9090/125|User-agent=WSS_User_Agent
+#EXTINF:-1 tvg-id="" tvg-name="UK: Sky Cinema Action & Adventure" tvg-logo="" group-title="Free Sports Android App",UK: Sky Cinema Action & Adventure
+ http://185.180.223.89:25461/imiktec@gmail.com/Abd9090/126|User-agent=WSS_User_Agent
+#EXTINF:-1 tvg-id="" tvg-name="UK: Sky Cinema Premiere" tvg-logo="" group-title="Free Sports Android App",UK: Sky Cinema Premiere
+ http://185.180.223.89:25461/imiktec@gmail.com/Abd9090/127|User-agent=WSS_User_Agent
+#EXTINF:-1 tvg-id="" tvg-name="UK: Sky Cinema Sci-Fi & Horror" tvg-logo="" group-title="Free Sports Android App",UK: Sky Cinema Sci-Fi & Horror
+ http://185.180.223.89:25461/imiktec@gmail.com/Abd9090/128|User-agent=WSS_User_Agent
+#EXTINF:-1 tvg-id="" tvg-name="UK: Sky Cinema Crime & Thriller" tvg-logo="" group-title="Free Sports Android App",UK: Sky Cinema Crime & Thriller
+ http://185.180.223.89:25461/imiktec@gmail.com/Abd9090/129|User-agent=WSS_User_Agent
+#EXTINF:-1 tvg-id="" tvg-name="UK: Sky Cinema Drama & Romance" tvg-logo="" group-title="Free Sports Android App",UK: Sky Cinema Drama & Romance
+ http://185.180.223.89:25461/imiktec@gmail.com/Abd9090/130|User-agent=WSS_User_Agent
+#EXTINF:-1 tvg-id="" tvg-name="UK: ITV 1" tvg-logo="" group-title="Free Sports Android App",UK: ITV 1
+ http://185.180.223.89:25461/imiktec@gmail.com/Abd9090/131|User-agent=WSS_User_Agent
+#EXTINF:-1 tvg-id="" tvg-name="UK: ITV 2" tvg-logo="" group-title="Free Sports Android App",UK: ITV 2
+ http://185.180.223.89:25461/imiktec@gmail.com/Abd9090/132|User-agent=WSS_User_Agent
+#EXTINF:-1 tvg-id="" tvg-name="UK: ITV 3" tvg-logo="" group-title="Free Sports Android App",UK: ITV 3
+ http://185.180.223.89:25461/imiktec@gmail.com/Abd9090/133|User-agent=WSS_User_Agent
+#EXTINF:-1 tvg-id="" tvg-name="UK: ITV 4" tvg-logo="" group-title="Free Sports Android App",UK: ITV 4
+ http://185.180.223.89:25461/imiktec@gmail.com/Abd9090/134|User-agent=WSS_User_Agent
+#EXTINF:-1 tvg-id="" tvg-name="UK: BBC 1" tvg-logo="" group-title="Free Sports Android App",UK: BBC 1
+ http://185.180.223.89:25461/imiktec@gmail.com/Abd9090/135|User-agent=WSS_User_Agent
+#EXTINF:-1 tvg-id="" tvg-name="UK: BBC 2" tvg-logo="" group-title="Free Sports Android App",UK: BBC 2
+ http://185.180.223.89:25461/imiktec@gmail.com/Abd9090/136|User-agent=WSS_User_Agent
+#EXTINF:-1 tvg-id="" tvg-name="UK: BBC 3 / CBBC" tvg-logo="" group-title="Free Sports Android App",UK: BBC 3 / CBBC
+ http://185.180.223.89:25461/imiktec@gmail.com/Abd9090/137|User-agent=WSS_User_Agent
+#EXTINF:-1 tvg-id="" tvg-name="UK: BBC 4 / Cbeebies" tvg-logo="" group-title="Free Sports Android App",UK: BBC 4 / Cbeebies
+ http://185.180.223.89:25461/imiktec@gmail.com/Abd9090/138|User-agent=WSS_User_Agent
+
+#EXTINF:-1 tvg-id="" tvg-name="Eir Sports 2" tvg-logo="" group-title="Free Sports Android App",Eir Sports 2
+ http://185.180.223.89:25461/imiktec@gmail.com/Abd9090/156|User-agent=WSS_User_Agent
+#EXTINF:-1 tvg-id="" tvg-name="USMAAN: SONY ESPN HD" tvg-logo="" group-title="Free Sports Android App",USMAAN: SONY ESPN HD
+ http://185.180.223.89:25461/imiktec@gmail.com/Abd9090/157|User-agent=WSS_User_Agent
+#EXTINF:-1 tvg-id="" tvg-name="USMAAN: SONY SIX HD" tvg-logo="" group-title="Free Sports Android App",USMAAN: SONY SIX HD
+ http://185.180.223.89:25461/imiktec@gmail.com/Abd9090/158|User-agent=WSS_User_Agent
+#EXTINF:-1 tvg-id="" tvg-name="USMAAN: SONY TEN 1 HD" tvg-logo="" group-title="Free Sports Android App",USMAAN: SONY TEN 1 HD
+ http://185.180.223.89:25461/imiktec@gmail.com/Abd9090/159|User-agent=WSS_User_Agent
+#EXTINF:-1 tvg-id="" tvg-name="USMAAN: SONY TEN 2 HD" tvg-logo="" group-title="Free Sports Android App",USMAAN: SONY TEN 2 HD
+ http://185.180.223.89:25461/imiktec@gmail.com/Abd9090/160|User-agent=WSS_User_Agent
+#EXTINF:-1 tvg-id="" tvg-name="USMAAN: SONY TEN 3 HD" tvg-logo="" group-title="Free Sports Android App",USMAAN: SONY TEN 3 HD
+ http://185.180.223.89:25461/imiktec@gmail.com/Abd9090/161|User-agent=WSS_User_Agent
+#EXTINF:-1 tvg-id="" tvg-name="USMAAN: FREE SPORTS" tvg-logo="" group-title="Free Sports Android App",USMAAN: FREE SPORTS
+ http://185.180.223.89:25461/imiktec@gmail.com/Abd9090/162|User-agent=WSS_User_Agent
+#EXTINF:-1 tvg-id="" tvg-name="USMAAN: LFC TV" tvg-logo="" group-title="Free Sports Android App",USMAAN: LFC TV
+ http://185.180.223.89:25461/imiktec@gmail.com/Abd9090/163|User-agent=WSS_User_Agent
+#EXTINF:-1 tvg-id="" tvg-name="USMAAN: MOTORSPORT TV HD" tvg-logo="" group-title="Free Sports Android App",USMAAN: MOTORSPORT TV HD
+ http://185.180.223.89:25461/imiktec@gmail.com/Abd9090/164|User-agent=WSS_User_Agent
+#EXTINF:-1 tvg-id="" tvg-name="USMAAN: CHANNEL 9" tvg-logo="" group-title="Free Sports Android App",USMAAN: CHANNEL 9
+ http://185.180.223.89:25461/imiktec@gmail.com/Abd9090/165|User-agent=WSS_User_Agent
+#EXTINF:-1 tvg-id="" tvg-name="TEN Sports PK" tvg-logo="" group-title="Free Sports Android App",TEN Sports PK
+ http://185.180.223.89:25461/imiktec@gmail.com/Abd9090/166|User-agent=WSS_User_Agent
+#EXTINF:-1 tvg-id="" tvg-name="Sky Atlantic" tvg-logo="" group-title="Free Sports Android App",Sky Atlantic
+ http://185.180.223.89:25461/imiktec@gmail.com/Abd9090/167|User-agent=WSS_User_Agent
+#EXTINF:-1 tvg-id="" tvg-name="Bein Sports 1 HD Turkey" tvg-logo="" group-title="Free Sports Android App",Bein Sports 1 HD Turkey
+ http://185.180.223.89:25461/imiktec@gmail.com/Abd9090/181|User-agent=WSS_User_Agent
+#EXTINF:-1 tvg-id="" tvg-name="Bein Sports 2 HD Turkey" tvg-logo="" group-title="Free Sports Android App",Bein Sports 2 HD Turkey
+ http://185.180.223.89:25461/imiktec@gmail.com/Abd9090/182|User-agent=WSS_User_Agent
+#EXTINF:-1 tvg-id="" tvg-name="Bein Sports 3 HD Turkey" tvg-logo="" group-title="Free Sports Android App",Bein Sports 3 HD Turkey
+ http://185.180.223.89:25461/imiktec@gmail.com/Abd9090/183|User-agent=WSS_User_Agent
+#EXTINF:-1 tvg-id="" tvg-name="EPL 1 HD" tvg-logo="" group-title="Free Sports Android App",EPL 1 HD
+ http://185.180.223.89:25461/imiktec@gmail.com/Abd9090/184|User-agent=WSS_User_Agent
+#EXTINF:-1 tvg-id="" tvg-name="EPL 2 HD" tvg-logo="" group-title="Free Sports Android App",EPL 2 HD
+ http://185.180.223.89:25461/imiktec@gmail.com/Abd9090/185|User-agent=WSS_User_Agent
+#EXTINF:-1 tvg-id="" tvg-name="EPL 3 HD" tvg-logo="" group-title="Free Sports Android App",EPL 3 HD
+ http://185.180.223.89:25461/imiktec@gmail.com/Abd9090/186|User-agent=WSS_User_Agent
+#EXTINF:-1 tvg-id="" tvg-name="EPL 4 HD" tvg-logo="" group-title="Free Sports Android App",EPL 4 HD
+ http://185.180.223.89:25461/imiktec@gmail.com/Abd9090/187|User-agent=WSS_User_Agent
+#EXTINF:-1 tvg-id="" tvg-name="EPL 5 HD" tvg-logo="" group-title="Free Sports Android App",EPL 5 HD
+ http://185.180.223.89:25461/imiktec@gmail.com/Abd9090/188|User-agent=WSS_User_Agent
+#EXTINF:-1 tvg-id="" tvg-name="EPL 6 HD" tvg-logo="" group-title="Free Sports Android App",EPL 6 HD
+ http://185.180.223.89:25461/imiktec@gmail.com/Abd9090/189|User-agent=WSS_User_Agent
+#EXTINF:-1 tvg-id="" tvg-name="Willow Cricket HD" tvg-logo="" group-title="Free Sports Android App",Willow Cricket HD
+ http://185.180.223.89:25461/imiktec@gmail.com/Abd9090/190|User-agent=WSS_User_Agent
+
+#EXTINF:-1 tvg-id="" tvg-name="1-UK: ANIMAL PLANET" tvg-logo="" group-title="Free Sports Android App",1-UK: ANIMAL PLANET
+ http://185.180.223.89:25461/imiktec@gmail.com/Abd9090/192|User-agent=WSS_User_Agent
+#EXTINF:-1 tvg-id="" tvg-name="1-UK: BBC FOUR" tvg-logo="" group-title="Free Sports Android App",1-UK: BBC FOUR
+ http://185.180.223.89:25461/imiktec@gmail.com/Abd9090/193|User-agent=WSS_User_Agent
+#EXTINF:-1 tvg-id="" tvg-name="1-UK: BBC NEWS" tvg-logo="" group-title="Free Sports Android App",1-UK: BBC NEWS
+ http://185.180.223.89:25461/imiktec@gmail.com/Abd9090/194|User-agent=WSS_User_Agent
+#EXTINF:-1 tvg-id="" tvg-name="1-UK: BBC ONE" tvg-logo="" group-title="Free Sports Android App",1-UK: BBC ONE
+ http://185.180.223.89:25461/imiktec@gmail.com/Abd9090/195|User-agent=WSS_User_Agent
+#EXTINF:-1 tvg-id="" tvg-name="1-UK: BBC THREE" tvg-logo="" group-title="Free Sports Android App",1-UK: BBC THREE
+ http://185.180.223.89:25461/imiktec@gmail.com/Abd9090/196|User-agent=WSS_User_Agent
+#EXTINF:-1 tvg-id="" tvg-name="1-UK: BBC TWO" tvg-logo="" group-title="Free Sports Android App",1-UK: BBC TWO
+ http://185.180.223.89:25461/imiktec@gmail.com/Abd9090/197|User-agent=WSS_User_Agent
+#EXTINF:-1 tvg-id="" tvg-name="1-UK: CBS DRAMA" tvg-logo="" group-title="Free Sports Android App",1-UK: CBS DRAMA
+ http://185.180.223.89:25461/imiktec@gmail.com/Abd9090/198|User-agent=WSS_User_Agent
+#EXTINF:-1 tvg-id="" tvg-name="1-UK: CBS REALITY" tvg-logo="" group-title="Free Sports Android App",1-UK: CBS REALITY
+ http://185.180.223.89:25461/imiktec@gmail.com/Abd9090/199|User-agent=WSS_User_Agent
+#EXTINF:-1 tvg-id="" tvg-name="1-UK: CHANNEL 4 HD" tvg-logo="" group-title="Free Sports Android App",1-UK: CHANNEL 4 HD
+ http://185.180.223.89:25461/imiktec@gmail.com/Abd9090/200|User-agent=WSS_User_Agent
+#EXTINF:-1 tvg-id="" tvg-name="1-UK: CHANNEL 5 HD" tvg-logo="" group-title="Free Sports Android App",1-UK: CHANNEL 5 HD
+ http://185.180.223.89:25461/imiktec@gmail.com/Abd9090/201|User-agent=WSS_User_Agent
+#EXTINF:-1 tvg-id="" tvg-name="1-UK: DISCOVERY H&H" tvg-logo="" group-title="Free Sports Android App",1-UK: DISCOVERY H&H
+ http://185.180.223.89:25461/imiktec@gmail.com/Abd9090/202|User-agent=WSS_User_Agent
+#EXTINF:-1 tvg-id="" tvg-name="1-UK: DISCOVERY SCi" tvg-logo="" group-title="Free Sports Android App",1-UK: DISCOVERY SCi
+ http://185.180.223.89:25461/imiktec@gmail.com/Abd9090/203|User-agent=WSS_User_Agent
+#EXTINF:-1 tvg-id="" tvg-name="1-UK: DISCOVERY TURBO" tvg-logo="" group-title="Free Sports Android App",1-UK: DISCOVERY TURBO
+ http://185.180.223.89:25461/imiktec@gmail.com/Abd9090/204|User-agent=WSS_User_Agent
+#EXTINF:-1 tvg-id="" tvg-name="1-UK: DMAX" tvg-logo="" group-title="Free Sports Android App",1-UK: DMAX
+ http://185.180.223.89:25461/imiktec@gmail.com/Abd9090/205|User-agent=WSS_User_Agent
+#EXTINF:-1 tvg-id="" tvg-name="1-UK: DRAMA" tvg-logo="" group-title="Free Sports Android App",1-UK: DRAMA
+ http://185.180.223.89:25461/imiktec@gmail.com/Abd9090/206|User-agent=WSS_User_Agent
+#EXTINF:-1 tvg-id="" tvg-name="1-UK: E4" tvg-logo="" group-title="Free Sports Android App",1-UK: E4
+ http://185.180.223.89:25461/imiktec@gmail.com/Abd9090/207|User-agent=WSS_User_Agent
+#EXTINF:-1 tvg-id="" tvg-name="1-UK: FILM 4" tvg-logo="" group-title="Free Sports Android App",1-UK: FILM 4
+ http://185.180.223.89:25461/imiktec@gmail.com/Abd9090/208|User-agent=WSS_User_Agent
+#EXTINF:-1 tvg-id="" tvg-name="1-UK: FOX NEWS" tvg-logo="" group-title="Free Sports Android App",1-UK: FOX NEWS
+ http://185.180.223.89:25461/imiktec@gmail.com/Abd9090/209|User-agent=WSS_User_Agent
+#EXTINF:-1 tvg-id="" tvg-name="1-UK: MORE 4" tvg-logo="" group-title="Free Sports Android App",1-UK: MORE 4
+ http://185.180.223.89:25461/imiktec@gmail.com/Abd9090/210|User-agent=WSS_User_Agent
+#EXTINF:-1 tvg-id="" tvg-name="1-UK: MTV" tvg-logo="" group-title="Free Sports Android App",1-UK: MTV
+ http://185.180.223.89:25461/imiktec@gmail.com/Abd9090/211|User-agent=WSS_User_Agent
+#EXTINF:-1 tvg-id="" tvg-name="1-UK: MTV BASE" tvg-logo="" group-title="Free Sports Android App",1-UK: MTV BASE
+ http://185.180.223.89:25461/imiktec@gmail.com/Abd9090/212|User-agent=WSS_User_Agent
+#EXTINF:-1 tvg-id="" tvg-name="1-UK: MTV CLASSICS" tvg-logo="" group-title="Free Sports Android App",1-UK: MTV CLASSICS
+ http://185.180.223.89:25461/imiktec@gmail.com/Abd9090/213|User-agent=WSS_User_Agent
+#EXTINF:-1 tvg-id="" tvg-name="1-UK: MTV DANCE" tvg-logo="" group-title="Free Sports Android App",1-UK: MTV DANCE
+ http://185.180.223.89:25461/imiktec@gmail.com/Abd9090/214|User-agent=WSS_User_Agent
+#EXTINF:-1 tvg-id="" tvg-name="1-UK: MTV HITS" tvg-logo="" group-title="Free Sports Android App",1-UK: MTV HITS
+ http://185.180.223.89:25461/imiktec@gmail.com/Abd9090/215|User-agent=WSS_User_Agent
+#EXTINF:-1 tvg-id="" tvg-name="1-UK: MTV MUSIC" tvg-logo="" group-title="Free Sports Android App",1-UK: MTV MUSIC
+ http://185.180.223.89:25461/imiktec@gmail.com/Abd9090/216|User-agent=WSS_User_Agent
+#EXTINF:-1 tvg-id="" tvg-name="1-UK: MTV ROCKS" tvg-logo="" group-title="Free Sports Android App",1-UK: MTV ROCKS
+ http://185.180.223.89:25461/imiktec@gmail.com/Abd9090/217|User-agent=WSS_User_Agent
+#EXTINF:-1 tvg-id="" tvg-name="1-UK: NAT GEO CHANNEL HD" tvg-logo="" group-title="Free Sports Android App",1-UK: NAT GEO CHANNEL HD
+ http://185.180.223.89:25461/imiktec@gmail.com/Abd9090/218|User-agent=WSS_User_Agent
+#EXTINF:-1 tvg-id="" tvg-name="1-UK: NICK JR KD" tvg-logo="" group-title="Free Sports Android App",1-UK: NICK JR KD
+ http://185.180.223.89:25461/imiktec@gmail.com/Abd9090/219|User-agent=WSS_User_Agent
+#EXTINF:-1 tvg-id="" tvg-name="1-UK: NICK JR TOO KD" tvg-logo="" group-title="Free Sports Android App",1-UK: NICK JR TOO KD
+ http://185.180.223.89:25461/imiktec@gmail.com/Abd9090/220|User-agent=WSS_User_Agent
+#EXTINF:-1 tvg-id="" tvg-name="1-UK: PICK TV" tvg-logo="" group-title="Free Sports Android App",1-UK: PICK TV
+ http://185.180.223.89:25461/imiktec@gmail.com/Abd9090/221|User-agent=WSS_User_Agent
+#EXTINF:-1 tvg-id="" tvg-name="UK: QUEST" tvg-logo="" group-title="Free Sports Android App",UK: QUEST
+ http://185.180.223.89:25461/imiktec@gmail.com/Abd9090/222|User-agent=WSS_User_Agent
+#EXTINF:-1 tvg-id="" tvg-name="1-UK: RACING HD" tvg-logo="" group-title="Free Sports Android App",1-UK: RACING HD
+ http://185.180.223.89:25461/imiktec@gmail.com/Abd9090/223|User-agent=WSS_User_Agent
+#EXTINF:-1 tvg-id="" tvg-name="1-UK: REALLY" tvg-logo="" group-title="Free Sports Android App",1-UK: REALLY
+ http://185.180.223.89:25461/imiktec@gmail.com/Abd9090/224|User-agent=WSS_User_Agent
+#EXTINF:-1 tvg-id="" tvg-name="1-UK: RTE NEWS" tvg-logo="" group-title="Free Sports Android App",1-UK: RTE NEWS
+ http://185.180.223.89:25461/imiktec@gmail.com/Abd9090/225|User-agent=WSS_User_Agent
+#EXTINF:-1 tvg-id="" tvg-name="1-UK: SONY CHANNEL" tvg-logo="" group-title="Free Sports Android App",1-UK: SONY CHANNEL
+ http://185.180.223.89:25461/imiktec@gmail.com/Abd9090/226|User-agent=WSS_User_Agent
+#EXTINF:-1 tvg-id="" tvg-name="1-UK: TCM HD" tvg-logo="" group-title="Free Sports Android App",1-UK: TCM HD
+ http://185.180.223.89:25461/imiktec@gmail.com/Abd9090/227|User-agent=WSS_User_Agent
+#EXTINF:-1 tvg-id="" tvg-name="1-UK: TRUE MOVIES 1" tvg-logo="" group-title="Free Sports Android App",1-UK: TRUE MOVIES 1
+ http://185.180.223.89:25461/imiktec@gmail.com/Abd9090/228|User-agent=WSS_User_Agent
+#EXTINF:-1 tvg-id="" tvg-name="2-UK: 5 USA" tvg-logo="" group-title="Free Sports Android App",2-UK: 5 USA
+ http://185.180.223.89:25461/imiktec@gmail.com/Abd9090/229|User-agent=WSS_User_Agent
+#EXTINF:-1 tvg-id="" tvg-name="2-UK: BBC PARLIMENT" tvg-logo="" group-title="Free Sports Android App",2-UK: BBC PARLIMENT
+ http://185.180.223.89:25461/imiktec@gmail.com/Abd9090/230|User-agent=WSS_User_Agent
+#EXTINF:-1 tvg-id="" tvg-name="2-UK: BOOMERANG" tvg-logo="" group-title="Free Sports Android App",2-UK: BOOMERANG
+ http://185.180.223.89:25461/imiktec@gmail.com/Abd9090/231|User-agent=WSS_User_Agent
+#EXTINF:-1 tvg-id="" tvg-name="2-UK: CNN INTERNATIONAL" tvg-logo="" group-title="Free Sports Android App",2-UK: CNN INTERNATIONAL
+ http://185.180.223.89:25461/imiktec@gmail.com/Abd9090/232|User-agent=WSS_User_Agent
+#EXTINF:-1 tvg-id="" tvg-name="2-UK: COMEDY CENTRAL EXTRA" tvg-logo="" group-title="Free Sports Android App",2-UK: COMEDY CENTRAL EXTRA
+ http://185.180.223.89:25461/imiktec@gmail.com/Abd9090/233|User-agent=WSS_User_Agent
+#EXTINF:-1 tvg-id="" tvg-name="2-UK: CRIME AND INVESTIGATION HD" tvg-logo="" group-title="Free Sports Android App",2-UK: CRIME AND INVESTIGATION HD
+ http://185.180.223.89:25461/imiktec@gmail.com/Abd9090/234|User-agent=WSS_User_Agent
+#EXTINF:-1 tvg-id="" tvg-name="2-UK: EDEN" tvg-logo="" group-title="Free Sports Android App",2-UK: EDEN
+ http://185.180.223.89:25461/imiktec@gmail.com/Abd9090/235|User-agent=WSS_User_Agent
+#EXTINF:-1 tvg-id="" tvg-name="2-UK: FOOD NETWORK" tvg-logo="" group-title="Free Sports Android App",2-UK: FOOD NETWORK
+ http://185.180.223.89:25461/imiktec@gmail.com/Abd9090/236|User-agent=WSS_User_Agent
+#EXTINF:-1 tvg-id="" tvg-name="2-UK: FOX" tvg-logo="" group-title="Free Sports Android App",2-UK: FOX
+ http://185.180.223.89:25461/imiktec@gmail.com/Abd9090/237|User-agent=WSS_User_Agent
+#EXTINF:-1 tvg-id="" tvg-name="2-UK: GOLD CHANNEL" tvg-logo="" group-title="Free Sports Android App",2-UK: GOLD CHANNEL
+ http://185.180.223.89:25461/imiktec@gmail.com/Abd9090/238|User-agent=WSS_User_Agent
+#EXTINF:-1 tvg-id="" tvg-name="2-UK: HISTORY" tvg-logo="" group-title="Free Sports Android App",2-UK: HISTORY
+ http://185.180.223.89:25461/imiktec@gmail.com/Abd9090/239|User-agent=WSS_User_Agent
+#EXTINF:-1 tvg-id="" tvg-name="2-UK: HISTORY 2" tvg-logo="" group-title="Free Sports Android App",2-UK: HISTORY 2
+ http://185.180.223.89:25461/imiktec@gmail.com/Abd9090/240|User-agent=WSS_User_Agent
+#EXTINF:-1 tvg-id="" tvg-name="2-UK: HORROR CHANNEL" tvg-logo="" group-title="Free Sports Android App",2-UK: HORROR CHANNEL
+ http://185.180.223.89:25461/imiktec@gmail.com/Abd9090/241|User-agent=WSS_User_Agent
+#EXTINF:-1 tvg-id="" tvg-name="2-UK: NICKELODEON UK" tvg-logo="" group-title="Free Sports Android App",2-UK: NICKELODEON UK
+ http://185.180.223.89:25461/imiktec@gmail.com/Abd9090/242|User-agent=WSS_User_Agent
+#EXTINF:-1 tvg-id="" tvg-name="2-UK: NICKTOONS KD" tvg-logo="" group-title="Free Sports Android App",2-UK: NICKTOONS KD
+ http://185.180.223.89:25461/imiktec@gmail.com/Abd9090/243|User-agent=WSS_User_Agent
+#EXTINF:-1 tvg-id="" tvg-name="2-UK: RTE JUNIOR" tvg-logo="" group-title="Free Sports Android App",2-UK: RTE JUNIOR
+ http://185.180.223.89:25461/imiktec@gmail.com/Abd9090/244|User-agent=WSS_User_Agent
+#EXTINF:-1 tvg-id="" tvg-name="2-UK: S4C" tvg-logo="" group-title="Free Sports Android App",2-UK: S4C
+ http://185.180.223.89:25461/imiktec@gmail.com/Abd9090/245|User-agent=WSS_User_Agent
+#EXTINF:-1 tvg-id="" tvg-name="2-UK: SKY ARTS" tvg-logo="" group-title="Free Sports Android App",2-UK: SKY ARTS
+ http://185.180.223.89:25461/imiktec@gmail.com/Abd9090/246|User-agent=WSS_User_Agent
+#EXTINF:-1 tvg-id="" tvg-name="2-UK: SKY ATLANTIC" tvg-logo="" group-title="Free Sports Android App",2-UK: SKY ATLANTIC
+ http://185.180.223.89:25461/imiktec@gmail.com/Abd9090/247|User-agent=WSS_User_Agent
+#EXTINF:-1 tvg-id="" tvg-name="2-UK: SKY LIVING" tvg-logo="" group-title="Free Sports Android App",2-UK: SKY LIVING
+ http://185.180.223.89:25461/imiktec@gmail.com/Abd9090/248|User-agent=WSS_User_Agent
+#EXTINF:-1 tvg-id="" tvg-name="2-UK: SKY NEWS" tvg-logo="" group-title="Free Sports Android App",2-UK: SKY NEWS
+ http://185.180.223.89:25461/imiktec@gmail.com/Abd9090/249|User-agent=WSS_User_Agent
+#EXTINF:-1 tvg-id="" tvg-name="2-UK: SKY ONE" tvg-logo="" group-title="Free Sports Android App",2-UK: SKY ONE
+ http://185.180.223.89:25461/imiktec@gmail.com/Abd9090/250|User-agent=WSS_User_Agent
+#EXTINF:-1 tvg-id="" tvg-name="2-UK: SKY TWO" tvg-logo="" group-title="Free Sports Android App",2-UK: SKY TWO
+ http://185.180.223.89:25461/imiktec@gmail.com/Abd9090/251|User-agent=WSS_User_Agent
+#EXTINF:-1 tvg-id="" tvg-name="2-UK: SPIKE" tvg-logo="" group-title="Free Sports Android App",2-UK: SPIKE
+ http://185.180.223.89:25461/imiktec@gmail.com/Abd9090/252|User-agent=WSS_User_Agent
+#EXTINF:-1 tvg-id="" tvg-name="2-UK: TG 4" tvg-logo="" group-title="Free Sports Android App",2-UK: TG 4
+ http://185.180.223.89:25461/imiktec@gmail.com/Abd9090/253|User-agent=WSS_User_Agent
+#EXTINF:-1 tvg-id="" tvg-name="2-UK: TLC" tvg-logo="" group-title="Free Sports Android App",2-UK: TLC
+ http://185.180.223.89:25461/imiktec@gmail.com/Abd9090/254|User-agent=WSS_User_Agent
+#EXTINF:-1 tvg-id="" tvg-name="2-UK: TRAVEL CHANNEL" tvg-logo="" group-title="Free Sports Android App",2-UK: TRAVEL CHANNEL
+ http://185.180.223.89:25461/imiktec@gmail.com/Abd9090/255|User-agent=WSS_User_Agent
+#EXTINF:-1 tvg-id="" tvg-name="2-UK: UNIVERSAL" tvg-logo="" group-title="Free Sports Android App",2-UK: UNIVERSAL
+ http://185.180.223.89:25461/imiktec@gmail.com/Abd9090/256|User-agent=WSS_User_Agent
+#EXTINF:-1 tvg-id="" tvg-name="2-UK: UTV IRELAND" tvg-logo="" group-title="Free Sports Android App",2-UK: UTV IRELAND
+ http://185.180.223.89:25461/imiktec@gmail.com/Abd9090/257|User-agent=WSS_User_Agent
+#EXTINF:-1 tvg-id="" tvg-name="2-UK: VH1 CLASSIC" tvg-logo="" group-title="Free Sports Android App",2-UK: VH1 CLASSIC
+ http://185.180.223.89:25461/imiktec@gmail.com/Abd9090/258|User-agent=WSS_User_Agent
+#EXTINF:-1 tvg-id="" tvg-name="2-UK: WATCH" tvg-logo="" group-title="Free Sports Android App",2-UK: WATCH
+ http://185.180.223.89:25461/imiktec@gmail.com/Abd9090/259|User-agent=WSS_User_Agent
+#EXTINF:-1 tvg-id="" tvg-name="2-UK: YESTERDAY" tvg-logo="" group-title="Free Sports Android App",2-UK: YESTERDAY
+ http://185.180.223.89:25461/imiktec@gmail.com/Abd9090/260|User-agent=WSS_User_Agent
+#EXTINF:-1 tvg-id="" tvg-name="3-UK: 3E" tvg-logo="" group-title="Free Sports Android App",3-UK: 3E
+ http://185.180.223.89:25461/imiktec@gmail.com/Abd9090/261|User-agent=WSS_User_Agent
+#EXTINF:-1 tvg-id="" tvg-name="3-UK: 5 STAR" tvg-logo="" group-title="Free Sports Android App",3-UK: 5 STAR
+ http://185.180.223.89:25461/imiktec@gmail.com/Abd9090/262|User-agent=WSS_User_Agent
+#EXTINF:-1 tvg-id="" tvg-name="3-UK: ALIBI" tvg-logo="" group-title="Free Sports Android App",3-UK: ALIBI
+ http://185.180.223.89:25461/imiktec@gmail.com/Abd9090/263|User-agent=WSS_User_Agent
+#EXTINF:-1 tvg-id="" tvg-name="3-UK: BABY TV" tvg-logo="" group-title="Free Sports Android App",3-UK: BABY TV
+ http://185.180.223.89:25461/imiktec@gmail.com/Abd9090/264|User-agent=WSS_User_Agent
+#EXTINF:-1 tvg-id="" tvg-name="3-UK: BBC CBEEBIES" tvg-logo="" group-title="Free Sports Android App",3-UK: BBC CBEEBIES
+ http://185.180.223.89:25461/imiktec@gmail.com/Abd9090/265|User-agent=WSS_User_Agent
+#EXTINF:-1 tvg-id="" tvg-name="3-UK: BLOOMBERG" tvg-logo="" group-title="Free Sports Android App",3-UK: BLOOMBERG
+ http://185.180.223.89:25461/imiktec@gmail.com/Abd9090/266|User-agent=WSS_User_Agent
+#EXTINF:-1 tvg-id="" tvg-name="3-UK: CARTOON NETWORK" tvg-logo="" group-title="Free Sports Android App",3-UK: CARTOON NETWORK
+ http://185.180.223.89:25461/imiktec@gmail.com/Abd9090/267|User-agent=WSS_User_Agent
+#EXTINF:-1 tvg-id="" tvg-name="3-UK: CARTOONITO" tvg-logo="" group-title="Free Sports Android App",3-UK: CARTOONITO
+ http://185.180.223.89:25461/imiktec@gmail.com/Abd9090/268|User-agent=WSS_User_Agent
+#EXTINF:-1 tvg-id="" tvg-name="3-UK: CBBC KD" tvg-logo="" group-title="Free Sports Android App",3-UK: CBBC KD
+ http://185.180.223.89:25461/imiktec@gmail.com/Abd9090/269|User-agent=WSS_User_Agent
+#EXTINF:-1 tvg-id="" tvg-name="3-UK: CBS ACTION" tvg-logo="" group-title="Free Sports Android App",3-UK: CBS ACTION
+ http://185.180.223.89:25461/imiktec@gmail.com/Abd9090/270|User-agent=WSS_User_Agent
+#EXTINF:-1 tvg-id="" tvg-name="3-UK: CNBC" tvg-logo="" group-title="Free Sports Android App",3-UK: CNBC
+ http://185.180.223.89:25461/imiktec@gmail.com/Abd9090/271|User-agent=WSS_User_Agent
+#EXTINF:-1 tvg-id="" tvg-name="3-UK: COMEDY CENTRAL" tvg-logo="" group-title="Free Sports Android App",3-UK: COMEDY CENTRAL
+ http://185.180.223.89:25461/imiktec@gmail.com/Abd9090/272|User-agent=WSS_User_Agent
+#EXTINF:-1 tvg-id="" tvg-name="3-UK: DAVE" tvg-logo="" group-title="Free Sports Android App",3-UK: DAVE
+ http://185.180.223.89:25461/imiktec@gmail.com/Abd9090/273|User-agent=WSS_User_Agent
+#EXTINF:-1 tvg-id="" tvg-name="3-UK: DISCOVERY HISTORY" tvg-logo="" group-title="Free Sports Android App",3-UK: DISCOVERY HISTORY
+ http://185.180.223.89:25461/imiktec@gmail.com/Abd9090/274|User-agent=WSS_User_Agent
+#EXTINF:-1 tvg-id="" tvg-name="3-UK: DISCOVERY TV" tvg-logo="" group-title="Free Sports Android App",3-UK: DISCOVERY TV
+ http://185.180.223.89:25461/imiktec@gmail.com/Abd9090/275|User-agent=WSS_User_Agent
+#EXTINF:-1 tvg-id="" tvg-name="3-UK: DISNEY HD" tvg-logo="" group-title="Free Sports Android App",3-UK: DISNEY HD
+ http://185.180.223.89:25461/imiktec@gmail.com/Abd9090/276|User-agent=WSS_User_Agent
+#EXTINF:-1 tvg-id="" tvg-name="3-UK: DISNEY JR HD" tvg-logo="" group-title="Free Sports Android App",3-UK: DISNEY JR HD
+ http://185.180.223.89:25461/imiktec@gmail.com/Abd9090/277|User-agent=WSS_User_Agent
+#EXTINF:-1 tvg-id="" tvg-name="3-UK: DISNEY XD HD" tvg-logo="" group-title="Free Sports Android App",3-UK: DISNEY XD HD
+ http://185.180.223.89:25461/imiktec@gmail.com/Abd9090/278|User-agent=WSS_User_Agent
+#EXTINF:-1 tvg-id="" tvg-name="3-UK: HORSE AND COUNTRY" tvg-logo="" group-title="Free Sports Android App",3-UK: HORSE AND COUNTRY
+ http://185.180.223.89:25461/imiktec@gmail.com/Abd9090/279|User-agent=WSS_User_Agent
+#EXTINF:-1 tvg-id="" tvg-name="3-UK: ITV BE" tvg-logo="" group-title="Free Sports Android App",3-UK: ITV BE
+ http://185.180.223.89:25461/imiktec@gmail.com/Abd9090/280|User-agent=WSS_User_Agent
+#EXTINF:-1 tvg-id="" tvg-name="3-UK: ITV ENCORE" tvg-logo="" group-title="Free Sports Android App",3-UK: ITV ENCORE
+ http://185.180.223.89:25461/imiktec@gmail.com/Abd9090/281|User-agent=WSS_User_Agent
+#EXTINF:-1 tvg-id="" tvg-name="3-UK: POP" tvg-logo="" group-title="Free Sports Android App",3-UK: POP
+ http://185.180.223.89:25461/imiktec@gmail.com/Abd9090/282|User-agent=WSS_User_Agent
+#EXTINF:-1 tvg-id="" tvg-name="3-UK: TINY POP" tvg-logo="" group-title="Free Sports Android App",3-UK: TINY POP
+ http://185.180.223.89:25461/imiktec@gmail.com/Abd9090/283|User-agent=WSS_User_Agent
+
+#EXTGRP: FRANCE 
+#EXTM3U
+#EXTINF:-1,France 2
+#EXTVLCOPT:http-user-agent=stream
+http://4ce5e2d62ee2c10e43c709f9b87c44d5.streamhost.cc/m3u8/France/28d64aa3c40ce6b.m3u8
+#EXTINF:-1,France 3
+#EXTVLCOPT:http-user-agent=stream
+http://4ce5e2d62ee2c10e43c709f9b87c44d5.streamhost.cc/m3u8/France/a139a26e121bdec.m3u8
+#EXTINF:-1,France 4
+#EXTVLCOPT:http-user-agent=stream
+http://4ce5e2d62ee2c10e43c709f9b87c44d5.streamhost.cc/m3u8/France/9302c7a4bf6084b.m3u8
+#EXTINF:-1,France 5
+#EXTVLCOPT:http-user-agent=stream
+http://4ce5e2d62ee2c10e43c709f9b87c44d5.streamhost.cc/m3u8/France/871c99557d2773f.m3u8
+#EXTINF:-1,France O
+#EXTVLCOPT:http-user-agent=stream
+http://4ce5e2d62ee2c10e43c709f9b87c44d5.streamhost.cc/m3u8/France/4c33d89bb7ac426.m3u8
+#EXTINF:-1,France 24
+#EXTVLCOPT:http-user-agent=stream
+http://4ce5e2d62ee2c10e43c709f9b87c44d5.streamhost.cc/m3u8/France/dcba938c62f7539.m3u8
+#EXTINF:-1,TF1
+#EXTVLCOPT:http-user-agent=stream
+http://4ce5e2d62ee2c10e43c709f9b87c44d5.streamhost.cc/m3u8/France/1b4d1e3292b3936.m3u8
+#EXTINF:-1,M6
+#EXTVLCOPT:http-user-agent=stream
+http://4ce5e2d62ee2c10e43c709f9b87c44d5.streamhost.cc/m3u8/France/2d3e4dff0ec193a.m3u8
+#EXTINF:-1,M6 MUSIC
+#EXTVLCOPT:http-user-agent=stream
+http://4ce5e2d62ee2c10e43c709f9b87c44d5.streamhost.cc/m3u8/France/a7ffd112c5a5fa1.m3u8
+#EXTINF:-1,Canal+ Sport 
+#EXTVLCOPT:http-user-agent=stream
+http://4ce5e2d62ee2c10e43c709f9b87c44d5.streamhost.cc/m3u8/France/fac27a6757f7f5f.m3u8
+#EXTINF:-1,Canal+ Series
+#EXTVLCOPT:http-user-agent=stream
+http://4ce5e2d62ee2c10e43c709f9b87c44d5.streamhost.cc/m3u8/France/f8c64c0bc477545.m3u8
+#EXTINF:-1,Canal+ Family
+#EXTVLCOPT:http-user-agent=stream
+http://4ce5e2d62ee2c10e43c709f9b87c44d5.streamhost.cc/m3u8/France/92d6c36cd267d93.m3u8
+#EXTINF:-1,Canal+ Cinema
+#EXTVLCOPT:http-user-agent=stream
+http://4ce5e2d62ee2c10e43c709f9b87c44d5.streamhost.cc/m3u8/France/bf8b47476918e98.m3u8
+#EXTINF:-1,CINE PREMIER
+#EXTVLCOPT:http-user-agent=stream
+http://4ce5e2d62ee2c10e43c709f9b87c44d5.streamhost.cc/m3u8/France/63a13b236452d9b.m3u8
+#EXTINF:-1,CINE POLAR
+#EXTVLCOPT:http-user-agent=stream
+http://4ce5e2d62ee2c10e43c709f9b87c44d5.streamhost.cc/m3u8/France/d104157fe7529ea.m3u8
+#EXTINF:-1,CINE FX
+#EXTVLCOPT:http-user-agent=stream
+http://4ce5e2d62ee2c10e43c709f9b87c44d5.streamhost.cc/m3u8/France/b441e8cc4dabc2e.m3u8
+#EXTINF:-1,CINE FAMIZ
+#EXTVLCOPT:http-user-agent=stream
+http://4ce5e2d62ee2c10e43c709f9b87c44d5.streamhost.cc/m3u8/France/d436385320ba853.m3u8
+#EXTINF:-1,CINE CLASSIC
+#EXTVLCOPT:http-user-agent=stream
+http://4ce5e2d62ee2c10e43c709f9b87c44d5.streamhost.cc/m3u8/France/0e119ddd1c27174.m3u8
+#EXTINF:-1,SYFY FRANCE
+#EXTVLCOPT:http-user-agent=stream
+http://4ce5e2d62ee2c10e43c709f9b87c44d5.streamhost.cc/m3u8/France/b9dc00d2904b374.m3u8
+#EXTINF:-1,Disney Cinemagic
+#EXTVLCOPT:http-user-agent=stream
+http://4ce5e2d62ee2c10e43c709f9b87c44d5.streamhost.cc/m3u8/France/d5fcacea0e798f3.m3u8
+#EXTINF:-1,OCS CHOC
+#EXTVLCOPT:http-user-agent=stream
+http://4ce5e2d62ee2c10e43c709f9b87c44d5.streamhost.cc/m3u8/France/aeda67b41eae7da.m3u8
+#EXTINF:-1,OCS MAX
+#EXTVLCOPT:http-user-agent=stream
+http://4ce5e2d62ee2c10e43c709f9b87c44d5.streamhost.cc/m3u8/France/f1bc54bef587190.m3u8
+#EXTINF:-1,OCS CITY
+#EXTVLCOPT:http-user-agent=stream
+http://4ce5e2d62ee2c10e43c709f9b87c44d5.streamhost.cc/m3u8/France/05e383709325657.m3u8
+#EXTINF:-1,OLTV HD
+#EXTVLCOPT:http-user-agent=stream
+http://4ce5e2d62ee2c10e43c709f9b87c44d5.streamhost.cc/m3u8/France/53882f0443a0f68.m3u8
+#EXTINF:-1,COMEDIE  HD
+#EXTVLCOPT:http-user-agent=stream
+http://4ce5e2d62ee2c10e43c709f9b87c44d5.streamhost.cc/m3u8/France/2d5d502f8f7e928.m3u8
+#EXTINF:-1,GULLI FRANCE
+#EXTVLCOPT:http-user-agent=stream
+http://4ce5e2d62ee2c10e43c709f9b87c44d5.streamhost.cc/m3u8/France/5a80d9399737c76.m3u8
+#EXTINF:-1,Discovery France
+#EXTVLCOPT:http-user-agent=stream
+http://4ce5e2d62ee2c10e43c709f9b87c44d5.streamhost.cc/m3u8/France/1ec60f941fb6135.m3u8
+#EXTINF:-1,NAT GEO FRANCE
+#EXTVLCOPT:http-user-agent=stream
+http://4ce5e2d62ee2c10e43c709f9b87c44d5.streamhost.cc/m3u8/France/0123ec29b67e77e.m3u8
+#EXTINF:-1,NAT GEO WILD FRANCE
+#EXTVLCOPT:http-user-agent=stream
+http://4ce5e2d62ee2c10e43c709f9b87c44d5.streamhost.cc/m3u8/France/b43597db64072d5.m3u8
+#EXTINF:-1,DISCOVERY SCI FRANCE
+#EXTVLCOPT:http-user-agent=stream
+http://4ce5e2d62ee2c10e43c709f9b87c44d5.streamhost.cc/m3u8/France/1e457b3f409a89d.m3u8
+#EXTINF:-1,W9 HD
+#EXTVLCOPT:http-user-agent=stream
+http://4ce5e2d62ee2c10e43c709f9b87c44d5.streamhost.cc/m3u8/France/02bf517e59ac22a.m3u8
+#EXTINF:-1,RTL9 HD
+#EXTVLCOPT:http-user-agent=stream
+http://4ce5e2d62ee2c10e43c709f9b87c44d5.streamhost.cc/m3u8/France/1791cb8a42dc145.m3u8
+#EXTINF:-1,Boomrang France
+#EXTVLCOPT:http-user-agent=stream
+http://4ce5e2d62ee2c10e43c709f9b87c44d5.streamhost.cc/m3u8/France/24f065499a0a0c7.m3u8
+#EXTINF:-1,ACTION
+#EXTVLCOPT:http-user-agent=stream
+http://4ce5e2d62ee2c10e43c709f9b87c44d5.streamhost.cc/m3u8/France/a8205d6ff14ba90.m3u8
+#EXTINF:-1,ANIMAUX
+#EXTVLCOPT:http-user-agent=stream
+http://4ce5e2d62ee2c10e43c709f9b87c44d5.streamhost.cc/m3u8/France/2e036e28134fdb0.m3u8
+#EXTINF:-1,E! ENT FRANCE
+#EXTVLCOPT:http-user-agent=stream
+http://4ce5e2d62ee2c10e43c709f9b87c44d5.streamhost.cc/m3u8/France/174339ada7db993.m3u8
+#EXTINF:-1,MANGAS
+#EXTVLCOPT:http-user-agent=stream
+http://4ce5e2d62ee2c10e43c709f9b87c44d5.streamhost.cc/m3u8/France/700a192f4d09363.m3u8
+#EXTINF:-1,BFMTV
+#EXTVLCOPT:http-user-agent=stream
+http://4ce5e2d62ee2c10e43c709f9b87c44d5.streamhost.cc/m3u8/France/9531b610fd12cd9.m3u8
+#EXTINF:-1,RFM TV
+#EXTVLCOPT:http-user-agent=stream
+http://4ce5e2d62ee2c10e43c709f9b87c44d5.streamhost.cc/m3u8/France/fb8acef7631528c.m3u8
+#EXTINF:-1,MCM TOP
+#EXTVLCOPT:http-user-agent=stream
+http://4ce5e2d62ee2c10e43c709f9b87c44d5.streamhost.cc/m3u8/France/04abe0cb22056f3.m3u8
+#EXTINF:-1,LEQUIPE 21
+#EXTVLCOPT:http-user-agent=stream
+http://4ce5e2d62ee2c10e43c709f9b87c44d5.
+streamhost.cc/m3u8/France/c98414a1a5363d9.m3u8
+#EXTINF:-1,GONGMAX
+#EXTVLCOPT:http-user-agent=stream
+http://4ce5e2d62ee2c10e43c709f9b87c44d5.streamhost.cc/m3u8/France/8e03851d87a5d96.m3u8
+#EXTINF:-1,ZEE MAGIC 
+#EXTVLCOPT:http-user-agent=stream
+http://4ce5e2d62ee2c10e43c709f9b87c44d5.streamhost.cc/m3u8/France/0304b8f74a6f312.m3u8
+#EXTINF:-1,PARIS PREMIERE 
+#EXTVLCOPT:http-user-agent=stream
+http://4ce5e2d62ee2c10e43c709f9b87c44d5.streamhost.cc/m3u8/France/15d03a7eb726387.m3u8
+#EXTINF:-1,Crime District 
+#EXTVLCOPT:http-user-agent=stream
+http://4ce5e2d62ee2c10e43c709f9b87c44d5.streamhost.cc/m3u8/France/4d0ee106c370505.m3u8
+#EXTGRP: Uk
+#EXTM3U
+#EXTINF:-1,ITV 1
+#EXTVLCOPT:http-user-agent=stream
+http://4ce5e2d62ee2c10e43c709f9b87c44d5.streamhost.cc/m3u8/Uk/71b5c8483161297.m3u8
+#EXTINF:-1,ITV 2
+#EXTVLCOPT:http-user-agent=stream
+http://4ce5e2d62ee2c10e43c709f9b87c44d5.streamhost.cc/m3u8/Uk/243606f6f71df8e.m3u8
+#EXTINF:-1,ITV 3
+#EXTVLCOPT:http-user-agent=stream
+http://4ce5e2d62ee2c10e43c709f9b87c44d5.streamhost.cc/m3u8/Uk/bf02f0afba61c0d.m3u8
+#EXTINF:-1,ITV 4
+#EXTVLCOPT:http-user-agent=stream
+http://4ce5e2d62ee2c10e43c709f9b87c44d5.streamhost.cc/m3u8/Uk/31f84386f6ed012.m3u8
+#EXTINF:-1,BBC 1
+#EXTVLCOPT:http-user-agent=stream
+http://4ce5e2d62ee2c10e43c709f9b87c44d5.streamhost.cc/m3u8/Uk/a9c9d6191744b75.m3u8
+#EXTINF:-1,BBC 2
+#EXTVLCOPT:http-user-agent=stream
+http://4ce5e2d62ee2c10e43c709f9b87c44d5.streamhost.cc/m3u8/Uk/95156cdeb0bc708.m3u8
+#EXTINF:-1,BBC 3
+#EXTVLCOPT:http-user-agent=stream
+http://4ce5e2d62ee2c10e43c709f9b87c44d5.streamhost.cc/m3u8/Uk/0d144395561d4a3.m3u8
+#EXTINF:-1,BBC 4
+#EXTVLCOPT:http-user-agent=stream
+http://4ce5e2d62ee2c10e43c709f9b87c44d5.streamhost.cc/m3u8/Uk/2116d7822ae621d.m3u8
+#EXTINF:-1,BBC NEWS
+#EXTVLCOPT:http-user-agent=stream
+http://4ce5e2d62ee2c10e43c709f9b87c44d5.streamhost.cc/m3u8/Uk/ee612f7b8236fe4.m3u8
+#EXTINF:-1,True Movies
+#EXTVLCOPT:http-user-agent=stream
+http://4ce5e2d62ee2c10e43c709f9b87c44d5.streamhost.cc/m3u8/Uk/87137967bda4523.m3u8
+#EXTINF:-1,True Movies 2
+#EXTVLCOPT:http-user-agent=stream
+http://4ce5e2d62ee2c10e43c709f9b87c44d5.streamhost.cc/m3u8/Uk/3e5f78efd0da346.m3u8
+#EXTINF:-1,4e
+#EXTVLCOPT:http-user-agent=stream
+http://4ce5e2d62ee2c10e43c709f9b87c44d5.streamhost.cc/m3u8/Uk/1890050c4626342.m3u8
+#EXTINF:-1,Channel 4
+#EXTVLCOPT:http-user-agent=stream
+http://4ce5e2d62ee2c10e43c709f9b87c44d5.streamhost.cc/m3u8/Uk/2ea618de5f502bf.m3u8
+#EXTINF:-1,Channel 5
+#EXTVLCOPT:http-user-agent=stream
+http://4ce5e2d62ee2c10e43c709f9b87c44d5.streamhost.cc/m3u8/Uk/4f97feb9b8280f4.m3u8
+#EXTINF:-1,Gold
+#EXTVLCOPT:http-user-agent=stream
+http://4ce5e2d62ee2c10e43c709f9b87c44d5.streamhost.cc/m3u8/Uk/0342607cc601d87.m3u8
+#EXTINF:-1,MORE 4
+#EXTVLCOPT:http-user-agent=stream
+http://4ce5e2d62ee2c10e43c709f9b87c44d5.streamhost.cc/m3u8/Uk/189064d1582f0cf.m3u8
+#EXTINF:-1,Dave
+#EXTVLCOPT:http-user-agent=stream
+http://4ce5e2d62ee2c10e43c709f9b87c44d5.streamhost.cc/m3u8/Uk/0be47bfc0236990.m3u8
+#EXTINF:-1,Comedy Central
+#EXTVLCOPT:http-user-agent=stream
+http://4ce5e2d62ee2c10e43c709f9b87c44d5.streamhost.cc/m3u8/Uk/863497d7565b826.m3u8
+#EXTINF:-1,Fox UK
+#EXTVLCOPT:http-user-agent=stream
+http://4ce5e2d62ee2c10e43c709f9b87c44d5.streamhost.cc/m3u8/Uk/6e95c53d080eb68.m3u8
+#EXTINF:-1,Universal
+#EXTVLCOPT:http-user-agent=stream
+http://4ce5e2d62ee2c10e43c709f9b87c44d5.streamhost.cc/m3u8/Uk/ab2e5a03cc9c326.m3u8
+#EXTINF:-1,Watch
+#EXTVLCOPT:http-user-agent=stream
+http://4ce5e2d62ee2c10e43c709f9b87c44d5.streamhost.cc/m3u8/Uk/a715b94c20f3d80.m3u8
+#EXTINF:-1,Pick TV
+#EXTVLCOPT:http-user-agent=stream
+http://4ce5e2d62ee2c10e43c709f9b87c44d5.streamhost.cc/m3u8/Uk/fd32f8a1600ae49.m3u8
+#EXTINF:-1,FILM 4
+#EXTVLCOPT:http-user-agent=stream
+http://4ce5e2d62ee2c10e43c709f9b87c44d5.streamhost.cc/m3u8/Uk/ec567c068e1dd78.m3u8
+#EXTINF:-1,TRAVEL
+#EXTVLCOPT:http-user-agent=stream
+http://4ce5e2d62ee2c10e43c709f9b87c44d5.streamhost.cc/m3u8/Uk/c0e59ba349277a2.m3u8
+#EXTINF:-1,DISCOVERY HISTORY
+#EXTVLCOPT:http-user-agent=stream
+http://4ce5e2d62ee2c10e43c709f9b87c44d5.streamhost.cc/m3u8/Uk/dd7112fdb7a1a36.m3u8
+#EXTINF:-1,Discovery Science
+#EXTVLCOPT:http-user-agent=stream
+http://4ce5e2d62ee2c10e43c709f9b87c44d5.streamhost.cc/m3u8/Uk/52a5a986362e674.m3u8
+#EXTINF:-1,Discovery Turbo
+#EXTVLCOPT:http-user-agent=stream
+http://4ce5e2d62ee2c10e43c709f9b87c44d5.streamhost.cc/m3u8/Uk/4c4eac0aa8f0ecb.m3u8
+#EXTINF:-1,CNBC Europ
+#EXTVLCOPT:http-user-agent=stream
+http://4ce5e2d62ee2c10e43c709f9b87c44d5.streamhost.cc/m3u8/Uk/331a8a1a91882a8.m3u8
+#EXTINF:-1,BLOOMBERG
+#EXTVLCOPT:http-user-agent=stream
+http://4ce5e2d62ee2c10e43c709f9b87c44d5.streamhost.cc/m3u8/Uk/41f2f50772ccd02.m3u8
+#EXTINF:-1,CBS ACTION
+#EXTVLCOPT:http-user-agent=stream
+http://4ce5e2d62ee2c10e43c709f9b87c44d5.streamhost.cc/m3u8/Uk/c3a597dd09effb3.m3u8
+#EXTINF:-1,CBS DRAMA
+#EXTVLCOPT:http-user-agent=stream
+http://4ce5e2d62ee2c10e43c709f9b87c44d5.streamhost.cc/m3u8/Uk/211b418e801abe6.m3u8
+#EXTINF:-1,ALIBI
+#EXTVLCOPT:http-user-agent=stream
+http://4ce5e2d62ee2c10e43c709f9b87c44d5.streamhost.cc/m3u8/Uk/3cd0e85e999f335.m3u8
+#EXTINF:-1,TG 4
+#EXTVLCOPT:http-user-agent=stream
+http://4ce5e2d62ee2c10e43c709f9b87c44d5.streamhost.cc/m3u8/Uk/ec0b5488caf47fd.m3u8
+#EXTINF:-1,TCM
+#EXTVLCOPT:http-user-agent=stream
+http://4ce5e2d62ee2c10e43c709f9b87c44d5.streamhost.cc/m3u8/Uk/a245487e9d1c305.m3u8
+#EXTINF:-1,5 Star
+#EXTVLCOPT:http-user-agent=stream
+http://4ce5e2d62ee2c10e43c709f9b87c44d5.streamhost.cc/m3u8/Uk/7be123657d17d40.m3u8
+#EXTINF:-1,FOX MOVIES
+#EXTVLCOPT:http-user-agent=stream
+http://4ce5e2d62ee2c10e43c709f9b87c44d5.streamhost.cc/m3u8/Uk/12f147d13bd5716.m3u8
+#EXTINF:-1,MTV UK
+#EXTVLCOPT:http-user-agent=stream
+http://4ce5e2d62ee2c10e43c709f9b87c44d5.streamhost.cc/m3u8/Uk/05b0f446492a0ab.m3u8
+#EXTINF:-1,MTV CLASSICS
+#EXTVLCOPT:http-user-agent=stream
+http://4ce5e2d62ee2c10e43c709f9b87c44d5.streamhost.cc/m3u8/Uk/42bd8e0f644431d.m3u8
+#EXTINF:-1,MTV Base
+#EXTVLCOPT:http-user-agent=stream
+http://4ce5e2d62ee2c10e43c709f9b87c44d5.streamhost.cc/m3u8/Uk/be8c2c558ebc74e.m3u8
+#EXTINF:-1,MTV Dance
+#EXTVLCOPT:http-user-agent=stream
+http://4ce5e2d62ee2c10e43c709f9b87c44d5.streamhost.cc/m3u8/Uk/185821d45e1de47.m3u8
+#EXTINF:-1,MTV Hits
+#EXTVLCOPT:http-user-agent=stream
+http://4ce5e2d62ee2c10e43c709f9b87c44d5.streamhost.cc/m3u8/Uk/338e44dddae39e7.m3u8
+#EXTINF:-1,Nat Geo Wild 
+#EXTVLCOPT:http-user-agent=stream
+http://4ce5e2d62ee2c10e43c709f9b87c44d5.streamhost.cc/m3u8/Uk/7cc82784208dd58.m3u8
+#EXTINF:-1,SkyMovies Disney
+#EXTVLCOPT:http-user-agent=stream
+http://4ce5e2d62ee2c10e43c709f9b87c44d5.streamhost.cc/m3u8/Uk/ec64040b3ed5065.m3u8
+#EXTINF:-1,3E
+#EXTVLCOPT:http-user-agent=stream
+http://4ce5e2d62ee2c10e43c709f9b87c44d5.streamhost.cc/m3u8/Uk/b03ff5b6e167764.m3u8
+#EXTINF:-1,TLC
+#EXTVLCOPT:http-user-agent=stream
+http://4ce5e2d62ee2c10e43c709f9b87c44d5.streamhost.cc/m3u8/Uk/f79749a4711e350.m3u8
+#EXTINF:-1,CNN EUROPE
+#EXTVLCOPT:http-user-agent=stream
+http://4ce5e2d62ee2c10e43c709f9b87c44d5.streamhost.cc/m3u8/Uk/9225137b0a1fe3c.m3u8
+#EXTINF:-1,Sky Living
+#EXTVLCOPT:http-user-agent=stream
+http://4ce5e2d62ee2c10e43c709f9b87c44d5.streamhost.cc/m3u8/Uk/5ccdee95d1f48d7.m3u8
+#EXTINF:-1,Sky Atlantic
+#EXTVLCOPT:http-user-agent=stream
+http://4ce5e2d62ee2c10e43c709f9b87c44d5.streamhost.cc/m3u8/Uk/81629bef1f471cc.m3u8
+#EXTINF:-1,SkyMovies Premiere
+#EXTVLCOPT:http-user-agent=stream
+http://4ce5e2d62ee2c10e43c709f9b87c44d5.streamhost.cc/m3u8/Uk/cb427768cc6dc41.m3u8
+#EXTINF:-1,SkyMoves Action
+#EXTVLCOPT:http-user-agent=stream
+http://4ce5e2d62ee2c10e43c709f9b87c44d5.streamhost.cc/m3u8/Uk/1d2287925a66f4d.m3u8
+#EXTINF:-1,SkyMovies Comedy
+#EXTVLCOPT:http-user-agent=stream
+http://4ce5e2d62ee2c10e43c709f9b87c44d5.streamhost.cc/m3u8/Uk/b6950ee4033e498.m3u8
+#EXTINF:-1,SkyMovies Family
+#EXTVLCOPT:http-user-agent=stream
+http://4ce5e2d62ee2c10e43c709f9b87c44d5.streamhost.cc/m3u8/Uk/a44bb0fe3c88b35.m3u8
+#EXTINF:-1,SkyMovies SciFi-Horror
+#EXTVLCOPT:http-user-agent=stream
+http://4ce5e2d62ee2c10e43c709f9b87c44d5.streamhost.cc/m3u8/Uk/97b221d8b3d07ad.m3u8
+#EXTINF:-1,SkyMovies Crime
+#EXTVLCOPT:http-user-agent=stream
+http://4ce5e2d62ee2c10e43c709f9b87c44d5.streamhost.cc/m3u8/Uk/0cf118c2fbee2b2.m3u8
+#EXTINF:-1,SkyMovies Greats
+#EXTVLCOPT:http-user-agent=stream
+http://4ce5e2d62ee2c10e43c709f9b87c44d5.streamhost.cc/m3u8/Uk/cde9d8d679437ac.m3u8
+#EXTINF:-1,sky One
+#EXTVLCOPT:http-user-agent=stream
+http://4ce5e2d62ee2c10e43c709f9b87c44d5.streamhost.cc/m3u8/Uk/b7b03db9fa48c84.m3u8
+#EXTINF:-1,sky two
+#EXTVLCOPT:http-user-agent=stream
+http://4ce5e2d62ee2c10e43c709f9b87c44d5.streamhost.cc/m3u8/Uk/34b303a0cd3e004.m3u8
+#EXTINF:-1,RTE 1
+#EXTVLCOPT:http-user-agent=stream
+http://4ce5e2d62ee2c10e43c709f9b87c44d5.streamhost.cc/m3u8/Uk/0b1c2ea05cf6262.m3u8
+#EXTINF:-1,RTE 2
+#EXTVLCOPT:http-user-agent=stream
+http://4ce5e2d62ee2c10e43c709f9b87c44d5.streamhost.cc/m3u8/Uk/20181a54fa1193c.m3u8
+#EXTINF:-1,AXN
+#EXTVLCOPT:http-user-agent=stream
+http://4ce5e2d62ee2c10e43c709f9b87c44d5.streamhost.cc/m3u8/Uk/0f117055295b31b.m3u8
+#EXTINF:-1,HBO
+#EXTVLCOPT:http-user-agent=stream
+http://4ce5e2d62ee2c10e43c709f9b87c44d5.streamhost.cc/m3u8/Uk/2ad60dd1ff25f67.m3u8
+#EXTINF:-1,Warner Bros
+#EXTVLCOPT:http-user-agent=stream
+http://4ce5e2d62ee2c10e43c709f9b87c44d5.streamhost.cc/m3u8/Uk/f59089a497193eb.m3u8
+#EXTINF:-1,DRAMA UK
+#EXTVLCOPT:http-user-agent=stream
+http://4ce5e2d62ee2c10e43c709f9b87c44d5.streamhost.cc/m3u8/Uk/67bafc25774eec3.m3u8
+#EXTINF:-1,MNX HD
+#EXTVLCOPT:http-user-agent=stream
+http://4ce5e2d62ee2c10e43c709f9b87c44d5.streamhost.cc/m3u8/Uk/049de21320ebf83.m3u8
+#EXTINF:-1,MOVIES NOW 
+#EXTVLCOPT:http-user-agent=stream
+http://4ce5e2d62ee2c10e43c709f9b87c44d5.streamhost.cc/m3u8/Uk/cd8e768b1b89661.m3u8
+#EXTINF:-1,FOOD NETWORK
+#EXTVLCOPT:http-user-agent=stream
+http://4ce5e2d62ee2c10e43c709f9b87c44d5.streamhost.cc/m3u8/Uk/318c162a68f95ef.m3u8
+#EXTINF:-1,CBS REALITY
+#EXTVLCOPT:http-user-agent=stream
+http://4ce5e2d62ee2c10e43c709f9b87c44d5.streamhost.cc/m3u8/Uk/59a17c05ea6abc2.m3u8
+#EXTINF:-1,TRU TV
+#EXTVLCOPT:http-user-agent=stream
+http://4ce5e2d62ee2c10e43c709f9b87c44d5.streamhost.cc/m3u8/Uk/6deb134d3785a11.m3u8
+#EXTINF:-1,YESTARDAY
+#EXTVLCOPT:http-user-agent=stream
+http://4ce5e2d62ee2c10e43c709f9b87c44d5.streamhost.cc/m3u8/Uk/87277572eb43441.m3u8
+#EXTINF:-1,VH1 CLASSIC
+#EXTVLCOPT:http-user-agent=stream
+http://4ce5e2d62ee2c10e43c709f9b87c44d5.streamhost.cc/m3u8/Uk/3788d00efaebe94.m3u8
+#EXTINF:-1,5 USA
+#EXTVLCOPT:http-user-agent=stream
+http://4ce5e2d62ee2c10e43c709f9b87c44d5.streamhost.cc/m3u8/Uk/effee81d66c058e.m3u8
+#EXTINF:-1,VH1
+#EXTVLCOPT:http-user-agent=stream
+http://4ce5e2d62ee2c10e43c709f9b87c44d5.streamhost.cc/m3u8/Uk/b357b0e494a93d8.m3u8
+#EXTINF:-1,QUEST TV
+#EXTVLCOPT:http-user-agent=stream
+http://4ce5e2d62ee2c10e43c709f9b87c44d5.streamhost.cc/m3u8/Uk/e8c5b54b86b2bc9.m3u8
+#EXTINF:-1,Channel 4 Seven
+#EXTVLCOPT:http-user-agent=stream
+http://4ce5e2d62ee2c10e43c709f9b87c44d5.streamhost.cc/m3u8/Uk/bd56e8564bc160e.m3u8
+#EXTINF:-1,GOOD FOOD
+#EXTVLCOPT:http-user-agent=stream
+http://4ce5e2d62ee2c10e43c709f9b87c44d5.streamhost.cc/m3u8/Uk/6d23576991102e9.m3u8
+#EXTINF:-1,SONY BBC EARTH EN 
+#EXTVLCOPT:http-user-agent=stream
+http://4ce5e2d62ee2c10e43c709f9b87c44d5.streamhost.cc/m3u8/Uk/d8e5ea5571d7a2e.m3u8
+#EXTINF:-1,DMAX
+#EXTVLCOPT:http-user-agent=stream
+http://4ce5e2d62ee2c10e43c709f9b87c44d5.streamhost.cc/m3u8/Uk/d480329bd1d2d8f.m3u8
+#EXTINF:-1,SYFY UK 
+#EXTVLCOPT:http-user-agent=stream
+http://4ce5e2d62ee2c10e43c709f9b87c44d5.streamhost.cc/m3u8/Uk/dce1d9f1827ecaf.m3u8
+#EXTINF:-1,RT NEWS 
+#EXTVLCOPT:http-user-agent=stream
+http://4ce5e2d62ee2c10e43c709f9b87c44d5.streamhost.cc/m3u8/Uk/c909479e7f7e899.m3u8
+#EXTINF:-1,RTE NEWS 
+#EXTVLCOPT:http-user-agent=stream
+http://4ce5e2d62ee2c10e43c709f9b87c44d5.streamhost.cc/m3u8/Uk/d9e2c86f5f05e2d.m3u8
+#EXTINF:-1,RTE JUNIOR 
+#EXTVLCOPT:http-user-agent=stream
+http://4ce5e2d62ee2c10e43c709f9b87c44d5.streamhost.cc/m3u8/Uk/28af8ba4bcb875d.m3u8
+#EXTINF:-1,UTV IRELAND 
+#EXTVLCOPT:http-user-agent=stream
+http://4ce5e2d62ee2c10e43c709f9b87c44d5.streamhost.cc/m3u8/Uk/3a74cff24b6d3ae.m3u8
+#EXTINF:-1,REALLY TV 
+#EXTVLCOPT:http-user-agent=stream
+http://4ce5e2d62ee2c10e43c709f9b87c44d5.streamhost.cc/m3u8/Uk/f66191bc30bfbf8.m3u8
+#EXTINF:-1,EDEN TV 
+#EXTVLCOPT:http-user-agent=stream
+http://4ce5e2d62ee2c10e43c709f9b87c44d5.streamhost.cc/m3u8/Uk/9e6fc04fae476b4.m3u8
+#EXTINF:-1,BLAZE TV 
+#EXTVLCOPT:http-user-agent=stream
+http://4ce5e2d62ee2c10e43c709f9b87c44d5.streamhost.cc/m3u8/Uk/801a98b42276bae.m3u8
+#EXTINF:-1,ITV BE 
+#EXTVLCOPT:http-user-agent=stream
+http://4ce5e2d62ee2c10e43c709f9b87c44d5.streamhost.cc/m3u8/Uk/364bfe25097b976.m3u8
+#EXTINF:-1,ITV ENCORE 
+#EXTVLCOPT:http-user-agent=stream
+http://4ce5e2d62ee2c10e43c709f9b87c44d5.streamhost.cc/m3u8/Uk/d302841ce1f66be.m3u8
+#EXTINF:-1,DISCOVERY H & H 
+#EXTVLCOPT:http-user-agent=stream
+http://4ce5e2d62ee2c10e43c709f9b87c44d5.streamhost.cc/m3u8/Uk/adb3ea162365d59.m3u8
+#EXTINF:-1,BBC PARLIAMENT 
+#EXTVLCOPT:http-user-agent=stream
+http://4ce5e2d62ee2c10e43c709f9b87c44d5.streamhost.cc/m3u8/Uk/cdfb657ff880124.m3u8
+#EXTINF:-1,BBC ALBA 
+#EXTVLCOPT:http-user-agent=stream
+http://4ce5e2d62ee2c10e43c709f9b87c44d5.streamhost.cc/m3u8/Uk/7f73ce1d07e8b00.m3u8
+#EXTGRP: INDIA
+#EXTM3U
+#EXTINF:-1,Aaj Tak - 
+#EXTVLCOPT:http-user-agent=stream
+http://4ce5e2d62ee2c10e43c709f9b87c44d5.streamhost.cc/m3u8/India/7f786d0bb73f03a.m3u8
+#EXTINF:-1,Aaj Tak LINK 2 -   HD
+#EXTVLCOPT:http-user-agent=stream
+http://4ce5e2d62ee2c10e43c709f9b87c44d5.streamhost.cc/m3u8/India/1afabcecc149bb3.m3u8
+#EXTINF:-1,STAR PLUS Star Plus HD
+#EXTVLCOPT:http-user-agent=stream
+http://4ce5e2d62ee2c10e43c709f9b87c44d5.streamhost.cc/m3u8/India/985ca23f8635b78.m3u8
+#EXTINF:-1,STAR PLUS Star Plus IN
+#EXTVLCOPT:http-user-agent=stream
+http://4ce5e2d62ee2c10e43c709f9b87c44d5.streamhost.cc/m3u8/India/ede405f1c726fbd.m3u8
+#EXTINF:-1,STAR PLUS Star Plus ME
+#EXTVLCOPT:http-user-agent=stream
+http://4ce5e2d62ee2c10e43c709f9b87c44d5.streamhost.cc/m3u8/India/90fa6fb68ad0009.m3u8
+#EXTINF:-1,STAR PLUS Star Plus UK
+#EXTVLCOPT:http-user-agent=stream
+http://4ce5e2d62ee2c10e43c709f9b87c44d5.streamhost.cc/m3u8/India/fa945e975f91f07.m3u8
+#EXTINF:-1,Star USTUV 
+#EXTVLCOPT:http-user-agent=stream
+http://4ce5e2d62ee2c10e43c709f9b87c44d5.streamhost.cc/m3u8/India/80e91863e896018.m3u8
+#EXTINF:-1,Star USTUV  ME
+#EXTVLCOPT:http-user-agent=stream
+http://4ce5e2d62ee2c10e43c709f9b87c44d5.streamhost.cc/m3u8/India/afa95cdde28be8c.m3u8
+#EXTINF:-1,STAR WORLD 
+#EXTVLCOPT:http-user-agent=stream
+http://4ce5e2d62ee2c10e43c709f9b87c44d5.streamhost.cc/m3u8/India/ec5fb5889e178cf.m3u8
+#EXTINF:-1,STAR WORLD   PREMIRE
+#EXTVLCOPT:http-user-agent=stream
+http://4ce5e2d62ee2c10e43c709f9b87c44d5.streamhost.cc/m3u8/India/d499ddfab492af5.m3u8
+#EXTINF:-1,STAR GOLD Star Gold HD
+#EXTVLCOPT:http-user-agent=stream
+http://4ce5e2d62ee2c10e43c709f9b87c44d5.streamhost.cc/m3u8/India/5fe9e328e2a3f72.m3u8
+#EXTINF:-1,STAR GOLD Star Gold IN
+#EXTVLCOPT:http-user-agent=stream
+http://4ce5e2d62ee2c10e43c709f9b87c44d5.streamhost.cc/m3u8/India/609ab6dfeebc78e.m3u8
+#EXTINF:-1,STAR GOLD Star Gold 2
+#EXTVLCOPT:http-user-agent=stream
+http://4ce5e2d62ee2c10e43c709f9b87c44d5.streamhost.cc/m3u8/India/a0876302f4d0d94.m3u8
+#EXTINF:-1,STAR GOLD Star Gold UK
+#EXTVLCOPT:http-user-agent=stream
+http://4ce5e2d62ee2c10e43c709f9b87c44d5.streamhost.cc/m3u8/India/7be3338cc88fe2d.m3u8
+#EXTINF:-1,STAR GOLD Star Gold ME
+#EXTVLCOPT:http-user-agent=stream
+http://4ce5e2d62ee2c10e43c709f9b87c44d5.streamhost.cc/m3u8/India/bf66ffc6d70c906.m3u8
+#EXTINF:-1,STAR MOVIES Star Movies
+#EXTVLCOPT:http-user-agent=stream
+http://4ce5e2d62ee2c10e43c709f9b87c44d5.streamhost.cc/m3u8/India/53b93bc93a361a2.m3u8
+#EXTINF:-1,STAR MOVIES Star Movies HD
+#EXTVLCOPT:http-user-agent=stream
+http://4ce5e2d62ee2c10e43c709f9b87c44d5.streamhost.cc/m3u8/India/d2cb1f2def7c995.m3u8
+#EXTINF:-1,STAR MOVIES Star Movies Select
+#EXTVLCOPT:http-user-agent=stream
+http://4ce5e2d62ee2c10e43c709f9b87c44d5.streamhost.cc/m3u8/India/5d89319170672bd.m3u8
+#EXTINF:-1,EPIC
+#EXTVLCOPT:http-user-agent=stream
+http://4ce5e2d62ee2c10e43c709f9b87c44d5.streamhost.cc/m3u8/India/8ee76fda77d2469.m3u8
+#EXTINF:-1,COLORS Colors HD
+#EXTVLCOPT:http-user-agent=stream
+http://4ce5e2d62ee2c10e43c709f9b87c44d5.streamhost.cc/m3u8/India/e97b15c8c704ce9.m3u8
+#EXTINF:-1,COLORS  Colors IN
+#EXTVLCOPT:http-user-agent=stream
+http://4ce5e2d62ee2c10e43c709f9b87c44d5.streamhost.cc/m3u8/India/6bfdd4e1c8a56fb.m3u8
+#EXTINF:-1,COLORS  Colors EU
+#EXTVLCOPT:http-user-agent=stream
+http://4ce5e2d62ee2c10e43c709f9b87c44d5.streamhost.cc/m3u8/India/9a157ebaeb820c2.m3u8
+#EXTINF:-1,COLORS  Colors ME
+#EXTVLCOPT:http-user-agent=stream
+http://4ce5e2d62ee2c10e43c709f9b87c44d5.streamhost.cc/m3u8/India/7729d1cfe731602.m3u8
+#EXTINF:-1,COLORS  Colors AU
+#EXTVLCOPT:http-user-agent=stream
+http://4ce5e2d62ee2c10e43c709f9b87c44d5.streamhost.cc/m3u8/India/60bce00114bb31a.m3u8
+#EXTINF:-1,STAR BHARAT Star Bharat HD
+#EXTVLCOPT:http-user-agent=stream
+http://4ce5e2d62ee2c10e43c709f9b87c44d5.streamhost.cc/m3u8/India/4540c413ad0b6d7.m3u8
+#EXTINF:-1,STAR BHARAT Star Bharat India
+#EXTVLCOPT:http-user-agent=stream
+http://4ce5e2d62ee2c10e43c709f9b87c44d5.streamhost.cc/m3u8/India/387a07d78d6dc9e.m3u8
+#EXTINF:-1,STAR BHARAT Star Bharat Mena
+#EXTVLCOPT:http-user-agent=stream
+http://4ce5e2d62ee2c10e43c709f9b87c44d5.streamhost.cc/m3u8/India/e208871a7fa998e.m3u8
+#EXTINF:-1,STAR BHARAT Star Bharat UK
+#EXTVLCOPT:http-user-agent=stream
+http://4ce5e2d62ee2c10e43c709f9b87c44d5.streamhost.cc/m3u8/India/36c577112426849.m3u8
+#EXTINF:-1,MAHA MOVIES 
+#EXTVLCOPT:http-user-agent=stream
+http://4ce5e2d62ee2c10e43c709f9b87c44d5.streamhost.cc/m3u8/India/db46fb135757824.m3u8
+#EXTINF:-1,RISHTEY Rishtey
+#EXTVLCOPT:http-user-agent=stream
+http://4ce5e2d62ee2c10e43c709f9b87c44d5.streamhost.cc/m3u8/India/b84cefdcc6d2629.m3u8
+#EXTINF:-1,RISHTEY Rishtey UK
+#EXTVLCOPT:http-user-agent=stream
+http://4ce5e2d62ee2c10e43c709f9b87c44d5.streamhost.cc/m3u8/India/f2970018449b14f.m3u8
+#EXTINF:-1,RISHTEY Rishtey ASIA
+#EXTVLCOPT:http-user-agent=stream
+http://4ce5e2d62ee2c10e43c709f9b87c44d5.streamhost.cc/m3u8/India/0b7aa388ce3172e.m3u8
+#EXTINF:-1,RISHTEY CINEPLEX CINEPLEX HD
+#EXTVLCOPT:http-user-agent=stream
+http://4ce5e2d62ee2c10e43c709f9b87c44d5.streamhost.cc/m3u8/India/94277029df55064.m3u8
+#EXTINF:-1,RISHTEY CINEPLEX 
+#EXTVLCOPT:http-user-agent=stream
+http://4ce5e2d62ee2c10e43c709f9b87c44d5.streamhost.cc/m3u8/India/389230b55bf47f5.m3u8
+#EXTINF:-1,RISHTEY CINEPLEX  UK
+#EXTVLCOPT:http-user-agent=stream
+http://4ce5e2d62ee2c10e43c709f9b87c44d5.streamhost.cc/m3u8/India/f25724119174e8f.m3u8
+#EXTINF:-1,RISHTEY CINEPLEX  ME
+#EXTVLCOPT:http-user-agent=stream
+http://4ce5e2d62ee2c10e43c709f9b87c44d5.streamhost.cc/m3u8/India/e01f3185fb0169c.m3u8
+#EXTINF:-1,SONY TV  HD
+#EXTVLCOPT:http-user-agent=stream
+http://4ce5e2d62ee2c10e43c709f9b87c44d5.streamhost.cc/m3u8/India/d3de51115409fb4.m3u8
+#EXTINF:-1,SONY TV  INDIA
+#EXTVLCOPT:http-user-agent=stream
+http://4ce5e2d62ee2c10e43c709f9b87c44d5.streamhost.cc/m3u8/India/4f7a9e19f028478.m3u8
+#EXTINF:-1,SONY TV  UK
+#EXTVLCOPT:http-user-agent=stream
+http://4ce5e2d62ee2c10e43c709f9b87c44d5.streamhost.cc/m3u8/India/bf017cdc97d134e.m3u8
+#EXTINF:-1,SONY TV  AUSTRALIA
+#EXTVLCOPT:http-user-agent=stream
+http://4ce5e2d62ee2c10e43c709f9b87c44d5.streamhost.cc/m3u8/India/a80bc4a92232159.m3u8
+#EXTINF:-1,SONY SAB  HD
+#EXTVLCOPT:http-user-agent=stream
+http://4ce5e2d62ee2c10e43c709f9b87c44d5.streamhost.cc/m3u8/India/6972e43ce89b000.m3u8
+#EXTINF:-1,SONY SAB  UK
+#EXTVLCOPT:http-user-agent=stream
+http://4ce5e2d62ee2c10e43c709f9b87c44d5.streamhost.cc/m3u8/India/faf449ba9197cc5.m3u8
+#EXTINF:-1,SONY SAB  INDIA
+#EXTVLCOPT:http-user-agent=stream
+http://4ce5e2d62ee2c10e43c709f9b87c44d5.streamhost.cc/m3u8/India/9c10d45a5e990a7.m3u8
+#EXTINF:-1,SONY SAB  ASIA
+#EXTVLCOPT:http-user-agent=stream
+http://4ce5e2d62ee2c10e43c709f9b87c44d5.streamhost.cc/m3u8/India/c333aa1be393971.m3u8
+#EXTINF:-1,SONY MAX  HD
+#EXTVLCOPT:http-user-agent=stream
+http://4ce5e2d62ee2c10e43c709f9b87c44d5.streamhost.cc/m3u8/India/f8cec9420f578d8.m3u8
+#EXTINF:-1,SONY MAX  INDIA
+#EXTVLCOPT:http-user-agent=stream
+http://4ce5e2d62ee2c10e43c709f9b87c44d5.streamhost.cc/m3u8/India/eabb0fee1d27bbf.m3u8
+#EXTINF:-1,SONY MAX  UK
+#EXTVLCOPT:http-user-agent=stream
+http://4ce5e2d62ee2c10e43c709f9b87c44d5.streamhost.cc/m3u8/India/42f790db2b0544a.m3u8
+#EXTINF:-1,SONY MAX  AUSTRALIA
+#EXTVLCOPT:http-user-agent=stream
+http://4ce5e2d62ee2c10e43c709f9b87c44d5.streamhost.cc/m3u8/India/9999dcc8327a5e0.m3u8
+#EXTINF:-1,SONY PAL 
+#EXTVLCOPT:http-user-agent=stream
+http://4ce5e2d62ee2c10e43c709f9b87c44d5.streamhost.cc/m3u8/India/865e673663d2110.m3u8
+#EXTINF:-1,SONY MAX 2 
+#EXTVLCOPT:http-user-agent=stream
+http://4ce5e2d62ee2c10e43c709f9b87c44d5.streamhost.cc/m3u8/India/030ce59d75d66f8.m3u8
+#EXTINF:-1,SONY PIX HD 
+#EXTVLCOPT:http-user-agent=stream
+http://4ce5e2d62ee2c10e43c709f9b87c44d5.streamhost.cc/m3u8/India/e7112734b34b289.m3u8
+#EXTINF:-1,SONY MIX 
+#EXTVLCOPT:http-user-agent=stream
+http://4ce5e2d62ee2c10e43c709f9b87c44d5.streamhost.cc/m3u8/India/e0265cb0192ffc7.m3u8
+#EXTINF:-1,ZEE TV  HD
+#EXTVLCOPT:http-user-agent=stream
+http://4ce5e2d62ee2c10e43c709f9b87c44d5.streamhost.cc/m3u8/India/1f7c1b327d6fb68.m3u8
+#EXTINF:-1,ZEE TV  INDIA
+#EXTVLCOPT:http-user-agent=stream
+http://4ce5e2d62ee2c10e43c709f9b87c44d5.streamhost.cc/m3u8/India/ac32aa03fbb4942.m3u8
+#EXTINF:-1,ZEE TV  UK
+#EXTVLCOPT:http-user-agent=stream
+http://4ce5e2d62ee2c10e43c709f9b87c44d5.streamhost.cc/m3u8/India/db1e9b646869a2d.m3u8
+#EXTINF:-1,ZEE TV  ME
+#EXTVLCOPT:http-user-agent=stream
+http://4ce5e2d62ee2c10e43c709f9b87c44d5.streamhost.cc/m3u8/India/5c370bec2003bde.m3u8
+#EXTINF:-1,ZEE TV  CANADA
+#EXTVLCOPT:http-user-agent=stream
+http://4ce5e2d62ee2c10e43c709f9b87c44d5.streamhost.cc/m3u8/India/16db26a9c5aa5da.m3u8
+#EXTINF:-1,ZEE TV  USA
+#EXTVLCOPT:http-user-agent=stream
+http://4ce5e2d62ee2c10e43c709f9b87c44d5.streamhost.cc/m3u8/India/2d21f710072aa1b.m3u8
+#EXTINF:-1,ZEE TV  APAC
+#EXTVLCOPT:http-user-agent=stream
+http://4ce5e2d62ee2c10e43c709f9b87c44d5.streamhost.cc/m3u8/India/e09b89fb3974aae.m3u8
+#EXTINF:-1,ZEE TV  RUSSIA
+#EXTVLCOPT:http-user-agent=stream
+http://4ce5e2d62ee2c10e43c709f9b87c44d5.streamhost.cc/m3u8/India/7f6a37dd3b52747.m3u8
+#EXTINF:-1,ZEE CLASSIC 
+#EXTVLCOPT:http-user-agent=stream
+http://4ce5e2d62ee2c10e43c709f9b87c44d5.streamhost.cc/m3u8/India/dbc9cc176de493d.m3u8
+#EXTINF:-1,ZEE BUSINESS 
+#EXTVLCOPT:http-user-agent=stream
+http://4ce5e2d62ee2c10e43c709f9b87c44d5.streamhost.cc/m3u8/India/d2a0f350d69fd6a.m3u8
+#EXTINF:-1,ZEE ACTION 
+#EXTVLCOPT:http-user-agent=stream
+http://4ce5e2d62ee2c10e43c709f9b87c44d5.streamhost.cc/m3u8/India/dcd461729f9826d.m3u8
+#EXTINF:-1,ZEE SALAM 
+#EXTVLCOPT:http-user-agent=stream
+http://4ce5e2d62ee2c10e43c709f9b87c44d5.streamhost.cc/m3u8/India/0fe2cd388c258e0.m3u8
+#EXTINF:-1,ZEE ETC 
+#EXTVLCOPT:http-user-agent=stream
+http://4ce5e2d62ee2c10e43c709f9b87c44d5.streamhost.cc/m3u8/India/9d159d4efb32b85.m3u8
+#EXTINF:-1,ZEE NEWS 
+#EXTVLCOPT:http-user-agent=stream
+http://4ce5e2d62ee2c10e43c709f9b87c44d5.streamhost.cc/m3u8/India/bf38e5fa0496b3f.m3u8
+#EXTINF:-1,ZEE CINEMA  HD
+#EXTVLCOPT:http-user-agent=stream
+http://4ce5e2d62ee2c10e43c709f9b87c44d5.streamhost.cc/m3u8/India/9bae81913aa9194.m3u8
+#EXTINF:-1,ZEE CINEMA  INDIA
+#EXTVLCOPT:http-user-agent=stream
+http://4ce5e2d62ee2c10e43c709f9b87c44d5.streamhost.cc/m3u8/India/0c66a1e75716bab.m3u8
+#EXTINF:-1,ZEE CINEMA  UK
+#EXTVLCOPT:http-user-agent=stream
+http://4ce5e2d62ee2c10e43c709f9b87c44d5.streamhost.cc/m3u8/India/ca47274691a6924.m3u8
+#EXTINF:-1,ZEE CINEMA  ME
+#EXTVLCOPT:http-user-agent=stream
+http://4ce5e2d62ee2c10e43c709f9b87c44d5.streamhost.cc/m3u8/India/16451da76d1b4cb.m3u8
+#EXTINF:-1,ZEE CINEMA  APAC
+#EXTVLCOPT:http-user-agent=stream
+http://4ce5e2d62ee2c10e43c709f9b87c44d5.streamhost.cc/m3u8/India/c2d562d8edfa022.m3u8
+#EXTINF:-1,ZEE LIVING 
+#EXTVLCOPT:http-user-agent=stream
+http://4ce5e2d62ee2c10e43c709f9b87c44d5.streamhost.cc/m3u8/India/eb3ef00e7676993.m3u8
+#EXTINF:-1,ZEE CAFE  HD
+#EXTVLCOPT:http-user-agent=stream
+http://4ce5e2d62ee2c10e43c709f9b87c44d5.streamhost.cc/m3u8/India/699754d817cdbb4.m3u8
+#EXTINF:-1,ZEE CAFE  SD
+#EXTVLCOPT:http-user-agent=stream
+http://4ce5e2d62ee2c10e43c709f9b87c44d5.streamhost.cc/m3u8/India/813d90fcb9a4efa.m3u8
+#EXTINF:-1,AND FLIX 
+#EXTVLCOPT:http-user-agent=stream
+http://4ce5e2d62ee2c10e43c709f9b87c44d5.streamhost.cc/m3u8/India/25ac7a6a36cdb36.m3u8
+#EXTINF:-1,DANGAL TV
+#EXTVLCOPT:http-user-agent=stream
+http://4ce5e2d62ee2c10e43c709f9b87c44d5.streamhost.cc/m3u8/India/6f63f54fdf6431d.m3u8
+#EXTINF:-1,ZEE ANMOL 
+#EXTVLCOPT:http-user-agent=stream
+http://4ce5e2d62ee2c10e43c709f9b87c44d5.streamhost.cc/m3u8/India/072cf735b85b795.m3u8
+#EXTINF:-1,ZEE ANMOL CINEMA 
+#EXTVLCOPT:http-user-agent=stream
+http://4ce5e2d62ee2c10e43c709f9b87c44d5.streamhost.cc/m3u8/India/c1fa63dca6c4cbd.m3u8
+#EXTINF:-1,LIVING FOODZ 
+#EXTVLCOPT:http-user-agent=stream
+http://4ce5e2d62ee2c10e43c709f9b87c44d5.streamhost.cc/m3u8/India/9ab76975d8029f6.m3u8
+#EXTINF:-1,ZEE TALKIES  SD
+#EXTVLCOPT:http-user-agent=stream
+http://4ce5e2d62ee2c10e43c709f9b87c44d5.streamhost.cc/m3u8/India/f70d5d1be972bd6.m3u8
+#EXTINF:-1,ZEE TALKIES  HD
+#EXTVLCOPT:http-user-agent=stream
+http://4ce5e2d62ee2c10e43c709f9b87c44d5.streamhost.cc/m3u8/India/501b55831a47275.m3u8
+#EXTINF:-1,SAHARA SAMAY
+#EXTVLCOPT:http-user-agent=stream
+http://4ce5e2d62ee2c10e43c709f9b87c44d5.streamhost.cc/m3u8/India/59c67f0d6d8cd53.m3u8
+#EXTINF:-1,SAHARA UP
+#EXTVLCOPT:http-user-agent=stream
+http://4ce5e2d62ee2c10e43c709f9b87c44d5.streamhost.cc/m3u8/India/02bf8d150f8fbe5.m3u8
+#EXTINF:-1,SAHARA AALMI
+#EXTVLCOPT:http-user-agent=stream
+http://4ce5e2d62ee2c10e43c709f9b87c44d5.streamhost.cc/m3u8/India/94058ebcb7ea646.m3u8
+#EXTINF:-1,SAHARA BIHAR
+#EXTVLCOPT:http-user-agent=stream
+http://4ce5e2d62ee2c10e43c709f9b87c44d5.streamhost.cc/m3u8/India/83e17ea9b5c4bd8.m3u8
+#EXTINF:-1,SAHARA RJ
+#EXTVLCOPT:http-user-agent=stream
+http://4ce5e2d62ee2c10e43c709f9b87c44d5.streamhost.cc/m3u8/India/37496b095c82e31.m3u8
+#EXTINF:-1,SAHARA FAMILY
+#EXTVLCOPT:http-user-agent=stream
+http://4ce5e2d62ee2c10e43c709f9b87c44d5.streamhost.cc/m3u8/India/83b541170c11481.m3u8
+#EXTINF:-1,AND TV  HD
+#EXTVLCOPT:http-user-agent=stream
+http://4ce5e2d62ee2c10e43c709f9b87c44d5.streamhost.cc/m3u8/India/cc9da3ab98e0ca6.m3u8
+#EXTINF:-1,AND TV  SD
+#EXTVLCOPT:http-user-agent=stream
+http://4ce5e2d62ee2c10e43c709f9b87c44d5.streamhost.cc/m3u8/India/5541a515d609e78.m3u8
+#EXTINF:-1,AND TV  UK
+#EXTVLCOPT:http-user-agent=stream
+http://4ce5e2d62ee2c10e43c709f9b87c44d5.streamhost.cc/m3u8/India/726e730e030e958.m3u8
+#EXTINF:-1,AND TV  ME
+#EXTVLCOPT:http-user-agent=stream
+http://4ce5e2d62ee2c10e43c709f9b87c44d5.streamhost.cc/m3u8/India/b1dda2470470824.m3u8
+#EXTINF:-1,AND PICTURES  HD
+#EXTVLCOPT:http-user-agent=stream
+http://4ce5e2d62ee2c10e43c709f9b87c44d5.streamhost.cc/m3u8/India/6fdb628891efd97.m3u8
+#EXTINF:-1,AND PICTURES  SD
+#EXTVLCOPT:http-user-agent=stream
+http://4ce5e2d62ee2c10e43c709f9b87c44d5.streamhost.cc/m3u8/India/470ce321b9a3132.m3u8
+#EXTINF:-1,INDIA TV
+#EXTVLCOPT:http-user-agent=stream
+http://4ce5e2d62ee2c10e43c709f9b87c44d5.streamhost.cc/m3u8/India/02b95c081ad819e.m3u8
+#EXTINF:-1,INDIA TODAY
+#EXTVLCOPT:http-user-agent=stream
+http://4ce5e2d62ee2c10e43c709f9b87c44d5.streamhost.cc/m3u8/India/1ec59424d0a0639.m3u8
+#EXTINF:-1,NEWS 18 INDIA  SD
+#EXTVLCOPT:http-user-agent=stream
+http://4ce5e2d62ee2c10e43c709f9b87c44d5.streamhost.cc/m3u8/India/e1b5bef2845d160.m3u8
+#EXTINF:-1,NEWS 18 INDIA  HD
+#EXTVLCOPT:http-user-agent=stream
+http://4ce5e2d62ee2c10e43c709f9b87c44d5.streamhost.cc/m3u8/India/3b36d5ccf88b673.m3u8
+#EXTINF:-1,NEWS 18 LOKMAT  SD
+#EXTVLCOPT:http-user-agent=stream
+http://4ce5e2d62ee2c10e43c709f9b87c44d5.streamhost.cc/m3u8/India/b38c50b2543ceda.m3u8
+#EXTINF:-1,NEWS 18 LOKMAT   HD
+#EXTVLCOPT:http-user-agent=stream
+http://4ce5e2d62ee2c10e43c709f9b87c44d5.streamhost.cc/m3u8/India/6a79f8e9280ba5d.m3u8
+#EXTINF:-1,DD NEWS
+#EXTVLCOPT:http-user-agent=stream
+http://4ce5e2d62ee2c10e43c709f9b87c44d5.streamhost.cc/m3u8/India/8c93b9c403837b7.m3u8
+#EXTINF:-1,TIMES NOW
+#EXTVLCOPT:http-user-agent=stream
+http://4ce5e2d62ee2c10e43c709f9b87c44d5.streamhost.cc/m3u8/India/46e2e1d975de76a.m3u8
+#EXTINF:-1,ENTER 10
+#EXTVLCOPT:http-user-agent=stream
+http://4ce5e2d62ee2c10e43c709f9b87c44d5.streamhost.cc/m3u8/India/20bcb358e5e5db0.m3u8
+#EXTINF:-1,ABP NEWS
+#EXTVLCOPT:http-user-agent=stream
+http://4ce5e2d62ee2c10e43c709f9b87c44d5.streamhost.cc/m3u8/India/3f7d006fc1d5335.m3u8
+#EXTINF:-1,NEWS 24 
+#EXTVLCOPT:http-user-agent=stream
+http://4ce5e2d62ee2c10e43c709f9b87c44d5.streamhost.cc/m3u8/India/19526cc8fd4370e.m3u8
+#EXTINF:-1,NDTV INDIA
+#EXTVLCOPT:http-user-agent=stream
+http://4ce5e2d62ee2c10e43c709f9b87c44d5.streamhost.cc/m3u8/India/e467cefc21d514c.m3u8
+#EXTINF:-1,NDTV PROFIT
+#EXTVLCOPT:http-user-agent=stream
+http://4ce5e2d62ee2c10e43c709f9b87c44d5.streamhost.cc/m3u8/India/ad88cb0cdf0baa6.m3u8
+#EXTINF:-1,NDTV 24X7
+#EXTVLCOPT:http-user-agent=stream
+http://4ce5e2d62ee2c10e43c709f9b87c44d5.streamhost.cc/m3u8/India/3a04c6f8656a5f1.m3u8
+#EXTINF:-1,SANSKAR TV
+#EXTVLCOPT:http-user-agent=stream
+http://4ce5e2d62ee2c10e43c709f9b87c44d5.streamhost.cc/m3u8/India/af18508dfbd6fad.m3u8
+#EXTINF:-1,UTV BINDASS 
+#EXTVLCOPT:http-user-agent=stream
+http://4ce5e2d62ee2c10e43c709f9b87c44d5.streamhost.cc/m3u8/India/9ccd2d5c7f1c8c9.m3u8
+#EXTINF:-1,UTV HD 
+#EXTVLCOPT:http-user-agent=stream
+http://4ce5e2d62ee2c10e43c709f9b87c44d5.streamhost.cc/m3u8/India/8da8f299949b7f9.m3u8
+#EXTINF:-1,UTV MOVIES 
+#EXTVLCOPT:http-user-agent=stream
+http://4ce5e2d62ee2c10e43c709f9b87c44d5.streamhost.cc/m3u8/India/635b60797540d44.m3u8
+#EXTINF:-1,SURYA CINEMA 
+#EXTVLCOPT:http-user-agent=stream
+http://4ce5e2d62ee2c10e43c709f9b87c44d5.streamhost.cc/m3u8/India/72f4575571c6887.m3u8
+#EXTINF:-1,UTV ACTION 
+#EXTVLCOPT:http-user-agent=stream
+http://4ce5e2d62ee2c10e43c709f9b87c44d5.streamhost.cc/m3u8/India/646c6ef841a37ad.m3u8
+#EXTINF:-1,MTV INDIA
+#EXTVLCOPT:http-user-agent=stream
+http://4ce5e2d62ee2c10e43c709f9b87c44d5.streamhost.cc/m3u8/India/43b3587884b1e53.m3u8
+#EXTINF:-1,ZING  UK
+#EXTVLCOPT:http-user-agent=stream
+http://4ce5e2d62ee2c10e43c709f9b87c44d5.streamhost.cc/m3u8/India/0d1feda85eb211b.m3u8
+#EXTINF:-1,ZING  INDIA
+#EXTVLCOPT:http-user-agent=stream
+http://4ce5e2d62ee2c10e43c709f9b87c44d5.streamhost.cc/m3u8/India/756e4f43da57d21.m3u8
+#EXTINF:-1,B4U MOVIES  IN
+#EXTVLCOPT:http-user-agent=stream
+http://4ce5e2d62ee2c10e43c709f9b87c44d5.streamhost.cc/m3u8/India/eb1b09bbca5bf1c.m3u8
+#EXTINF:-1,B4U MOVIES  UK
+#EXTVLCOPT:http-user-agent=stream
+http://4ce5e2d62ee2c10e43c709f9b87c44d5.streamhost.cc/m3u8/India/5bf01d99b2b4fe7.m3u8
+#EXTINF:-1,B4U MUSIC
+#EXTVLCOPT:http-user-agent=stream
+http://4ce5e2d62ee2c10e43c709f9b87c44d5.streamhost.cc/m3u8/India/24878ee7a441c6d.m3u8
+#EXTINF:-1,ZOOM TV
+#EXTVLCOPT:http-user-agent=stream
+http://4ce5e2d62ee2c10e43c709f9b87c44d5.streamhost.cc/m3u8/India/77789e89e7b4b03.m3u8
+#EXTINF:-1,AASTHA TV
+#EXTVLCOPT:http-user-agent=stream
+http://4ce5e2d62ee2c10e43c709f9b87c44d5.streamhost.cc/m3u8/India/95f3802e1ea5024.m3u8
+#EXTINF:-1,AASTHA BHAJAN
+#EXTVLCOPT:http-user-agent=stream
+http://4ce5e2d62ee2c10e43c709f9b87c44d5.streamhost.cc/m3u8/India/cbbcc15d50b66d1.m3u8
+#EXTINF:-1,MUSIC INDIA
+#EXTVLCOPT:http-user-agent=stream
+http://4ce5e2d62ee2c10e43c709f9b87c44d5.streamhost.cc/m3u8/India/549940985fc4662.m3u8
+#EXTINF:-1,9XM
+#EXTVLCOPT:http-user-agent=stream
+http://4ce5e2d62ee2c10e43c709f9b87c44d5.streamhost.cc/m3u8/India/58b71f3aaaca316.m3u8
+#EXTINF:-1,9X JALWA
+#EXTVLCOPT:http-user-agent=stream
+http://4ce5e2d62ee2c10e43c709f9b87c44d5.streamhost.cc/m3u8/India/f8b02269c0ddfa5.m3u8
+#EXTINF:-1,9X JHAKAAS
+#EXTVLCOPT:http-user-agent=stream
+http://4ce5e2d62ee2c10e43c709f9b87c44d5.streamhost.cc/m3u8/India/61e68a4becdf2e9.m3u8
+#EXTINF:-1,OTV INDIA 
+#EXTVLCOPT:http-user-agent=stream
+http://4ce5e2d62ee2c10e43c709f9b87c44d5.streamhost.cc/m3u8/India/4435d4adec5318e.m3u8
+#EXTINF:-1,MASTIII TV
+#EXTVLCOPT:http-user-agent=stream
+http://4ce5e2d62ee2c10e43c709f9b87c44d5.streamhost.cc/m3u8/India/2288861a06948bf.m3u8
+#EXTINF:-1,ET NOW
+#EXTVLCOPT:http-user-agent=stream
+http://4ce5e2d62ee2c10e43c709f9b87c44d5.streamhost.cc/m3u8/India/11b826ff12eae7f.m3u8
+#EXTINF:-1,DILLAGI
+#EXTVLCOPT:http-user-agent=stream
+http://4ce5e2d62ee2c10e43c709f9b87c44d5.streamhost.cc/m3u8/India/707562bde11af15.m3u8
+#EXTINF:-1,MANORANJHAN TV
+#EXTVLCOPT:http-user-agent=stream
+http://4ce5e2d62ee2c10e43c709f9b87c44d5.streamhost.cc/m3u8/India/0e5d175ba3751c3.m3u8
+#EXTINF:-1,MANORANJHAN MOVIES
+#EXTVLCOPT:http-user-agent=stream
+http://4ce5e2d62ee2c10e43c709f9b87c44d5.streamhost.cc/m3u8/India/cdee3c6a08343d9.m3u8
+#EXTINF:-1,BIG MAGIC
+#EXTVLCOPT:http-user-agent=stream
+http://4ce5e2d62ee2c10e43c709f9b87c44d5.streamhost.cc/m3u8/India/5e17964488c0fcf.m3u8
+#EXTINF:-1,DHAMMAL TV
+#EXTVLCOPT:http-user-agent=stream
+http://4ce5e2d62ee2c10e43c709f9b87c44d5.streamhost.cc/m3u8/India/c790119aafa4d4b.m3u8
+#EXTINF:-1,MIRROR NOW
+#EXTVLCOPT:http-user-agent=stream
+http://4ce5e2d62ee2c10e43c709f9b87c44d5.streamhost.cc/m3u8/India/53422a4b56aa450.m3u8
+#EXTINF:-1,E24 TV
+#EXTVLCOPT:http-user-agent=stream
+http://4ce5e2d62ee2c10e43c709f9b87c44d5.streamhost.cc/m3u8/India/05edd65c2702875.m3u8
+#EXTINF:-1,HOUSEFULL MOVIES
+#EXTVLCOPT:http-user-agent=stream
+http://4ce5e2d62ee2c10e43c709f9b87c44d5.streamhost.cc/m3u8/India/da79319097d36f9.m3u8
+#EXTINF:-1,WOW CINEMA
+#EXTVLCOPT:http-user-agent=stream
+http://4ce5e2d62ee2c10e43c709f9b87c44d5.streamhost.cc/m3u8/India/8d02d3058c22dcb.m3u8
+#EXTINF:-1,ZEE YUVA 
+#EXTVLCOPT:http-user-agent=stream
+http://4ce5e2d62ee2c10e43c709f9b87c44d5.streamhost.cc/m3u8/India/1145f4c0c8e422e.m3u8
+#EXTINF:-1,CINEMA TV
+#EXTVLCOPT:http-user-agent=stream
+http://4ce5e2d62ee2c10e43c709f9b87c44d5.streamhost.cc/m3u8/India/4fe0432cc999a43.m3u8
+#EXTINF:-1,STAR UTSUV MOVIES
+#EXTVLCOPT:http-user-agent=stream
+http://4ce5e2d62ee2c10e43c709f9b87c44d5.streamhost.cc/m3u8/India/969f79a0e37813d.m3u8
+#EXTINF:-1,BHOJPURI CINEMA
+#EXTVLCOPT:http-user-agent=stream
+http://4ce5e2d62ee2c10e43c709f9b87c44d5.streamhost.cc/m3u8/India/242c4cd1091b640.m3u8
+#EXTINF:-1,MTV HD PLUS
+#EXTVLCOPT:http-user-agent=stream
+http://4ce5e2d62ee2c10e43c709f9b87c44d5.streamhost.cc/m3u8/India/2dbcd106df9b6e9.m3u8
+#EXTINF:-1,TLC HINDI
+#EXTVLCOPT:http-user-agent=stream
+http://4ce5e2d62ee2c10e43c709f9b87c44d5.streamhost.cc/m3u8/India/68b1d3ecb4a0bd7.m3u8
+#EXTINF:-1,COLORS INFINITY 
+#EXTVLCOPT:http-user-agent=stream
+http://4ce5e2d62ee2c10e43c709f9b87c44d5.streamhost.cc/m3u8/India/d8144f620333da6.m3u8
+#EXTINF:-1,ZEE5 KIDS 
+#EXTVLCOPT:http-user-agent=stream
+http://4ce5e2d62ee2c10e43c709f9b87c44d5.streamhost.cc/m3u8/India/a4ef56fc761a059.m3u8
+#EXTINF:-1,SAHARA ONE
+#EXTVLCOPT:http-user-agent=stream
+http://4ce5e2d62ee2c10e43c709f9b87c44d5.streamhost.cc/m3u8/India/fadc15345049db4.m3u8
+#EXTINF:-1,DD SPORTS 
+#EXTVLCOPT:http-user-agent=stream
+http://4ce5e2d62ee2c10e43c709f9b87c44d5.streamhost.cc/m3u8/India/1ba95b7f1463068.m3u8
+#EXTINF:-1,DABANG TV
+#EXTVLCOPT:http-user-agent=stream
+http://4ce5e2d62ee2c10e43c709f9b87c44d5.streamhost.cc/m3u8/India/0b9f194934c7e42.m3u8
+#EXTINF:-1,ABP MAJHA
+#EXTVLCOPT:http-user-agent=stream
+http://4ce5e2d62ee2c10e43c709f9b87c44d5.streamhost.cc/m3u8/India/d2e380266fadee5.m3u8
+#EXTINF:-1,TV9 MARATHI
+#EXTVLCOPT:http-user-agent=stream
+http://4ce5e2d62ee2c10e43c709f9b87c44d5.streamhost.cc/m3u8/India/a4642f53c785c20.m3u8
+#EXTINF:-1,ZEE MARATHI  HD
+#EXTVLCOPT:http-user-agent=stream
+http://4ce5e2d62ee2c10e43c709f9b87c44d5.streamhost.cc/m3u8/India/2016fd5dcdb0242.m3u8
+#EXTINF:-1,ZEE MARATHI 
+#EXTVLCOPT:http-user-agent=stream
+http://4ce5e2d62ee2c10e43c709f9b87c44d5.streamhost.cc/m3u8/India/2868849d82e8d5a.m3u8
+#EXTINF:-1,REPUBLIC TV
+#EXTVLCOPT:http-user-agent=stream
+http://4ce5e2d62ee2c10e43c709f9b87c44d5.streamhost.cc/m3u8/India/1d5cec57e94eeff.m3u8
+#EXTINF:-1,WOW MUSIC
+#EXTVLCOPT:http-user-agent=stream
+http://4ce5e2d62ee2c10e43c709f9b87c44d5.streamhost.cc/m3u8/India/045e2d8dbcb3a41.m3u8
+#EXTINF:-1,COLORS MARATHI 
+#EXTVLCOPT:http-user-agent=stream
+http://4ce5e2d62ee2c10e43c709f9b87c44d5.streamhost.cc/m3u8/India/7518933b7b902c0.m3u8
+#EXTINF:-1,NEWS NATION 
+#EXTVLCOPT:http-user-agent=stream
+http://4ce5e2d62ee2c10e43c709f9b87c44d5.streamhost.cc/m3u8/India/549dd888e55f264.m3u8
+#EXTINF:-1,OSCAR MOVIES
+#EXTVLCOPT:http-user-agent=stream
+http://4ce5e2d62ee2c10e43c709f9b87c44d5.streamhost.cc/m3u8/India/574eacf81903fd2.m3u8
+#EXTINF:-1,SONY BBC EARTH HINDI 
+#EXTVLCOPT:http-user-agent=stream
+http://4ce5e2d62ee2c10e43c709f9b87c44d5.streamhost.cc/m3u8/India/ea42b9c4728e76e.m3u8
+#EXTINF:-1,TRAVEL XP INDIA TRAVEL XP HINDI
+#EXTVLCOPT:http-user-agent=stream
+http://4ce5e2d62ee2c10e43c709f9b87c44d5.streamhost.cc/m3u8/India/c04072141dd08f4.m3u8
+#EXTINF:-1,TRAVEL XP INDIA TRAVEL XP ENGLISH
+#EXTVLCOPT:http-user-agent=stream
+http://4ce5e2d62ee2c10e43c709f9b87c44d5.streamhost.cc/m3u8/India/9f2270118e3e3ca.m3u8
+#EXTINF:-1,DD NATIONAL 
+#EXTVLCOPT:http-user-agent=stream
+http://4ce5e2d62ee2c10e43c709f9b87c44d5.streamhost.cc/m3u8/India/1ef363e76534d1d.m3u8
+#EXTINF:-1,SANGEET BHOJPURI
+#EXTVLCOPT:http-user-agent=stream
+http://4ce5e2d62ee2c10e43c709f9b87c44d5.streamhost.cc/m3u8/India/8ee9cfe59b24e4a.m3u8
+#EXTINF:-1,ARRE 
+#EXTVLCOPT:http-user-agent=stream
+http://4ce5e2d62ee2c10e43c709f9b87c44d5.streamhost.cc/m3u8/India/b9c8fcfe75cbd79.m3u8
+#EXTINF:-1,TV9 GUJRATI
+#EXTVLCOPT:http-user-agent=stream
+http://4ce5e2d62ee2c10e43c709f9b87c44d5.streamhost.cc/m3u8/India/3b7b596ea5db81d.m3u8
+#EXTINF:-1,STAR GOLD SELECT
+#EXTVLCOPT:http-user-agent=stream
+http://4ce5e2d62ee2c10e43c709f9b87c44d5.streamhost.cc/m3u8/India/67eecd56a10c2bb.m3u8
+#EXTINF:-1,MH1 SHRADDHA
+#EXTVLCOPT:http-user-agent=stream
+http://4ce5e2d62ee2c10e43c709f9b87c44d5.streamhost.cc/m3u8/India/a9433e05b542c64.m3u8
+#EXTINF:-1,CALCUTTA NEWS
+#EXTVLCOPT:http-user-agent=stream
+http://4ce5e2d62ee2c10e43c709f9b87c44d5.streamhost.cc/m3u8/India/953a204a6054fa8.m3u8
+#EXTINF:-1,TEZ NEWS
+#EXTVLCOPT:http-user-agent=stream
+http://4ce5e2d62ee2c10e43c709f9b87c44d5.streamhost.cc/m3u8/India/99fbdaac8c17ffb.m3u8
+#EXTINF:-1,STAR PARAVAH 
+#EXTVLCOPT:http-user-agent=stream
+http://4ce5e2d62ee2c10e43c709f9b87c44d5.streamhost.cc/m3u8/India/992b6ffe5bdeb21.m3u8
+#EXTINF:-1,TARANG TV
+#EXTVLCOPT:http-user-agent=stream
+http://4ce5e2d62ee2c10e43c709f9b87c44d5.streamhost.cc/m3u8/India/9ceb0b809e9a67f.m3u8
+#EXTINF:-1,COLORS ORIYA 
+#EXTVLCOPT:http-user-agent=stream
+http://4ce5e2d62ee2c10e43c709f9b87c44d5.streamhost.cc/m3u8/India/6c36a7024924d93.m3u8
+#EXTINF:-1,9XO
+#EXTVLCOPT:http-user-agent=stream
+http://4ce5e2d62ee2c10e43c709f9b87c44d5.streamhost.cc/m3u8/India/518a97019529db4.m3u8
+#EXTINF:-1,AND PRIVE 
+#EXTVLCOPT:http-user-agent=stream
+http://4ce5e2d62ee2c10e43c709f9b87c44d5.streamhost.cc/m3u8/India/937243badc6d588.m3u8
+#EXTINF:-1,SONY WAH 
+#EXTVLCOPT:http-user-agent=stream
+http://4ce5e2d62ee2c10e43c709f9b87c44d5.streamhost.cc/m3u8/India/e705d6bf9361e4c.m3u8
+#EXTINF:-1,FOOD FOOD
+#EXTVLCOPT:http-user-agent=stream
+http://4ce5e2d62ee2c10e43c709f9b87c44d5.streamhost.cc/m3u8/India/6cf76030be4cfaa.m3u8
+#EXTINF:-1,VH1 INDIA
+#EXTVLCOPT:http-user-agent=stream
+http://4ce5e2d62ee2c10e43c709f9b87c44d5.streamhost.cc/m3u8/India/9dcf34a2dca35d9.m3u8
+#EXTINF:-1,NDTV GOODTIMES
+#EXTVLCOPT:http-user-agent=stream
+http://4ce5e2d62ee2c10e43c709f9b87c44d5.streamhost.cc/m3u8/India/b23f2d798d3eb59.m3u8
+#EXTINF:-1,ZEE HINDUSTAN 
+#EXTVLCOPT:http-user-agent=stream
+http://4ce5e2d62ee2c10e43c709f9b87c44d5.streamhost.cc/m3u8/India/cdf8a182df68de4.m3u8
+#EXTINF:-1,ZEE 24 TAAS 
+#EXTVLCOPT:http-user-agent=stream
+http://4ce5e2d62ee2c10e43c709f9b87c44d5.streamhost.cc/m3u8/India/2ac1e23f5cb06ad.m3u8
+#EXTINF:-1,ZEE MPCG 
+#EXTVLCOPT:http-user-agent=stream
+http://4ce5e2d62ee2c10e43c709f9b87c44d5.streamhost.cc/m3u8/India/85f18f3c3fddd2e.m3u8
+#EXTINF:-1,BBO 
+#EXTVLCOPT:http-user-agent=stream
+http://4ce5e2d62ee2c10e43c709f9b87c44d5.streamhost.cc/m3u8/India/830d57f019f2bc1.m3u8
+#EXTINF:-1,BBO  CLASSIC
+#EXTVLCOPT:http-user-agent=stream
+http://4ce5e2d62ee2c10e43c709f9b87c44d5.streamhost.cc/m3u8/India/d9a8ac33c1c0fcb.m3u8
+#EXTINF:-1,SONY MARATHI 
+#EXTVLCOPT:http-user-agent=stream
+http://4ce5e2d62ee2c10e43c709f9b87c44d5.streamhost.cc/m3u8/India/01426b41a700e50.m3u8
+#EXTINF:-1,MTV BEATS HD 
+#EXTVLCOPT:http-user-agent=stream
+http://4ce5e2d62ee2c10e43c709f9b87c44d5.streamhost.cc/m3u8/India/76c0abff2ef214f.m3u8
+#EXTINF:-1,MTV BEATS HD MTV BEATS SD
+#EXTVLCOPT:http-user-agent=stream
+http://4ce5e2d62ee2c10e43c709f9b87c44d5.streamhost.cc/m3u8/India/9c2462c87ac524f.m3u8
+#EXTINF:-1,COLORS GUJARATI 
+#EXTVLCOPT:http-user-agent=stream
+http://4ce5e2d62ee2c10e43c709f9b87c44d5.streamhost.cc/m3u8/India/898aa5e57548405.m3u8
+#EXTINF:-1,ZEE 24 KALAK 
+#EXTVLCOPT:http-user-agent=stream
+http://4ce5e2d62ee2c10e43c709f9b87c44d5.streamhost.cc/m3u8/India/192844799fc168d.m3u8
+#EXTINF:-1,B4U KADAK E
+#EXTVLCOPT:http-user-agent=stream
+http://4ce5e2d62ee2c10e43c709f9b87c44d5.streamhost.cc/m3u8/India/ef3f585dbf35c05.m3u8
+#EXTINF:-1,FOX LIFE INDIA 
+#EXTVLCOPT:http-user-agent=stream
+http://4ce5e2d62ee2c10e43c709f9b87c44d5.streamhost.cc/m3u8/India/4f6c28d44357b36.m3u8
+#EXTINF:-1,ZEE KALINGA 
+#EXTVLCOPT:http-user-agent=stream
+http://4ce5e2d62ee2c10e43c709f9b87c44d5.streamhost.cc/m3u8/India/4925513eeb83487.m3u8
+#EXTINF:-1,ZEE WORLD 
+#EXTVLCOPT:http-user-agent=stream
+http://4ce5e2d62ee2c10e43c709f9b87c44d5.streamhost.cc/m3u8/India/264845965b764c0.m3u8
+#EXTINF:-1,ZEE SARTHAK 
+#EXTVLCOPT:http-user-agent=stream
+http://4ce5e2d62ee2c10e43c709f9b87c44d5.streamhost.cc/m3u8/India/3de00ba704222ed.m3u8
+#EXTINF:-1,ZEE SMILE 
+#EXTVLCOPT:http-user-agent=stream
+http://4ce5e2d62ee2c10e43c709f9b87c44d5.streamhost.cc/m3u8/India/852171119aa03cf.m3u8
+#EXTINF:-1,ZEE BOLLYWOOD 
+#EXTVLCOPT:http-user-agent=stream
+http://4ce5e2d62ee2c10e43c709f9b87c44d5.streamhost.cc/m3u8/India/31f7f7dd6678fec.m3u8
+#EXTINF:-1,AND XPLORE 
+#EXTVLCOPT:http-user-agent=stream
+http://4ce5e2d62ee2c10e43c709f9b87c44d5.streamhost.cc/m3u8/India/c70d0e933f18dda.m3u8
+#EXTINF:-1,DD URDU 
+#EXTVLCOPT:http-user-agent=stream
+http://4ce5e2d62ee2c10e43c709f9b87c44d5.streamhost.cc/m3u8/India/1ab6a53d83282be.m3u8
+#EXTINF:-1,DD BHARATI 
+#EXTVLCOPT:http-user-agent=stream
+http://4ce5e2d62ee2c10e43c709f9b87c44d5.streamhost.cc/m3u8/India/add83619aaa21b3.m3u8
+#EXTINF:-1,DD KISAN 
+#EXTVLCOPT:http-user-agent=stream
+http://4ce5e2d62ee2c10e43c709f9b87c44d5.streamhost.cc/m3u8/India/3a7f2f7e1d1a65b.m3u8
+#EXTINF:-1,DD UTTAR PARDESH 
+#EXTVLCOPT:http-user-agent=stream
+http://4ce5e2d62ee2c10e43c709f9b87c44d5.streamhost.cc/m3u8/India/07b1e16c8afa7bf.m3u8
+#EXTINF:-1,ABZY COOL 
+#EXTVLCOPT:http-user-agent=stream
+http://4ce5e2d62ee2c10e43c709f9b87c44d5.streamhost.cc/m3u8/India/62c0466db44ae41.m3u8
+#EXTINF:-1,ABZY MOVIES 
+#EXTVLCOPT:http-user-agent=stream
+http://4ce5e2d62ee2c10e43c709f9b87c44d5.streamhost.cc/m3u8/India/b3af0f6e8bb1a96.m3u8
+#EXTINF:-1,ABZY DHAKAD 
+#EXTVLCOPT:http-user-agent=stream
+http://4ce5e2d62ee2c10e43c709f9b87c44d5.streamhost.cc/m3u8/India/1f2cd3259fd85b0.m3u8
+#EXTINF:-1,BFLIX MOVIES 
+#EXTVLCOPT:http-user-agent=stream
+http://4ce5e2d62ee2c10e43c709f9b87c44d5.streamhost.cc/m3u8/India/4e0e7378bd80e4e.m3u8
+#EXTINF:-1,BIG GANGA 
+#EXTVLCOPT:http-user-agent=stream
+http://4ce5e2d62ee2c10e43c709f9b87c44d5.streamhost.cc/m3u8/India/e1778cf85f0e5e8.m3u8
+#EXTINF:-1,VTV GUJARATI 
+#EXTVLCOPT:http-user-agent=stream
+http://4ce5e2d62ee2c10e43c709f9b87c44d5.streamhost.cc/m3u8/India/0192357cd1b93c8.m3u8
+#EXTINF:-1,MANORANJHAN GRAND 
+#EXTVLCOPT:http-user-agent=stream
+http://4ce5e2d62ee2c10e43c709f9b87c44d5.streamhost.cc/m3u8/India/594d4c73e922299.m3u8
+#EXTINF:-1,FIRANGI 
+#EXTVLCOPT:http-user-agent=stream
+http://4ce5e2d62ee2c10e43c709f9b87c44d5.streamhost.cc/m3u8/India/ddee93199070de1.m3u8
+#EXTINF:-1,NOW CINEMA 
+#EXTVLCOPT:http-user-agent=stream
+http://4ce5e2d62ee2c10e43c709f9b87c44d5.streamhost.cc/m3u8/India/b0dfef3736bda96.m3u8
+#EXTINF:-1,NOW PREMIER 
+#EXTVLCOPT:http-user-agent=stream
+http://4ce5e2d62ee2c10e43c709f9b87c44d5.streamhost.cc/m3u8/India/104e7a20cd5d4d8.m3u8
+#EXTINF:-1,FAKT MARATHI 
+#EXTVLCOPT:http-user-agent=stream
+http://4ce5e2d62ee2c10e43c709f9b87c44d5.streamhost.cc/m3u8/India/cdc5468add9a0da.m3u8
+#EXTINF:-1,SHEMAROO TV 
+#EXTVLCOPT:http-user-agent=stream
+http://4ce5e2d62ee2c10e43c709f9b87c44d5.streamhost.cc/m3u8/India/610019c456f718d.m3u8
+#EXTINF:-1,REPUBLIC BHARAT 
+#EXTVLCOPT:http-user-agent=stream
+http://4ce5e2d62ee2c10e43c709f9b87c44d5.streamhost.cc/m3u8/India/e55d8ab3dd402ba.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="http://adultiptv.net/lists/logo.png" group-title="XXX",AdultIPTV.net Live Cams
+http://cdn.adultiptv.net/livecams.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="http://adultiptv.net/lists/logo.png" group-title="XXX",AdultIPTV.net Anal
+http://cdn.adultiptv.net/anal.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="http://adultiptv.net/lists/logo.png" group-title="XXX",AdultIPTV.net Big Ass
+http://cdn.adultiptv.net/bigass.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="http://adultiptv.net/lists/logo.png" group-title="XXX",AdultIPTV.net Big Dick
+http://cdn.adultiptv.net/bigdick.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="http://adultiptv.net/lists/logo.png" group-title="XXX",AdultIPTV.net Big Tits
+http://cdn.adultiptv.net/bigtits.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="http://adultiptv.net/lists/logo.png" group-title="XXX",AdultIPTV.net Blonde
+http://cdn.adultiptv.net/blonde.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="http://adultiptv.net/lists/logo.png" group-title="XXX",AdultIPTV.net Blowjob
+http://cdn.adultiptv.net/blowjob.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="http://adultiptv.net/lists/logo.png" group-title="XXX",AdultIPTV.net Brunette
+http://cdn.adultiptv.net/brunette.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="http://adultiptv.net/lists/logo.png" group-title="XXX",AdultIPTV.net Compilation
+http://cdn.adultiptv.net/compilation.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="http://adultiptv.net/lists/logo.png" group-title="XXX",AdultIPTV.net Cuckold
+http://cdn.adultiptv.net/cuckold.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="http://adultiptv.net/lists/logo.png" group-title="XXX",AdultIPTV.net Fetish
+http://cdn.adultiptv.net/fetish.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="http://adultiptv.net/lists/logo.png" group-title="XXX",AdultIPTV.net Gangbang
+http://cdn.adultiptv.net/gangbang.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="http://adultiptv.net/lists/logo.png" group-title="XXX",AdultIPTV.net Gay
+http://cdn.adultiptv.net/gay.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="http://adultiptv.net/lists/logo.png" group-title="XXX",AdultIPTV.net Hardcore
+http://cdn.adultiptv.net/hardcore.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="http://adultiptv.net/lists/logo.png" group-title="XXX",AdultIPTV.net Interracial
+http://cdn.adultiptv.net/interracial.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="http://adultiptv.net/lists/logo.png" group-title="XXX",AdultIPTV.net Latina
+http://cdn.adultiptv.net/latina.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="http://adultiptv.net/lists/logo.png" group-title="XXX",AdultIPTV.net Lesbian
+http://cdn.adultiptv.net/lesbian.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="http://adultiptv.net/lists/logo.png" group-title="XXX",AdultIPTV.net MILF
+http://cdn.adultiptv.net/milf.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="http://adultiptv.net/lists/logo.png" group-title="XXX",AdultIPTV.net Pornstar
+http://cdn.adultiptv.net/pornstar.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="http://adultiptv.net/lists/logo.png" group-title="XXX",AdultIPTV.net POV
+http://cdn.adultiptv.net/pov.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="http://adultiptv.net/lists/logo.png" group-title="XXX",AdultIPTV.net Rough
+http://cdn.adultiptv.net/rough.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="http://adultiptv.net/lists/logo.png" group-title="XXX",AdultIPTV.net Russian
+http://cdn.adultiptv.net/russian.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="http://adultiptv.net/lists/logo.png" group-title="XXX",AdultIPTV.net Teen
+http://cdn.adultiptv.net/teen.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="http://adultiptv.net/lists/logo.png" group-title="XXX",AdultIPTV.net Threesome
+http://cdn.adultiptv.net/threesome.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="http://adultiptv.net/lists/logo.png" group-title="XXX",Amazing TV
+http://204.45.182.172:26789/i/ghjnvq5o/8c85fsaf/index.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="http://adultiptv.net/lists/logo.png" group-title="XXX",AST TV 1
+https://www.ast.tv/stream/1/ultra.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="http://adultiptv.net/lists/logo.png" group-title="XXX",AST TV 2
+https://www.ast.tv/stream/2/ultra.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="http://adultiptv.net/lists/logo.png" group-title="XXX",Babestation24
+https://sdn-global-live-http-cache.3qsdn.com/live/_definst_/amlst:9528-mbr/chunklist.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="http://adultiptv.net/lists/logo.png" group-title="XXX",HOT
+http://204.45.182.172:26789/i/ghjnvq5o/8c855d75/index.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="http://adultiptv.net/lists/logo.png" group-title="XXX",Jasmin TV
+http://109.71.162.112:1935/live/sd.jasminchannel.stream/playlist.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="http://adultiptv.net/lists/logo.png" group-title="XXX",Korean Adult TV
+http://122.38.74.172:9981/stream/channelid/1463854277
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="http://adultiptv.net/lists/logo.png" group-title="XXX",Miami TV
+https://59ec5453559f0.streamlock.net/miamitv/smil:miamitvROKU/chunklist_w1195980091_b2592000.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="http://adultiptv.net/lists/logo.png" group-title="XXX",Miami TV Jenny Live
+https://59ec5453559f0.streamlock.net/mexicotv/smil:miamitvmexicoROKU/chunklist_w1869403172_b1896000.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="http://adultiptv.net/lists/logo.png" group-title="XXX",Miami TV Latino
+https://59ec5453559f0.streamlock.net/canal18/smil:canal18/chunklist_w577650521_b2592000.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="http://adultiptv.net/lists/logo.png" group-title="XXX",Midnight TV
+http://112.148.183.161:9981/stream/channelid/96001658
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="http://adultiptv.net/lists/logo.png" group-title="XXX",Pandora Pink HD
+http://204.45.182.172:26789/i/ghjnvq5o/8c85giea/index.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="http://adultiptv.net/lists/logo.png" group-title="XXX",Private TV HD
+http://188.35.9.5:10005/stolen/153a/imposter.rar
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="http://adultiptv.net/lists/logo.png" group-title="XXX",Priv茅 TV
+http://08139e2f.ottv.info/iptv/S9824PT3RW2E72/877/index.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="http://adultiptv.net/lists/logo.png" group-title="XXX",Rainbow TV
+http://204.45.182.172:26789/i/ghjnvq5o/8c855daa/index.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="http://adultiptv.net/lists/logo.png" group-title="XXX",Super One HD
+http://188.35.9.5:10007/stolen/246r/parasite.install
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="http://adultiptv.net/lists/logo.png" group-title="XXX",S艒ng sh矛 1
+http://204.45.182.172:26789/i/ghjnvq5o/8c855fdf/index.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="http://adultiptv.net/lists/logo.png" group-title="XXX",S艒ng sh矛 2
+http://204.45.182.172:26789/i/ghjnvq5o/984fa1vb/index.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="http://adultiptv.net/lists/logo.png" group-title="XXX",Viki
+http://112.148.183.161:9981/stream/channelid/488704961
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="http://adultiptv.net/lists/logo.png" group-title="XXX",Visit-X TV
+http://stream.visit-x.tv:1935/vxtv/live_720p/playlist.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="http://adultiptv.net/lists/logo.png" group-title="XXX",Vivid TV Europe
+http://188.35.9.26:2031/udp/031a
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="http://adultiptv.net/lists/logo.png" group-title="XXX",XCafe 1
+http://204.45.182.172:26789/i/ghjnvq5o/846a1ghm/index.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="http://adultiptv.net/lists/logo.png" group-title="XXX",XCafe 2
+http://204.45.182.172:26789/i/ghjnvq5o/1bf4a301/index.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="http://adultiptv.net/lists/logo.png" group-title="XXX",XCafe 3
+http://204.45.182.172:26789/i/ghjnvq5o/ahun18hg/index.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="http://adultiptv.net/lists/logo.png" group-title="XXX",XCafe 4
+http://204.45.182.172:26789/i/ghjnvq5o/84a15gbc/index.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="http://adultiptv.net/lists/logo.png" group-title="XXX",XCafe Anal
+http://204.45.182.172:26789/i/ghjnvq5o/952a3vvv/index.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="http://adultiptv.net/lists/logo.png" group-title="XXX",XCafe Asian
+http://204.45.182.172:26789/i/ghjnvq5o/456oinav/index.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="http://adultiptv.net/lists/logo.png" group-title="XXX",XCafe Blowjob
+http://204.45.182.172:26789/i/ghjnvq5o/91bnjred/index.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="http://adultiptv.net/lists/logo.png" group-title="XXX",XCafe Ebony
+http://204.45.182.172:26789/i/ghjnvq5o/8jainsbq/index.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="http://adultiptv.net/lists/logo.png" group-title="XXX",XCafe Erotic
+http://204.45.182.172:26789/i/ghjnvq5o/v19a2133/index.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="http://adultiptv.net/lists/logo.png" group-title="XXX",Zest TV
+http://188.35.9.5:10007/stolen/214g/parasite.install
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="http://adultiptv.net/lists/logo.png" group-title="XXX",NYX Media 1
+https://cdn1.ibizastream.biz:441/free/1/playlist.m3u8
+
+
