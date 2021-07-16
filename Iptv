@@ -185,32 +185,47 @@ http://185.180.223.89:25461/imiktec@gmail.com/Abd9090/51|User-agent=WSS_User_Age
  http://185.180.223.89:25461/imiktec@gmail.com/Abd9090/78|User-agent=WSS_User_Agent
 #EXTINF:-1 tvg-id="" tvg-name="PPV 9 HD" tvg-logo="" group-title="Free Sports Android App",PPV 9 HD
  http://185.180.223.89:25461/imiktec@gmail.com/Abd9090/77|User-agent=WSS_User_Agent
-#EXTINF:-1 tvg-id="" tvg-name="SkySports Football HQ" tvg-logo="" group-title="Free Sports Android App",SkySports Football HQ
- http://185.180.223.89:25461/imiktec@gmail.com/Abd9090/76|User-agent=WSS_User_Agent
-#EXTINF:-1 tvg-id="" tvg-name="SkySports Arena HQ" tvg-logo="" group-title="Free Sports Android App",SkySports Arena HQ
- http://185.180.223.89:25461/imiktec@gmail.com/Abd9090/75|User-agent=WSS_User_Agent
-#EXTINF:-1 tvg-id="" tvg-name="Bt Sports 3 HQ" tvg-logo="" group-title="Free Sports Android App",Bt Sports 3 HQ
- http://185.180.223.89:25461/imiktec@gmail.com/Abd9090/74|User-agent=WSS_User_Agent
-#EXTINF:-1 tvg-id="" tvg-name="Bt Sports 3" tvg-logo="" group-title="Free Sports Android App",Bt Sports 3
- http://185.180.223.89:25461/imiktec@gmail.com/Abd9090/73|User-agent=WSS_User_Agent
-#EXTINF:-1 tvg-id="" tvg-name="Bt Sports 1 HQ" tvg-logo="" group-title="Free Sports Android App",Bt Sports 1 HQ
- http://185.180.223.89:25461/imiktec@gmail.com/Abd9090/72|User-agent=WSS_User_Agent
-#EXTINF:-1 tvg-id="" tvg-name="Bt Sports 2 HQ" tvg-logo="" group-title="Free Sports Android App",Bt Sports 2 HQ
- http://185.180.223.89:25461/imiktec@gmail.com/Abd9090/71|User-agent=WSS_User_Agent
-#EXTINF:-1 tvg-id="" tvg-name="SkySports Main Event HQ" tvg-logo="" group-title="Free Sports Android App",SkySports Main Event HQ
- http://185.180.223.89:25461/imiktec@gmail.com/Abd9090/70|User-agent=WSS_User_Agent
-#EXTINF:-1 tvg-id="" tvg-name="SkySports Cricket HQ" tvg-logo="" group-title="Free Sports Android App",SkySports Cricket HQ
- http://185.180.223.89:25461/imiktec@gmail.com/Abd9090/69|User-agent=WSS_User_Agent
-#EXTINF:-1 tvg-id="" tvg-name="SkySports Action HQ" tvg-logo="" group-title="Free Sports Android App",SkySports Action HQ
- http://185.180.223.89:25461/imiktec@gmail.com/Abd9090/68|User-agent=WSS_User_Agent
-#EXTINF:-1 tvg-id="" tvg-name="SkySports Golf HQ" tvg-logo="" group-title="Free Sports Android App",SkySports Golf HQ
- http://185.180.223.89:25461/imiktec@gmail.com/Abd9090/67|User-agent=WSS_User_Agent
-#EXTINF:-1 tvg-id="" tvg-name="SkySports Premier League HQ" tvg-logo="" group-title="Free Sports Android App",SkySports Premier League HQ
- http://185.180.223.89:25461/imiktec@gmail.com/Abd9090/66|User-agent=WSS_User_Agent
-#EXTINF:-1 tvg-id="" tvg-name="SkySports F1 HQ" tvg-logo="" group-title="Free Sports Android App",SkySports F1 HQ
- http://185.180.223.89:25461/imiktec@gmail.com/Abd9090/65|User-agent=WSS_User_Agent
-#EXTINF:-1 tvg-id="" tvg-name="SkySports News HQ" tvg-logo="" group-title="Free Sports Android App",SkySports News HQ
- http://185.180.223.89:25461/imiktec@gmail.com/Abd9090/64|User-agent=WSS_User_Agent
+
+#EXTINF:-1 tvg-id="" tvg-name="SkySports Football HD" tvg-logo="" group-title="UK",SkySports Football HD
+http://185.180.223.89:25461/imiktec@gmail.com/Abd9090/76|User-agent=WSS_User_Agent
+
+#EXTINF:-1 tvg-id="" tvg-name="SkySports Arena HD" tvg-logo="" group-title="UK",SkySports Arena HD
+http://185.180.223.89:25461/imiktec@gmail.com/Abd9090/75|User-agent=WSS_User_Agent
+
+#EXTINF:-1 tvg-id="" tvg-name="Bt Sports 3 HD" tvg-logo="" group-title="UK",Bt Sports 3 HD
+http://185.180.223.89:25461/imiktec@gmail.com/Abd9090/74|User-agent=WSS_User_Agent
+
+#EXTINF:-1 tvg-id="" tvg-name="Bt Sports 3" tvg-logo="" group-title="UK",Bt Sports 3
+http://185.180.223.89:25461/imiktec@gmail.com/Abd9090/73|User-agent=WSS_User_Agent
+
+#EXTINF:-1 tvg-id="" tvg-name="Bt Sports 1 HD" tvg-logo="" group-title="UK",Bt Sports 1 HD
+http://185.180.223.89:25461/imiktec@gmail.com/Abd9090/72|User-agent=WSS_User_Agent
+
+#EXTINF:-1 tvg-id="" tvg-name="Bt Sports 2 HD" tvg-logo="" group-title="UK",Bt Sports 2 HD
+http://185.180.223.89:25461/imiktec@gmail.com/Abd9090/71|User-agent=WSS_User_Agent
+
+#EXTINF:-1 tvg-id="" tvg-name="SkySports Main Event HD" tvg-logo="" group-title="UK",SkySports Main Event HD
+http://185.180.223.89:25461/imiktec@gmail.com/Abd9090/70|User-agent=WSS_User_Agent
+
+#EXTINF:-1 tvg-id="" tvg-name="SkySports Cricket HD" tvg-logo="" group-title="UK",SkySports Cricket HD
+http://185.180.223.89:25461/imiktec@gmail.com/Abd9090/69|User-agent=WSS_User_Agent
+
+#EXTINF:-1 tvg-id="" tvg-name="SkySports Action HD" tvg-logo="" group-title="UK",SkySports Action HD
+http://185.180.223.89:25461/imiktec@gmail.com/Abd9090/68|User-agent=WSS_User_Agent
+
+#EXTINF:-1 tvg-id="" tvg-name="SkySports Golf HD" tvg-logo="" group-title="UK",SkySports Golf HD
+http://185.180.223.89:25461/imiktec@gmail.com/Abd9090/67|User-agent=WSS_User_Agent
+
+#EXTINF:-1 tvg-id="" tvg-name="SkySports Premier League HD" tvg-logo="" group-title="UK",SkySports Premier League HD
+http://185.180.223.89:25461/imiktec@gmail.com/Abd9090/66|User-agent=WSS_User_Agent
+
+#EXTINF:-1 tvg-id="" tvg-name="SkySports F1 HD" tvg-logo="" group-title="UK",SkySports F1 HD
+http://185.180.223.89:25461/imiktec@gmail.com/Abd9090/65|User-agent=WSS_User_Agent
+
+#EXTINF:-1 tvg-id="" tvg-name="SkySports News HD" tvg-logo="" group-title="UK",SkySports News HD
+http://185.180.223.89:25461/imiktec@gmail.com/Abd9090/64|User-agent=WSS_User_Agent
+
+
 #EXTINF:-1 tvg-id="" tvg-name="Geo Super" tvg-logo="" group-title="Free Sports Android App",Geo Super
  http://185.180.223.89:25461/imiktec@gmail.com/Abd9090/63|User-agent=WSS_User_Agent
 #EXTINF:-1 tvg-id="" tvg-name="SkySports Football" tvg-logo="" group-title="Free Sports Android App",SkySports Football
