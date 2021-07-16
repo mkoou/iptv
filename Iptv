@@ -83,42 +83,42 @@ https://rotana.hibridcdn.net:443/rotana/risala_mabr/rotana/risala_360p/chunks.m3
 #EXTINF:-1, ROTANA DRAMA LOW
 https://rotana.hibridcdn.net:443/rotana/lbc_mabr/rotana/lbc_360p/chunks.m3u8
 
-#EXTINF:-1 group-title="BEIN SPORTS AR",Bein Sports 1
+#EXTINF:-1 group-title="BEIN SPORTS AR",Bein Sports 1 LOW
 #EXTVLCOPT:user-agent=WSS_User_Agent
 http://185.180.223.89:25461/imiktec@gmail.com/Abd9090/150|User-agent=WSS_User_Agent
 
-#EXTINF:-1 group-title="BEIN SPORTS AR",Bein Sports 2
+#EXTINF:-1 group-title="BEIN SPORTS AR",Bein Sports 2 LOW
 http://185.180.223.89:25461/imiktec@gmail.com/Abd9090/149|User-agent=WSS_User_Agent
 
-#EXTINF:-1 group-title="BEIN SPORTS AR",Bein Sports 3
+#EXTINF:-1 group-title="BEIN SPORTS AR",Bein Sports 3 LOW
 http://185.180.223.89:25461/imiktec@gmail.com/Abd9090/148|User
 -agent=WSS_User_Agent
 
-#EXTINF:-1 group-title="BEIN SPORTS AR",Bein Sports 4
+#EXTINF:-1 group-title="BEIN SPORTS AR",Bein Sports 4 LOW 
 http://185.180.223.89:25461/imiktec@gmail.com/Abd9090/147|User-agent=WSS_User_Agent
 
-#EXTINF:-1 group-title="BEIN SPORTS AR",Bein Sports 5
+#EXTINF:-1 group-title="BEIN SPORTS AR",Bein Sports 5 LOW
 http://185.180.223.89:25461/imiktec@gmail.com/Abd9090/146|User-agent=WSS_User_Agent
 
-#EXTINF:-1 group-title="BEIN SPORTS AR",Bein Sports 6
+#EXTINF:-1 group-title="BEIN SPORTS AR",Bein Sports 6 LOW
 http://185.180.223.89:25461/imiktec@gmail.com/Abd9090/145|User-agent=WSS_User_Agent
 
-#EXTINF:-1 group-title="BEIN SPORTS AR",Bein Sports 7
+#EXTINF:-1 group-title="BEIN SPORTS AR",Bein Sports 7 LOW
 http://185.180.223.89:25461/imiktec@gmail.com/Abd9090/144|User-agent=WSS_User_Agent
 
-#EXTINF:-1 group-title="BEIN SPORTS AR",Bein Sports 8
+#EXTINF:-1 group-title="BEIN SPORTS AR",Bein Sports 8 LOW
 http://185.180.223.89:25461/imiktec@gmail.com/Abd9090/143|User-agent=WSS_User_Agent
 
-#EXTINF:-1 group-title="BEIN SPORTS AR",Bein Sports 9
+#EXTINF:-1 group-title="BEIN SPORTS AR",Bein Sports 9 LOW
 http://185.180.223.89:25461/imiktec@gmail.com/Abd9090/142|User-agent=WSS_User_Agent
 
-#EXTINF:-1 group-title="BEIN SPORTS AR",Bein Sports 10
+#EXTINF:-1 group-title="BEIN SPORTS AR",Bein Sports 10 LOW
 http://185.180.223.89:25461/imiktec@gmail.com/Abd9090/141|User-agent=WSS_User_Agent
 
-#EXTINF:-1 group-title="BEIN SPORTS AR",Bein Sports 11
+#EXTINF:-1 group-title="BEIN SPORTS AR",Bein Sports 11 LOW
 http://185.180.223.89:25461/imiktec@gmail.com/Abd9090/140|User-agent=WSS_User_Agent
 
-#EXTINF:-1 group-title="BEIN SPORTS AR",Bein Sports 12
+#EXTINF:-1 group-title="BEIN SPORTS AR",Bein Sports 12 LOW
 http://185.180.223.89:25461/imiktec@gmail.com/Abd9090/139|User-agent=WSS_User_Agent
 
 #EXTGRP: WSS HD 
