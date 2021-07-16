@@ -1,6 +1,6 @@
 #EXTM3U
 #PLAYLIST
-#EXTGRP: FRANCE INFO
+#EXTGRP: FRANCE INFO!
 #EXTINF:-1 tvg-id="Franceinfo.fr" tvg-name="Franceinfo" tvg-country="FR" tvg-language="French" tvg-logo="FRANCE" group-title="FRANCE",Franceinfo
 https://linkastream.co/headless?url=https://www.youtube.com/channel/UCO6K_kkdP-lnSCiO3tPx7WA/live
 #EXTINF:-1,TV5 MONDE
