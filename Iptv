@@ -1,15 +1,15 @@
 #EXTM3U
 #PLAYLIST
 #EXTGRP: FRANCE INFO
-#EXTINF:-1 tvg-id="Franceinfo.fr" tvg-name="Franceinfo" tvg-country="FR" tvg-language="French" tvg-logo="none" group-title="None",Franceinfo
+#EXTINF:-1 tvg-id="Franceinfo.fr" tvg-name="Franceinfo" tvg-country="FR" tvg-language="French" tvg-logo="FRANCE" group-title="FRANCE",Franceinfo
 https://linkastream.co/headless?url=https://www.youtube.com/channel/UCO6K_kkdP-lnSCiO3tPx7WA/live
 #EXTINF:-1,TV5 MONDE
 http://v3plusinfo247hls-i.akamaihd.net:80/hls/live/218877-b/v3plusinfo247hls/v3plusinfo247hls_1_1.m3u8
-#EXTINF:-1 tvg-id="France3.fr" tvg-name="France 3" tvg-country="FR" tvg-language="French" tvg-logo="none" group-title="None",France 3
+#EXTINF:-1 tvg-id="France3.fr" tvg-name="France 3" tvg-country="FR" tvg-language="French" tvg-logo="none" group-title="FRANCE",France 3
 http://edge9.iptvnetwork.net/live/france3/playlist.m3u8
-#EXTINF:-1 tvg-id="France4.fr" tvg-name="France 4" tvg-country="FR" tvg-language="French" tvg-logo="none" group-title="None",France 4
+#EXTINF:-1 tvg-id="France4.fr" tvg-name="France 4" tvg-country="FR" tvg-language="French" tvg-logo="none" group-title="FRANCE",France 4
 http://edge9.iptvnetwork.net/live/france4/playlist.m3u8
-#EXTINF:-1 tvg-id="France5.fr" tvg-name="France 5" tvg-country="FR" tvg-language="French" tvg-logo="none" group-title="None",France 5
+#EXTINF:-1 tvg-id="France5.fr" tvg-name="France 5" tvg-country="FR" tvg-language="French" tvg-logo="none" group-title="FRANCE",France 5
 http://edge9.iptvnetwork.net/live/france5/playlist.m3u8
 #EXTINF:-1,France24
 http://static.france24.com/live/F24_FR_LO_HLS/live_web.m3u8
@@ -84,45 +84,43 @@ https://rotana.hibridcdn.net:443/rotana/risala_mabr/rotana/risala_360p/chunks.m3
 #EXTINF:-1, ROTANA DRAMA LOW
 https://rotana.hibridcdn.net:443/rotana/lbc_mabr/rotana/lbc_360p/chunks.m3u8
 
-#EXTGRP: WSS LOW 
-#EXTINF:-1,2g: Bein Sports 1
+#EXTINF:-1 group-title="BEIN SPORTS AR",Bein Sports 1
 #EXTVLCOPT:user-agent=WSS_User_Agent
 http://185.180.223.89:25461/imiktec@gmail.com/Abd9090/150|User-agent=WSS_User_Agent
 
-#EXTINF:-1,2g: Bein Sports 2
+#EXTINF:-1 group-title="BEIN SPORTS AR",Bein Sports 2
 http://185.180.223.89:25461/imiktec@gmail.com/Abd9090/149|User-agent=WSS_User_Agent
 
-#EXTINF:-1,2g: Bein Sports 3
+#EXTINF:-1 group-title="BEIN SPORTS AR",Bein Sports 3
 http://185.180.223.89:25461/imiktec@gmail.com/Abd9090/148|User
 -agent=WSS_User_Agent
 
-#EXTINF:-1,2g: Bein Sports 4
+#EXTINF:-1 group-title="BEIN SPORTS AR",Bein Sports 4
 http://185.180.223.89:25461/imiktec@gmail.com/Abd9090/147|User-agent=WSS_User_Agent
 
-#EXTINF:-1,2g: Bein Sports 5
+#EXTINF:-1 group-title="BEIN SPORTS AR",Bein Sports 5
 http://185.180.223.89:25461/imiktec@gmail.com/Abd9090/146|User-agent=WSS_User_Agent
 
-#EXTINF:-1,2g: Bein Sports 6
+#EXTINF:-1 group-title="BEIN SPORTS AR",Bein Sports 6
 http://185.180.223.89:25461/imiktec@gmail.com/Abd9090/145|User-agent=WSS_User_Agent
 
-#EXTINF:-1,2g: Bein Sports 7
+#EXTINF:-1 group-title="BEIN SPORTS AR",Bein Sports 7
 http://185.180.223.89:25461/imiktec@gmail.com/Abd9090/144|User-agent=WSS_User_Agent
 
-#EXTINF:-1,2g: Bein Sports 8
+#EXTINF:-1 group-title="BEIN SPORTS AR",Bein Sports 8
 http://185.180.223.89:25461/imiktec@gmail.com/Abd9090/143|User-agent=WSS_User_Agent
 
-#EXTINF:-1,2g: Bein Sports 9
+#EXTINF:-1 group-title="BEIN SPORTS AR",Bein Sports 9
 http://185.180.223.89:25461/imiktec@gmail.com/Abd9090/142|User-agent=WSS_User_Agent
 
-#EXTINF:-1,2g: Bein Sports 10
+#EXTINF:-1 group-title="BEIN SPORTS AR",Bein Sports 10
 http://185.180.223.89:25461/imiktec@gmail.com/Abd9090/141|User-agent=WSS_User_Agent
 
-#EXTINF:-1,2g: Bein Sports 11
+#EXTINF:-1 group-title="BEIN SPORTS AR",Bein Sports 11
 http://185.180.223.89:25461/imiktec@gmail.com/Abd9090/140|User-agent=WSS_User_Agent
 
-#EXTINF:-1,2g: Bein Sports 12
+#EXTINF:-1 group-title="BEIN SPORTS AR",Bein Sports 12
 http://185.180.223.89:25461/imiktec@gmail.com/Abd9090/139|User-agent=WSS_User_Agent
-
 
 #EXTGRP: WSS HD 
 #EXTINF:-1 tvg-id="" tvg-name="Bein Sports 12 HD" tvg-logo="" group-title="Free Sports Android App",Bein Sports 1 HD
