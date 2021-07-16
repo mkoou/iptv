@@ -11,63 +11,62 @@ http://edge9.iptvnetwork.net/live/france3/playlist.m3u8
 http://edge9.iptvnetwork.net/live/france4/playlist.m3u8
 #EXTINF:-1 tvg-id="France5.fr" tvg-name="France 5" tvg-country="FR" tvg-language="French" tvg-logo="none" group-title="FRANCE",France 5
 http://edge9.iptvnetwork.net/live/france5/playlist.m3u8
-#EXTINF:-1,France24
+#EXTINF:-1 group-title="FRANCE",France24
 http://static.france24.com/live/F24_FR_LO_HLS/live_web.m3u8
-#EXTINF:-1,TF1
+#EXTINF:-1 group-title="FRANCE",TF1
 https://tf1-hls-live-ssl.tf1.fr/tf1/1/hls/live_2328.m3u8
-#EXTINF:-1, TMC 
+#EXTINF:-1 group-title="FRANCE", TMC 
 https://tmc-hls-live-ssl.tf1.fr/tmc/1/hls/live_2328.m3u8
-#EXTINF:-1, TF1 SERIE 
+#EXTINF:-1 group-title="FRANCE", TF1 SERIE 
 https://tsf-hls-live-ssl.tf1.fr/tsf/1/hls/live_2328.m3u8
-#EXTINF:-1, TFX
+#EXTINF:-1 group-title="FRANCE", TFX
 https://tfx-hls-live-ssl.tf1.fr/tfx/1/hls/live_2328.m3u8
-#EXTINF:-1, LCI
+#EXTINF:-1 group-title="FRANCE", LCI
 https://lci-hls-live-ssl.tf1.fr/lci/1/hls/live_2328.m3u8
-#EXTINF:-1,TF1 LOW
+#EXTINF:-1 group-title="FRANCE",TF1 LOW
 https://tf1-hls-live-ssl.tf1.fr/tf1/1/hls/master_1000000.m3u8
-#EXTINF:-1, LCI LOW
+#EXTINF:-1 group-title="FRANCE", LCI LOW
 https://lci-hls-live-ssl.tf1.fr/lci/1/hls/master_1000000.m3u8
 #EXTINF: -1 tvg-logo = "https://frenchflicks.com/tl_files/tv5monde/TV5MONDEInfologo.png" group-title = "FRANCE", TV5 Monde Info 
 https://tv5infohls-i.akamaihd.net/hls/live/631613/tv5infohls/index.m3u8
 
-#EXTINF:-1,MBC BOLLYWOOD LOW
-https://shls-mbcbollywood-prod-dub.shahid.net/out/v1/a79c9d7ef2a64a54a64d5c4567b3462a/index_6.m3u8
-#EXTINF:-1,MBC MASR LOW
-https://shls-masr-prod-dub.shahid.net/out/v1/b7093401da27496797a8949de23f4578/index_6.m3u8
-#EXTINF:-1,MBC 2 LOW
-https://shls-mbc2-prod-dub.shahid.net/out/v1/b4befe19798745fe986f5a9bfba62126/index_6.m3u8
-#EXTINF:-1,MBC 3 LOW
-https://shls-mbc3-prod-dub.shahid.net/out/v1/d5bbe570e1514d3d9a142657d33d85e6/index_6.m3u8
-#EXTINF:-1,MBC 4 LOW
-https://shls-mbc4-prod-dub.shahid.net/out/v1/c08681f81775496ab4afa2bac7ae7638/index_6.m3u8
-#EXTINF:-1,MBC 5 LOW
-https://shls-mbc5-prod-dub.shahid.net/out/v1/2720564b6a4641658fdfb6884b160da2/index_6.m3u8
-#EXTINF:-1,MBC ACTION LOW
-https://shls-mbcaction-prod-dub.shahid.net/out/v1/68dd761538e5460096c42422199d050b/index_6.m3u8
-#EXTINF:-1,MBC MAX LOW
-https://shls-mbcmax-prod-dub.shahid.net/out/v1/13815a7cda864c249a88c38e66a2e653/index_6.m3u8
-#EXTINF:-1,MBC DRAMA LOW
-https://shls-mbcdramaksa-prod-dub.shahid.net/out/v1/ce0f0762d89e4394a856c5fd13e43645/index_6.m3u8
-
-#EXTINF:-1,MBC BOLLYWOOD LOW
+#EXTINF:-1 group-title="MBC",MBC BOLLYWOOD LOW
 https://shls-mbcbollywood-prod-dub.shahid.net/out/v1/a79c9d7ef2a64a54a64d5c4567b3462a/index_8.m3u8
-#EXTINF:-1,MBC MASR LOW
-https://shls-masr-prod-dub.shahid.net/out/v1/b7093401da27496797a8949de23f4578/index_6.m3u8
-#EXTINF:-1,MBC 2 LOW
-https://shls-mbc2-prod-dub.shahid.net/out/v1/b4befe19798745fe986f5a9bfba62126/index_6.m3u8
-#EXTINF:-1,MBC 3 LOW
-https://shls-mbc3-prod-dub.shahid.net/out/v1/d5bbe570e1514d3d9a142657d33d85e6/index_6.m3u8
-#EXTINF:-1,MBC 4 LOW
-https://shls-mbc4-prod-dub.shahid.net/out/v1/c08681f81775496ab4afa2bac7ae7638/index_6.m3u8
-#EXTINF:-1,MBC 5 LOW
-https://shls-mbc5-prod-dub.shahid.net/out/v1/2720564b6a4641658fdfb6884b160da2/index_6.m3u8
-#EXTINF:-1,MBC ACTION LOW
-https://shls-mbcaction-prod-dub.shahid.net/out/v1/68dd761538e5460096c42422199d050b/index_6.m3u8
-#EXTINF:-1,MBC MAX LOW
-https://shls-mbcmax-prod-dub.shahid.net/out/v1/13815a7cda864c249a88c38e66a2e653/index_6.m3u8
-#EXTINF:-1,MBC DRAMA LOW
-https://shls-mbcdramaksa-prod-dub.shahid.net/out/v1/ce0f0762d89e4394a856c5fd13e43645/index_6.m3u8
+#EXTINF:-1 group-title="MBC",MBC MASR LOW
+https://shls-masr-prod-dub.shahid.net/out/v1/b7093401da27496797a8949de23f4578/index_8.m3u8
+#EXTINF:-1 group-title="MBC",MBC 2 LOW
+https://shls-mbc2-prod-dub.shahid.net/out/v1/b4befe19798745fe986f5a9bfba62126/index_8.m3u8
+#EXTINF:-1 group-title="MBC",MBC 3 LOW
+https://shls-mbc3-prod-dub.shahid.net/out/v1/d5bbe570e1514d3d9a142657d33d85e6/index_8.m3u8
+#EXTINF:-1 group-title="MBC",MBC 4 LOW
+https://shls-mbc4-prod-dub.shahid.net/out/v1/c08681f81775496ab4afa2bac7ae7638/index_8.m3u8
+#EXTINF:-1 group-title="MBC",MBC 5 LOW
+https://shls-mbc5-prod-dub.shahid.net/out/v1/2720564b6a4641658fdfb6884b160da2/index_8.m3u8
+#EXTINF:-1 group-title="MBC",MBC ACTION LOW
+https://shls-mbcaction-prod-dub.shahid.net/out/v1/68dd761538e5460096c42422199d050b/index_8.m3u8
+#EXTINF:-1 group-title="MBC",MBC MAX LOW
+https://shls-mbcmax-prod-dub.shahid.net/out/v1/13815a7cda864c249a88c38e66a2e653/index_8.m3u8
+#EXTINF:-1 group-title="MBC",MBC DRAMA LOW
+https://shls-mbcdramaksa-prod-dub.shahid.net/out/v1/ce0f0762d89e4394a856c5fd13e43645/index_8.m3u8
 
+#EXTINF:-1 group-title="MBC",MBC BOLLYWOOD SD
+https://shls-mbcbollywood-prod-dub.shahid.net/out/v1/a79c9d7ef2a64a54a64d5c4567b3462a/index_6.m3u8
+#EXTINF:-1 group-title="MBC",MBC MASR SD
+https://shls-masr-prod-dub.shahid.net/out/v1/b7093401da27496797a8949de23f4578/index_6.m3u8
+#EXTINF:-1 group-title="MBC",MBC 2 SD
+https://shls-mbc2-prod-dub.shahid.net/out/v1/b4befe19798745fe986f5a9bfba62126/index_6.m3u8
+#EXTINF:-1 group-title="MBC",MBC 3 SD
+https://shls-mbc3-prod-dub.shahid.net/out/v1/d5bbe570e1514d3d9a142657d33d85e6/index_6.m3u8
+#EXTINF:-1 group-title="MBC",MBC 4 SD
+https://shls-mbc4-prod-dub.shahid.net/out/v1/c08681f81775496ab4afa2bac7ae7638/index_6.m3u8
+#EXTINF:-1 group-title="MBC",MBC 5 SD
+https://shls-mbc5-prod-dub.shahid.net/out/v1/2720564b6a4641658fdfb6884b160da2/index_8.m3u8
+#EXTINF:-1 group-title="MBC",MBC ACTION SD
+https://shls-mbcaction-prod-dub.shahid.net/out/v1/68dd761538e5460096c42422199d050b/index_8.m3u8
+#EXTINF:-1 group-title="MBC",MBC MAX SD
+https://shls-mbcmax-prod-dub.shahid.net/out/v1/13815a7cda864c249a88c38e66a2e653/index_8.m3u8
+#EXTINF:-1 group-title="MBC",MBC DRAMA SD
+https://shls-mbcdramaksa-prod-dub.shahid.net/out/v1/ce0f0762d89e4394a856c5fd13e43645/index_6.m3u8
 
 #EXTINF:-1, ROTANA LOW
 https://rotana.hibridcdn.net:443/rotana/khaleejiya_mabr/rotana/khaleejiya_360p.m3u8 
