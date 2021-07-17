@@ -308,6 +308,15 @@ https://www.livedoomovie.com/02_epl1_720p_UK/chunklist.m3u8
 #EXTINF:-1 tvg-id="beINSports2English.qa" tvg-name="beIN Sports 2 English" tvg-country="TH" tvg-language="English" tvg-logo="https://www.lyngsat.com/logo/tv/bb/bein-sports-english-2-qa.png" group-title="SPORTS",beIN Sports 2 English [Not 24/7]
 https://www.livedoomovie.com/02_epl2_720p_UK/chunklist.m3u8
 
+#EXTINF:-1 tvg-id="LookSport.ro" tvg-name="LookSport" tvg-country="RO" tvg-language="Romanian" tvg-logo="https://i.imgur.com/uaJQZrv.png" group-title="SPORTS",LookSport (404p)
+https://stream1.1616.ro:1945/look/livestream/playlist.m3u8?wowzatokenhash=NqSD4qaHc94SbTW05NBB-lXC78ZiAOIbnbUBOHj1DAM=
+#EXTINF:-1 tvg-id="LookSport2.ro" tvg-name="LookSport 2" tvg-country="RO" tvg-language="Romanian" tvg-logo="https://i.imgur.com/uJzkQGv.png" group-title="SPORTS",LookSport 2 (404p)
+https://stream1.1616.ro:1945/looksport2/livestream/playlist.m3u8?wowzatokenhash=NqSD4qaHc94SbTW05NBB-lXC78ZiAOIbnbUBOHj1DAM=
+#EXTINF:-1 tvg-id="LookSport3.ro" tvg-name="LookSport 3" tvg-country="RO" tvg-language="Romanian" tvg-logo="https://i.imgur.com/IBJEjG0.png" group-title="SPORTS",LookSport 3 (404p)
+https://stream1.1616.ro:1945/looksport3/livestream/playlist.m3u8?wowzatokenhash=NqSD4qaHc94SbTW05NBB-lXC78ZiAOIbnbUBOHj1DAM=
+#EXTINF:-1 tvg-id="LookSportPlus.ro" tvg-name="LookSport Plus" tvg-country="RO" tvg-language="Romanian" tvg-logo="https://i.imgur.com/yPWvZLq.png" group-title="SPORTS",LookSport Plus (404p)
+https://stream1.1616.ro:1945/lookplus/livestream/playlist.m3u8?wowzatokenhash=NqSD4qaHc94SbTW05NBB-lXC78ZiAOIbnbUBOHj1DAM=
+
 
 #EXTINF:-1 tvg-id="" tvg-name="PPV 1 HD" tvg-logo="" group-title="Free Sports Android App",PPV 1 HD
  http://185.180.223.89:25461/imiktec@gmail.com/Abd9090/90|User-agent=WSS_User_Agent
