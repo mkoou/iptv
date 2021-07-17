@@ -583,6 +583,22 @@ http://185.180.223.89:25461/imiktec@gmail.com/Abd9090/119|User-agent=WSS_User_Ag
 #EXTINF:-1 tvg-id="" tvg-name="Willow Cricket HD" tvg-logo="" group-title="Free Sports Android App",Willow Cricket HD
  http://185.180.223.89:25461/imiktec@gmail.com/Abd9090/190|User-agent=WSS_User_Agent
 
+#EXTINF:-1 tvg-id="TNTEast.us" tvg-name="TNT (East)" tvg-country="US" tvg-language="English" tvg-logo="https://en.wikipedia.org/wiki/File:TNT_logo_1988.png" group-title="SPORTS",TNT (East) [Geo-blocked]
+https://tve-live-lln.warnermediacdn.com/hls/live/2023168/tnteast/slate/VIDEO_0_3564000.m3u8
+#EXTINF:-1 tvg-id="TNTWest.us" tvg-name="TNT (West)" tvg-country="US" tvg-language="English" tvg-logo="https://en.wikipedia.org/wiki/File:TNT_logo_1988.png" group-title="SPORTS",TNT (West) [Geo-blocked]
+https://tve-live-lln.warnermediacdn.com/hls/live/2023170/tntwest/slate/VIDEO_0_3564000.m3u8
+#EXTINF:-1 tvg-id="TNTSports2Brasil.us" tvg-name="TNT Sports 2 Brasil" tvg-country="BR" tvg-language="Portuguese" tvg-logo="https://upload.wikimedia.org/wikipedia/pt/d/dc/Logotipo_TNT_Sports.png" group-title="Sports",TNT Sports 2 Brasil
+https://glxlmn026c.singularcdn.net.br/playout_02/playlist.m3u8
+#EXTINF:-1 tvg-id="TNTSports3Brasil.us" tvg-name="TNT Sports 3 Brasil" tvg-country="BR" tvg-language="Portuguese" tvg-logo="https://upload.wikimedia.org/wikipedia/pt/d/dc/Logotipo_TNT_Sports.png" group-title="Sports",TNT Sports 3 Brasil
+https://glxlmn026c.singularcdn.net.br/playout_03/playlist.m3u8
+#EXTINF:-1 tvg-id="TNTSports4Brasil.us" tvg-name="TNT Sports 4 Brasil" tvg-country="BR" tvg-language="Portuguese" tvg-logo="https://upload.wikimedia.org/wikipedia/pt/d/dc/Logotipo_TNT_Sports.png" group-title="Sports",TNT Sports 4 Brasil
+https://glxlmn026c.singularcdn.net.br/playout_04/playlist.m3u8
+#EXTINF:-1 tvg-id="TNTSports5Brasil.us" tvg-name="TNT Sports 5 Brasil" tvg-country="BR" tvg-language="Portuguese" tvg-logo="https://upload.wikimedia.org/wikipedia/pt/d/dc/Logotipo_TNT_Sports.png" group-title="Sports",TNT Sports 5 Brasil
+https://glxlmn026c.singularcdn.net.br/playout_05/playlist.m3u8
+#EXTINF:-1 tvg-id="TNTEXCLUSIV.md" tvg-name="TNT_EXCLUSIV" tvg-country="MD" tvg-language="Romanian" tvg-logo="SPORTS" group-title="SPORTS",TNT_EXCLUSIV
+http://89.28.25.122/hls/tnt_md.m3u8
+
+
 #EXTINF:-1 tvg-id="" tvg-name="1-UK: ANIMAL PLANET" tvg-logo="" group-title="Free Sports Android App",1-UK: ANIMAL PLANET
  http://185.180.223.89:25461/imiktec@gmail.com/Abd9090/192|User-agent=WSS_User_Agent
 #EXTINF:-1 tvg-id="" tvg-name="1-UK: BBC FOUR" tvg-logo="" group-title="Free Sports Android App",1-UK: BBC FOUR
