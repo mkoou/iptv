@@ -286,6 +286,18 @@ http://185.180.223.89:25461/imiktec@gmail.com/Abd9090/49|User-agent=WSS_User_Age
 #EXTINF:-1 tvg-id="" tvg-name="Bein Sports 11 HD" tvg-logo="" group-title="BEIN SPORTS AR",Bein Sports 11 HD
 http://185.180.223.89:25461/imiktec@gmail.com/Abd9090/50|User-agent=WSS_User_Agent
 
+
+#EXTINF:-1 tvg-id="AbuDhabiEmirates.ae" tvg-name="Abu Dhabi Emirates" tvg-country="AE" tvg-language="Arabic" tvg-logo="SPORTS" group-title="SPORTS",Abu Dhabi Emirates
+https://admdn3.cdn.mangomolo.com/emarat/smil:emarat.stream.smil/playlist.m3u8
+#EXTINF:-1 tvg-id="AbuDhabiSports1.ae" tvg-name="Abu Dhabi Sports" tvg-country="ARAB" tvg-language="Arabic" tvg-logo="https://i.imgur.com/lKl2wZH.png" group-title="Sports",Abu Dhabi Sports 1 (1080p)
+https://admdn1.cdn.mangomolo.com/adsports1/smil:adsports1.stream.smil/playlist.m3u8
+#EXTINF:-1 tvg-id="AbuDhabiSports2.ae" tvg-name="Abu Dhabi Sports 2" tvg-country="AE" tvg-language="Arabic" tvg-logo="SPORTS" group-title="Sports",Abu Dhabi Sports 2
+https://admdn5.cdn.mangomolo.com/adsports2/smil:adsports2.stream.smil/playlist.m3u8
+#EXTINF:-1 tvg-id="AbuDhabiSports3.ae" tvg-name="Abu Dhabi Sports 3" tvg-country="AE" tvg-language="Arabic" tvg-logo="SPORTS" group-title="Sports",Abu Dhabi Sports 3
+https://admdn3.cdn.mangomolo.com/adsports3/smil:adsports3.stream.smil/playlist.m3u8
+#EXTINF:-1 tvg-id="AbuDhabiSports4.ae" tvg-name="Abu Dhabi Sports 4" tvg-country="ARAB" tvg-language="Arabic" tvg-logo="https://statres.cdn.mgmlcdn.com/analytics/uploads/164/5e3ad6cc72.png" group-title="Sports",Abu Dhabi Sports 4 (1080p) [Geo-blocked]
+https://admdn4ta.cdn.mgmlcdn.com/adsports4/smil:adsports4.stream.smil/playlist.m3u8
+
 #EXTINF:-1 tvg-id="" tvg-name="Bein Sports 12 HD" tvg-logo="" group-title="BEIN SPORTS AR",Bein Sports 12 HD
 http://185.180.223.89:25461/imiktec@gmail.com/Abd9090/51|User-agent=WSS_User_Agent
 #EXTM3U
