@@ -139,6 +139,68 @@ https://f8e7y4c6.ssl.hwcdn.net/zee5_romance/playlist.m3u8
 #EXTINF:-1 tvg-id="Zen.us" tvg-name="Zen" tvg-country="US" tvg-language="" tvg-logo="https://od.lk/s/MF8yMjg3MDIyMDBf/LocalNow_400x400.png" group-title="ZEE TV",Zen
 https://ln-zen.localnowlive.com/v1/master/385c85a93929f94966d0fb186fc33b431e6f1eb9/DSP_5fd8fd0625dd2a6b74008872_ln-zen/playlist.m3u8
 
+#EXTINF:-1 tvg-id="RakutenActionDenmark.es" tvg-name="Rakuten Action (Denmark)" tvg-country="ES" tvg-language="" tvg-logo="RAKUTEN TV" group-title="RAKUTEN TV",Rakuten Action (Denmark)
+https://rakuten-action-10-dk.samsung.wurl.com/manifest/playlist.m3u8
+#EXTINF:-1 tvg-id="RakutenActionNetherland.es" tvg-name="Rakuten Action (Netherland)" tvg-country="ES" tvg-language="" tvg-logo="RAKUTEN TV" group-title="RAKUTEN TV",Rakuten Action (Netherland)
+https://rakuten-action-8-nl.samsung.wurl.com/manifest/playlist.m3u8
+#EXTINF:-1 tvg-id="RakutenActionNorway.es" tvg-name="Rakuten Action (Norway)" tvg-country="ES" tvg-language="" tvg-logo="RAKUTEN TV" group-title="RAKUTEN TV",Rakuten Action (Norway)
+https://rakuten-action-11-no.samsung.wurl.com/manifest/playlist.m3u8
+#EXTINF:-1 tvg-id="RakutenActionSweden.es" tvg-name="Rakuten Action (Sweden)" tvg-country="ES" tvg-language="" tvg-logo="RAKUTEN TV" group-title="RAKUTEN TV",Rakuten Action (Sweden)
+https://rakuten-action-9-se.samsung.wurl.com/manifest/playlist.m3u8
+#EXTINF:-1 tvg-id="RakutenSpotlightDenmark.es" tvg-name="Rakuten Spotlight (Denmark)" tvg-country="ES" tvg-language="" tvg-logo="RAKUTEN TV" group-title="RAKUTEN TV",Rakuten Spotlight (Denmark)
+https://rakuten-spotlight-10-dk.samsung.wurl.com/manifest/playlist.m3u8
+#EXTINF:-1 tvg-id="RakutenSpotlightFinland.es" tvg-name="Rakuten Spotlight (Finland)" tvg-country="ES" tvg-language="" tvg-logo="RAKUTEN TV" group-title="RAKUTEN TV",Rakuten Spotlight (Finland)
+https://rakuten-spotlight-12-fi.samsung.wurl.com/manifest/playlist.m3u8
+#EXTINF:-1 tvg-id="RakutenSpotlightNetherlands.es" tvg-name="Rakuten Spotlight (Netherlands)" tvg-country="ES" tvg-language="" tvg-logo="RAKUTEN TV" group-title="RAKUTEN TV",Rakuten Spotlight (Netherlands)
+https://rakuten-spotlight-8-nl.samsung.wurl.com/manifest/playlist.m3u8
+#EXTINF:-1 tvg-id="RakutenSpotlightNorway.es" tvg-name="Rakuten Spotlight (Norway)" tvg-country="ES" tvg-language="" tvg-logo="RAKUTEN TV" group-title="RAKUTEN TV",Rakuten Spotlight (Norway)
+https://rakuten-spotlight-11-no.samsung.wurl.com/manifest/playlist.m3u8
+#EXTINF:-1 tvg-id="RakutenSpotlightSweden.es" tvg-name="Rakuten Spotlight (Sweden)" tvg-country="ES" tvg-language="" tvg-logo="RAKUTEN TV" group-title="RAKUTEN TV",Rakuten Spotlight (Sweden)
+https://rakuten-spotlight-9-se.samsung.wurl.com/manifest/playlist.m3u8
+#EXTINF:-1 tvg-id="RakutenSpotlight1.es" tvg-name="Rakuten Spotlight 1" tvg-country="ES" tvg-language="" tvg-logo="RAKUTEN TV" group-title="RAKUTEN TV",Rakuten Spotlight 1
+https://rakuten-spotlight-1-eu.rakuten.wurl.com/manifest/playlist.m3u8
+#EXTINF:-1 tvg-id="RakutenSpotlight2.es" tvg-name="Rakuten Spotlight 2" tvg-country="ES" tvg-language="" tvg-logo="RAKUTEN TV" group-title="RAKUTEN TV",Rakuten Spotlight 2
+https://rakuten-spotlight-2-eu.rakuten.wurl.com/manifest/playlist.m3u8
+#EXTINF:-1 tvg-id="RakutenSpotlight3.es" tvg-name="Rakuten Spotlight 3" tvg-country="ES" tvg-language="" tvg-logo="RAKUTEN TV" group-title="RAKUTEN TV",Rakuten Spotlight 3
+https://rakuten-spotlight-3-eu.rakuten.wurl.com/manifest/playlist.m3u8
+#EXTINF:-1 tvg-id="RakutenSpotlight6.es" tvg-name="Rakuten Spotlight 6" tvg-country="ES" tvg-language="" tvg-logo="RAKUTEN TV" group-title="RAKUTEN TV",Rakuten Spotlight 6
+https://rakuten-spotlight-6-eu.rakuten.wurl.com/manifest/playlist.m3u8
+#EXTINF:-1 tvg-id="RakutenSpotlight7.es" tvg-name="Rakuten Spotlight 7" tvg-country="ES" tvg-language="" tvg-logo="RAKUTEN TV" group-title="RAKUTEN TV",Rakuten Spotlight 7
+https://rakuten-spotlight-7-eu.rakuten.wurl.com/manifest/playlist.m3u8
+#EXTINF:-1 tvg-id="RakutenTopFree1.es" tvg-name="Rakuten Top Free 1" tvg-country="ES" tvg-language="" tvg-logo="RAKUTEN TV" group-title="RAKUTEN TV",Rakuten Top Free 1
+https://rakuten-topfree-1-eu.rakuten.wurl.tv/playlist.m3u8
+#EXTINF:-1 tvg-id="RakutenTopFree2.es" tvg-name="Rakuten Top Free 2" tvg-country="ES" tvg-language="" tvg-logo="RAKUTEN TV" group-title="RAKUTEN TV",Rakuten Top Free 2
+https://rakuten-topfree-2-eu.rakuten.wurl.tv/playlist.m3u8
+#EXTINF:-1 tvg-id="RakutenTopFree3.es" tvg-name="Rakuten Top Free 3" tvg-country="ES" tvg-language="" tvg-logo="RAKUTEN TV" group-title="RAKUTEN TV",Rakuten Top Free 3
+https://rakuten-topfree-3-eu.rakuten.wurl.tv/playlist.m3u8
+#EXTINF:-1 tvg-id="RakutenTopFree6.es" tvg-name="Rakuten Top Free 6" tvg-country="ES" tvg-language="" tvg-logo="RAKUTEN TV" group-title="RAKUTEN TV",Rakuten Top Free 6
+https://rakuten-topfree-6-eu.rakuten.wurl.tv/playlist.m3u8
+#EXTINF:-1 tvg-id="RakutenTopFree7.es" tvg-name="Rakuten Top Free 7" tvg-country="ES" tvg-language="" tvg-logo="RAKUTEN TV" group-title="RAKUTEN TV",Rakuten Top Free 7
+https://rakuten-topfree-7-eu.rakuten.wurl.tv/playlist.m3u8
+#EXTINF:-1 tvg-id="RakutenTVShows1.es" tvg-name="Rakuten TV Shows 1" tvg-country="ES" tvg-language="" tvg-logo="RAKUTEN TV" group-title="RAKUTEN TV",Rakuten TV Shows 1
+https://rakuten-tvshows-1-eu.rakuten.wurl.com/manifest/playlist.m3u8
+#EXTINF:-1 tvg-id="RakutenTVShows2.es" tvg-name="Rakuten TV Shows 2" tvg-country="ES" tvg-language="" tvg-logo="RAKUTEN TV" group-title="RAKUTEN TV",Rakuten TV Shows 2
+https://rakuten-tvshows-2-eu.rakuten.wurl.com/manifest/playlist.m3u8
+#EXTINF:-1 tvg-id="RakutenTVShows3.es" tvg-name="Rakuten TV Shows 3" tvg-country="ES" tvg-language="" tvg-logo="RAKUTEN TV" group-title="RAKUTEN TV",Rakuten TV Shows 3
+https://rakuten-tvshows-3-eu.rakuten.wurl.com/manifest/playlist.m3u8
+#EXTINF:-1 tvg-id="RakutenTVShows6.es" tvg-name="Rakuten TV Shows 6" tvg-country="ES" tvg-language="" tvg-logo="RAKUTEN TV" group-title="RAKUTEN TV",Rakuten TV Shows 6
+https://rakuten-tvshows-6-eu.rakuten.wurl.com/manifest/playlist.m3u8
+#EXTINF:-1 tvg-id="RakutenTVShows7.es" tvg-name="Rakuten TV Shows 7" tvg-country="ES" tvg-language="" tvg-logo="RAKUTEN TV" group-title="RAKUTEN TV",Rakuten TV Shows 7
+https://rakuten-tvshows-7-eu.rakuten.wurl.com/manifest/playlist.m3u8
+#EXTINF:-1 tvg-id="RakutenTVSpotlightAustria.es" tvg-name="Rakuten TV Spotlight Austria" tvg-country="AT" tvg-language="German" tvg-logo="https://i.imgur.com/qgYRzl1.jpg" group-title="RAKUTEN TV",Rakuten TV Spotlight Austria (720p)
+https://rakuten-spotlight-5-at.samsung.wurl.com/manifest/playlist.m3u8
+#EXTINF:-1 tvg-id="RakutenTVSpotlightFrance.es" tvg-name="Rakuten TV Spotlight France" tvg-country="FR" tvg-language="French" tvg-logo="https://i.imgur.com/TUDZvHw.jpg" group-title="RAKUTEN TV",Rakuten TV Spotlight France (720p)
+https://rakuten-spotlight-7-fr.samsung.wurl.com/manifest/playlist.m3u8
+#EXTINF:-1 tvg-id="RakutenTVSpotlightGermany.es" tvg-name="Rakuten TV Spotlight Germany" tvg-country="DE" tvg-language="German" tvg-logo="https://i.imgur.com/qgYRzl1.jpg" group-title="RAKUTEN TV",Rakuten TV Spotlight Germany (720p)
+https://rakuten-spotlight-3-de.samsung.wurl.com/manifest/playlist.m3u8
+#EXTINF:-1 tvg-id="RakutenTVSpotlightItaly.es" tvg-name="Rakuten TV Spotlight Italy" tvg-country="IT" tvg-language="Italian" tvg-logo="https://i.imgur.com/TUDZvHw.jpg" group-title="RAKUTEN TV",Rakuten TV Spotlight Italy (720p)
+https://rakuten-spotlight-6-it.samsung.wurl.com/manifest/playlist.m3u8
+#EXTINF:-1 tvg-id="RakutenTVSpotlightSwitzerland.es" tvg-name="Rakuten TV Spotlight Switzerland" tvg-country="CH" tvg-language="German" tvg-logo="https://i.imgur.com/vbb3bjW.png" group-title="RAKUTEN TV",Rakuten TV Spotlight Switzerland (720p)
+https://rakuten-spotlight-4-ch.samsung.wurl.com/manifest/playlist.m3u8
+#EXTINF:-1 tvg-id="RakutenTVSpotlightUK.es" tvg-name="Rakuten TV Spotlight UK" tvg-country="UK" tvg-language="English" tvg-logo="https://i.imgur.com/vbb3bjW.png" group-title="RAKUTEN TV",Rakuten TV Spotlight UK (720p)
+https://rakuten-spotlight-1-gb.samsung.wurl.com/manifest/playlist.m3u8
+
+
 #EXTINF:-1, ROTANA LOW
 https://rotana.hibridcdn.net:443/rotana/khaleejiya_mabr/rotana/khaleejiya_360p.m3u8 
 #EXTINF:-1, ROTANA CINEMA LOW
