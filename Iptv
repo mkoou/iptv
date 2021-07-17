@@ -299,8 +299,14 @@ https://admdn3.cdn.mangomolo.com/adsports3/smil:adsports3.stream.smil/playlist.m
 https://admdn4ta.cdn.mgmlcdn.com/adsports4/smil:adsports4.stream.smil/playlist.m3u8
 
 #EXTINF:-1 tvg-id="" tvg-name="Bein Sports 12 HD" tvg-logo="" group-title="BEIN SPORTS AR",Bein Sports 12 HD
-http://185.180.223.89:25461/imiktec@gmail.com/Abd9090/51|User-agent=WSS_User_Agent
-#EXTM3U
+http://185.180.223.89:25461/imiktec@gmail.com/Abd9090/51|User-agent=WSS_User_Age
+
+#EXTINF:-1 tvg-id="beINSports2English.qa" tvg-name="beIN Sports 1 English" tvg-country="TH" tvg-language="English" tvg-logo="https://www.lyngsat.com/logo/tv/bb/bein-sports-english-1-qa.png" group-title="SPORTS",beIN Sports 1 English [Not 24/7]
+https://www.livedoomovie.com/02_epl1_720p_UK/chunklist.m3u8
+#EXTINF:-1 tvg-id="beINSports2English.qa" tvg-name="beIN Sports 2 English" tvg-country="TH" tvg-language="English" tvg-logo="https://www.lyngsat.com/logo/tv/bb/bein-sports-english-2-qa.png" group-title="SPORTS",beIN Sports 2 English [Not 24/7]
+https://www.livedoomovie.com/02_epl2_720p_UK/chunklist.m3u8
+
+
 #EXTINF:-1 tvg-id="" tvg-name="PPV 1 HD" tvg-logo="" group-title="Free Sports Android App",PPV 1 HD
  http://185.180.223.89:25461/imiktec@gmail.com/Abd9090/90|User-agent=WSS_User_Agent
 #EXTINF:-1 tvg-id="" tvg-name="PPV 10 HD" tvg-logo="" group-title="Free Sports Android App",PPV 10 HD
