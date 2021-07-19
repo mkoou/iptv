@@ -139,6 +139,40 @@ https://f8e7y4c6.ssl.hwcdn.net/zee5_romance/playlist.m3u8
 #EXTINF:-1 tvg-id="Zen.us" tvg-name="Zen" tvg-country="US" tvg-language="" tvg-logo="https://od.lk/s/MF8yMjg3MDIyMDBf/LocalNow_400x400.png" group-title="ZEE TV",Zen
 https://ln-zen.localnowlive.com/v1/master/385c85a93929f94966d0fb186fc33b431e6f1eb9/DSP_5fd8fd0625dd2a6b74008872_ln-zen/playlist.m3u8
 
+#EXTINF:-1 "https://epg.cdnrdn.com/NovaTV.bg-20210719.xml" group-title="Bulgarian" tvg-logo="http://files.rednetcontent.com/chlogo2/greek/ckat.png" tvg-id="1619, Nova TV   
+http://46.105.112.116/?watch=NL/novatv-bul&token=RED_RBY6Ytj7o5O_vvyRFN45Vw==,1626722460.2777135544
+#EXTINF:-1 "https://epg.cdnrdn.com/NovaTV.bg-20210719.xml"dvr":"disabled"language":"group-title="Bulgarian" tvg-logo="http://files.rednetcontent.com/chlogo/novatv-logo.png" tvg-id="2975, bTV Comedy   
+http://46.105.112.116/?watch=NL/btvcomedy-bul&token=RED_RBY6Ytj7o5O_vvyRFN45Vw==,1626722460.2777135544
+#EXTINF:-1 "https://epg.cdnrdn.com/bTVComedy.bg-20210719.xml"dvr":"disabled"language":"group-title="Bulgarian" tvg-logo="http://files.rednetcontent.com/chlogo/btv-comedy-2014-logo.png" tvg-id="254 bTV Cinema   
+http://46.105.112.116/?watch=NL/btvcinema-bul&token=RED_RBY6Ytj7o5O_vvyRFN45Vw==,1626722460.2777135544
+#EXTINF:-1 "https://epg.cdnrdn.com/-20210719.xml"dvr":"disabled"language":"group-title="Bulgarian" tvg-logo="http://files.rednetcontent.com/chlogo/BTV_Cinema.png" tvg-id="1804, bTV Action   
+http://46.105.112.116/?watch=NL/btvaction-bul&token=RED_RBY6Ytj7o5O_vvyRFN45Vw==,1626722460.2777135544
+#EXTINF:-1 "https://epg.cdnrdn.com/bTVCinema.bg-20210719.xml"dvr":"disabled"language":"group-title="Bulgarian" tvg-logo="http://files.rednetcontent.com/chlogo/Btv-action.png" tvg-id="14291,bTV Lady   
+http://46.105.112.116/?watch=NL/btvlady-bul&token=RED_RBY6Ytj7o5O_vvyRFN45Vw==,1626722460.2777135544
+#EXTINF:-1 "https://epg.cdnrdn.com/bTVLady.bg-20210719.xml"dvr":"disabled"language":"group-title="Bulgarian" tvg-logo="http://files.rednetcontent.com/chlogo2/greek/BTV_Lady_2016_logo.png" tvg-id="14293 Kino Nova   
+http://46.105.112.116/?watch=NL/kinonova-bul&token=RED_RBY6Ytj7o5O_vvyRFN45Vw==,1626722460.2777135544
+#EXTINF:-1 "https://epg.cdnrdn.com/KinoNova.bg-20210719.xml"dvr":"disabled"language":"group-title="Bulgarian" tvg-logo="http://files.rednetcontent.com/chlogo2/greek/kinonova.png" tvg-id="1802, Diema   
+http://46.105.112.116/?watch=NL/diema-bul&token=RED_RBY6Ytj7o5O_vvyRFN45Vw==,1626722460.2777135544
+#EXTINF:-1 "https://epg.cdnrdn.com/Diema.bg-20210719.xml"dvr":"disabled"language":"group-title="Bulgarian" tvg-logo="http://files.rednetcontent.com/chlogo/Diema.png" tvg-id="4399,Diema Family   
+http://46.105.112.116/?watch=NL/diemafamily-bul&token=RED_RBY6Ytj7o5O_vvyRFN45Vw==,1626722460.2777135544
+#EXTINF:-1 "https://epg.cdnrdn.com/DiemaFamily.bg-20210719.xml"dvr":"disabled"language":"group-title="Bulgarian" tvg-logo="http://files.rednetcontent.com/chlogo/Diema_Family.png" tvg-id="11403, TV +   
+http://46.105.112.116/?watch=NL/tvplus-bul&token=RED_RBY6Ytj7o5O_vvyRFN45Vw==,1626722460.2777135544
+#EXTINF:-1 "https://epg.cdnrdn.com/-20210719.xml"dvr":"disabled"language":"group-title="Bulgarian" tvg-logo="http://files.rednetcontent.com/chlogo/tv+.png" tvg-id="14289, Comedy +   
+http://46.105.112.116/?watch=NL/comedyplus-bul&token=RED_RBY6Ytj7o5O_vvyRFN45Vw==,1626722460.2777135544
+#EXTINF:-1 "https://epg.cdnrdn.com/-20210719.xml"dvr":"disabled"language":"group-title="Bulgarian" tvg-logo="http://files.rednetcontent.com/chlogo2/greek/comedy.png" tvg-id="14292,FOX   
+http://46.105.112.116/?watch=NL/fox-bul&token=RED_RBY6Ytj7o5O_vvyRFN45Vw==,1626722460.2777135544
+#EXTINF:-1 "https://epg.cdnrdn.com/-20210719.xml"dvr":"disabled"language":"group-title="Bulgarian" tvg-logo="http://files.rednetcontent.com/chlogo/fox_tv.png" tvg-id="18088, FOX Life   
+http://46.105.112.116/?watch=NL/foxlife-bul&token=RED_RBY6Ytj7o5O_vvyRFN45Vw==,1626722460.2777135544
+#EXTINF:-1 "https://epg.cdnrdn.com/-20210719.xml"dvr":"disabled"language":"group-title="Bulgarian" tvg-logo="http://files.rednetcontent.com/chlogo/fox_life.png" tvg-id="21860, Film Box Extra   
+http://46.105.112.116/?watch=NL/filmboxextra-bul&token=RED_RBY6Ytj7o5O_vvyRFN45Vw==,1626722460.2777135544
+#EXTINF:-1 "https://epg.cdnrdn.com/FilmBox.bg-20210719.xml"dvr":"disabled"language":"group-title="Bulgarian" tvg-logo="http://files.rednetcontent.com/chlogo2/polish/filmbox.png" tvg-id="14288, Action +   
+http://46.105.112.116/?watch=NL/actionplus-bul&token=RED_RBY6Ytj7o5O_vvyRFN45Vw==,1626722460.2777135544
+#EXTINF:-1 "https://epg.cdnrdn.com/-20210719.xml"dvr":"disabled"language":"group-title="Bulgarian" tvg-logo="http://files.rednetcontent.com/chlogo2/greek/top250_0134_action.png" tvg-id="1971, TV Evropa   
+http://46.105.112.116/?watch=NL/tvevropa-bul&token=RED_RBY6Ytj7o5O_vvyRFN45Vw==,1626722460.2777135544
+#EXTINF:-1 "https://epg.cdnrdn.com/TVEvropa.bg-20210719.xml"dvr":"disabled"language":"Bulgarian" :"Newstvg-logo="http://files.rednetcontent.com/chlogo/TV_Evropa.png" tvg-id="18089, TLC   
+http://46.105.112.116/?watch=NL/tlc-bul&token=RED_RBY6Ytj7o5O_vvyRFN45Vw==,1626722460.2777135544
+    
+
 #EXTINF:-1 tvg-id="RakutenActionDenmark.es" tvg-name="Rakuten Action (Denmark)" tvg-country="ES" tvg-language="" tvg-logo="RAKUTEN TV" group-title="RAKUTEN TV",Rakuten Action (Denmark)
 https://rakuten-action-10-dk.samsung.wurl.com/manifest/playlist.m3u8
 #EXTINF:-1 tvg-id="RakutenActionNetherland.es" tvg-name="Rakuten Action (Netherland)" tvg-country="ES" tvg-language="" tvg-logo="RAKUTEN TV" group-title="RAKUTEN TV",Rakuten Action (Netherland)
