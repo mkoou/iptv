@@ -143,13 +143,13 @@ https://ln-zen.localnowlive.com/v1/master/385c85a93929f94966d0fb186fc33b431e6f1e
 http://46.105.112.116/?watch=NL/novatv-bul&token=RED_RBY6Ytj7o5O_vvyRFN45Vw==,1626722460.2777135544
 #EXTINF:-1 "https://epg.cdnrdn.com/NovaTV.bg-20210719.xml"dvr":"disabled"language":"group-title="Bulgarian" tvg-logo="http://files.rednetcontent.com/chlogo/novatv-logo.png" tvg-id="2975, bTV Comedy   
 http://46.105.112.116/?watch=NL/btvcomedy-bul&token=RED_RBY6Ytj7o5O_vvyRFN45Vw==,1626722460.2777135544
-#EXTINF:-1 "https://epg.cdnrdn.com/bTVComedy.bg-20210719.xml"dvr":"disabled"language":"group-title="Bulgarian" tvg-logo="http://files.rednetcontent.com/chlogo/btv-comedy-2014-logo.png" tvg-id="254 bTV Cinema   
+#EXTINF:-1 "https://epg.cdnrdn.com/bTVComedy.bg-20210719.xml"dvr":"disabled"language":"group-title="Bulgarian" tvg-logo="http://files.rednetcontent.com/chlogo/btv-comedy-2014-logo.png" tvg-id="254, bTV Cinema   
 http://46.105.112.116/?watch=NL/btvcinema-bul&token=RED_RBY6Ytj7o5O_vvyRFN45Vw==,1626722460.2777135544
 #EXTINF:-1 "https://epg.cdnrdn.com/-20210719.xml"dvr":"disabled"language":"group-title="Bulgarian" tvg-logo="http://files.rednetcontent.com/chlogo/BTV_Cinema.png" tvg-id="1804, bTV Action   
 http://46.105.112.116/?watch=NL/btvaction-bul&token=RED_RBY6Ytj7o5O_vvyRFN45Vw==,1626722460.2777135544
 #EXTINF:-1 "https://epg.cdnrdn.com/bTVCinema.bg-20210719.xml"dvr":"disabled"language":"group-title="Bulgarian" tvg-logo="http://files.rednetcontent.com/chlogo/Btv-action.png" tvg-id="14291,bTV Lady   
 http://46.105.112.116/?watch=NL/btvlady-bul&token=RED_RBY6Ytj7o5O_vvyRFN45Vw==,1626722460.2777135544
-#EXTINF:-1 "https://epg.cdnrdn.com/bTVLady.bg-20210719.xml"dvr":"disabled"language":"group-title="Bulgarian" tvg-logo="http://files.rednetcontent.com/chlogo2/greek/BTV_Lady_2016_logo.png" tvg-id="14293 Kino Nova   
+#EXTINF:-1 "https://epg.cdnrdn.com/bTVLady.bg-20210719.xml"dvr":"disabled"language":"group-title="Bulgarian" tvg-logo="http://files.rednetcontent.com/chlogo2/greek/BTV_Lady_2016_logo.png" tvg-id="14293, Kino Nova   
 http://46.105.112.116/?watch=NL/kinonova-bul&token=RED_RBY6Ytj7o5O_vvyRFN45Vw==,1626722460.2777135544
 #EXTINF:-1 "https://epg.cdnrdn.com/KinoNova.bg-20210719.xml"dvr":"disabled"language":"group-title="Bulgarian" tvg-logo="http://files.rednetcontent.com/chlogo2/greek/kinonova.png" tvg-id="1802, Diema   
 http://46.105.112.116/?watch=NL/diema-bul&token=RED_RBY6Ytj7o5O_vvyRFN45Vw==,1626722460.2777135544
