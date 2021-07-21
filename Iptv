@@ -5,6 +5,8 @@
 https://linkastream.co/headless?url=https://www.youtube.com/channel/UCO6K_kkdP-lnSCiO3tPx7WA/live
 #EXTINF:-1,TV5 MONDE
 http://v3plusinfo247hls-i.akamaihd.net:80/hls/live/218877-b/v3plusinfo247hls/v3plusinfo247hls_1_1.m3u8
+#EXTINF:-1 tvg-id="France2.fr" tvg-name="France 2" tvg-country="FR" tvg-language="French" tvg-logo="none" group-title="FRANCE",France 3
+http://edge9.iptvnetwork.net/live/france2/playlist.m3u8
 #EXTINF:-1 tvg-id="France3.fr" tvg-name="France 3" tvg-country="FR" tvg-language="French" tvg-logo="none" group-title="FRANCE",France 3
 http://edge9.iptvnetwork.net/live/france3/playlist.m3u8
 #EXTINF:-1 tvg-id="France4.fr" tvg-name="France 4" tvg-country="FR" tvg-language="French" tvg-logo="none" group-title="FRANCE",France 4
