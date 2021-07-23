@@ -72,8 +72,7 @@ https://shls-mbcdramaksa-prod-dub.shahid.net/out/v1/ce0f0762d89e4394a856c5fd13e4
 
 #EXTINF:-1 tvg-id="ZeeAction.in" tvg-name="Zee Action" tvg-country="IN" tvg-language="" tvg-logo="none" group-title="ZEE TV",Zee Action
 https://f8e7y4c6.ssl.hwcdn.net/action/playlist.m3u8
-
-#EXTINF:-1 tvg-id="ZeeMagic.in" tvg-name="Zee Magic" tvg-country="IN" tvg-language="" tvg-logo="http://cdn.startimestv.com/static/files/console/ad991280-a5cc-4dbd-b736-6039880175c8.png?l=320",Zee magic
+#EXTINF:-1 tvg-id="ZeeMagic.in" tvg-name="Zee Magic" tvg-country="IN" tvg-language="" tvg-logo="http://cdn.startimestv.com/static/files/console/ad991280-a5cc-4dbd-b736-6039880175c8.png?l=320", Zee magic
 https://f8e7y4c6.ssl.hwcdn.net/magic/playlist.m3u8
 #EXTINF:-1 tvg-id="ZeeAflam.ae" tvg-name="Zee Aflam" tvg-country="AE" tvg-language="Arabic" tvg-logo="https://content.weyyak.com/5a7c9610-5562-407b-b711-f31ce6267786/poster-image" group-title="ZEE TV",Zee Aflam (720p)
 https://weyyak-live.akamaized.net/weyyak_zee_aflam/index.m3u8
