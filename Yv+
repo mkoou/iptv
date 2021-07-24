@@ -145,4 +145,21 @@ http://vod.yellovideoplus.bj:8080/vod/_definst_/video/file/18709/BridgeEp25.mp4/
 #EXTINF:-1, BRIDGE 26
 http://vod.yellovideoplus.bj:8080/vod/_definst_/video/file/18710/BridgeEp26.mp4/playlist.m3u8|User-Agent=Y'ello Vidéo +/1.0.5
 
+#EXTGRP:    BEFORE 30!
 
+#EXTINF:-1,*** MARIAGE AVANT 30! ***
+.
+#EXTINF:-1, BEFORE 30! EP1
+http://vod.yellovideoplus.bj:8080/vod/_definst_/video/file/18677/BEFORE_30_EPISODE_1_MIABOX_TV.mp4/playlist.m3u8
+#EXTINF:-1, BEFORE 30! EP2
+http://vod.yellovideoplus.bj:8080/vod/_definst_/video/file/18678/BEFORE_30_EPISODE_2_MIABOX_TV.mp4/playlist.m3u8
+#EXTINF:-1, BEFORE 30! EP3
+http://vod.yellovideoplus.bj:8080/vod/_definst_/video/file/18679/BEFORE_30_EPISODE_3_MIABOX_TV.mp4/playlist.m3u8
+#EXTINF:-1, BEFORE 30! EP4
+http://vod.yellovideoplus.bj:8080/vod/_definst_/video/file/18680/BEFORE_30_EPISODE_4_MIABOX_TV.mp4/playlist.m3u8
+#EXTINF:-1, BEFORE 30! EP5
+http://vod.yellovideoplus.bj:8080/vod/_definst_/video/file/18681/BEFORE_30_EPISODE_5_MIABOX_TV.mp4/playlist.m3u8
+#EXTINF:-1, BEFORE 30! EP6
+http://vod.yellovideoplus.bj:8080/vod/_definst_/video/file/18682/BEFORE_30_EPISODE_6_MIABOX_TV.mp4/playlist.m3u8
+#EXTINF:-1, BEFORE 30! Ep7
+http://vod.yellovideoplus.bj:8080/vod/_definst_/video/file/18683/BEFORE_30_EPISODE_7_MIABOX_TV.mp4/playlist.m3u8
