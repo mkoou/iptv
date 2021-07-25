@@ -3,6 +3,8 @@
 #EXTGRP: FRANCE INFO!
 #EXTINF:-1 tvg-id="RealMadridTV.es" tvg-name="ES: R. MADRID TV" tvg-logo="http://logo.protv.cc/picons/logos/rmadridtv.png" group-title="|EU| ESPANA HD",ES: R. MADRID TV
 http://line.dino-ott.ru:8000/f59e252f9b/moukaila/505616
+#EXTINF:-1 tvg-id="RealMadridTV.es" tvg-name="ES: R. MADRID TV" tvg-logo="http://logo.protv.cc/picons/logos/rmadridtv.png" group-title="|EU| ESPANA HD",ES: REAL TV
+https://rmtv24hweblive-lh.akamaihd.net:443/i/rmtv24hwebes_1@300661/master.m3u8?hdnea=exp=1627235967~acl=/*~hmac=1364ae6f370b29a4218f531edf1a01dfea24651816dadefac81237b1668dd3f9
 
 #EXTINF:-1 tvg-id="BarcaTV.es" tvg-name="ES: BARCA TV" tvg-logo="http://logo.protv.cc/picons/logos/barcatv.png" group-title="|EU| ESPANA HD",ES: BARCA TV
 http://line.dino-ott.ru:8000/f59e252f9b/moukaila/505615
