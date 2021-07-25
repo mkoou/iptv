@@ -145,58 +145,59 @@ http://vod.yellovideoplus.bj:8080/vod/_definst_/video/file/22634/RackMultipart20
 
 #EXTINF:-1,*** BRIDGE ***
 .
-#EXTINF:-1 , tvg-logo="https://www.linkpicture.com/q/Screenshot_20210725_095500-4.jpg" ,tvg-logo="https://www.linkpicture.com/q/Screenshot_20210725_095500-4.jpg",BRIDGE 1
+#EXTINF:-1 , tvg-logo="https://www.linkpicture.com/q/Screenshot_20210725_095500-4.jpg",BRIDGE 1
 http://vod.yellovideoplus.bj:8080/vod/_definst_/video/file/18684/BridgeEp1.mp4/playlist.m3u8|User-Agent=Y'ello Vidéo +/1.0.5
-#EXTINF:-1 ,tvg-logo="https://www.linkpicture.com/q/Screenshot_20210725_095500-4.jpg",BRIDGE 2
+#EXTINF:-1 tvg-logo="https://www.linkpicture.com/q/Screenshot_20210725_095500-4.jpg",BRIDGE 2
 http://vod.yellovideoplus.bj:8080/vod/_definst_/video/file/18685/BridgeEp2.mp4/playlist.m3u8|User-Agent=Y'ello Vidéo +/1.0.5
-#EXTINF:-1 ,tvg-logo="https://www.linkpicture.com/q/Screenshot_20210725_095500-4.jpg",BRIDGE 3
+#EXTINF:-1 tvg-logo="https://www.linkpicture.com/q/Screenshot_20210725_095500-4.jpg",BRIDGE 3
 http://vod.yellovideoplus.bj:8080/vod/_definst_/video/file/18686/BridgeEp3.mp4/playlist.m3u8|User-Agent=Y'ello Vidéo +/1.0.5
-#EXTINF:-1 ,tvg-logo="https://www.linkpicture.com/q/Screenshot_20210725_095500-4.jpg",BRIDGE 4
+#EXTINF:-1 tvg-logo="https://www.linkpicture.com/q/Screenshot_20210725_095500-4.jpg",BRIDGE 4
 http://vod.yellovideoplus.bj:8080/vod/_definst_/video/file/18687/BridgeEp4.mp4/playlist.m3u8|User-Agent=Y'ello Vidéo +/1.0.5
-#EXTINF:-1 ,tvg-logo="https://www.linkpicture.com/q/Screenshot_20210725_095500-4.jpg",BRIDGE 5
+#EXTINF:-1 tvg-logo="https://www.linkpicture.com/q/Screenshot_20210725_095500-4.jpg",BRIDGE 5
 http://vod.yellovideoplus.bj:8080/vod/_definst_/video/file/18688/BridgeEp5.mp4/playlist.m3u8|User-Agent=Y'ello Vidéo +/1.0.5
-#EXTINF:-1 ,tvg-logo="https://www.linkpicture.com/q/Screenshot_20210725_095500-4.jpg",BRIDGE 6
+#EXTINF:-1 tvg-logo="https://www.linkpicture.com/q/Screenshot_20210725_095500-4.jpg",BRIDGE 6
 http://vod.yellovideoplus.bj:8080/vod/_definst_/video/file/18689/BridgeEp6.mp4/playlist.m3u8|User-Agent=Y'ello Vidéo +/1.0.5
-#EXTINF:-1 ,tvg-logo="https://www.linkpicture.com/q/Screenshot_20210725_095500-4.jpg",BRIDGE 7
+#EXTINF:-1 tvg-logo="https://www.linkpicture.com/q/Screenshot_20210725_095500-4.jpg",BRIDGE 7
 http://vod.yellovideoplus.bj:8080/vod/_definst_/video/file/18690/BridgeEp7.mp4/playlist.m3u8|User-Agent=Y'ello Vidéo +/1.0.5
-#EXTINF:-1 ,tvg-logo="https://www.linkpicture.com/q/Screenshot_20210725_095500-4.jpg",BRIDGE 8
+#EXTINF:-1 tvg-logo="https://www.linkpicture.com/q/Screenshot_20210725_095500-4.jpg",BRIDGE 8
 http://vod.yellovideoplus.bj:8080/vod/_definst_/video/file/18691/BridgeEp8.mp4/playlist.m3u8|User-Agent=Y'ello Vidéo +/1.0.5
-#EXTINF:-1 ,tvg-logo="https://www.linkpicture.com/q/Screenshot_20210725_095500-4.jpg",BRIDGE 9
+#EXTINF:-1 tvg-logo="https://www.linkpicture.com/q/Screenshot_20210725_095500-4.jpg",BRIDGE 9
 http://vod.yellovideoplus.bj:8080/vod/_definst_/video/file/18692/BridgeEp9.mp4/playlist.m3u8|User-Agent=Y'ello Vidéo +/1.0.5
-#EXTINF:-1 ,tvg-logo="https://www.linkpicture.com/q/Screenshot_20210725_095500-4.jpg",BRIDGE 10
+#EXTINF:-1 tvg-logo="https://www.linkpicture.com/q/Screenshot_20210725_095500-4.jpg",BRIDGE 10
 http://vod.yellovideoplus.bj:8080/vod/_definst_/video/file/18693/BridgeEp10.mp4/playlist.m3u8|User-Agent=Y'ello Vidéo +/1.0.5
-#EXTINF:-1 ,tvg-logo="https://www.linkpicture.com/q/Screenshot_20210725_095500-4.jpg",BRIDGE 11
+#EXTINF:-1 tvg-logo="https://www.linkpicture.com/q/Screenshot_20210725_095500-4.jpg",BRIDGE 11
 http://vod.yellovideoplus.bj:8080/vod/_definst_/video/file/18694/BridgeEp11.mp4/playlist.m3u8|User-Agent=Y'ello Vidéo +/1.0.5
-#EXTINF:-1 ,tvg-logo="https://www.linkpicture.com/q/Screenshot_20210725_095500-4.jpg",BRIDGE 12
+#EXTINF:-1 tvg-logo="https://www.linkpicture.com/q/Screenshot_20210725_095500-4.jpg",BRIDGE 12
 http://vod.yellovideoplus.bj:8080/vod/_definst_/video/file/18695/BridgeEp12.mp4/playlist.m3u8|User-Agent=Y'ello Vidéo +/1.0.5
-#EXTINF:-1 ,tvg-logo="https://www.linkpicture.com/q/Screenshot_20210725_095500-4.jpg",BRIDGE 13
+#EXTINF:-1 tvg-logo="https://www.linkpicture.com/q/Screenshot_20210725_095500-4.jpg",BRIDGE 13
 http://vod.yellovideoplus.bj:8080/vod/_definst_/video/file/18696/BridgeEp13.mp4/playlist.m3u8|User-Agent=Y'ello Vidéo +/1.0.5
-#EXTINF:-1 ,tvg-logo="https://www.linkpicture.com/q/Screenshot_20210725_095500-4.jpg",BRIDGE 14
+#EXTINF:-1 tvg-logo="https://www.linkpicture.com/q/Screenshot_20210725_095500-4.jpg",BRIDGE 14
 http://vod.yellovideoplus.bj:8080/vod/_definst_/video/file/18697/BridgeEp14.mp4/playlist.m3u8|User-Agent=Y'ello Vidéo +/1.0.5
-#EXTINF:-1 ,tvg-logo="https://www.linkpicture.com/q/Screenshot_20210725_095500-4.jpg",BRIDGE 15
+#EXTINF:-1 tvg-logo="https://www.linkpicture.com/q/Screenshot_20210725_095500-4.jpg",BRIDGE 15
 http://vod.yellovideoplus.bj:8080/vod/_definst_/video/file/18698/BridgeEp15.mp4/playlist.m3u8|User-Agent=Y'ello Vidéo +/1.0.5
-#EXTINF:-1 ,tvg-logo="https://www.linkpicture.com/q/Screenshot_20210725_095500-4.jpg",BRIDGE 16
+#EXTINF:-1 tvg-logo="https://www.linkpicture.com/q/Screenshot_20210725_095500-4.jpg",BRIDGE 16
 http://vod.yellovideoplus.bj:8080/vod/_definst_/video/file/18699/BridgeEp16.mp4/playlist.m3u8|User-Agent=Y'ello Vidéo +/1.0.5
-#EXTINF:-1 ,tvg-logo="https://www.linkpicture.com/q/Screenshot_20210725_095500-4.jpg",BRIDGE 17
+#EXTINF:-1 tvg-logo="https://www.linkpicture.com/q/Screenshot_20210725_095500-4.jpg",BRIDGE 17
 http://vod.yellovideoplus.bj:8080/vod/_definst_/video/file/18700/BridgeEp17.mp4/playlist.m3u8|User-Agent=Y'ello Vidéo +/1.0.5
-#EXTINF:-1 ,tvg-logo="https://www.linkpicture.com/q/Screenshot_20210725_095500-4.jpg",BRIDGE 18
+#EXTINF:-1 tvg-logo="https://www.linkpicture.com/q/Screenshot_20210725_095500-4.jpg",BRIDGE 18
 http://vod.yellovideoplus.bj:8080/vod/_definst_/video/file/18701/BridgeEp18.mp4/playlist.m3u8|User-Agent=Y'ello Vidéo +/1.0.5
-#EXTINF:-1 ,tvg-logo="https://www.linkpicture.com/q/Screenshot_20210725_095500-4.jpg",BRIDGE 19
+#EXTINF:-1 tvg-logo="https://www.linkpicture.com/q/Screenshot_20210725_095500-4.jpg",BRIDGE 19
 http://vod.yellovideoplus.bj:8080/vod/_definst_/video/file/18702/BridgeEp19.mp4/playlist.m3u8|User-Agent=Y'ello Vidéo +/1.0.5
-#EXTINF:-1 ,tvg-logo="https://www.linkpicture.com/q/Screenshot_20210725_095500-4.jpg",BRIDGE 20
+#EXTINF:-1 tvg-logo="https://www.linkpicture.com/q/Screenshot_20210725_095500-4.jpg",BRIDGE 20
 http://vod.yellovideoplus.bj:8080/vod/_definst_/video/file/18703/BridgeEp20.mp4/playlist.m3u8|User-Agent=Y'ello Vidéo +/1.0.5
-#EXTINF:-1 ,tvg-logo="https://www.linkpicture.com/q/Screenshot_20210725_095500-4.jpg",BRIDGE 21
+#EXTINF:-1 tvg-logo="https://www.linkpicture.com/q/Screenshot_20210725_095500-4.jpg",BRIDGE 21
 http://vod.yellovideoplus.bj:8080/vod/_definst_/video/file/18704/BridgeEp21.mp4/playlist.m3u8|User-Agent=Y'ello Vidéo +/1.0.5
-#EXTINF:-1 ,tvg-logo="https://www.linkpicture.com/q/Screenshot_20210725_095500-4.jpg",BRIDGE 22
+#EXTINF:-1 tvg-logo="https://www.linkpicture.com/q/Screenshot_20210725_095500-4.jpg",BRIDGE 22
 http://vod.yellovideoplus.bj:8080/vod/_definst_/video/file/18705/BridgeEp22.mp4/playlist.m3u8|User-Agent=Y'ello Vidéo +/1.0.5
-#EXTINF:-1 ,tvg-logo="https://www.linkpicture.com/q/Screenshot_20210725_095500-4.jpg",BRIDGE 23
+#EXTINF:-1 tvg-logo="https://www.linkpicture.com/q/Screenshot_20210725_095500-4.jpg",BRIDGE 23
 http://vod.yellovideoplus.bj:8080/vod/_definst_/video/file/18706/BridgeEp23.mp4/playlist.m3u8|User-Agent=Y'ello Vidéo +/1.0.5
-#EXTINF:-1 ,tvg-logo="https://www.linkpicture.com/q/Screenshot_20210725_095500-4.jpg",BRIDGE 24
+#EXTINF:-1 tvg-logo="https://www.linkpicture.com/q/Screenshot_20210725_095500-4.jpg",BRIDGE 24
 http://vod.yellovideoplus.bj:8080/vod/_definst_/video/file/18707/BridgeEp24.mp4/playlist.m3u8|User-Agent=Y'ello Vidéo +/1.0.5
-#EXTINF:-1 ,tvg-logo="https://www.linkpicture.com/q/Screenshot_20210725_095500-4.jpg",BRIDGE 25
+#EXTINF:-1 tvg-logo="https://www.linkpicture.com/q/Screenshot_20210725_095500-4.jpg",BRIDGE 25
 http://vod.yellovideoplus.bj:8080/vod/_definst_/video/file/18709/BridgeEp25.mp4/playlist.m3u8|User-Agent=Y'ello Vidéo +/1.0.5
-#EXTINF:-1 ,tvg-logo="https://www.linkpicture.com/q/Screenshot_20210725_095500-4.jpg",BRIDGE 26
+#EXTINF:-1 tvg-logo="https://www.linkpicture.com/q/Screenshot_20210725_095500-4.jpg",BRIDGE 26
 http://vod.yellovideoplus.bj:8080/vod/_definst_/video/file/18710/BridgeEp26.mp4/playlist.m3u8|User-Agent=Y'ello Vidéo +/1.0.5
+
 
 #EXTGRP:    BEFORE 30!
 
