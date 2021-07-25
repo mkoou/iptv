@@ -218,7 +218,7 @@ http://vod.yellovideoplus.bj:8080/vod/_definst_/video/file/18682/BEFORE_30_EPISO
 #EXTINF:-1, BEFORE 30! Ep7
 http://vod.yellovideoplus.bj:8080/vod/_definst_/video/file/18683/BEFORE_30_EPISODE_7_MIABOX_TV.mp4/playlist.m3u8
 
-#EXTGRP:.     DAME LEKKI
+#EXTGRP:     DAME LEKKI
 #EXTINF:-1, ***DAME LEKKI ***
 .
 #EXTINF:-1,DAME LEKKI 1  
