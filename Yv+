@@ -87,6 +87,60 @@ http://vod.yellovideoplus.bj:8080/vod/_definst_/video/file/21043/NoxEp11.mp4/pla
 #EXTINF:-1, NOX 12
 http://vod.yellovideoplus.bj:8080/vod/_definst_/video/file/21044/NoxEp12.mp4/playlist.m3u8|User-Agent=Y'ello Vidéo +/1.0.5
 
+#EXTGRP: TEST D'AMOUR
+#EXTINF:-1,***TEST D'AMOUR***
+.
+#EXTINF:-1,TAST OF LOVE 1  
+http://vod.yellovideoplus.bj:8080/vod/_definst_/video/file/22656/RackMultipart20210317-5830-fydmww.mp4/playlist.m3u8
+#EXTINF:-1,TAST OF LOVE 2  
+http://vod.yellovideoplus.bj:8080/vod/_definst_/video/file/22658/RackMultipart20210317-5863-1kk9ch6.mp4/playlist.m3u8
+#EXTINF:-1,TAST OF LOVE 3  
+http://vod.yellovideoplus.bj:8080/vod/_definst_/video/file/22654/RackMultipart20210317-5907-16im1vg.mp4/playlist.m3u8
+#EXTINF:-1,TAST OF LOVE 4  
+http://vod.yellovideoplus.bj:8080/vod/_definst_/video/file/22655/RackMultipart20210317-5885-zvywad.mp4/playlist.m3u8
+#EXTINF:-1,TAST OF LOVE 5 
+http://vod.yellovideoplus.bj:8080/vod/_definst_/video/file/22655/RackMultipart20210317-5885-zvywad.mp4/playlist.m3u8
+#EXTINF:-1,TAST OF LOVE 6  
+http://vod.yellovideoplus.bj:8080/vod/_definst_/video/file/22647/RackMultipart20210317-5907-117zv33.mp4/playlist.m3u8
+#EXTINF:-1,TAST OF LOVE 7  
+http://vod.yellovideoplus.bj:8080/vod/_definst_/video/file/22641/RackMultipart20210317-5807-n4o8ge.mp4/playlist.m3u8
+#EXTINF:-1,TAST OF LOVE 8 
+http://vod.yellovideoplus.bj:8080/vod/_definst_/video/file/22651/RackMultipart20210317-5805-15oq2h6.mp4/playlist.m3u8
+#EXTINF:-1,TAST OF LOVE 9 
+http://vod.yellovideoplus.bj:8080/vod/_definst_/video/file/22643/RackMultipart20210317-5830-goy07c.mp4/playlist.m3u8
+#EXTINF:-1,TAST OF LOVE 10 
+http://vod.yellovideoplus.bj:8080/vod/_definst_/video/file/22653/RackMultipart20210317-5885-vnb4h9.mp4/playlist.m3u8
+#EXTINF:-1,TAST OF LOVE 11 
+http://vod.yellovideoplus.bj:8080/vod/_definst_/video/file/22635/RackMultipart20210317-5848-1mu4l8m.mp4/playlist.m3u8
+#EXTINF:-1,TAST OF LOVE 12 
+http://vod.yellovideoplus.bj:8080/vod/_definst_/video/file/22645/RackMultipart20210317-5972-dvg56l.mp4/playlist.m3u8
+#EXTINF:-1,TAST OF LOVE 13 
+http://vod.yellovideoplus.bj:8080/vod/_definst_/video/file/22637/RackMultipart20210317-5863-j96q9g.mp4/playlist.m3u8
+#EXTINF:-1,TAST OF LOVE 14 
+http://vod.yellovideoplus.bj:8080/vod/_definst_/video/file/22648/RackMultipart20210317-5863-lhr3vy.mp4/playlist.m3u8
+#EXTINF:-1,TAST OF LOVE 15 
+http://vod.yellovideoplus.bj:8080/vod/_definst_/video/file/22639/RackMultipart20210317-5885-m1avev.mp4/playlist.m3u8
+#EXTINF:-1,TAST OF LOVE 16
+http://vod.yellovideoplus.bj:8080/vod/_definst_/video/file/22650/RackMultipart20210317-5961-re09z6.mp4/playlist.m3u8
+#EXTINF:-1,TAST OF LOVE 17 
+http://vod.yellovideoplus.bj:8080/vod/_definst_/video/file/22640/RackMultipart20210317-5939-ru9kt3.mp4/playlist.m3u8
+#EXTINF:-1,TAST OF LOVE 18 
+http://vod.yellovideoplus.bj:8080/vod/_definst_/video/file/22638/RackMultipart20210317-5972-1jqn5my.mp4/playlist.m3u8
+#EXTINF:-1,TAST OF LOVE 19
+http://vod.yellovideoplus.bj:8080/vod/_definst_/video/file/22642/RackMultipart20210317-5848-sk98tc.mp4/playlist.m3u8
+#EXTINF:-1,TAST OF LOVE 20 
+http://vod.yellovideoplus.bj:8080/vod/_definst_/video/file/22652/RackMultipart20210317-5972-12ojnlm.mp4/playlist.m3u8
+#EXTINF:-1,TAST OF LOVE 21  
+http://vod.yellovideoplus.bj:8080/vod/_definst_/video/file/22644/RackMultipart20210317-5972-1jpip44.mp4/playlist.m3u8
+#EXTINF:-1,TAST OF LOVE 22 
+http://vod.yellovideoplus.bj:8080/vod/_definst_/video/file/22649/RackMultipart20210317-5848-1ue2z1h.mp4/playlist.m3u8
+#EXTINF:-1,TAST OF LOVE 23 
+http://vod.yellovideoplus.bj:8080/vod/_definst_/video/file/22646/RackMultipart20210317-5830-17w93lo.mp4/playlist.m3u8
+#EXTINF:-1,TAST OF LOVE 24 
+http://vod.yellovideoplus.bj:8080/vod/_definst_/video/file/22636/RackMultipart20210317-5863-54rta2.mp4/playlist.m3u8
+#EXTINF:-1,TAST OF LOVE 25 
+http://vod.yellovideoplus.bj:8080/vod/_definst_/video/file/22634/RackMultipart20210317-5805-13pyjlm.mp4/playlist.m3u8
+
 
 #EXTGRP:    BRIDGE
 
@@ -164,6 +218,9 @@ http://vod.yellovideoplus.bj:8080/vod/_definst_/video/file/18682/BEFORE_30_EPISO
 #EXTINF:-1, BEFORE 30! Ep7
 http://vod.yellovideoplus.bj:8080/vod/_definst_/video/file/18683/BEFORE_30_EPISODE_7_MIABOX_TV.mp4/playlist.m3u8
 
+#EXTGRP:.     DAME LEKKI
+#EXTINF:-1, ***DAME LEKKI ***
+.
 #EXTINF:-1,DAME LEKKI 1  
 http://vod.yellovideoplus.bj:8080/vod/_definst_/video/file/22632/RackMultipart20210317-5830-pe0poh.mp4/playlist.m3u8
                          
