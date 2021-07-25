@@ -2,7 +2,7 @@
 
 #EXTINF:-1,*** LAS GIDI COPS ***
 .
-#EXTINF:-1, LAS GIDI COPS 1
+#EXTINF:-1 tvg-logo="https://ibb.co/wNyD9xB", LAS GIDI COPS 1
 http://vod.yellovideoplus.bj:8080/vod/_definst_/video/file/18712/LasgidiCopsS01_Ep1.mp4/playlist.m3u8|User-Agent=Y'ello Vidéo +/1.0.5
 #EXTINF:-1, LAS GIDI COPS 2
 http://vod.yellovideoplus.bj:8080/vod/_definst_/video/file/18713/LasgidiCopsS01_Ep2.mp4/playlist.m3u8|User-Agent=Y'ello Vidéo +/1.0.5
