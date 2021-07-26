@@ -1,3 +1,30 @@
+#EXTGRP:    LAS DIGI COPS
+#EXTINF:-1 tvg-logo="https://www.linkpicture.com/q/Screenshot_20210725_095500-2.jpg" group-title="LAS GIDI COPS",LAS GIDI COPS 1
+http://vod.yellovideoplus.bj:8080/vod/_definst_/video/file/18712/LasgidiCopsS01_Ep1.mp4/playlist.m3u8|User-Agent=Y'ello Vidéo +/1.0.5
+#EXTINF:-1 tvg-logo="https://www.linkpicture.com/q/Screenshot_20210725_095500-2.jpg" group-title="LAS GIDI COPS",LAS GIDI COPS 2
+http://vod.yellovideoplus.bj:8080/vod/_definst_/video/file/18713/LasgidiCopsS01_Ep2.mp4/playlist.m3u8|User-Agent=Y'ello Vidéo +/1.0.5
+#EXTINF:-1 tvg-logo="https://www.linkpicture.com/q/Screenshot_20210725_095500-2.jpg" group-title="LAS GIDI COPS",LAS GIDI COPS 3
+http://vod.yellovideoplus.bj:8080/vod/_definst_/video/file/18714/LasgidiCopsS01_Ep3.mp4/playlist.m3u8|User-Agent=Y'ello Vidéo +/1.0.5
+#EXTINF:-1 tvg-logo="https://www.linkpicture.com/q/Screenshot_20210725_095500-2.jpg" group-title="LAS GIDI COPS",LAS GIDI COPS 4
+http://vod.yellovideoplus.bj:8080/vod/_definst_/video/file/18715/LasgidiCopsS01_Ep4.mp4/playlist.m3u8|User-Agent=Y'ello Vidéo +/1.0.5
+#EXTINF:-1 tvg-logo="https://www.linkpicture.com/q/Screenshot_20210725_095500-2.jpg" group-title="LAS GIDI COPS",LAS GIDI COPS 5
+http://vod.yellovideoplus.bj:8080/vod/_definst_/video/file/18717/LasgidiCopsS01_Ep5.mp4/playlist.m3u8|User-Agent=Y'ello Vidéo +/1.0.5
+#EXTINF:-1 tvg-logo="https://www.linkpicture.com/q/Screenshot_20210725_095500-2.jpg" group-title="LAS GIDI COPS",LAS GIDI COPS 6
+http://vod.yellovideoplus.bj:8080/vod/_definst_/video/file/18718/LasgidiCopsS01_Ep6.mp4/playlist.m3u8|User-Agent=Y'ello Vidéo +/1.0.5
+#EXTINF:-1 tvg-logo="https://www.linkpicture.com/q/Screenshot_20210725_095500-2.jpg" group-title="LAS GIDI COPS",LAS GIDI COPS 7
+http://vod.yellovideoplus.bj:8080/vod/_definst_/video/file/18719/LasgidiCopsS01_Ep7.mp4/playlist.m3u8|User-Agent=Y'ello Vidéo +/1.0.5
+#EXTINF:-1 tvg-logo="https://www.linkpicture.com/q/Screenshot_20210725_095500-2.jpg" group-title="LAS GIDI COPS",LAS GIDI COPS 8
+http://vod.yellovideoplus.bj:8080/vod/_definst_/video/file/18720/LasgidiCopsS01_Ep8.mp4/playlist.m3u8|User-Agent=Y'ello Vidéo +/1.0.5
+#EXTINF:-1 tvg-logo="https://www.linkpicture.com/q/Screenshot_20210725_095500-2.jpg" group-title="LAS GIDI COPS",LAS GIDI COPS 9
+http://vod.yellovideoplus.bj:8080/vod/_definst_/video/file/18721/LasgidiCopsS01_Ep9.mp4/playlist.m3u8|User-Agent=Y'ello Vidéo +/1.0.5
+#EXTINF:-1 tvg-logo="https://www.linkpicture.com/q/Screenshot_20210725_095500-2.jpg" group-title="LAS GIDI COPS",LAS GIDI COPS 10
+http://vod.yellovideoplus.bj:8080/vod/_definst_/video/file/18722/LasgidiCopsS01_Ep10.mp4/playlist.m3u8|User-Agent=Y'ello Vidéo +/1.0.5
+#EXTINF:-1 tvg-logo="https://www.linkpicture.com/q/Screenshot_20210725_095500-2.jpg" group-title="LAS GIDI COPS",LAS GIDI COPS 11
+http://vod.yellovideoplus.bj:8080/vod/_definst_/video/file/18723/LasgidiCopsS01_Ep11.mp4/playlist.m3u8|User-Agent=Y'ello Vidéo +/1.0.5
+#EXTINF:-1 tvg-logo="https://www.linkpicture.com/q/Screenshot_20210725_095500-2.jpg" group-title="LAS GIDI COPS",LAS GIDI COPS 12
+http://vod.yellovideoplus.bj:8080/vod/_definst_/video/file/18724/LasgidiCopsS01_Ep12.mp4/playlist.m3u8|User-Agent=Y'ello Vidéo +/1.0.5
+#EXTINF:-1 tvg-logo="https://www.linkpicture.com/q/Screenshot_20210725_095500-2.jpg" group-title="LAS GIDI COPS",LAS GIDI COPS 13
+http://vod.yellovideoplus.bj:8080/vod/_definst_/video/file/18725/LasgidiCopsS01_Ep13.mp4/playlist.m3u8|User-Agent=Y'ello Vidéo +/1.0.5
 
 #EXTGRP:    FILMS AFRICAINS
 .
@@ -73,37 +100,6 @@ http://vod.yellovideoplus.bj:8080/vod/_definst_/video/file/26334/2_-_AVITIKPAMBA
 http://vod.yellovideoplus.bj:8080/vod/_definst_/video/file/26335/3_-_AVITIKPAMBA_3_Officiel_Full_HD_VO__2021_.mp4/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://www.linkpicture.com/q/Screenshot_20210726_183323.jpg" group-title="FILMS BJ",AVITIKPAMBA 4
 http://vod.yellovideoplus.bj:8080/vod/_definst_/video/file/26336/4_-_AVITIKPAMBA_4_-_Full_HD__2021__Final.mp4/playlist.m3u8
-
-#EXTGRP:    LAS DIGI COPS
-
-#EXTINF:-1,*** LAS GIDI COPS ***
-.
-#EXTINF:-1 tvg-logo="https://www.linkpicture.com/q/Screenshot_20210725_095500-2.jpg" group-title="LAS GIDI COPS",LAS GIDI COPS 1
-http://vod.yellovideoplus.bj:8080/vod/_definst_/video/file/18712/LasgidiCopsS01_Ep1.mp4/playlist.m3u8|User-Agent=Y'ello Vidéo +/1.0.5
-#EXTINF:-1 tvg-logo="https://www.linkpicture.com/q/Screenshot_20210725_095500-2.jpg" group-title="LAS GIDI COPS",LAS GIDI COPS 2
-http://vod.yellovideoplus.bj:8080/vod/_definst_/video/file/18713/LasgidiCopsS01_Ep2.mp4/playlist.m3u8|User-Agent=Y'ello Vidéo +/1.0.5
-#EXTINF:-1 tvg-logo="https://www.linkpicture.com/q/Screenshot_20210725_095500-2.jpg" group-title="LAS GIDI COPS",LAS GIDI COPS 3
-http://vod.yellovideoplus.bj:8080/vod/_definst_/video/file/18714/LasgidiCopsS01_Ep3.mp4/playlist.m3u8|User-Agent=Y'ello Vidéo +/1.0.5
-#EXTINF:-1 tvg-logo="https://www.linkpicture.com/q/Screenshot_20210725_095500-2.jpg" group-title="LAS GIDI COPS",LAS GIDI COPS 4
-http://vod.yellovideoplus.bj:8080/vod/_definst_/video/file/18715/LasgidiCopsS01_Ep4.mp4/playlist.m3u8|User-Agent=Y'ello Vidéo +/1.0.5
-#EXTINF:-1 tvg-logo="https://www.linkpicture.com/q/Screenshot_20210725_095500-2.jpg" group-title="LAS GIDI COPS",LAS GIDI COPS 5
-http://vod.yellovideoplus.bj:8080/vod/_definst_/video/file/18717/LasgidiCopsS01_Ep5.mp4/playlist.m3u8|User-Agent=Y'ello Vidéo +/1.0.5
-#EXTINF:-1 tvg-logo="https://www.linkpicture.com/q/Screenshot_20210725_095500-2.jpg" group-title="LAS GIDI COPS",LAS GIDI COPS 6
-http://vod.yellovideoplus.bj:8080/vod/_definst_/video/file/18718/LasgidiCopsS01_Ep6.mp4/playlist.m3u8|User-Agent=Y'ello Vidéo +/1.0.5
-#EXTINF:-1 tvg-logo="https://www.linkpicture.com/q/Screenshot_20210725_095500-2.jpg" group-title="LAS GIDI COPS",LAS GIDI COPS 7
-http://vod.yellovideoplus.bj:8080/vod/_definst_/video/file/18719/LasgidiCopsS01_Ep7.mp4/playlist.m3u8|User-Agent=Y'ello Vidéo +/1.0.5
-#EXTINF:-1 tvg-logo="https://www.linkpicture.com/q/Screenshot_20210725_095500-2.jpg" group-title="LAS GIDI COPS",LAS GIDI COPS 8
-http://vod.yellovideoplus.bj:8080/vod/_definst_/video/file/18720/LasgidiCopsS01_Ep8.mp4/playlist.m3u8|User-Agent=Y'ello Vidéo +/1.0.5
-#EXTINF:-1 tvg-logo="https://www.linkpicture.com/q/Screenshot_20210725_095500-2.jpg" group-title="LAS GIDI COPS",LAS GIDI COPS 9
-http://vod.yellovideoplus.bj:8080/vod/_definst_/video/file/18721/LasgidiCopsS01_Ep9.mp4/playlist.m3u8|User-Agent=Y'ello Vidéo +/1.0.5
-#EXTINF:-1 tvg-logo="https://www.linkpicture.com/q/Screenshot_20210725_095500-2.jpg" group-title="LAS GIDI COPS",LAS GIDI COPS 10
-http://vod.yellovideoplus.bj:8080/vod/_definst_/video/file/18722/LasgidiCopsS01_Ep10.mp4/playlist.m3u8|User-Agent=Y'ello Vidéo +/1.0.5
-#EXTINF:-1 tvg-logo="https://www.linkpicture.com/q/Screenshot_20210725_095500-2.jpg" group-title="LAS GIDI COPS",LAS GIDI COPS 11
-http://vod.yellovideoplus.bj:8080/vod/_definst_/video/file/18723/LasgidiCopsS01_Ep11.mp4/playlist.m3u8|User-Agent=Y'ello Vidéo +/1.0.5
-#EXTINF:-1 tvg-logo="https://www.linkpicture.com/q/Screenshot_20210725_095500-2.jpg" group-title="LAS GIDI COPS",LAS GIDI COPS 12
-http://vod.yellovideoplus.bj:8080/vod/_definst_/video/file/18724/LasgidiCopsS01_Ep12.mp4/playlist.m3u8|User-Agent=Y'ello Vidéo +/1.0.5
-#EXTINF:-1 tvg-logo="https://www.linkpicture.com/q/Screenshot_20210725_095500-2.jpg" group-title="LAS GIDI COPS",LAS GIDI COPS 13
-http://vod.yellovideoplus.bj:8080/vod/_definst_/video/file/18725/LasgidiCopsS01_Ep13.mp4/playlist.m3u8|User-Agent=Y'ello Vidéo +/1.0.5
 
                                             
 #EXTGRP:    LAST FLIGHT
