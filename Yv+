@@ -100,27 +100,26 @@ http://vod.yellovideoplus.bj:8080/vod/_definst_/video/file/26336/4_-_AVITIKPAMBA
 
                                             
 #EXTGRP:    LAST FLIGHT
-#EXTINF:-1 group-title="LAST FLIGHT",LAST FLIGHT 1
+#EXTINF:-1 tvg-logo="https://www.linkpicture.com/q/Screenshot_20210726_225715-2.jpg" group-title="LAST FLIGHT",LAST FLIGHT 1
 http://vod.yellovideoplus.bj:8080/vod/_definst_/video/file/21022/LastFlightEp1.mp4/playlist.m3u8
-#EXTINF:-1 group-title="LAST FLIGHT",LAST FLIGHT 2
+#EXTINF:-1 tvg-logo="https://www.linkpicture.com/q/Screenshot_20210726_225715-2.jpg" group-title="LAST FLIGHT",LAST FLIGHT 2
 http://vod.yellovideoplus.bj:8080/vod/_definst_/video/file/21023/LastFlightEp2.mp4/playlist.m3u8
-#EXTINF:-1 group-title="LAST FLIGHT",LAST FLIGHT 3
+#EXTINF:-1 tvg-logo="https://www.linkpicture.com/q/Screenshot_20210726_225715-2.jpg" group-title="LAST FLIGHT",LAST FLIGHT 3
 http://vod.yellovideoplus.bj:8080/vod/_definst_/video/file/21024/LastFlightEp3.mp4/playlist.m3u8
-#EXTINF:-1 group-title="LAST FLIGHT",LAST FLIGHT 4
+#EXTINF:-1 tvg-logo="https://www.linkpicture.com/q/Screenshot_20210726_225715-2.jpg" group-title="LAST FLIGHT",LAST FLIGHT 4
 http://vod.yellovideoplus.bj:8080/vod/_definst_/video/file/21025/LastFlightEp4.mp4/playlist.m3u8
-#EXTINF:-1 group-title="LAST FLIGHT",LAST FLIGHT 5
+#EXTINF:-1 tvg-logo="https://www.linkpicture.com/q/Screenshot_20210726_225715-2.jpg" group-title="LAST FLIGHT",LAST FLIGHT 5
 http://vod.yellovideoplus.bj:8080/vod/_definst_/video/file/21026/LastFlightEp5.mp4/playlist.m3u8
-#EXTINF:-1 group-title="LAST FLIGHT",LAST FLIGHT 6
+#EXTINF:-1 tvg-logo="https://www.linkpicture.com/q/Screenshot_20210726_225715-2.jpg" group-title="LAST FLIGHT",LAST FLIGHT 6
 http://vod.yellovideoplus.bj:8080/vod/_definst_/video/file/21027/LastFlightEp6.mp4/playlist.m3u8
-#EXTINF:-1 group-title="LAST FLIGHT",LAST FLIGHT 7
+#EXTINF:-1 tvg-logo="https://www.linkpicture.com/q/Screenshot_20210726_225715-2.jpg" group-title="LAST FLIGHT",LAST FLIGHT 7
 http://vod.yellovideoplus.bj:8080/vod/_definst_/video/file/21028/LastFlightEp7.mp4/playlist.m3u8
-#EXTINF:-1 group-title="LAST FLIGHT",LAST FLIGHT 8
+#EXTINF:-1 tvg-logo="https://www.linkpicture.com/q/Screenshot_20210726_225715-2.jpg" group-title="LAST FLIGHT",LAST FLIGHT 8
 http://vod.yellovideoplus.bj:8080/vod/_definst_/video/file/21029/LastFlightEp8.mp4/playlist.m3u8
-#EXTINF:-1 group-title="LAST FLIGHT",LAST FLIGHT 9
+#EXTINF:-1 tvg-logo="https://www.linkpicture.com/q/Screenshot_20210726_225715-2.jpg" group-title="LAST FLIGHT",LAST FLIGHT 9
 http://vod.yellovideoplus.bj:8080/vod/_definst_/video/file/21030/LastFlightEp9.mp4/playlist.m3u8
-#EXTINF:-1 group-title="LAST FLIGHT",LAST FLIGHT 10
+#EXTINF:-1 tvg-logo="https://www.linkpicture.com/q/Screenshot_20210726_225715-2.jpg" group-title="LAST FLIGHT",LAST FLIGHT 10
 http://vod.yellovideoplus.bj:8080/vod/_definst_/video/file/21031/LastFlightEp10.mp4/playlist.m3u8
-
                                             
 #EXTGRP:    NOX
 #EXTINF:-1 group-title="NOX",NOX 1
