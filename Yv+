@@ -2,40 +2,67 @@
 http://vod.yellovideoplus.bj:8080/vod/_definst_/video/file/18642/ATM.mp4/playlist.m3u8
 #EXTINF:-1 group-title="FILMS AFRICAINS",BEING_SINGLE
 http://vod.yellovideoplus.bj:8080/vod/_definst_/video/file/18650/BEING_SINGLE_MIABOX_TV.mp4/playlist.m3u8
-#EXTINF:-1 group-title="FILMS AFRICAINS",DESPERATE_HOUSE_GIRLS
+#EXTINF:-1 tvg-logo="https://www.linkpicture.com/q/Screenshot_20210725_212058-3.jpg" group-title="FILMS AFRICAINS",DESPERATE_HOUSE_GIRLS
 http://vod.yellovideoplus.bj:8080/vod/_definst_/video/file/18654/DESPERATE_HOUSE_GIRLS_1_MIABOX_TV_1.mp4/playlist.m3u8
-#EXTINF:-1 group-title="FILMS AFRICAINS",FALSE
+#EXTINF:-1 tvg-logo="https://www.linkpicture.com/q/Screenshot_20210725_212058-2.jpg" group-title="FILMS AFRICAINS",DESPERATE_HOUSE_GIRLS 2
+http://vod.yellovideoplus.bj:8080/vod/_definst_/video/file/18655/DESPERATE_HOUSE_GIRLS_2_MIABOX_TV.mp4/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://www.linkpicture.com/q/Screenshot_20210726_160324-2.jpg" group-title="FILMS AFRICAINS",A GIRLS NOTE
+http://vod.yellovideoplus.bj:8080/vod/_definst_/video/file/20091/AgirlsNote.mp4/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://www.linkpicture.com/q/Screenshot_20210726_160324-3.jpg" group-title="FILMS AFRICAINS",MEN IN TROUBLE
+http://vod.yellovideoplus.bj:8080/vod/_definst_/video/file/20097/MenInTrouble.mp4/playlist.m3u8
+EXTINF:-1 tvg-logo="https://www.linkpicture.com/q/Screenshot_20210726_161030.jpg" group-title="FILMS AFRICAINS", BROTHER JEKWU
+http://vod.yellovideoplus.bj:8080/vod/_definst_/video/file/20092/BrotherJekwu.mp4/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://www.linkpicture.com/q/Screenshot_20210725_212051-5.jpg" group-title="FILMS AFRICAINS",FALSE
 http://vod.yellovideoplus.bj:8080/vod/_definst_/video/file/18658/FALSE_MIABOX_TV_1.mp4/playlist.m3u8
-#EXTINF:-1 group-title="FILMS AFRICAINS",FLOWERS_GIRLS
+#EXTINF:-1 tvg-logo="https://www.linkpicture.com/q/Screenshot_20210725_212051-4.jpg" group-title="FILMS AFRICAINS",FLOWERS_GIRLS
 http://vod.yellovideoplus.bj:8080/vod/_definst_/video/file/18659/FLOWERS_GIRLS_MIABOX_TV.mp4/playlist.m3u8
 #EXTINF:-1 group-title="FILMS AFRICAINS",FOR_ONE_LOVE
 http://vod.yellovideoplus.bj:8080/vod/_definst_/video/file/18665/FOR_ONE_LOVE_MIABOX_TV_1.mp4/playlist.m3u8
 #EXTINF:-1 group-title="FILMS AFRICAINS",GONE_GREY
 http://vod.yellovideoplus.bj:8080/vod/_definst_/video/file/18669/GONE_GREY_MIABOX_TV_1.mp4/playlist.m3u8
-#EXTINF:-1 group-title="FILMS AFRICAINS",BROTHERS_KEEPERS
+#EXTINF:-1 tvg-logo="https://www.linkpicture.com/q/Screenshot_20210725_212046-5.jpg" group-title="FILMS AFRICAINS",BROTHERS_KEEPERS
 http://vod.yellovideoplus.bj:8080/vod/_definst_/video/file/18670/BROTHERS_KEEPERS_MIABOX_TV_1.mp4/playlist.m3u8
-#EXTINF:-1 group-title="FILMS AFRICAINS",GREY_DAWN
+#EXTINF:-1 tvg-logo="https://www.linkpicture.com/q/Screenshot_20210725_212046-4_1.jpg" group-title="FILMS AFRICAINS",GREY_DAWN
 http://vod.yellovideoplus.bj:8080/vod/_definst_/video/file/18758/GREY_DAWN_MIABOX_TV_1.mp4/playlist.m3u8
-#EXTINF:-1 group-title="FILMS AFRICAINS",INTRUDER
+#EXTINF:-1 tvg-logo="https://www.linkpicture.com/q/Screenshot_20210725_212046-3.jpg" group-title="FILMS AFRICAINS",INTRUDER
 http://vod.yellovideoplus.bj:8080/vod/_definst_/video/file/18759/INTRUDER_MIABOX_TV.mp4/playlist.m3u8
-#EXTINF:-1 group-title="FILMS AFRICAINS",JZ
+#EXTINF:-1 tvg-logo="https://www.linkpicture.com/q/Screenshot_20210725_212046-2.jpg" group-title="FILMS AFRICAINS",JZ
 http://vod.yellovideoplus.bj:8080/vod/_definst_/video/file/18760/JZ_MIABOX_TV.mp4/playlist.m3u8
-#EXTINF:-1 group-title="FILMS AFRICAINS",KOCKING_ON_HEAVENS_DOOR
+#EXTINF:-1 tvg-logo="https://www.linkpicture.com/q/Screenshot_20210725_212040-5.jpg" group-title="FILMS AFRICAINS",KOCKING_ON_HEAVENS_DOOR
 http://vod.yellovideoplus.bj:8080/vod/_definst_/video/file/18761/KOCKING_ON_HEAVENS_DOOR_MIABOX_TV_1.mp4/playlist.m3u8
-#EXTINF:-1 group-title="FILMS AFRICAINS",DEVIL_IN_THE_DETAIL
+#EXTINF:-1 tvg-logo="https://www.linkpicture.com/q/Screenshot_20210725_212040-4.jpg" group-title="FILMS AFRICAINS",DEVIL_IN_THE_DETAIL
 http://vod.yellovideoplus.bj:8080/vod/_definst_/video/file/18762/DEVIL_IN_THE_DETAIL-_1_1.mp4/playlist.m3u8
-#EXTINF:-1 group-title="FILMS AFRICAINS",HEAD_GONE
+
+#EXTINF:-1 tvg-logo="https://www.linkpicture.com/q/Screenshot_20210725_212046-4.jpg" group-title="FILMS AFRICAINS",HEAD_GONE
 http://vod.yellovideoplus.bj:8080/vod/_definst_/video/file/18769/HEAD_GONE_MIABOX_TV_1.mp4/playlist.m3u8
-#EXTINF:-1 group-title="FILMS AFRICAINS",OVE_OR_SOMETHING_LIKE_THAT
+#EXTINF:-1 tvg-logo="https://www.linkpicture.com/q/Screenshot_20210725_212040-2.jpg" group-title="FILMS AFRICAINS",LOVE_OR_SOMETHING_LIKE_THAT
 http://vod.yellovideoplus.bj:8080/vod/_definst_/video/file/18770/LOVE_OR_SOMETHING_LIKE_THAT-.mp4/playlist.m3u8
-#EXTINF:-1 group-title="FILMS AFRICAINS",R___MRS_ONOJA
+
+#EXTINF:-1 tvg-logo="https://www.linkpicture.com/q/Screenshot_20210725_212030-5.jpg" group-title="FILMS AFRICAINS",R___MRS_ONOJA
 http://vod.yellovideoplus.bj:8080/vod/_definst_/video/file/18771/MR___MRS_ONOJA_MIABOX_TV_1.mp4/playlist.m3u8
-#EXTINF:-1 group-title="FILMS AFRICAINS",MMY_DEAREST
+
+#EXTINF:-1 tvg-logo="https://www.linkpicture.com/q/Screenshot_20210725_212030-4.jpg" group-title="FILMS AFRICAINS",MY_DEAREST
 http://vod.yellovideoplus.bj:8080/vod/_definst_/video/file/18772/MUMMY_DEAREST_MIABOX_TV_1.mp4/playlist.m3u8
 #EXTINF:-1 group-title="FILMS AFRICAINS",IRONU
 http://vod.yellovideoplus.bj:8080/vod/_definst_/video/file/21579/IRONU__Realise_par_Francois_OKIOH_.mp4/playlist.m3u8
-#EXTINF:-1 group-title="FILMS AFRICAINS",RANES_EPAIS..._LEVRES_FAUSSES
+#EXTINF:-1 tvg-logo="https://www.linkpicture.com/q/Screenshot_20210725_212051-5_1.jpg" group-title="FILMS AFRICAINS",RANES LEVRES FAUSSES
 http://vod.yellovideoplus.bj:8080/vod/_definst_/video/file/21580/CRANES_EPAIS..._LEVRES_FAUSSES_mpeg4.mp4/playlist.m3u8
+#EXTINF:-1 group-title="FILMS AFRICAINS",
+http://vod.yellovideoplus.bj:8080/vod/_definst_/video/file/22949/RackMultipart20210402-16559-cps7dm.mp4/playlist.m3u8
+#EXTINF:-1 group-title="FILMS AFRICAINS",
+http://vod.yellovideoplus.bj:8080/vod/_definst_/video/file/22951/RackMultipart20210402-16561-qptp5o.mp4/playlist.m3u8
+#EXTINF:-1 group-title="FILMS AFRICAINS",
+http://vod.yellovideoplus.bj:8080/vod/_definst_/video/file/22950/RackMultipart20210402-16561-1w5l5q9.mp4/playlist.m3u8
+#EXTINF:-1 group-title="FILMS AFRICAINS",
+http://vod.yellovideoplus.bj:8080/vod/_definst_/video/file/22953/RackMultipart20210402-16575-ra1nmk.mp4/playlist.m3u8
+#EXTINF:-1 group-title="FILMS AFRICAINS",
+http://vod.yellovideoplus.bj:8080/vod/_definst_/video/file/22954/RackMultipart20210402-16628-1cmv4b5.mp4/playlist.m3u8
+#EXTINF:-1 group-title="FILMS AFRICAINS",
+http://vod.yellovideoplus.bj:8080/vod/_definst_/video/file/22956/RackMultipart20210402-16639-52vdp0.mp4/playlist.m3u8
+#EXTINF:-1 group-title="FILMS AFRICAINS",
+http://vod.yellovideoplus.bj:8080/vod/_definst_/video/file/22957/RackMultipart20210402-16564-usfft5.mp4/playlist.m3u8
+
+
 #EXTGRP:    LAS DIGI COPS
 
 #EXTINF:-1,*** LAS GIDI COPS ***
