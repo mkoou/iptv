@@ -368,3 +368,76 @@ http://vod.yellovideoplus.bj:8080/vod/_definst_/video/file/22604/RackMultipart20
 
 #EXTINF:-1 tvg-logo="https://www.linkpicture.com/q/Screenshot_20210725_083229.jpg" group-title="DAME LEKKI",DAME LEKKI 26  
 http://vod.yellovideoplus.bj:8080/vod/_definst_/video/file/22602/RackMultipart20210317-5907-1uzk5d6.mp4/playlist.m3u8
+
+
+#EXTGRP:    KONDO S01
+
+#EXTINF:-1,*** SERIE BJ ***
+.
+#EXTINF:-1 tvg-logo="https://www.linkpicture.com/q/Screenshot_20210726_175946.jpg" group-title="KONDO S01", KONDO Ep
+http://vod.yellovideoplus.bj:8080/vod/_definst_/video/file/26342/episode_1_saison_1.mp4/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://www.linkpicture.com/q/Screenshot_20210726_175946.jpg" group-title="KONDO S01", KONDO Ep
+http://vod.yellovideoplus.bj:8080/vod/_definst_/video/file/26345/episode_2_saison_1.mp4/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://www.linkpicture.com/q/Screenshot_20210726_175946.jpg" group-title="KONDO S01", KONDO Ep
+http://vod.yellovideoplus.bj:8080/vod/_definst_/video/file/26346/episode_3_saison_1.mp4/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://www.linkpicture.com/q/Screenshot_20210726_175946.jpg" group-title="KONDO S01", KONDO Ep
+http://vod.yellovideoplus.bj:8080/vod/_definst_/video/file/26347/episode_4_saison_1.mp4/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://www.linkpicture.com/q/Screenshot_20210726_175946.jpg" group-title="KONDO S01", KONDO Ep
+http://vod.yellovideoplus.bj:8080/vod/_definst_/video/file/26348/episode_5_saison_1.mp4/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://www.linkpicture.com/q/Screenshot_20210726_175946.jpg" group-title="KONDO S01", KONDO Ep
+http://vod.yellovideoplus.bj:8080/vod/_definst_/video/file/26349/episode_6_Saison_1.mp4/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://www.linkpicture.com/q/Screenshot_20210726_175946.jpg" group-title="KONDO S01", KONDO Ep
+http://vod.yellovideoplus.bj:8080/vod/_definst_/video/file/26350/episode_7_saison_1.mp4/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://www.linkpicture.com/q/Screenshot_20210726_175946.jpg" group-title="KONDO S01", KONDO Ep
+http://vod.yellovideoplus.bj:8080/vod/_definst_/video/file/26351/Episode_8_Saison_1_Final.mp4/playlist.m3u8
+
+
+#EXTGRP:    KONDO S02
+
+#EXTINF:-1,*** SERIE BJ ***
+#EXTINF:-1 tvg-logo="https://www.linkpicture.com/q/Screenshot_20210726_180042.jpg" group-title="KONDO S02", KONDO Ep1
+http://vod.yellovideoplus.bj:8080/vod/_definst_/video/file/26394/episode_1_saison_2_kondo.mp4/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://www.linkpicture.com/q/Screenshot_20210726_180042.jpg" group-title="KONDO S02", KONDO Ep2
+http://vod.yellovideoplus.bj:8080/vod/_definst_/video/file/26395/episode_2_saison_2.mp4/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://www.linkpicture.com/q/Screenshot_20210726_180042.jpg" group-title="KONDO S02", KONDO Ep3
+http://vod.yellovideoplus.bj:8080/vod/_definst_/video/file/26396/episode_3_saison_2.mp4/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://www.linkpicture.com/q/Screenshot_20210726_180042.jpg" group-title="KONDO S02", KONDO Ep4
+http://vod.yellovideoplus.bj:8080/vod/_definst_/video/file/26397/episode_4_saison_2.mp4/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://www.linkpicture.com/q/Screenshot_20210726_180042.jpg" group-title="KONDO S02", KONDO Ep5
+http://vod.yellovideoplus.bj:8080/vod/_definst_/video/file/26398/episode_5_saison_2.mp4/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://www.linkpicture.com/q/Screenshot_20210726_180042.jpg" group-title="KONDO S02", KONDO Ep6
+http://vod.yellovideoplus.bj:8080/vod/_definst_/video/file/26399/episode_6_saison_2.mp4/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://www.linkpicture.com/q/Screenshot_20210726_180042.jpg" group-title="KONDO S02", KONDO Ep7
+http://vod.yellovideoplus.bj:8080/vod/_definst_/video/file/26400/episode_7__saison_2_kondo.mp4/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://www.linkpicture.com/q/Screenshot_20210726_180042.jpg" group-title="KONDO S02", KONDO Ep8
+http://vod.yellovideoplus.bj:8080/vod/_definst_/video/file/26401/episode_8__saison_2_kondo.mp4/playlist.m3u8
+
+
+#EXTGRP:    KONDO S03
+
+#EXTINF:-1,*** SERIE BJ ***
+#EXTINF:-1 tvg-logo="https://www.linkpicture.com/q/Screenshot_20210726_180017.jpg" group-titl="KONDO S03", KONDO Ep1
+http://vod.yellovideoplus.bj:8080/vod/_definst_/video/file/26422/episode_1_saison_3.mp4/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://www.linkpicture.com/q/Screenshot_20210726_180017.jpg" group-titl="KONDO S03", KONDO Ep2
+http://vod.yellovideoplus.bj:8080/vod/_definst_/video/file/26423/episode_2_saison_3.mp4/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://www.linkpicture.com/q/Screenshot_20210726_180017.jpg" group-titl="KONDO S03", KONDO Ep3
+http://vod.yellovideoplus.bj:8080/vod/_definst_/video/file/26424/episode_3_saison_3.mp4/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://www.linkpicture.com/q/Screenshot_20210726_180017.jpg" group-titl="KONDO S03", KONDO Ep4
+http://vod.yellovideoplus.bj:8080/vod/_definst_/video/file/26425/episode_4_saison_3.mp4/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://www.linkpicture.com/q/Screenshot_20210726_180017.jpg" group-titl="KONDO S03", KONDO Ep5
+http://vod.yellovideoplus.bj:8080/vod/_definst_/video/file/26426/episode_5_saison_3.mp4/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://www.linkpicture.com/q/Screenshot_20210726_180017.jpg" group-titl="KONDO S03", KONDO Ep6
+http://vod.yellovideoplus.bj:8080/vod/_definst_/video/file/26427/episode_6_saison_3.mp4/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://www.linkpicture.com/q/Screenshot_20210726_180017.jpg" group-titl="KONDO S03", KONDO Ep7
+http://vod.yellovideoplus.bj:8080/vod/_definst_/video/file/26428/episode_7_saison_3.mp4/playlist.m3u8
+
+
+
+
+
+
+
+
+
+
+
