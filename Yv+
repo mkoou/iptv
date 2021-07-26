@@ -122,29 +122,29 @@ http://vod.yellovideoplus.bj:8080/vod/_definst_/video/file/21030/LastFlightEp9.m
 http://vod.yellovideoplus.bj:8080/vod/_definst_/video/file/21031/LastFlightEp10.mp4/playlist.m3u8
                                             
 #EXTGRP:    NOX
-#EXTINF:-1 group-title="NOX",NOX 1
+#EXTINF:-1 tvg-logo="https://www.linkpicture.com/q/Screenshot_20210726_225715-3.jpg" group-title="NOX",NOX 1
 http://vod.yellovideoplus.bj:8080/vod/_definst_/video/file/21033/NoxEp1.mp4/playlist.m3u8
-#EXTINF:-1 group-title="NOX",NOX 2
+#EXTINF:-1 tvg-logo="https://www.linkpicture.com/q/Screenshot_20210726_225715-3.jpg" group-title="NOX",NOX 2
 http://vod.yellovideoplus.bj:8080/vod/_definst_/video/file/21034/NoxEp2.mp4/playlist.m3u8
-#EXTINF:-1 group-title="NOX",NOX 3
+#EXTINF:-1 tvg-logo="https://www.linkpicture.com/q/Screenshot_20210726_225715-3.jpg" group-title="NOX",NOX 3
 http://vod.yellovideoplus.bj:8080/vod/_definst_/video/file/21035/NoxEp3.mp4/playlist.m3u8
-#EXTINF:-1 group-title="NOX",NOX 4
+#EXTINF:-1 tvg-logo="https://www.linkpicture.com/q/Screenshot_20210726_225715-3.jpg" group-title="NOX",NOX 4
 http://vod.yellovideoplus.bj:8080/vod/_definst_/video/file/21036/NoxEp4.mp4/playlist.m3u8
-#EXTINF:-1 group-title="NOX",NOX 5
+#EXTINF:-1 tvg-logo="https://www.linkpicture.com/q/Screenshot_20210726_225715-3.jpg" group-title="NOX",NOX 5
 http://vod.yellovideoplus.bj:8080/vod/_definst_/video/file/21037/NoxEp5.mp4/playlist.m3u8
-#EXTINF:-1 group-title="NOX",NOX 6
+#EXTINF:-1 tvg-logo="https://www.linkpicture.com/q/Screenshot_20210726_225715-3.jpg" group-title="NOX",NOX 6
 http://vod.yellovideoplus.bj:8080/vod/_definst_/video/file/21038/NoxEp6.mp4/playlist.m3u8
-#EXTINF:-1 group-title="NOX",NOX 7
+#EXTINF:-1 tvg-logo="https://www.linkpicture.com/q/Screenshot_20210726_225715-3.jpg" group-title="NOX",NOX 7
 http://vod.yellovideoplus.bj:8080/vod/_definst_/video/file/21039/NoxEp7.mp4/playlist.m3u8
-#EXTINF:-1 group-title="NOX",NOX 8
+#EXTINF:-1 tvg-logo="https://www.linkpicture.com/q/Screenshot_20210726_225715-3.jpg" group-title="NOX",NOX 8
 http://vod.yellovideoplus.bj:8080/vod/_definst_/video/file/21040/NoxEp8.mp4/playlist.m3u8
-#EXTINF:-1 group-title="NOX",NOX 9
+#EXTINF:-1 tvg-logo="https://www.linkpicture.com/q/Screenshot_20210726_225715-3.jpg" group-title="NOX",NOX 9
 http://vod.yellovideoplus.bj:8080/vod/_definst_/video/file/21041/NoxEp9.mp4/playlist.m3u8
-#EXTINF:-1 group-title="NOX",NOX 10
+#EXTINF:-1 tvg-logo="https://www.linkpicture.com/q/Screenshot_20210726_225715-3.jpg" group-title="NOX",NOX 10
 http://vod.yellovideoplus.bj:8080/vod/_definst_/video/file/21042/NoxEp10.mp4/playlist.m3u8
-#EXTINF:-1 group-title="NOX",NOX 11
+#EXTINF:-1 tvg-logo="https://www.linkpicture.com/q/Screenshot_20210726_225715-3.jpg" group-title="NOX",NOX 11
 http://vod.yellovideoplus.bj:8080/vod/_definst_/video/file/21043/NoxEp11.mp4/playlist.m3u8
-#EXTINF:-1 group-title="NOX",NOX 12
+#EXTINF:-1 tvg-logo="https://www.linkpicture.com/q/Screenshot_20210726_225715-3.jpg" group-title="NOX",NOX 12
 http://vod.yellovideoplus.bj:8080/vod/_definst_/video/file/21044/NoxEp12.mp4/playlist.m3u8
 
 #EXTGRP: TEST D'AMOUR
