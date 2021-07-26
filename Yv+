@@ -407,6 +407,37 @@ http://vod.yellovideoplus.bj:8080/vod/_definst_/video/file/26427/episode_6_saiso
 #EXTINF:-1 tvg-logo="https://www.linkpicture.com/q/Screenshot_20210726_180017.jpg" group-titl="KONDO S03", KONDO Ep7
 http://vod.yellovideoplus.bj:8080/vod/_definst_/video/file/26428/episode_7_saison_3.mp4/playlist.m3u8
 
+#EXTGRP: LADJAGAI
+#EXTINF:-1 tvg-logo="" group-title="LADJAGAI",LADJAGAI Ep1
+http://vod.yellovideoplus.bj:8080/vod/_definst_/video/file/25885/RackMultipart20210706-17336-1kcx3tj.mp4/playlist.m3u8
+#EXTINF:-1 tvg-logo="" group-title="LADJAGAI",LADJAGAI Ep2
+http://vod.yellovideoplus.bj:8080/vod/_definst_/video/file/25888/RackMultipart20210706-17394-o86xee.mp4/playlist.m3u8
+#EXTINF:-1 tvg-logo="" group-title="LADJAGAI",LADJAGAI Ep3
+http://vod.yellovideoplus.bj:8080/vod/_definst_/video/file/25890/RackMultipart20210706-17394-1liii5g.mp4/playlist.m3u8
+#EXTINF:-1 tvg-logo="" group-title="LADJAGAI",LADJAGAI Ep4
+http://vod.yellovideoplus.bj:8080/vod/_definst_/video/file/25877/RackMultipart20210706-17336-r8mhe1.mp4/playlist.m3u8
+#EXTINF:-1 tvg-logo="" group-title="LADJAGAI",LADJAGAI Ep5
+http://vod.yellovideoplus.bj:8080/vod/_definst_/video/file/25889/RackMultipart20210706-17500-rxl8zt.mp4/playlist.m3u8
+#EXTINF:-1 tvg-logo="" group-title="LADJAGAI",LADJAGAI Ep6
+http://vod.yellovideoplus.bj:8080/vod/_definst_/video/file/25881/RackMultipart20210706-17448-1n173la.mp4/playlist.m3u8
+#EXTINF:-1 tvg-logo="" group-title="LADJAGAI",LADJAGAI Ep7
+http://vod.yellovideoplus.bj:8080/vod/_definst_/video/file/25887/RackMultipart20210706-17465-1nkxt9v.mp4/playlist.m3u8
+#EXTINF:-1 tvg-logo="" group-title="LADJAGAI",LADJAGAI Ep8
+http://vod.yellovideoplus.bj:8080/vod/_definst_/video/file/25880/RackMultipart20210706-17489-1kj9fbq.mp4/playlist.m3u8
+#EXTINF:-1 tvg-logo="" group-title="LADJAGAI",LADJAGAI Ep9
+http://vod.yellovideoplus.bj:8080/vod/_definst_/video/file/25884/RackMultipart20210706-17518-djrnbl.mp4/playlist.m3u8
+#EXTINF:-1 tvg-logo="" group-title="LADJAGAI",LADJAGAI Ep10
+http://vod.yellovideoplus.bj:8080/vod/_definst_/video/file/25879/RackMultipart20210706-17448-18wayrh.mp4/playlist.m3u8
+#EXTINF:-1 tvg-logo="" group-title="LADJAGAI",LADJAGAI Ep11
+http://vod.yellovideoplus.bj:8080/vod/_definst_/video/file/25883/RackMultipart20210706-17314-1nahnxv.mp4/playlist.m3u8
+#EXTINF:-1 tvg-logo="" group-title="LADJAGAI",LADJAGAI Ep12
+http://vod.yellovideoplus.bj:8080/vod/_definst_/video/file/25886/RackMultipart20210706-17448-ng1zb3.mp4/playlist.m3u8
+#EXTINF:-1 tvg-logo="" group-title="LADJAGAI",LADJAGAI Ep13
+http://vod.yellovideoplus.bj:8080/vod/_definst_/video/file/25882/RackMultipart20210706-17475-13jzvjy.mp4/playlist.m3u8
+#EXTINF:-1 tvg-logo="" group-title="LADJAGAI",LADJAGAI Ep14
+http://vod.yellovideoplus.bj:8080/vod/_definst_/video/file/25878/RackMultipart20210706-17312-15fu0yn.mp4/playlist.m3u8
+
+
 
 
 
