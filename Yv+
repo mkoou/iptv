@@ -164,8 +164,6 @@ http://vod.yellovideoplus.bj:8080/vod/_definst_/video/file/21043/NoxEp11.mp4/pla
 http://vod.yellovideoplus.bj:8080/vod/_definst_/video/file/21044/NoxEp12.mp4/playlist.m3u8|User-Agent=Y'ello Vidéo +/1.0.5
 
 #EXTGRP: TEST D'AMOUR
-#EXTINF:-1,***TEST D'AMOUR***
-.
 #EXTINF:-1 tvg-logo="https://www.linkpicture.com/q/Screenshot_20210725_095500-3.jpg" tvg-logo="https://www.linkpicture.com/q/Screenshot_20210725_095500-3.jpg" group-title="TAST OF LOVE",TAST OF LOVE 1  
 http://vod.yellovideoplus.bj:8080/vod/_definst_/video/file/22656/RackMultipart20210317-5830-fydmww.mp4/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://www.linkpicture.com/q/Screenshot_20210725_095500-3.jpg" group-title="TAST OF LOVE",TAST OF LOVE 2  
