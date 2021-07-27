@@ -74,9 +74,9 @@ http://vod.yellovideoplus.bj:8080/vod/_definst_/video/file/20092/BrotherJekwu.mp
 http://vod.yellovideoplus.bj:8080/vod/_definst_/video/file/18658/FALSE_MIABOX_TV_1.mp4/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://www.linkpicture.com/q/Screenshot_20210725_212051-4.jpg" group-title="FILMS AFRICAINS",FLOWERS_GIRLS
 http://vod.yellovideoplus.bj:8080/vod/_definst_/video/file/18659/FLOWERS_GIRLS_MIABOX_TV.mp4/playlist.m3u8
-#EXTINF:-1 group-title="FILMS AFRICAINS",FOR_ONE_LOVE
+#EXTINF:-1 tvg-logo="https://www.linkpicture.com/q/Screenshot_20210725_212040-2_1.jpg" group-title="FILMS AFRICAINS",FOR_ONE_LOVE
 http://vod.yellovideoplus.bj:8080/vod/_definst_/video/file/18665/FOR_ONE_LOVE_MIABOX_TV_1.mp4/playlist.m3u8
-#EXTINF:-1 group-title="FILMS AFRICAINS",GONE_GREY
+#EXTINF:-1 tvg-logo="" group-title="FILMS AFRICAINS",GONE_GREY
 http://vod.yellovideoplus.bj:8080/vod/_definst_/video/file/18669/GONE_GREY_MIABOX_TV_1.mp4/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://www.linkpicture.com/q/Screenshot_20210725_212046-5.jpg" group-title="FILMS AFRICAINS",BROTHERS_KEEPERS
 http://vod.yellovideoplus.bj:8080/vod/_definst_/video/file/18670/BROTHERS_KEEPERS_MIABOX_TV_1.mp4/playlist.m3u8
