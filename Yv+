@@ -1,3 +1,30 @@
+#EXTINF:-1 tvg-logo="https://www.linkpicture.com/q/Screenshot_20210727_001127-5.jpg" group-title="FILMS ACTION", MANTHAN
+http://vod.yellovideoplus.bj:8080/vod/_definst_/video/file/20676/ManthanNocture.mp4/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://www.linkpicture.com/q/Screenshot_20210727_011012.jpg" group-title="FILMS ACTION",MAITRES D'ILLUSION
+http://vod.yellovideoplus.bj:8080/vod/_definst_/video/file/20669/LesMaitresDeLillusion.mp4/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://www.linkpicture.com/q/Screenshot_20210727_001127-4.jpg" group-title="FILMS ACTION",MORTEL ETE
+http://vod.yellovideoplus.bj:8080/vod/_definst_/video/file/20677/MortelEte.mp4/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://www.linkpicture.com/q/Screenshot_20210727_001127-3.jpg" group-title="FILMS ACTION",PASSAGE DU DESIR
+http://vod.yellovideoplus.bj:8080/vod/_definst_/video/file/20678/PassageDuDesir.mp4/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://www.linkpicture.com/q/Screenshot_20210727_001119-2.jpg" group-title="FILMS ACTION", IMPERIUM
+http://vod.yellovideoplus.bj:8080/vod/_definst_/video/file/24135/Imperium.mp4/playlist.m3u8
+#EXTINF:-1 tvg-logo="" group-title="FILMS ACTION",VALENTIN
+http://vod.yellovideoplus.bj:8080/vod/_definst_/video/file/20682/SaintValentinPourToucjours.mp4/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://www.linkpicture.com/q/Screenshot_20210727_001140-3.jpg" group-title="FILMS ACTION",CODE ENNEMI
+http://vod.yellovideoplus.bj:8080/vod/_definst_/video/file/20653/CodeEnnemi.mp4/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://www.linkpicture.com/q/Screenshot_20210727_001140-2.jpg" group-title="FILMS ACTION",DRONE
+http://vod.yellovideoplus.bj:8080/vod/_definst_/video/file/20657/Drone.mp4/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://www.linkpicture.com/q/Screenshot_20210727_001127-2.jpg" group-title="FILMS ACTION",RENDEL
+http://vod.yellovideoplus.bj:8080/vod/_definst_/video/file/20679/Rendel.mp4/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://www.linkpicture.com/q/Screenshot_20210727_001119-3.jpg" group-title="FILMS ACTION",SKYAR
+http://vod.yellovideoplus.bj:8080/vod/_definst_/video/file/24134/BattkeForSkyar.mp4/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://www.linkpicture.com/q/Screenshot_20210727_001140-4.jpg" group-title="FILMS ACTION", BRACAGE AMERICAIN
+http://vod.yellovideoplus.bj:8080/vod/_definst_/video/file/20648/AmericanHeist.mp4/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://www.linkpicture.com/q/Screenshot_20210727_001140-5.jpg" group-title="FILMS ACTION",ABSOLUTE
+http://vod.yellovideoplus.bj:8080/vod/_definst_/video/file/20646/AbsoluteDecption.mp4/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://www.linkpicture.com/q/Screenshot_20210727_001119-4.jpg" group-title="FILMS ACTION",CRYPTO
+http://vod.yellovideoplus.bj:8080/vod/_definst_/video/file/20740/Crypto.mp4/playlist.m3u8
+
 #EXTGRP:    LAS DIGI COPS
 #EXTINF:-1 tvg-logo="https://www.linkpicture.com/q/Screenshot_20210725_095500-2.jpg" group-title="LAS GIDI COPS",LAS GIDI COPS 1
 http://vod.yellovideoplus.bj:8080/vod/_definst_/video/file/18712/LasgidiCopsS01_Ep1.mp4/playlist.m3u8
