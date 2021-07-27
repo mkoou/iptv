@@ -1,3 +1,4 @@
+#EXTGRP: FILMS ACTION
 #EXTINF:-1 tvg-logo="https://www.linkpicture.com/q/Screenshot_20210727_001127-5.jpg" group-title="FILMS ACTION", MANTHAN
 http://vod.yellovideoplus.bj:8080/vod/_definst_/video/file/20676/ManthanNocture.mp4/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://www.linkpicture.com/q/Screenshot_20210727_011012.jpg" group-title="FILMS ACTION",MAITRES D'ILLUSION
@@ -464,6 +465,43 @@ http://vod.yellovideoplus.bj:8080/vod/_definst_/video/file/25886/RackMultipart20
 http://vod.yellovideoplus.bj:8080/vod/_definst_/video/file/25882/RackMultipart20210706-17475-13jzvjy.mp4/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://www.linkpicture.com/q/Screenshot_20210726_234905.jpg" group-title="LADJAGAI",LADJAGAI Ep14
 http://vod.yellovideoplus.bj:8080/vod/_definst_/video/file/25878/RackMultipart20210706-17312-15fu0yn.mp4/playlist.m3u8
+
+#EXTGRP: SERIE ANIME
+#EXTINF:-1 tvg-logo="https://www.linkpicture.com/q/Screenshot_20210727_082620.jpg" group-title="SERIE ANIME", 
+http://vod.yellovideoplus.bj:8080/vod/_definst_/video/file/19500/Napoleon.mp4/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://www.linkpicture.com/q/Screenshot_20210727_082620.jpg" group-title="SERIE ANIME", 
+http://vod.yellovideoplus.bj:8080/vod/_definst_/video/file/19499/Marie_Curie.mp4/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://www.linkpicture.com/q/Screenshot_20210727_082620.jpg" group-title="SERIE ANIME", 
+http://vod.yellovideoplus.bj:8080/vod/_definst_/video/file/19498/Louis_XIV.mp4/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://www.linkpicture.com/q/Screenshot_20210727_082620.jpg" group-title="SERIE ANIME", 
+http://vod.yellovideoplus.bj:8080/vod/_definst_/video/file/19497/Les_mayas.mp4/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://www.linkpicture.com/q/Screenshot_20210727_082620.jpg" group-title="SERIE ANIME", 
+http://vod.yellovideoplus.bj:8080/vod/_definst_/video/file/19496/Les_grecs.mp4/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://www.linkpicture.com/q/Screenshot_20210727_082620.jpg" group-title="SERIE ANIME", 
+http://vod.yellovideoplus.bj:8080/vod/_definst_/video/file/19495/Les_gaulois.mp4/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://www.linkpicture.com/q/Screenshot_20210727_082620.jpg" group-title="SERIE ANIME", 
+http://vod.yellovideoplus.bj:8080/vod/_definst_/video/file/19494/Les_egyptiens.mp4/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://www.linkpicture.com/q/Screenshot_20210727_082620.jpg" group-title="SERIE ANIME", 
+http://vod.yellovideoplus.bj:8080/vod/_definst_/video/file/19493/Le_moyen_age.mp4/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://www.linkpicture.com/q/Screenshot_20210727_082620.jpg" group-title="SERIE ANIME", 
+http://vod.yellovideoplus.bj:8080/vod/_definst_/video/file/19490/La_premiere_guerre_moniale.mp4/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://www.linkpicture.com/q/Screenshot_20210727_082620.jpg" group-title="SERIE ANIME", 
+http://vod.yellovideoplus.bj:8080/vod/_definst_/video/file/19492/La_seconde_guerre_moniale.mp4/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://www.linkpicture.com/q/Screenshot_20210727_082620.jpg" group-title="SERIE ANIME", 
+http://vod.yellovideoplus.bj:8080/vod/_definst_/video/file/19491/La_revolution.mp4/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://www.linkpicture.com/q/Screenshot_20210727_082620.jpg" group-title="SERIE ANIME", 
+http://vod.yellovideoplus.bj:8080/vod/_definst_/video/file/19489/La_prehistoire.mp4/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://www.linkpicture.com/q/Screenshot_20210727_082620.jpg" group-title="SERIE ANIME", 
+http://vod.yellovideoplus.bj:8080/vod/_definst_/video/file/19488/Jeanne_D_arc.mp4/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://www.linkpicture.com/q/Screenshot_20210727_082620.jpg" group-title="SERIE ANIME", 
+http://vod.yellovideoplus.bj:8080/vod/_definst_/video/file/19487/Francois_1er.mp4/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://www.linkpicture.com/q/Screenshot_20210727_082620.jpg" group-title="SERIE ANIME", 
+http://vod.yellovideoplus.bj:8080/vod/_definst_/video/file/19486/Charlie_Chaplin.mp4/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://www.linkpicture.com/q/Screenshot_20210727_082620.jpg" group-title="SERIE ANIME", 
+http://vod.yellovideoplus.bj:8080/vod/_definst_/video/file/19485/Anne_Frank.mp4/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://www.linkpicture.com/q/Screenshot_20210727_082620.jpg" group-title="SERIE ANIME", 
+
+
 
 
 
