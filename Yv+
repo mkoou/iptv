@@ -9,8 +9,7 @@ http://vod.yellovideoplus.bj:8080/vod/_definst_/video/file/20677/MortelEte.mp4/p
 http://vod.yellovideoplus.bj:8080/vod/_definst_/video/file/20678/PassageDuDesir.mp4/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://www.linkpicture.com/q/Screenshot_20210727_001119-2.jpg" group-title="FILMS ACTION", IMPERIUM
 http://vod.yellovideoplus.bj:8080/vod/_definst_/video/file/24135/Imperium.mp4/playlist.m3u8
-#EXTINF:-1 tvg-logo="https://www.linkpicture.com/q/Screenshot_20210727_073748-2.jpg
-" group-title="FILMS ACTION",VALENTIN
+#EXTINF:-1 tvg-logo="https://www.linkpicture.com/q/Screenshot_20210727_073748-2.jpg" group-title="FILMS ACTION",VALENTIN
 http://vod.yellovideoplus.bj:8080/vod/_definst_/video/file/20682/SaintValentinPourToucjours.mp4/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://www.linkpicture.com/q/Screenshot_20210727_001140-3.jpg" group-title="FILMS ACTION",CODE ENNEMI
 http://vod.yellovideoplus.bj:8080/vod/_definst_/video/file/20653/CodeEnnemi.mp4/playlist.m3u8
