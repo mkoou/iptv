@@ -102,7 +102,7 @@ http://vod.yellovideoplus.bj:8080/vod/_definst_/video/file/18772/MUMMY_DEAREST_M
 http://vod.yellovideoplus.bj:8080/vod/_definst_/video/file/21579/IRONU__Realise_par_Francois_OKIOH_.mp4/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://www.linkpicture.com/q/Screenshot_20210725_212051-5_1.jpg" group-title="FILMS AFRICAINS",RANES LEVRES FAUSSES
 http://vod.yellovideoplus.bj:8080/vod/_definst_/video/file/21580/CRANES_EPAIS..._LEVRES_FAUSSES_mpeg4.mp4/playlist.m3u8
-#EXTINF:-1 group-title="FILMS AFRICAINS",1
+#EXTINF:-1 group-title="FILMS AFRICAINS",THE DEPARTEMENT
 http://vod.yellovideoplus.bj:8080/vod/_definst_/video/file/22949/RackMultipart20210402-16559-cps7dm.mp4/playlist.m3u8
 #EXTINF:-1 group-title="FILMS AFRICAINS",2
 http://vod.yellovideoplus.bj:8080/vod/_definst_/video/file/22951/RackMultipart20210402-16561-qptp5o.mp4/playlist.m3u8
@@ -110,11 +110,11 @@ http://vod.yellovideoplus.bj:8080/vod/_definst_/video/file/22951/RackMultipart20
 http://vod.yellovideoplus.bj:8080/vod/_definst_/video/file/22950/RackMultipart20210402-16561-1w5l5q9.mp4/playlist.m3u8
 #EXTINF:-1 group-title="FILMS AFRICAINS",4
 http://vod.yellovideoplus.bj:8080/vod/_definst_/video/file/22953/RackMultipart20210402-16575-ra1nmk.mp4/playlist.m3u8
-#EXTINF:-1 group-title="FILMS AFRICAINS",5
+#EXTINF:-1 group-title="FILMS AFRICAINS",THE PERSONNEL ASSISTANT
 http://vod.yellovideoplus.bj:8080/vod/_definst_/video/file/22954/RackMultipart20210402-16628-1cmv4b5.mp4/playlist.m3u8
-#EXTINF:-1 group-title="FILMS AFRICAINS",6
+#EXTINF:-1 group-title="FILMS AFRICAINS",REBBECA
 http://vod.yellovideoplus.bj:8080/vod/_definst_/video/file/22956/RackMultipart20210402-16639-52vdp0.mp4/playlist.m3u8
-#EXTINF:-1 group-title="FILMS AFRICAINS",7
+#EXTINF:-1 group-title="FILMS AFRICAINS",POTOMANTO
 http://vod.yellovideoplus.bj:8080/vod/_definst_/video/file/22957/RackMultipart20210402-16564-usfft5.mp4/playlist.m3u8
 
 #EXTGRP:    FILMS BJ
