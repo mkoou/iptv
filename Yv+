@@ -56,7 +56,7 @@ http://vod.yellovideoplus.bj:8080/vod/_definst_/video/file/18724/LasgidiCopsS01_
 http://vod.yellovideoplus.bj:8080/vod/_definst_/video/file/18725/LasgidiCopsS01_Ep13.mp4/playlist.m3u8
 
 #EXTGRP:    FILMS AFRICAINS
-#EXTINF:-1 group-title="FILMS AFRICAINS",ATM
+#EXTINF:-1 tvg-logo="https://www.linkpicture.com/q/Screenshot_20210725_212102-5.jpg" group-title="FILMS AFRICAINS",ATM
 http://vod.yellovideoplus.bj:8080/vod/_definst_/video/file/18642/ATM.mp4/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://www.linkpicture.com/q/Screenshot_20210725_212102-3.jpg" group-title="FILMS AFRICAINS",BEING_SINGLE
 http://vod.yellovideoplus.bj:8080/vod/_definst_/video/file/18650/BEING_SINGLE_MIABOX_TV.mp4/playlist.m3u8
