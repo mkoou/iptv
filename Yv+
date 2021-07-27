@@ -230,7 +230,7 @@ http://vod.yellovideoplus.bj:8080/vod/_definst_/video/file/22636/RackMultipart20
 http://vod.yellovideoplus.bj:8080/vod/_definst_/video/file/22634/RackMultipart20210317-5805-13pyjlm.mp4/playlist.m3u8
 
 #EXTGRP:    BRIDGE
-#EXTINF:-1 tvg-logo="https://www.linkpicture.com/q/Screenshot_20210725_095500-4.jpg" group-title="BRIDGE",BRIDGE 1
+#EXTINF:-1 tvg-logo="https://www.linkpicture.com/q/Screenshot_20210725_095500-4.jpg" group-title="BRIDGE", BRIDGE 1
 http://vod.yellovideoplus.bj:8080/vod/_definst_/video/file/18684/BridgeEp1.mp4/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://www.linkpicture.com/q/Screenshot_20210725_095500-4.jpg" group-title="BRIDGE",BRIDGE 2
 http://vod.yellovideoplus.bj:8080/vod/_definst_/video/file/18685/BridgeEp2.mp4/playlist.m3u8
