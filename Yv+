@@ -112,7 +112,7 @@ http://vod.yellovideoplus.bj:8080/vod/_definst_/video/file/22950/RackMultipart20
 http://vod.yellovideoplus.bj:8080/vod/_definst_/video/file/22953/RackMultipart20210402-16575-ra1nmk.mp4/playlist.m3u8
 #EXTINF:-1 group-title="FILMS AFRICAINS",THE PERSONNEL ASSISTANT
 http://vod.yellovideoplus.bj:8080/vod/_definst_/video/file/22954/RackMultipart20210402-16628-1cmv4b5.mp4/playlist.m3u8
-#EXTINF:-1 group-title="FILMS AFRICAINS",REBBECA
+#EXTINF:-1 tvg-logo="https://www.linkpicture.com/q/Screenshot_20210725_212015-3.jpg" group-title="FILMS AFRICAINS",REBBECA
 http://vod.yellovideoplus.bj:8080/vod/_definst_/video/file/22956/RackMultipart20210402-16639-52vdp0.mp4/playlist.m3u8
 #EXTINF:-1 group-title="FILMS AFRICAINS",POTOMANTO
 http://vod.yellovideoplus.bj:8080/vod/_definst_/video/file/22957/RackMultipart20210402-16564-usfft5.mp4/playlist.m3u8
