@@ -57,8 +57,36 @@ http://vod.yellovideoplus.bj:8080/vod/_definst_/video/file/18724/LasgidiCopsS01_
 http://vod.yellovideoplus.bj:8080/vod/_definst_/video/file/18725/LasgidiCopsS01_Ep13.mp4/playlist.m3u8
 
 #EXTGRP: TING TANG
-#EXTINF:-1,TING TANG S01
-.
+
+#EXTGRP: TING TANG S01
+#EXTINF:-1 tvg-logo="https://www.linkpicture.com/q/Screenshot_20210729_035852-3.jpg" group-title="TING TANG", TING TANG S01Ep1
+http://vod.yellovideoplus.bj:8080/vod/_definst_/video/file/21526/01_NOUVEAU_DEPART_1.mp4/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://www.linkpicture.com/q/Screenshot_20210729_035852-3.jpg" group-title="TING TANG", TING TANG S01Ep2
+http://vod.yellovideoplus.bj:8080/vod/_definst_/video/file/21527/02_PAPA_MECHANT_1.mp4/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://www.linkpicture.com/q/Screenshot_20210729_035852-3.jpg" group-title="TING TANG", TING TANG S01Ep3
+http://vod.yellovideoplus.bj:8080/vod/_definst_/video/file/21529/03_TELEPORTATION_1.mp4/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://www.linkpicture.com/q/Screenshot_20210729_035852-3.jpg" group-title="TING TANG", TING TANG S01Ep4
+http://vod.yellovideoplus.bj:8080/vod/_definst_/video/file/21530/04_DEPANNEUR_1.mp4/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://www.linkpicture.com/q/Screenshot_20210729_035852-3.jpg" group-title="TING TANG", TING TANG S01Ep5
+http://vod.yellovideoplus.bj:8080/vod/_definst_/video/file/21532/05_LE_CHAMPAGNARD_1.mp4/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://www.linkpicture.com/q/Screenshot_20210729_035852-3.jpg" group-title="TING TANG", TING TANG S01Ep6
+http://vod.yellovideoplus.bj:8080/vod/_definst_/video/file/21534/06_SECURITE_QUARTIER_1.mp4/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://www.linkpicture.com/q/Screenshot_20210729_035852-3.jpg" group-title="TING TANG", TING TANG S01Ep7
+http://vod.yellovideoplus.bj:8080/vod/_definst_/video/file/21535/07_LE_CADEAU_1.mp4/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://www.linkpicture.com/q/Screenshot_20210729_035852-3.jpg" group-title="TING TANG", TING TANG S01Ep8
+http://vod.yellovideoplus.bj:8080/vod/_definst_/video/file/21537/08_LE_PREDICATEUR_1.mp4/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://www.linkpicture.com/q/Screenshot_20210729_035852-3.jpg" group-title="TING TANG", TING TANG S01Ep9
+http://vod.yellovideoplus.bj:8080/vod/_definst_/video/file/21538/09_L_ARNAQUEUR_1.mp4/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://www.linkpicture.com/q/Screenshot_20210729_035852-3.jpg" group-title="TING TANG", TING TANG S01Ep10
+http://vod.yellovideoplus.bj:8080/vod/_definst_/video/file/21539/10_PERMIS_DE_TUER_1.mp4/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://www.linkpicture.com/q/Screenshot_20210729_035852-3.jpg" group-title="TING TANG", TING TANG S01Ep11
+http://vod.yellovideoplus.bj:8080/vod/_definst_/video/file/21540/11_LE_MORT_1.mp4/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://www.linkpicture.com/q/Screenshot_20210729_035852-3.jpg" group-title="TING TANG", TING TANG S01Ep12
+http://vod.yellovideoplus.bj:8080/vod/_definst_/video/file/21541/12_LE_PREFET_1.mp4/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://www.linkpicture.com/q/Screenshot_20210729_035852-3.jpg" group-title="TING TANG", TING TANG S01Ep13
+http://vod.yellovideoplus.bj:8080/vod/_definst_/video/file/21542/13_LA_VOLEUSE_DE_MARI_1.mp4/playlist.m3u8
+
+#EXTGRP: TING TANG S02
 #EXTINF:-1 tvg-logo="https://www.linkpicture.com/q/Screenshot_20210729_035852-2.jpg" group-title="TING TANG", TING TANG S02Ep1
 http://vod.yellovideoplus.bj:8080/vod/_definst_/video/file/21554/01_RENOUVELLEMENT_DE_VOEUX.mp4/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://www.linkpicture.com/q/Screenshot_20210729_035852-2.jpg" group-title="TING TANG", TING TANG S02Ep2
