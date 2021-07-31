@@ -1,5 +1,3 @@
-#EXTINF:-1, Youtube
-https://youtu.be/0GGj2sNo9WQ
 #EXTGRP: FILMS ACTION
 #EXTINF:-1 tvg-logo="https://www.linkpicture.com/q/Screenshot_20210727_001127-5.jpg" group-title="FILMS ACTION", MANTHAN
 http://vod.yellovideoplus.bj:8080/vod/_definst_/video/file/20676/ManthanNocture.mp4/playlist.m3u8
