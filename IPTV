@@ -16,33 +16,74 @@ https://www.livedoomovie.com/02_PPTVHD_720p/chunklist.m3u8
 https://linkastream.co/headless?url=https://www.youtube.com/channel/UCO6K_kkdP-lnSCiO3tPx7WA/live
 #EXTINF:-1,TV5 MONDE
 http://v3plusinfo247hls-i.akamaihd.net:80/hls/live/218877-b/v3plusinfo247hls/v3plusinfo247hls_1_1.m3u8
-#EXTINF:-1 tvg-id="France2.fr" tvg-name="France 2" tvg-country="FR" tvg-language="French" tvg-logo="none" group-title="FRANCE",France 2
-http://edge9.iptvnetwork.net/live/france2/playlist.m3u8
-#EXTINF:-1 tvg-id="France3.fr" tvg-name="France 3" tvg-country="FR" tvg-language="French" tvg-logo="none" group-title="FRANCE",France 3
-http://edge9.iptvnetwork.net/live/france3/playlist.m3u8
-#EXTINF:-1 tvg-id="France4.fr" tvg-name="France 4" tvg-country="FR" tvg-language="French" tvg-logo="none" group-title="FRANCE",France 4
-http://edge9.iptvnetwork.net/live/france4/playlist.m3u8
-#EXTINF:-1 tvg-id="France5.fr" tvg-name="France 5" tvg-country="FR" tvg-language="French" tvg-logo="none" group-title="FRANCE",France 5
-http://edge9.iptvnetwork.net/live/france5/playlist.m3u8
-#EXTINF:-1 group-title="FRANCE",France24
-http://static.france24.com/live/F24_FR_LO_HLS/live_web.m3u8
-#EXTINF:-1 group-title="FRANCE",TF1
-https://tf1-hls-live-ssl.tf1.fr/tf1/1/hls/live_2328.m3u8
-#EXTINF:-1 group-title="FRANCE", TMC 
-https://tmc-hls-live-ssl.tf1.fr/tmc/1/hls/live_2328.m3u8
-#EXTINF:-1 group-title="FRANCE", TF1 SERIE 
-https://tsf-hls-live-ssl.tf1.fr/tsf/1/hls/live_2328.m3u8
-#EXTINF:-1 group-title="FRANCE", TFX
-https://tfx-hls-live-ssl.tf1.fr/tfx/1/hls/live_2328.m3u8
-#EXTINF:-1 group-title="FRANCE", LCI
-https://lci-hls-live-ssl.tf1.fr/lci/1/hls/live_2328.m3u8
-#EXTINF:-1 group-title="FRANCE",TF1 LOW
-https://tf1-hls-live-ssl.tf1.fr/tf1/1/hls/master_1000000.m3u8
-#EXTINF:-1 group-title="FRANCE", LCI LOW
-https://lci-hls-live-ssl.tf1.fr/lci/1/hls/master_1000000.m3u8
-#EXTINF: -1 tvg-logo = "https://frenchflicks.com/tl_files/tv5monde/TV5MONDEInfologo.png" group-title = "FRANCE", TV5 Monde Info 
-https://tv5infohls-i.akamaihd.net/hls/live/631613/tv5infohls/index.m3u8
-
+#EXTINF:-1 tvg-id="TF1.fr" tvg-name="FR: TF1 4K" tvg-logo="http://logo.protv.cc/picons/logos/tf1hd.png" group-title="|EU| FRANCE 4K",FR: TF1 4K
+http://line.dino-ott.ru:8000/f59e252f9b/moukaila/553660
+#EXTINF:-1 tvg-id="France2.fr" tvg-name="FR: FRANCE 2 4K" tvg-logo="http://logo.protv.cc/picons/logos/france2hd.png" group-title="|EU| FRANCE 4K",FR: FRANCE 2 4K
+http://edge9.iptvnetwork.net:80/live/france2/playlist.m3u8
+#EXTINF:-1 tvg-id="France3.fr" tvg-name="FR: FRANCE 3 4K" tvg-logo="http://logo.protv.cc/picons/logos/france3hd.png" group-title="|EU| FRANCE 4K",FR: FRANCE 3 4K
+http://edge9.iptvnetwork.net:80/live/france3/playlist.m3u8
+#EXTINF:-1 tvg-id="France4.fr" tvg-name="FR: FRANCE 4 4K" tvg-logo="http://logo.protv.cc/picons/logos/france4.png" group-title="|EU| FRANCE 4K",FR: FRANCE 4 4K
+http://edge9.iptvnetwork.net:80/live/france4/playlist.m3u8
+#EXTINF:-1 tvg-id="France5.fr" tvg-name="FR: FRANCE 5 4K" tvg-logo="http://logo.protv.cc/picons/logos/france5.png" group-title="|EU| FRANCE 4K",FR: FRANCE 5 4K
+http://edge9.iptvnetwork.net:80/live/france5/playlist.m3u8
+#EXTINF:-1 tvg-id="M6.fr" tvg-name="FR: M6 4K" tvg-logo="http://logo.protv.cc/picons/logos/m6hd.png" group-title="|EU| FRANCE 4K",FR: M6 4K
+http://line.dino-ott.ru:8000/f59e252f9b/moukaila/553665
+#EXTINF:-1 tvg-id="ARTE.fr" tvg-name="FR: ARTE 4K" tvg-logo="http://logo.protv.cc/picons/logos/artehd.png" group-title="|EU| FRANCE 4K",FR: ARTE 4K
+http://line.dino-ott.ru:8000/f59e252f9b/moukaila/553666
+#EXTINF:-1 tvg-id="C8.fr" tvg-name="FR: C8 4K" tvg-logo="http://logo.protv.cc/picons/logos/c8.png" group-title="|EU| FRANCE 4K",FR: C8 4K
+http://line.dino-ott.ru:8000/f59e252f9b/moukaila/553667
+#EXTINF:-1 tvg-id="W9.fr" tvg-name="FR: W9 4K" tvg-logo="http://logo.protv.cc/picons/logos/w9.png" group-title="|EU| FRANCE 4K",FR: W9 4K
+http://line.dino-ott.ru:8000/f59e252f9b/moukaila/553668
+#EXTINF:-1 tvg-id="TFX.fr" tvg-name="FR: TFX 4K" tvg-logo="http://logo.protv.cc/picons/logos/tfx.png" group-title="|EU| FRANCE 4K",FR: TFX 4K
+http://line.dino-ott.ru:8000/f59e252f9b/moukaila/553669
+#EXTINF:-1 tvg-id="TF1SeriesFilms.fr" tvg-name="FR: TF1 SERIES 4K" tvg-logo="http://logo.protv.cc/picons/logos/tf1seriesfilms.png" group-title="|EU| FRANCE 4K",FR: TF1 SERIES 4K
+http://line.dino-ott.ru:8000/f59e252f9b/moukaila/553670
+#EXTINF:-1 tvg-id="Syfy.fr" tvg-name="FR: SYFY 4K" tvg-logo="http://logo.protv.cc/picons/logos/syfy.png" group-title="|EU| FRANCE 4K",FR: SYFY 4K
+http://line.dino-ott.ru:8000/f59e252f9b/moukaila/553671
+#EXTINF:-1 tvg-id="Teva.fr" tvg-name="FR: TEVA 4K" tvg-logo="http://logo.protv.cc/picons/logos/teva.png" group-title="|EU| FRANCE 4K",FR: TEVA 4K
+http://line.dino-ott.ru:8000/f59e252f9b/moukaila/553672
+#EXTINF:-1 tvg-id="RTl9.mu" tvg-name="FR: RTL 9 4K" tvg-logo="http://logo.protv.cc/picons/logos/rtl9.png" group-title="|EU| FRANCE 4K",FR: RTL 9 4K
+http://185.93.1.39:80/FRCH_RTL9_HD/tracks-v1a1/mono.m3u8
+#EXTINF:-1 tvg-id="6ter.fr" tvg-name="FR: 6TER 4K" tvg-logo="http://logo.protv.cc/picons/logos/6ter.png" group-title="|EU| FRANCE 4K",FR: 6TER 4K
+http://line.dino-ott.ru:8000/f59e252f9b/moukaila/553674
+#EXTINF:-1 tvg-id="13Rue.fr" tvg-name="FR: 13 EMERUE 4K" tvg-logo="http://logo.protv.cc/picons/logos/13emerue.png" group-title="|EU| FRANCE 4K",FR: 13 EMERUE 4K
+http://line.dino-ott.ru:8000/f59e252f9b/moukaila/553675
+#EXTINF:-1 tvg-id="Action.fr" tvg-name="FR: ACTION 4K" tvg-logo="http://logo.protv.cc/picons/logos/ACTION-.png" group-title="|EU| FRANCE 4K",FR: ACTION 4K
+http://185.93.1.39:80/FRCH_Action_HD/tracks-v1a1/mono.m3u8
+#EXTINF:-1 tvg-id="Action.fr" tvg-name="FR: CANAL+CINE PREMIER 4K" tvg-logo="http://logo.protv.cc/picons/logos/ACTION-.png" group-title="|EU| FRANCE 4K",FR: CANAL+CINE PREMIER 4K
+http://185.93.1.39:80/FRCH_Cine_Plus_Premier_HD/index.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="FR: DISNEY+ 4K" tvg-logo="http://logo.protv.cc/picons/logos/disney+.png" group-title="|EU| FRANCE 4K",FR: DISNEY+ 4K
+http://line.dino-ott.ru:8000/f59e252f9b/moukaila/553677
+#EXTINF:-1 tvg-id="CanalPlus4K.pl" tvg-name="FR: CANAL+ FRISSON 4K" tvg-logo="http://logo.protv.cc/picons/logos/CANAL+-PREMIER-LEAGUE.png" group-title="|EU| FRANCE 4K",FR: CANAL+FRISSON 4K
+http://185.93.1.39:80/FRCH_Cine_Plus_Frisson_HD/tracks-v1a1/mono.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="FR: CANAL+ eMOTION 4K" tvg-logo="http://logo.protv.cc/picons/logos/CANAL+-MOTOGP.png" group-title="|EU| FRANCE 4K",FR: CANAL+ eMOTION 4K
+http://185.93.1.39:80/FRCH_Cine_Plus_Emotion_HD/tracks-v1a1/mono.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="FR: CANAL+ LIGUE 1 4K" tvg-logo="http://logo.protv.cc/picons/logos/CANAL+-LIGUE1.jpeg" group-title="|EU| FRANCE 4K",FR: CANAL+ LIGUE 1 4K
+http://line.dino-ott.ru:8000/f59e252f9b/moukaila/553680
+#EXTINF:-1 tvg-id="CanalPlusSport.fr" tvg-name="FR: CANAL+ SPORT 4K" tvg-logo="http://logo.protv.cc/picons/logos/canalplussport.png" group-title="|EU| FRANCE 4K",FR: CANAL+ SPORT 4K
+http://line.dino-ott.ru:8000/f59e252f9b/moukaila/553681
+#EXTINF:-1 tvg-id="RMCSport1.fr" tvg-name="FR: RMC SPORT 1 4K" tvg-logo="http://logo.protv.cc/picons/logos/rmcsport1.png" group-title="|EU| FRANCE 4K",FR: RMC SPORT 1 4K
+http://line.dino-ott.ru:8000/f59e252f9b/moukaila/553682
+#EXTINF:-1 tvg-id="RMCSport2.fr" tvg-name="FR: RMC SPORT 2 4K" tvg-logo="http://logo.protv.cc/picons/logos/rmcsport2.png" group-title="|EU| FRANCE 4K",FR: RMC SPORT 2 4K
+http://line.dino-ott.ru:8000/f59e252f9b/moukaila/553683
+#EXTINF:-1 tvg-id="BeinSports1.fr" tvg-name="FR: BEIN SPORTS 1 4K" tvg-logo="http://logo.protv.cc/picons/logos/beinsports1.png" group-title="|EU| FRANCE 4K",FR: BEIN SPORTS 1 4K
+http://line.dino-ott.ru:8000/f59e252f9b/moukaila/553684
+#EXTINF:-1 tvg-id="BeinSports2.fr" tvg-name="FR: BEIN SPORTS 2 4K" tvg-logo="http://logo.protv.cc/picons/logos/beinsports2.png" group-title="|EU| FRANCE 4K",FR: BEIN SPORTS 2 4K
+http://line.dino-ott.ru:8000/f59e252f9b/moukaila/553685
+#EXTINF:-1 tvg-id="BeinSports3.fr" tvg-name="FR: BEIN SPORTS 3 4K" tvg-logo="http://logo.protv.cc/picons/logos/beinsports3.png" group-title="|EU| FRANCE 4K",FR: BEIN SPORTS 3 4K
+http://line.dino-ott.ru:8000/f59e252f9b/moukaila/553686
+#EXTINF:-1 tvg-id="CanalPlusCinema.fr" tvg-name="FR: CANAL+ CINEMA 4K" tvg-logo="http://logo.protv.cc/picons/logos/canalpluscinema.png" group-title="|EU| FRANCE 4K",FR: CANAL+ CINEMA 4K
+http://line.dino-ott.ru:8000/f59e252f9b/moukaila/553687
+#EXTINF:-1 tvg-id="CanalPlusDecale.fr" tvg-name="FR: CANAL+ DECALE 4K" tvg-logo="http://logo.protv.cc/picons/logos/canalplusdecale.png" group-title="|EU| FRANCE 4K",FR: CANAL+ DECALE 4K
+http://line.dino-ott.ru:8000/f59e252f9b/moukaila/553688
+#EXTINF:-1 tvg-id="CanalPlusFamily.fr" tvg-name="FR: CANAL+ FAMILY 4K" tvg-logo="http://logo.protv.cc/picons/logos/canalplusfamily.png" group-title="|EU| FRANCE 4K",FR: CANAL+ FAMILY 4K
+http://line.dino-ott.ru:8000/f59e252f9b/moukaila/553689
+#EXTINF:-1 tvg-id="CanalPlusFamily.fr" tvg-name="FR: CANAL+ CINE PLUS 4K" tvg-logo="http://logo.protv.cc/picons/logos/canalplusfamily.png" group-title="|EU| FRANCE 4K",FR: CANAL+ CINE PLUS 4K
+http://185.93.1.39:80/FRCH_Cine_Plus_Club_HD/tracks-v1/mono.m3u8
+EXTINF:-1 tvg-id="CanalPlusFamily.fr" tvg-name="FR: CANAL+ FAMIZ 4K" tvg-logo="http://logo.protv.cc/picons/logos/canalplusfamiz.png" group-title="|EU| FRANCE 4K",FR: CANAL+ FAMIZ 4K
+http://185.93.1.39:80/FRCH_Cine_Plus_Famiz_HD/index.m3u8
+#EXTINF:-1 tvg-id="CanalplusSeries.fr" tvg-name="FR: CANAL+ SERIES 4K" tvg-logo="http://logo.protv.cc/picons/logos/canalplusseries.png" group-title="|EU| FRANCE 4K",FR: CANAL+ SERIES 4K
+http://line.dino-ott.ru:8000/f59e252f9b/moukaila/553691
 
 #EXTGRP: MBC GROUP LOW
 #EXTINF:1 tvg-country="AE" tvg-logo="https://i.imgur.com/eKBXOKd.png" group-title="MBC GROUP LOW",MBC
