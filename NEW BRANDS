@@ -160,7 +160,7 @@ http://news.yellovideoplus.bj:8080/vod/_definst_/video/file/18655/DESPERATE_HOUS
 http://news.yellovideoplus.bj:8080/vod/_definst_/video/file/20091/AgirlsNote.mp4/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://www.linkpicture.com/q/Screenshot_20210726_160324-3.jpg" group-title="FILMS AFRICAINS",MEN IN TROUBLE
 http://news.yellovideoplus.bj:8080/vod/_definst_/video/file/20097/MenInTrouble.mp4/playlist.m3u8
-EXTINF:-1 tvg-logo="https://www.linkpicture.com/q/Screenshot_20210726_161030.jpg" group-title="FILMS AFRICAINS", BROTHER JEKWU
+#EXTINF:-1 tvg-logo="https://www.linkpicture.com/q/Screenshot_20210726_161030.jpg" group-title="FILMS AFRICAINS",BROTHER JEKWU
 http://news.yellovideoplus.bj:8080/vod/_definst_/video/file/20092/BrotherJekwu.mp4/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://www.linkpicture.com/q/Screenshot_20210725_212051-5.jpg" group-title="FILMS AFRICAINS",FALSE
 http://news.yellovideoplus.bj:8080/vod/_definst_/video/file/18658/FALSE_MIABOX_TV_1.mp4/playlist.m3u8
