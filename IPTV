@@ -482,7 +482,7 @@ https://service-stitcher.clusters.pluto.tv/stitch/hls/channel/5df975e2b27cf50009
 http://ott-cdn.ucom.am:80/s81/02.m3u8
 #EXTINF:-1,SETANTA SPORTS 2
 http://ott-cdn.ucom.am:80/s82/02.m3u8
-#EXTINF:-1 tvg-id="BarcaTV.es" tvg-name="ES: BARCA TV" tvg-logo="http://logo.protv.cc/picons/logos/barcatv.png" group-title="",ES: BARCA TV
+#EXTINF:-1 tvg-id="BarcaTV.es" tvg-name="ES: BARCA TV" tvg-logo="http://logo.protv.cc/picons/logos/barcatv.png" group-title="", BARCA TV
 http://91.126.138.141:1935/live/barza/chunklist_w1270912450.m3u8
 #EXTINF:-1 tvg-logo="",TIVIBU SPORTS
 http://dl1.webtv.ttnet.com.tr:80/konf/mob/web16009.isml/QualityLevels(1564000)/manifest(format=m3u8-aapl).m3u8
