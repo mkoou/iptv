@@ -491,6 +491,22 @@ http://ott-cdn.ucom.am:80/s82/03.m3u8
 http://91.126.138.141:1935/live/barza/chunklist_w1270912450.m3u8
 #EXTINF:-1 tvg-logo="",TIVIBU SPORTS
 http://dl1.webtv.ttnet.com.tr:80/konf/mob/web16009.isml/QualityLevels(1564000)/manifest(format=m3u8-aapl).m3u8
+#EXTINF:-1,TRUE SPORTS 1
+http://77.83.117.60:8888/02_2sporthd1_720p/chunklist.m3u8
+#EXTINF:-1,TRUE SPORTS 2
+http://77.83.117.60:8888/02_2sporthd2_720p/chunklist.m3u8
+#EXTINF:-1,TRUE SPORTS 3
+http://77.83.117.60:8888/02_2sporthd3_720p/chunklist.m3u8
+#EXTINF:-1,TRUE SPORTS 4
+http://77.83.117.60:8888/02_2sporthd4_720p/chunklist.m3u8
+#EXTINF:-1,TRUE SPORTS 5
+http://77.83.117.60:8888/02_2sporthd5_720p/chunklist.m3u8
+#EXTINF:-1,TRUE SPORTS 6
+http://77.83.117.60:8888/02_2sporthd6_720p/chunklist.m3u8
+#EXTINF:-1,TRUE SPORTS 7
+http://77.83.117.60:8888/02_2sporthd7_720p/chunklist.m3u8
+
+
 
 
 #EXTINF:-1 tvg-id="AbuDhabiEmirates.ae" tvg-name="Abu Dhabi Emirates" tvg-country="AE" tvg-language="Arabic" tvg-logo="SPORTS" group-title="SPORTS",Abu Dhabi Emirates
