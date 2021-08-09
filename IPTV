@@ -484,6 +484,9 @@ http://ott-cdn.ucom.am:80/s81/02.m3u8
 http://ott-cdn.ucom.am:80/s82/02.m3u8
 #EXTINF:-1 tvg-id="BarcaTV.es" tvg-name="ES: BARCA TV" tvg-logo="http://logo.protv.cc/picons/logos/barcatv.png" group-title="",ES: BARCA TV
 http://91.126.138.141:1935/live/barza/chunklist_w1270912450.m3u8
+#EXTINF:-1 tvg-logo="",TIVIBU SPORTS
+http://dl1.webtv.ttnet.com.tr:80/konf/mob/web16009.isml/QualityLevels(1564000)/manifest(format=m3u8-aapl).m3u8
+
 
 #EXTINF:-1 tvg-id="AbuDhabiEmirates.ae" tvg-name="Abu Dhabi Emirates" tvg-country="AE" tvg-language="Arabic" tvg-logo="SPORTS" group-title="SPORTS",Abu Dhabi Emirates
 https://admdn3.cdn.mangomolo.com/emarat/smil:emarat.stream.smil/playlist.m3u8
