@@ -482,6 +482,9 @@ https://service-stitcher.clusters.pluto.tv/stitch/hls/channel/5df975e2b27cf50009
 http://ott-cdn.ucom.am:80/s81/02.m3u8
 #EXTINF:-1,SETANTA SPORTS 2
 http://ott-cdn.ucom.am:80/s82/02.m3u8
+#EXTINF:-1 tvg-id="BarcaTV.es" tvg-name="ES: BARCA TV" tvg-logo="http://logo.protv.cc/picons/logos/barcatv.png" group-title="",ES: BARCA TV
+http://91.126.138.141:1935/live/barza/chunklist_w1270912450.m3u8
+
 #EXTINF:-1 tvg-id="AbuDhabiEmirates.ae" tvg-name="Abu Dhabi Emirates" tvg-country="AE" tvg-language="Arabic" tvg-logo="SPORTS" group-title="SPORTS",Abu Dhabi Emirates
 https://admdn3.cdn.mangomolo.com/emarat/smil:emarat.stream.smil/playlist.m3u8
 #EXTINF:-1 tvg-id="AbuDhabiSports1.ae" tvg-name="Abu Dhabi Sports" tvg-country="ARAB" tvg-language="Arabic" tvg-logo="https://i.imgur.com/lKl2wZH.png" group-title="Sports",Abu Dhabi Sports 1 (1080p)
