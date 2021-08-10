@@ -495,17 +495,58 @@ http://dl1.webtv.ttnet.com.tr:80/konf/mob/web16009.isml/QualityLevels(1564000)/m
 http://77.83.117.60:8888/02_2sporthd1_720p/chunklist.m3u8
 #EXTINF:-1,TRUE SPORTS 2
 http://77.83.117.60:8888/02_2sporthd2_720p/chunklist.m3u8
-#EXTINF:-1,TRUE SPORTS 3
+#EXTINF:-1 tvg-logo="http://i.imgur.com/T4zmFrD.jpg" group-title="", TRUE SPORT 2 HD
+http://77.83.117.60:8888/02_2sporthd2_720p/chunklist.m3u8
+#EXTINF:-1 tvg-logo="http://i.imgur.com/T4zmFrD.jpg" group-title="", TRUE SPORT 1 HD
+http://77.83.117.60:8888/02_2sporthd1_720p/chunklist.m3u8 
+#EXTINF:-1 tvg-logo="http://i.imgur.com/T4zmFrD.jpg" group-title="", TRUE SPORT 2 HD
+http://77.83.117.60:8888/02_2sporthd2_720p/chunklist.m3u8
+#EXTINF:-1 tvg-logo="http://i.imgur.com/T4zmFrD.jpg" group-title="", TRUE SPORT 3
 http://77.83.117.60:8888/02_2sporthd3_720p/chunklist.m3u8
-#EXTINF:-1,TRUE SPORTS 4
+#EXTINF:-1 tvg-logo="http://i.imgur.com/T4zmFrD.jpg" group-title="", TRUE SPORT 4
 http://77.83.117.60:8888/02_2sporthd4_720p/chunklist.m3u8
-#EXTINF:-1,TRUE SPORTS 5
-http://77.83.117.60:8888/02_2sporthd5_720p/chunklist.m3u8
-#EXTINF:-1,TRUE SPORTS 6
-http://77.83.117.60:8888/02_2sporthd6_720p/chunklist.m3u8
-#EXTINF:-1,TRUE SPORTS 7
-http://77.83.117.60:8888/02_2sporthd7_720p/chunklist.m3u8
-
+#EXTINF:-1 tvg-logo="http://i.imgur.com/T4zmFrD.jpg" group-title="", TRUE SPORT 5
+http://77.83.117.60:8888/02_sport5_480p/chunklist.m3u8
+#EXTINF:-1 tvg-logo="http://i.imgur.com/T4zmFrD.jpg" group-title="", TRUE SPORT 6
+http://77.83.117.60:8888/02_sport6_480p/chunklist.m3u8
+#EXTINF:-1 tvg-logo="http://i.imgur.com/T4zmFrD.jpg" group-title="", TRUE SPORT 7
+http://77.83.117.60:8888/02_sport7_480p/chunklist.m3u8
+#EXTINF:-1 tvg-logo="http://i.imgur.com/AQz4nRW.gif" group-title="", Sport TV 1
+http://77.83.117.60:8888/02_SPORTTV_1_720p/chunklist.m3u8
+#EXTINF:-1 tvg-logo="http://i.imgur.com/AQz4nRW.gif" group-title="", Sport TV 2
+http://77.83.117.60:8888/02_SPORTTV_2_720p/chunklist.m3u8
+#EXTINF:-1 tvg-logo="http://i.imgur.com/AQz4nRW.gif" group-title="", Sport TV 3
+http://77.83.117.60:8888/02_SPORTTV_3_720p/chunklist.m3u8
+#EXTINF:-1 tvg-logo="http://i.imgur.com/AQz4nRW.gif" group-title="", Sport TV 4
+http://77.83.117.60:8888/02_SPORTTV_4_720p/chunklist.m3u8
+#EXTINF:-1 tvg-logo="http://i.imgur.com/AQz4nRW.gif" group-title="", Sport TV 5
+http://77.83.117.60:8888/02_SPORTTV_5_720p/chunklist.m3u8
+#EXTINF:-1 tvg-logo="http://i.imgur.com/XzT3YI6.jpg" group-title="", BT sport 1
+http://77.83.117.60:8888/02_BTSPORTHD_1_720p/chunklist.m3u8
+#EXTINF:-1 tvg-logo="http://i.imgur.com/XzT3YI6.jpg" group-title="", BT sport 2
+http://77.83.117.60:8888/02_BTSPORTHD_2_720p/chunklist.m3u8
+#EXTINF:-1 tvg-logo="http://3.bp.blogspot.com/-iri26TLi3P8/XhPc4e0FX5I/AAAAAAAAASA/TOYbXFdTy1QSiive8vWkOh8LogXpWAzQQCLcBGAsYHQ/s1600/07202021347.png" group-title="SPORTS 3", NBA TV
+http://77.83.117.60:8888/02_nbahd_720p/chunklist.m3u8
+#EXTINF:-1 tvg-logo="http://i.imgur.com/anwqqIH.png" group-title="SPORTS 3", FIGHT BOX
+http://live-k2302-kbp.1plus1.video/sport/smil:sport.smil/chunklist_b6000000.m3u8
+#EXTINF:-1 tvg-logo="http://i.imgur.com/bNt4BkL.jpg" group-title="SPORTS 3", SBS Sports
+http://211.245.55.198:1024/m2u/239.192.67.130:49220  
+#EXTINF:-1 tvg-logo="http://i.imgur.com/aemny9A.jpg" group-title="SPORTS 3", GOLF CHANNEL 
+http://edge.linknetott.swiftserve.com/live/BSgroup/amlst:hich/chunklist.m3u8
+#EXTINF:-1 tvg-logo="http://www.doomovie-hd.com/assets/img/ch_logo/uk-liverpool.jpg" group-title="SPORTS 3",LIVERPOOL TV
+http://77.83.117.60:8888/02_lfctv_720p/chunklist.m3u8
+#EXTINF:-1 tvg-logo="http://e0.365dm.com/17/11/768x432/skysports-chelsea-tv-logo-light-jpg_4163279.jpg" group-title="SPORTS 3", Chelsea TV
+http://77.83.117.60:8888/02_ChelseaTV_720p/chunklist.m3u8
+#EXTINF:-1 tvg-logo="http://www.doomovie-hd.com/assets/img/ch_logo/uk-mutv.jpg" group-title="SPORTS 3",MU TV
+http://77.83.117.60:8888/02_MUTV_720p/chunklist.m3u8
+#EXTINF:-1 tvg-logo="http://i.pinimg.com/originals/c3/ac/27/c3ac27d76f1cd308f29399761326ce74.png" group-title="BeIN Sports",BeIN SPORT 1 TH
+http://77.83.117.60:8888/02_epl1_720p/chunklist.m3u8
+#EXTINF:-1 tvg-logo="http://i.pinimg.com/736x/9f/f9/bb/9ff9bba60c3b1a182a338e9868a9117a.jpg" group-title="BeIN Sports",BeIN SPORT 2 TH
+http://77.83.117.60:8888/02_epl2_720p/chunklist.m3u8
+#EXTINF:-1 tvg-logo="http://i.pinimg.com/originals/c3/ac/27/c3ac27d76f1cd308f29399761326ce74.png" group-title="BeIN Sports",BeIN SPORT 1 Ok
+http://77.83.117.60:8888/02_epl1_720p_UK/chunklist.m3u8
+#EXTINF:-1 tvg-logo="http://i.pinimg.com/736x/9f/f9/bb/9ff9bba60c3b1a182a338e9868a9117a.jpg" group-title="BeIN Sports",BeIN SPORT 2 ok
+http://77.83.117.60:8888/02_epl2_720p_UK/chunklist.m3u8
 
 
 
