@@ -1,69 +1,68 @@
 #EXTGRP: FILMS ACTION
 #EXTINF:-1 tvg-logo="https://www.linkpicture.com/q/Basmati.jpg" group-title="FILMS ACTION",BASMATI BLUES
-http://vod.yellovideoplus.bj:8080/vod/_definst_/video/file/27283/RackMultipart20210811-7958-wikjsi.mp4/playlist.m3u8
+http://news.yellovideoplus.bj:8080/vod/_definst_/video/file/27283/RackMultipart20210811-7958-wikjsi.mp4/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://www.linkpicture.com/q/Lvredamour.jpg" group-title="FILMS ACTION",LIVRE DE L'AMOUR
-http://vod.yellovideoplus.bj:8080/vod/_definst_/video/file/27293/RackMultipart20210811-7969-1k8sgur.mp4/playlist.m3u8
+http://news.yellovideoplus.bj:8080/vod/_definst_/video/file/27293/RackMultipart20210811-7969-1k8sgur.mp4/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://www.linkpicture.com/q/glowerwater.jpg" group-title="FILMS ACTION",GALLOW WOLKERS
-http://vod.yellovideoplus.bj:8080/vod/_definst_/video/file/27190/RackMultipart20210810-7936-qkfy94.mp4/playlist.m3u8
+http://news.yellovideoplus.bj:8080/vod/_definst_/video/file/27190/RackMultipart20210810-7936-qkfy94.mp4/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://www.linkpicture.com/q/unseen.jpg" group-title="FILMS ACTION",THE UNSEEN 
-http://vod.yellovideoplus.bj:8080/vod/_definst_/video/file/27100/RackMultipart20210809-7881-90y72k.mp4/playlist.m3u8
+http://news.yellovideoplus.bj:8080/vod/_definst_/video/file/27100/RackMultipart20210809-7881-90y72k.mp4/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://www.linkpicture.com/q/4munite.jpg" group-title="FILMS ACTION", 4 MUNITE 
-http://vod.yellovideoplus.bj:8080/vod/_definst_/video/file/27291/RackMultipart20210811-8025-1fkx1i2.mp4/playlist.m3u8
+http://news.yellovideoplus.bj:8080/vod/_definst_/video/file/27291/RackMultipart20210811-8025-1fkx1i2.mp4/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://www.linkpicture.com/q/thriassic.jpg" group-title="FILMS ACTION", TRIASSICLE WORLD
-http://vod.yellovideoplus.bj:8080/vod/_definst_/video/file/27191/RackMultipart20210810-7992-zt8444.mp4/playlist.m3u8
+http://news.yellovideoplus.bj:8080/vod/_definst_/video/file/27191/RackMultipart20210810-7992-zt8444.mp4/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://www.linkpicture.com/q/IMG_20210812_075048.jpg" group-title="FILMS ACTION", ENQUÊTE GOURMAND 4M
-http://vod.yellovideoplus.bj:8080/vod/_definst_/video/file/27095/RackMultipart20210809-7980-2yqam2.mp4/playlist.m3u8
+http://news.yellovideoplus.bj:8080/vod/_definst_/video/file/27095/RackMultipart20210809-7980-2yqam2.mp4/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://www.linkpicture.com/q/blackwater.jpg" group-title="FILMS ACTION",BLACK WATERS
-http://vod.yellovideoplus.bj:8080/vod/_definst_/video/file/27101/RackMultipart20210809-7914-1taxluc.mp4/playlist.m3u8
+http://news.yellovideoplus.bj:8080/vod/_definst_/video/file/27101/RackMultipart20210809-7914-1taxluc.mp4/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://www.linkpicture.com/q/dixieland.jpg" group-title="FILMS ACTION",DIXIELAND
-http://vod.yellovideoplus.bj:8080/vod/_definst_/video/file/27286/RackMultipart20210811-7992-1xrj6so.mp4/playlist.m3u8
+http://news.yellovideoplus.bj:8080/vod/_definst_/video/file/27286/RackMultipart20210811-7992-1xrj6so.mp4/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://www.linkpicture.com/q/Eldorado.jpg" group-title="FILMS ACTION", ELDORADO
-http://vod.yellovideoplus.bj:8080/vod/_definst_/video/file/27105/RackMultipart20210809-7925-1o157zv.mp4/playlist.m3u8
+http://news.yellovideoplus.bj:8080/vod/_definst_/video/file/27105/RackMultipart20210809-7925-1o157zv.mp4/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://www.linkpicture.com/q/warpigs.jpg" group-title="FILMS ACTION", WAR PIGS
-http://vod.yellovideoplus.bj:8080/vod/_definst_/video/file/27275/RackMultipart20210811-8025-p34spv.mp4/playlist.m3u8
+http://news.yellovideoplus.bj:8080/vod/_definst_/video/file/27275/RackMultipart20210811-8025-p34spv.mp4/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://www.linkpicture.com/q/lets-dance.jpg" group-title="FILMS ACTION",LET'S DANCE
-http://vod.yellovideoplus.bj:8080/vod/_definst_/video/file/27320/RackMultipart20210811-7947-1ui0qm1.mp4/playlist.m3u8
+http://news.yellovideoplus.bj:8080/vod/_definst_/video/file/27320/RackMultipart20210811-7947-1ui0qm1.mp4/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://www.linkpicture.com/q/crufucon.jpg" group-title="FILMS ACTION",CRU DU FAUCON
-http://vod.yellovideoplus.bj:8080/vod/_definst_/video/file/27285/RackMultipart20210811-7881-1x9hcca.mp4/playlist.m3u8
+http://news.yellovideoplus.bj:8080/vod/_definst_/video/file/27285/RackMultipart20210811-7881-1x9hcca.mp4/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://www.linkpicture.com/q/IMG_20210812_075048.jpg" group-title="FILMS ACTION",SECRET DU CHEF
-http://vod.yellovideoplus.bj:8080/vod/_definst_/video/file/27096/RackMultipart20210809-7969-13t94kw.mp4/playlist.m3u8
+http://news.yellovideoplus.bj:8080/vod/_definst_/video/file/27096/RackMultipart20210809-7969-13t94kw.mp4/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://www.linkpicture.com/q/Chloe-teo.jpg" group-title="FILMS ACTION",CLEO & THEO
-http://vod.yellovideoplus.bj:8080/vod/_definst_/video/file/27278/RackMultipart20210811-8048-5n7tt6.mp4/playlist.m3u8
+http://news.yellovideoplus.bj:8080/vod/_definst_/video/file/27278/RackMultipart20210811-8048-5n7tt6.mp4/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://www.linkpicture.com/q/zoo.jpg" group-title="FILMS ACTION",ZOO
-http://vod.yellovideoplus.bj:8080/vod/_definst_/video/file/27276/RackMultipart20210811-7980-86nygu.mp4/playlist.m3u8
+http://news.yellovideoplus.bj:8080/vod/_definst_/video/file/27276/RackMultipart20210811-7980-86nygu.mp4/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://www.linkpicture.com/q/Misland.jpg" group-title="FILMS ACTION",MONSTER ISLAND
-http://vod.yellovideoplus.bj:8080/vod/_definst_/video/file/27106/RackMultipart20210809-8003-1psqys3.mp4/playlist.m3u8
+http://news.yellovideoplus.bj:8080/vod/_definst_/video/file/27106/RackMultipart20210809-8003-1psqys3.mp4/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://www.linkpicture.com/q/altamira.jpg" group-title="FILMS ACTION",FINDING ALTAMIRA
-http://vod.yellovideoplus.bj:8080/vod/_definst_/video/file/27300/RackMultipart20210811-7914-5bwmcw.mp4/playlist.m3u8
+http://news.yellovideoplus.bj:8080/vod/_definst_/video/file/27300/RackMultipart20210811-7914-5bwmcw.mp4/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://www.linkpicture.com/q/pressed.jpg" group-title="FILMS ACTION",PRESSED
-http://vod.yellovideoplus.bj:8080/vod/_definst_/video/file/27097/RackMultipart20210809-8048-eftg5h.mp4/playlist.m3u8
+http://news.yellovideoplus.bj:8080/vod/_definst_/video/file/27097/RackMultipart20210809-8048-eftg5h.mp4/playlist.m3u8
 #EXTINF:-1 tvg-logo="" group-title="FILMS ACTION",FESTIN MORTEL
-http://vod.yellovideoplus.bj:8080/vod/_definst_/video/file/27098/RackMultipart20210809-7881-1x78g78.mp4/playlist.m3u8
+http://news.yellovideoplus.bj:8080/vod/_definst_/video/file/27098/RackMultipart20210809-7881-1x78g78.mp4/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://www.linkpicture.com/q/maitresse.jpg" group-title="FILMS ACTION",MAITRESS DU DIABLE
-http://vod.yellovideoplus.bj:8080/vod/_definst_/video/file/27272/RackMultipart20210811-7936-9bphtc.mp4/playlist.m3u8
+http://news.yellovideoplus.bj:8080/vod/_definst_/video/file/27272/RackMultipart20210811-7936-9bphtc.mp4/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://www.linkpicture.com/q/resky.jpg" group-title="FILMS ACTION",RED SKY
-http://vod.yellovideoplus.bj:8080/vod/_definst_/video/file/27102/RackMultipart20210809-7925-89zag8.mp4/playlist.m3u8
+http://news.yellovideoplus.bj:8080/vod/_definst_/video/file/27102/RackMultipart20210809-7925-89zag8.mp4/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://www.linkpicture.com/q/vengeance-coprs.jpg" group-title="FILMS ACTION",VANGEANCE
-http://vod.yellovideoplus.bj:8080/vod/_definst_/video/file/27273/RackMultipart20210811-7925-ue1k3g.mp4/playlist.m3u8
+http://news.yellovideoplus.bj:8080/vod/_definst_/video/file/27273/RackMultipart20210811-7925-ue1k3g.mp4/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://www.linkpicture.com/q/chemin.jpg" group-title="FILMS ACTION",CHEM1 DU PASSE
-http://vod.yellovideoplus.bj:8080/vod/_definst_/video/file/27092/RackMultipart20210809-8025-1rgks5j.mp4/playlist.m3u8
+http://news.yellovideoplus.bj:8080/vod/_definst_/video/file/27092/RackMultipart20210809-8025-1rgks5j.mp4/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://www.linkpicture.com/q/ladygun.jpg" group-title="FILMS ACTION",LADY GUN
-http://vod.yellovideoplus.bj:8080/vod/_definst_/video/file/27099/RackMultipart20210809-7936-18q6zg2.mp4/playlist.m3u8
+http://news.yellovideoplus.bj:8080/vod/_definst_/video/file/27099/RackMultipart20210809-7936-18q6zg2.mp4/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://www.linkpicture.com/q/couter.jpg" group-title="FILMS ACTION",ENCOURTER
-http://vod.yellovideoplus.bj:8080/vod/_definst_/video/file/27282/RackMultipart20210811-7914-giivhi.mp4/playlist.m3u8
+http://news.yellovideoplus.bj:8080/vod/_definst_/video/file/27282/RackMultipart20210811-7914-giivhi.mp4/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://www.linkpicture.com/q/vigilants.jpg" group-title="FILMS ACTION", VIGILANT
-http://vod.yellovideoplus.bj:8080/vod/_definst_/video/file/27279/RackMultipart20210811-7992-1x85h2k.mp4/playlist.m3u8
+http://news.yellovideoplus.bj:8080/vod/_definst_/video/file/27279/RackMultipart20210811-7992-1x85h2k.mp4/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://www.linkpicture.com/q/cavalier.jpg" group-title="FILMS ACTION",CAVALIER 2 L'AUBE
-http://vod.yellovideoplus.bj:8080/vod/_definst_/video/file/27166/RackMultipart20210810-7879-1ndqi2p.mp4/playlist.m3u8
+http://news.yellovideoplus.bj:8080/vod/_definst_/video/file/27166/RackMultipart20210810-7879-1ndqi2p.mp4/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://www.linkpicture.com/q/FIRE-FIRE.jpg" group-title="FILMS ACTION",FIRE with FIRE
-http://vod.yellovideoplus.bj:8080/vod/_definst_/video/file/27103/RackMultipart20210809-7958-2lm48d.mp4/playlist.m3u8
+http://news.yellovideoplus.bj:8080/vod/_definst_/video/file/27103/RackMultipart20210809-7958-2lm48d.mp4/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://www.linkpicture.com/q/IMG_20210812_075048.jpg" group-title="FILMS ACTION",MERTRE O MENU
-http://vod.yellovideoplus.bj:8080/vod/_definst_/video/file/27093/RackMultipart20210809-7969-go57m1.mp4/playlist.m3u8
+http://news.yellovideoplus.bj:8080/vod/_definst_/video/file/27093/RackMultipart20210809-7969-go57m1.mp4/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://www.linkpicture.com/q/victoire-sang.jpg" group-title="FILMS ACTION", VICTOIRE DANS LE SANG
-http://vod.yellovideoplus.bj:8080/vod/_definst_/video/file/27104/RackMultipart20210809-7879-1gxodtj.mp4/playlist.m3u8
+http://news.yellovideoplus.bj:8080/vod/_definst_/video/file/27104/RackMultipart20210809-7879-1gxodtj.mp4/playlist.m3u8
 #EXTINF:-1 tvg-logo="" group-title="FILMS ACTION", DADJU TV
 http://41.79.218.138:8080/live/dadjutest/chunks.m3u8
-
 
 #EXTINF:-1 tvg-logo="https://www.linkpicture.com/q/IMG_20210812_071642.jpg" group-title="",FIRE with FIRE
 http://vod.yellovideoplus.bj:8080/vod/_definst_/video/file/27103/RackMultipart20210809-7958-2lm48d.mp4/playlist.m3u8
