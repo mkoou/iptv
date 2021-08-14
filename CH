@@ -1,77 +1,81 @@
 #EXTM3U
 #EXTGRP: BEIN SPORTS 
 #EXTINF:1,   ÷÷÷ LQ ÷÷÷
-#EXTINF:-1 tvg-id="" tvg-name="Bein Sports 1 LQ" tvg-logo="" group-title="BEIN SPORTS",Bein Sports 1 LQ
-http://185.180.223.89:25461/ibrahimzakeye@gmail.com/Mou909090/150
-#EXTINF:-1 tvg-id="" tvg-name="Bein Sports 2 LQ" tvg-logo="" group-title="BEIN SPORTS",Bein Sports 2 LQ
-http://185.180.223.89:25461/ibrahimzakeye@gmail.com/Mou909090/149
-#EXTINF:-1 tvg-id="" tvg-name="Bein Sports 3 LQ" tvg-logo="" group-title="BEIN SPORTS",Bein Sports 3 LQ
-http://185.180.223.89:25461/ibrahimzakeye@gmail.com/Mou909090/148
-#EXTINF:-1 tvg-id="" tvg-name="Bein Sports 4 LQ" tvg-logo="" group-title="BEIN SPORTS",Bein Sports 4 LQ
-http://185.180.223.89:25461/ibrahimzakeye@gmail.com/Mou909090/147
-#EXTINF:-1 tvg-id="" tvg-name="Bein Sports 5 LQ" tvg-logo="" group-title="BEIN SPORTS",Bein Sports 5 LQ
-http://185.180.223.89:25461/ibrahimzakeye@gmail.com/Mou909090/146
-#EXTINF:-1 tvg-id="" tvg-name="Bein Sports 6 LQ" tvg-logo="" group-title="BEIN SPORTS",Bein Sports 6 LQ
-http://185.180.223.89:25461/ibrahimzakeye@gmail.com/Mou909090/145
-#EXTINF:-1 tvg-id="" tvg-name="Bein Sports 7 LQ" tvg-logo="" group-title="BEIN SPORTS",Bein Sports 7 LQ
-http://185.180.223.89:25461/ibrahimzakeye@gmail.com/Mou909090/144
-#EXTINF:-1 tvg-id="" tvg-name="Bein Sports 8 LQ" tvg-logo="" group-title="BEIN SPORTS",Bein Sports 8 LQ
-http://185.180.223.89:25461/ibrahimzakeye@gmail.com/Mou909090/143
-#EXTINF:-1 tvg-id="" tvg-name="Bein Sports 9 LQ" tvg-logo="" group-title="BEIN SPORTS",Bein Sports 9 LQ
-http://185.180.223.89:25461/ibrahimzakeye@gmail.com/Mou909090/142
-#EXTINF:-1 tvg-id="" tvg-name="Bein Sports 10 LQ" tvg-logo="" group-title="BEIN SPORTS",Bein Sports 10 LQ
-http://185.180.223.89:25461/ibrahimzakeye@gmail.com/Mou909090/141
-#EXTINF:-1 tvg-id="" tvg-name="Bein Sports 11 LQ" tvg-logo="" group-title="BEIN SPORTS",Bein Sports 11 LQ
-http://185.180.223.89:25461/ibrahimzakeye@gmail.com/Mou909090/140
-#EXTINF:-1 tvg-id="" tvg-name="Bein Sports 12 LQ" tvg-logo="" group-title="BEIN SPORTS",Bein Sports 12 LQ
-http://185.180.223.89:25461/ibrahimzakeye@gmail.com/Mou909090/139
+#EXTINF:-1 tvg-id="" tvg-name="Bein Sports 1 LQ" tvg-logo="" group-title="Free Sports Android App",Bein Sports 1 LQ
+http://185.180.223.89:25461/ibrahimzakeye@gmail.com/Mou909090/150|User-agent=UA_WSSFREE
+#EXTINF:-1 tvg-id="" tvg-name="Bein Sports 2 LQ" tvg-logo="" group-title="Free Sports Android App",Bein Sports 2 LQ
+http://185.180.223.89:25461/ibrahimzakeye@gmail.com/Mou909090/149|User-agent=UA_WSSFREE
+#EXTINF:-1 tvg-id="" tvg-name="Bein Sports 3 LQ" tvg-logo="" group-title="Free Sports Android App",Bein Sports 3 LQ
+http://185.180.223.89:25461/ibrahimzakeye@gmail.com/Mou909090/148|User-agent=UA_WSSFREE
+#EXTINF:-1 tvg-id="" tvg-name="Bein Sports 4 LQ" tvg-logo="" group-title="Free Sports Android App",Bein Sports 4 LQ
+http://185.180.223.89:25461/ibrahimzakeye@gmail.com/Mou909090/147|User-agent=UA_WSSFREE
+#EXTINF:-1 tvg-id="" tvg-name="Bein Sports 5 LQ" tvg-logo="" group-title="Free Sports Android App",Bein Sports 5 LQ
+http://185.180.223.89:25461/ibrahimzakeye@gmail.com/Mou909090/146|User-agent=UA_WSSFREE
+#EXTINF:-1 tvg-id="" tvg-name="Bein Sports 6 LQ" tvg-logo="" group-title="Free Sports Android App",Bein Sports 6 LQ
+http://185.180.223.89:25461/ibrahimzakeye@gmail.com/Mou909090/145|User-agent=UA_WSSFREE
+#EXTINF:-1 tvg-id="" tvg-name="Bein Sports 7 LQ" tvg-logo="" group-title="Free Sports Android App",Bein Sports 7 LQ
+http://185.180.223.89:25461/ibrahimzakeye@gmail.com/Mou909090/144|User-agent=UA_WSSFREE
+#EXTINF:-1 tvg-id="" tvg-name="Bein Sports 8 LQ" tvg-logo="" group-title="Free Sports Android App",Bein Sports 8 LQ
+http://185.180.223.89:25461/ibrahimzakeye@gmail.com/Mou909090/143|User-agent=UA_WSSFREE
+#EXTINF:-1 tvg-id="" tvg-name="Bein Sports 9 LQ" tvg-logo="" group-title="Free Sports Android App",Bein Sports 9 LQ
+http://185.180.223.89:25461/ibrahimzakeye@gmail.com/Mou909090/142|User-agent=UA_WSSFREE
+#EXTINF:-1 tvg-id="" tvg-name="Bein Sports 10 LQ" tvg-logo="" group-title="Free Sports Android App",Bein Sports 10 LQ
+http://185.180.223.89:25461/ibrahimzakeye@gmail.com/Mou909090/141|User-agent=UA_WSSFREE
+#EXTINF:-1 tvg-id="" tvg-name="Bein Sports 11 LQ" tvg-logo="" group-title="Free Sports Android App",Bein Sports 11 LQ
+http://185.180.223.89:25461/ibrahimzakeye@gmail.com/Mou909090/140|User-agent=UA_WSSFREE
+#EXTINF:-1 tvg-id="" tvg-name="Bein Sports 12 LQ" tvg-logo="" group-title="Free Sports Android App",Bein Sports 12 LQ
+http://185.180.223.89:25461/ibrahimzakeye@gmail.com/Mou909090/139|User-agent=UA_WSSFREE
 
+#EXTGRP: BEIN SPORTS 
 #EXTINF:1,   ÷÷÷ HD ÷÷÷
-#EXTINF:-1 tvg-id="" tvg-name="Bein Sports 1 HD" tvg-logo="" group-title="BEIN SPORTS",Bein Sports 1 HD
-http://185.180.223.89:25461/ibrahimzakeye@gmail.com/Mou909090/40
-#EXTINF:-1 tvg-id="" tvg-name="Bein Sports 2 HD" tvg-logo="" group-title="BEIN SPORTS",Bein Sports 2 HD
-http://185.180.223.89:25461/ibrahimzakeye@gmail.com/Mou909090/41
-#EXTINF:-1 tvg-id="" tvg-name="Bein Sports 3 HD" tvg-logo="" group-title="BEIN SPORTS",Bein Sports 3 HD
-http://185.180.223.89:25461/ibrahimzakeye@gmail.com/Mou909090/42
-#EXTINF:-1 tvg-id="" tvg-name="Bein Sports 4 HD" tvg-logo="" group-title="BEIN SPORTS",Bein Sports 4 HD
-http://185.180.223.89:25461/ibrahimzakeye@gmail.com/Mou909090/43
-#EXTINF:-1 tvg-id="" tvg-name="Bein Sports 5 HD" tvg-logo="" group-title="BEIN SPORTS",Bein Sports 5 HD
-http://185.180.223.89:25461/ibrahimzakeye@gmail.com/Mou909090/44
-#EXTINF:-1 tvg-id="" tvg-name="Bein Sports 6 HD" tvg-logo="" group-title="BEIN SPORTS",Bein Sports 6 HD
-http://185.180.223.89:25461/ibrahimzakeye@gmail.com/Mou909090/45
-#EXTINF:-1 tvg-id="" tvg-name="Bein Sports 7 HD" tvg-logo="" group-title="BEIN SPORTS",Bein Sports 7 HD
-http://185.180.223.89:25461/ibrahimzakeye@gmail.com/Mou909090/46
-#EXTINF:-1 tvg-id="" tvg-name="Bein Sports 8 HD" tvg-logo="" group-title="BEIN SPORTS",Bein Sports 8 HD
-http://185.180.223.89:25461/ibrahimzakeye@gmail.com/Mou909090/47
-#EXTINF:-1 tvg-id="" tvg-name="Bein Sports 9 HD" tvg-logo="" group-title="BEIN SPORTS",Bein Sports 9 HD
-http://185.180.223.89:25461/ibrahimzakeye@gmail.com/Mou909090/48
-#EXTINF:-1 tvg-id="" tvg-name="Bein Sports 10 HD" tvg-logo="" group-title="BEIN SPORTS",Bein Sports 10 HD
-http://185.180.223.89:25461/ibrahimzakeye@gmail.com/Mou909090/49
-#EXTINF:-1 tvg-id="" tvg-name="Bein Sports 11 HD" tvg-logo="" group-title="BEIN SPORTS",Bein Sports 11 HD
-http://185.180.223.89:25461/ibrahimzakeye@gmail.com/Mou909090/50
-#EXTINF:-1 tvg-id="" tvg-name="Bein Sports 12 HD" tvg-logo="" group-title="BEIN SPORTS",Bein Sports 12 HD
-http://185.180.223.89:25461/ibrahimzakeye@gmail.com/Mou909090/51
+#EXTINF:-1 tvg-id="" tvg-name="Bein Sports 1 HD" tvg-logo="" group-title="Free Sports Android App",Bein Sports 1 HD
+http://185.180.223.89:25461/ibrahimzakeye@gmail.com/Mou909090/40|User-agent=UA_WSSFREE
+#EXTINF:-1 tvg-id="" tvg-name="Bein Sports 2 HD" tvg-logo="" group-title="Free Sports Android App",Bein Sports 2 HD
+http://185.180.223.89:25461/ibrahimzakeye@gmail.com/Mou909090/41|User-agent=UA_WSSFREE
+#EXTINF:-1 tvg-id="" tvg-name="Bein Sports 3 HD" tvg-logo="" group-title="Free Sports Android App",Bein Sports 3 HD
+http://185.180.223.89:25461/ibrahimzakeye@gmail.com/Mou909090/42|User-agent=UA_WSSFREE
+#EXTINF:-1 tvg-id="" tvg-name="Bein Sports 4 HD" tvg-logo="" group-title="Free Sports Android App",Bein Sports 4 HD
+http://185.180.223.89:25461/ibrahimzakeye@gmail.com/Mou909090/43|User-agent=UA_WSSFREE
+#EXTINF:-1 tvg-id="" tvg-name="Bein Sports 5 HD" tvg-logo="" group-title="Free Sports Android App",Bein Sports 5 HD
+http://185.180.223.89:25461/ibrahimzakeye@gmail.com/Mou909090/44|User-agent=UA_WSSFREE
+#EXTINF:-1 tvg-id="" tvg-name="Bein Sports 6 HD" tvg-logo="" group-title="Free Sports Android App",Bein Sports 6 HD
+http://185.180.223.89:25461/ibrahimzakeye@gmail.com/Mou909090/45|User-agent=UA_WSSFREE
+#EXTINF:-1 tvg-id="" tvg-name="Bein Sports 7 HD" tvg-logo="" group-title="Free Sports Android App",Bein Sports 7 HD
+http://185.180.223.89:25461/ibrahimzakeye@gmail.com/Mou909090/46|User-agent=UA_WSSFREE
+#EXTINF:-1 tvg-id="" tvg-name="Bein Sports 8 HD" tvg-logo="" group-title="Free Sports Android App",Bein Sports 8 HD
+http://185.180.223.89:25461/ibrahimzakeye@gmail.com/Mou909090/47|User-agent=UA_WSSFREE
+#EXTINF:-1 tvg-id="" tvg-name="Bein Sports 9 HD" tvg-logo="" group-title="Free Sports Android App",Bein Sports 9 HD
+http://185.180.223.89:25461/ibrahimzakeye@gmail.com/Mou909090/48|User-agent=UA_WSSFREE
+#EXTINF:-1 tvg-id="" tvg-name="Bein Sports 10 HD" tvg-logo="" group-title="Free Sports Android App",Bein Sports 10 HD
+http://185.180.223.89:25461/ibrahimzakeye@gmail.com/Mou909090/49|User-agent=UA_WSSFREE
+#EXTINF:-1 tvg-id="" tvg-name="Bein Sports 11 HD" tvg-logo="" group-title="Free Sports Android App",Bein Sports 11 HD
+http://185.180.223.89:25461/ibrahimzakeye@gmail.com/Mou909090/50|User-agent=UA_WSSFREE
+#EXTINF:-1 tvg-id="" tvg-name="Bein Sports 12 HD" tvg-logo="" group-title="Free Sports Android App",Bein Sports 12 HD
+http://185.180.223.89:25461/ibrahimzakeye@gmail.com/Mou909090/51|User-agent=UA_WSSFREE
 
+#EXTGRP: BEIN SPORTS 
 #EXTINF:1,   ÷÷÷ FR ÷÷÷
-#EXTINF:-1 tvg-id="" tvg-name="Bein Sports 1 FR" tvg-logo="" group-title="BEIN SPORTS",Bein Sports 1 FR
-http://185.180.223.89:25461/ibrahimzakeye@gmail.com/Mou909090/58
-#EXTINF:-1 tvg-id="" tvg-name="Bein Sports 2 FR" tvg-logo="" group-title="BEIN SPORTS",Bein Sports 2 FR
-http://185.180.223.89:25461/ibrahimzakeye@gmail.com/Mou909090/59
-#EXTINF:-1 tvg-id="" tvg-name="Bein Sports 3 FR" tvg-logo="" group-title="BEIN SPORTS",Bein Sports 3 FR
-http://185.180.223.89:25461/ibrahimzakeye@gmail.com/Mou909090/60
+#EXTINF:-1 tvg-id="" tvg-name="Bein Sports 1 FR" tvg-logo="" group-title="Free Sports Android App",Bein Sports 1 FR
+http://185.180.223.89:25461/ibrahimzakeye@gmail.com/Mou909090/58|User-agent=UA_WSSFREE
+#EXTINF:-1 tvg-id="" tvg-name="Bein Sports 2 FR" tvg-logo="" group-title="Free Sports Android App",Bein Sports 2 FR
+http://185.180.223.89:25461/ibrahimzakeye@gmail.com/Mou909090/59|User-agent=UA_WSSFREE
+#EXTINF:-1 tvg-id="" tvg-name="Bein Sports 3 FR" tvg-logo="" group-title="Free Sports Android App",Bein Sports 3 FR
+http://185.180.223.89:25461/ibrahimzakeye@gmail.com/Mou909090/60|User-agent=UA_WSSFREE
 
+#EXTGRP: BEIN SPORTS 
 #EXTINF:1,   ÷÷÷ TR ÷÷÷
-#EXTINF:-1 tvg-id="" tvg-name="Bein Sports 1 HD Turkey" tvg-logo="" group-title="BEIN SPORTS",Bein Sports 1 HD Turkey
-http://185.180.223.89:25461/ibrahimzakeye@gmail.com/Mou909090/181
-#EXTINF:-1 tvg-id="" tvg-name="Bein Sports 2 HD Turkey" tvg-logo="" group-title="BEIN SPORTS",Bein Sports 2 HD Turkey
-http://185.180.223.89:25461/ibrahimzakeye@gmail.com/Mou909090/182
-#EXTINF:-1 tvg-id="" tvg-name="Bein Sports 3 HD Turkey" tvg-logo="" group-title="BEIN SPORTS",Bein Sports 3 HD Turkey
-http://185.180.223.89:25461/ibrahimzakeye@gmail.com/Mou909090/183
+#EXTINF:-1 tvg-id="" tvg-name="Bein Sports 1 HD Turkey" tvg-logo="" group-title="Free Sports Android App",Bein Sports 1 HD Turkey
+http://185.180.223.89:25461/ibrahimzakeye@gmail.com/Mou909090/181|User-agent=UA_WSSFREE
+#EXTINF:-1 tvg-id="" tvg-name="Bein Sports 2 HD Turkey" tvg-logo="" group-title="Free Sports Android App",Bein Sports 2 HD Turkey
+http://185.180.223.89:25461/ibrahimzakeye@gmail.com/Mou909090/182|User-agent=UA_WSSFREE
+#EXTINF:-1 tvg-id="" tvg-name="Bein Sports 3 HD Turkey" tvg-logo="" group-title="Free Sports Android App",Bein Sports 3 HD Turkey
+http://185.180.223.89:25461/ibrahimzakeye@gmail.com/Mou909090/183|User-agent=UA_WSSFREE
 #EXTINF:-1 tvg-logo="http://i.pinimg.com/originals/c3/ac/27/c3ac27d76f1cd308f29399761326ce74.png" group-title="BEIN SPORTS",BeIN SPORT 1 FHD
 http://77.83.117.60:8888/02_epl1_720p/chunklist.m3u8
 #EXTINF:-1 tvg-logo="http://i.pinimg.com/736x/9f/f9/bb/9ff9bba60c3b1a182a338e9868a9117a.jpg" group-title="BEIN SPORTS",BeIN SPORT 2 FHD
 http://77.83.117.60:8888/02_epl2_720p/chunklist.m3u8
 
+#EXTGRP: BEIN SPORTS 
 #EXTINF:1,   ÷÷÷ USA ÷÷÷
 #EXTINF:-1 tvg-id="PlutoTVSPORTBeINSportsXtra.us" tvg-name="Pluto TV SPORT : BeIN Sports Xtra" tvg-country="US" tvg-language="" tvg-logo="none" group-title="SPORTS",Pluto TV SPORT : BeIN Sports Xtra
 https://service-stitcher.clusters.pluto.tv/stitch/hls/channel/5df975e2b27cf5000921c102/master.m3u8?deviceType=web&deviceMake=Opera&deviceModel=Opera&sid=855d6801-c912-428d-b620-ede4dd0c3b15&deviceId=b702181a-c1d6-4ee2-9481-753f471e2ce7&deviceVersion=66.0.3515.44&appVersion=2.9.3-b879e400d5df7a969d4bff8863fe5cb02c7120e6&deviceDNT=0&userId=&advertisingId=&deviceLat=40.8364&deviceLon=-74.1403&app_name=&appName=web&buildVersion=&appStoreUrl=&architecture=&includeExtendedEvents=false&serverSideAds=tr
