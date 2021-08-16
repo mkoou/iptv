@@ -1,3 +1,35 @@
+#EXTGRP: ROSARIO
+#EXTINF:-1 tvg-logo="https://www.linkpicture.com/q/IMG_20210817_000304.jpg" group-title="NOVELAS", ROSARIO 1
+http://news.yellovideoplus.bj:8080/vod/_definst_/video/file/27241/RackMultipart20210810-7914-1nwpkns.mp4/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://www.linkpicture.com/q/IMG_20210817_000304.jpg" group-title="NOVELAS", ROSARIO 2
+http://news.yellovideoplus.bj:8080/vod/_definst_/video/file/27240/RackMultipart20210810-7980-1yfierd.mp4/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://www.linkpicture.com/q/IMG_20210817_000304.jpg" group-title="NOVELAS", ROSARIO 3
+http://news.yellovideoplus.bj:8080/vod/_definst_/video/file/27239/RackMultipart20210810-7925-okablg.mp4/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://www.linkpicture.com/q/IMG_20210817_000304.jpg" group-title="NOVELAS", ROSARIO 4
+http://news.yellovideoplus.bj:8080/vod/_definst_/video/file/27232/RackMultipart20210810-7914-1gn5xu4.mp4/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://www.linkpicture.com/q/IMG_20210817_000304.jpg" group-title="NOVELAS", ROSARIO 5
+http://news.yellovideoplus.bj:8080/vod/_definst_/video/file/27234/RackMultipart20210810-8003-1e2zmeu.mp4/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://www.linkpicture.com/q/IMG_20210817_000304.jpg" group-title="NOVELAS", ROSARIO 6
+http://news.yellovideoplus.bj:8080/vod/_definst_/video/file/27233/RackMultipart20210810-7914-xungcv.mp4/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://www.linkpicture.com/q/IMG_20210817_000304.jpg" group-title="NOVELAS", ROSARIO 7
+http://news.yellovideoplus.bj:8080/vod/_definst_/video/file/27230/RackMultipart20210810-8014-zam7s8.mp4/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://www.linkpicture.com/q/IMG_20210817_000304.jpg" group-title="NOVELAS", ROSARIO 8
+http://news.yellovideoplus.bj:8080/vod/_definst_/video/file/27222/RackMultipart20210810-7881-2vzbtv.mp4/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://www.linkpicture.com/q/IMG_20210817_000304.jpg" group-title="NOVELAS", ROSARIO 9
+http://news.yellovideoplus.bj:8080/vod/_definst_/video/file/27231/RackMultipart20210810-7881-1c30hwe.mp4/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://www.linkpicture.com/q/IMG_20210817_000304.jpg" group-title="NOVELAS", ROSARIO 10
+http://news.yellovideoplus.bj:8080/vod/_definst_/video/file/27229/RackMultipart20210810-7936-1xtz2r.mp4/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://www.linkpicture.com/q/IMG_20210817_000304.jpg" group-title="NOVELAS", ROSARIO 11
+http://news.yellovideoplus.bj:8080/vod/_definst_/video/file/27227/RackMultipart20210810-7914-me55x9.mp4/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://www.linkpicture.com/q/IMG_20210817_000304.jpg" group-title="NOVELAS", ROSARIO 12
+http://news.yellovideoplus.bj:8080/vod/_definst_/video/file/27228/RackMultipart20210810-7969-ot2nax.mp4/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://www.linkpicture.com/q/IMG_20210817_000304.jpg" group-title="NOVELAS", ROSARIO 13
+http://news.yellovideoplus.bj:8080/vod/_definst_/video/file/27225/RackMultipart20210810-7925-1f44maf.mp4/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://www.linkpicture.com/q/IMG_20210817_000304.jpg" group-title="NOVELAS", ROSARIO 14
+http://news.yellovideoplus.bj:8080/vod/_definst_/video/file/27226/RackMultipart20210810-7881-1vpgqd9.mp4/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://www.linkpicture.com/q/IMG_20210817_000304.jpg" group-title="NOVELAS", ROSARIO 15
+http://news.yellovideoplus.bj:8080/vod/_definst_/video/file/27224/RackMultipart20210810-8014-1r0xssq.mp4/playlist.m3u8
+
 #EXTGRP: MARA UNE FEMME UNIQUE
 #EXTINF:-1 tvg-logo="https://www.linkpicture.com/q/IMG_20210816_213343.jpg" group-title="NOVELAS",MARA FU 1
 http://news.yellovideoplus.bj:8080/vod/_definst_/video/file/27223/RackMultipart20210810-7879-1lcjgnt.mp4/playlist.m3u8
