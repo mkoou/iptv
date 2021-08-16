@@ -91,6 +91,39 @@ http://news.yellovideoplus.bj:8080/vod/_definst_/video/file/27196/RackMultipart2
 http://news.yellovideoplus.bj:8080/vod/_definst_/video/file/27193/RackMultipart20210810-7914-14anlae.mp4/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://www.linkpicture.com/q/IMG_20210816_213343.jpg" group-title="NOVELAS",MARA FU 30
 http://news.yellovideoplus.bj:8080/vod/_definst_/video/file/27194/RackMultipart20210810-7992-1mhzu5r.mp4/playlist.m3u8
+
+#EXTGRP: TOI, MON AMOUR
+#EXTINF:-1 tvg-logo="https://www.linkpicture.com/q/toi-mon-amour.jpg" group-title="NOVELAS",ToiMonAmour 1
+http://news.yellovideoplus.bj:8080/vod/_definst_/video/file/27186/RackMultipart20210810-7881-2mfo1p.mp4/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://www.linkpicture.com/q/toi-mon-amour.jpg" group-title="NOVELAS",ToiMonAmour 2
+http://news.yellovideoplus.bj:8080/vod/_definst_/video/file/27185/RackMultipart20210810-7879-1cy4o3x.mp4/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://www.linkpicture.com/q/toi-mon-amour.jpg" group-title="NOVELAS",ToiMonAmour 3
+http://news.yellovideoplus.bj:8080/vod/_definst_/video/file/27183/RackMultipart20210810-7969-7533y5.mp4/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://www.linkpicture.com/q/toi-mon-amour.jpg" group-title="NOVELAS",ToiMonAmour 4
+http://news.yellovideoplus.bj:8080/vod/_definst_/video/file/27181/RackMultipart20210810-7992-ehvj1u.mp4/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://www.linkpicture.com/q/toi-mon-amour.jpg" group-title="NOVELAS",ToiMonAmour 5
+http://news.yellovideoplus.bj:8080/vod/_definst_/video/file/27184/RackMultipart20210810-8003-1jd6x4r.mp4/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://www.linkpicture.com/q/toi-mon-amour.jpg" group-title="NOVELAS",ToiMonAmour 6
+http://news.yellovideoplus.bj:8080/vod/_definst_/video/file/27182/RackMultipart20210810-7881-1aaafaa.mp4/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://www.linkpicture.com/q/toi-mon-amour.jpg" group-title="NOVELAS",ToiMonAmour 7
+http://news.yellovideoplus.bj:8080/vod/_definst_/video/file/27174/RackMultipart20210810-7914-118bhmk.mp4/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://www.linkpicture.com/q/toi-mon-amour.jpg" group-title="NOVELAS",ToiMonAmour 8
+http://news.yellovideoplus.bj:8080/vod/_definst_/video/file/27177/RackMultipart20210810-7881-1j19wzp.mp4/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://www.linkpicture.com/q/toi-mon-amour.jpg" group-title="NOVELAS",ToiMonAmour 9
+http://news.yellovideoplus.bj:8080/vod/_definst_/video/file/27172/RackMultipart20210810-7936-1kyxwge.mp4/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://www.linkpicture.com/q/toi-mon-amour.jpg" group-title="NOVELAS",ToiMonAmour 10
+http://news.yellovideoplus.bj:8080/vod/_definst_/video/file/27176/RackMultipart20210810-7879-1wx4u9.mp4/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://www.linkpicture.com/q/toi-mon-amour.jpg" group-title="NOVELAS",ToiMonAmour 11
+http://news.yellovideoplus.bj:8080/vod/_definst_/video/file/27169/RackMultipart20210810-7947-1t7zfpv.mp4/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://www.linkpicture.com/q/toi-mon-amour.jpg" group-title="NOVELAS",ToiMonAmour 12
+http://news.yellovideoplus.bj:8080/vod/_definst_/video/file/27170/RackMultipart20210810-7958-dv1dym.mp4/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://www.linkpicture.com/q/toi-mon-amour.jpg" group-title="NOVELAS",ToiMonAmour 13
+http://news.yellovideoplus.bj:8080/vod/_definst_/video/file/27173/RackMultipart20210810-7936-sjogtv.mp4/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://www.linkpicture.com/q/toi-mon-amour.jpg" group-title="NOVELAS",ToiMonAmour 14
+http://news.yellovideoplus.bj:8080/vod/_definst_/video/file/27171/RackMultipart20210810-7958-1zjsv1.mp4/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://www.linkpicture.com/q/toi-mon-amour.jpg" group-title="NOVELAS",ToiMonAmour 15
+http://news.yellovideoplus.bj:8080/vod/_definst_/video/file/27175/RackMultipart20210810-8036-19yedl7.mp4/playlist.m3u8
+
 #EXTGRP: MA VIE SANS ELLE
 #EXTINF:-1 tvg-logo="https://www.linkpicture.com/q/IMG_20210816_234549.jpg" group-title="NOVELAS",VIE sans ELLE 1
 http://news.yellovideoplus.bj:8080/vod/_definst_/video/file/27256/RackMultipart20210810-8025-8x7dc2.mp4/playlist.m3u8
