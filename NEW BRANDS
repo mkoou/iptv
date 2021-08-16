@@ -90,6 +90,39 @@ http://news.yellovideoplus.bj:8080/vod/_definst_/video/file/27244/RackMultipart2
 http://news.yellovideoplus.bj:8080/vod/_definst_/video/file/27243/RackMultipart20210810-7936-1vhv3rf.mp4/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://www.linkpicture.com/q/IMG_20210816_234549.jpg" group-title="NOVELAS",VIE sans Elle 15
 http://news.yellovideoplus.bj:8080/vod/_definst_/video/file/27242/RackMultipart20210810-7947-1d68700.mp4/playlist.m3u8
+#EXTGRP:AMOUR SECRET
+#EXTINF:-1 tvg-logo="https://www.linkpicture.com/q/IMG_20210817_000304.jpg" group-title="NOVELAS", AMOUR Secret 1
+http://news.yellovideoplus.bj:8080/vod/_definst_/video/file/27385/RackMultipart20210811-7925-fxafuh.mp4/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://www.linkpicture.com/q/IMG_20210817_000304.jpg" group-title="NOVELAS", AMOUR Secret 2
+http://news.yellovideoplus.bj:8080/vod/_definst_/video/file/27374/RackMultipart20210811-7980-gw9lsq.mp4/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://www.linkpicture.com/q/IMG_20210817_000304.jpg" group-title="NOVELAS", AMOUR Secret 3
+http://news.yellovideoplus.bj:8080/vod/_definst_/video/file/27372/RackMultipart20210811-8014-1mgcmxe.mp4/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://www.linkpicture.com/q/IMG_20210817_000304.jpg" group-title="NOVELAS", AMOUR Secret 4
+http://news.yellovideoplus.bj:8080/vod/_definst_/video/file/27373/RackMultipart20210811-7898-nbif0o.mp4/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://www.linkpicture.com/q/IMG_20210817_000304.jpg" group-title="NOVELAS", AMOUR Secret 5
+http://news.yellovideoplus.bj:8080/vod/_definst_/video/file/27368/RackMultipart20210811-7925-dyoh74.mp4/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://www.linkpicture.com/q/IMG_20210817_000304.jpg" group-title="NOVELAS", AMOUR Secret 6
+http://news.yellovideoplus.bj:8080/vod/_definst_/video/file/27370/RackMultipart20210811-7958-yqwhfz.mp4/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://www.linkpicture.com/q/IMG_20210817_000304.jpg" group-title="NOVELAS", AMOUR Secret 7
+http://news.yellovideoplus.bj:8080/vod/_definst_/video/file/27369/RackMultipart20210811-7925-i09aep.mp4/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://www.linkpicture.com/q/IMG_20210817_000304.jpg" group-title="NOVELAS", AMOUR Secret 8
+http://news.yellovideoplus.bj:8080/vod/_definst_/video/file/27365/RackMultipart20210811-7925-19zt6fm.mp4/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://www.linkpicture.com/q/IMG_20210817_000304.jpg" group-title="NOVELAS", AMOUR Secret 9
+http://news.yellovideoplus.bj:8080/vod/_definst_/video/file/27367/RackMultipart20210811-7914-18h7zl9.mp4/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://www.linkpicture.com/q/IMG_20210817_000304.jpg" group-title="NOVELAS", AMOUR Secret 10
+http://news.yellovideoplus.bj:8080/vod/_definst_/video/file/27361/RackMultipart20210811-7925-ko3d2u.mp4/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://www.linkpicture.com/q/IMG_20210817_000304.jpg" group-title="NOVELAS", AMOUR Secret 11
+http://news.yellovideoplus.bj:8080/vod/_definst_/video/file/27366/RackMultipart20210811-7879-1jf3h0s.mp4/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://www.linkpicture.com/q/IMG_20210817_000304.jpg" group-title="NOVELAS", AMOUR Secret 12
+http://news.yellovideoplus.bj:8080/vod/_definst_/video/file/27363/RackMultipart20210811-8048-10vkc2p.mp4/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://www.linkpicture.com/q/IMG_20210817_000304.jpg" group-title="NOVELAS", AMOUR Secret 13
+http://news.yellovideoplus.bj:8080/vod/_definst_/video/file/27357/RackMultipart20210811-7969-1mu7bss.mp4/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://www.linkpicture.com/q/IMG_20210817_000304.jpg" group-title="NOVELAS", AMOUR Secret 14
+http://news.yellovideoplus.bj:8080/vod/_definst_/video/file/27360/RackMultipart20210811-8036-s837lj.mp4/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://www.linkpicture.com/q/IMG_20210817_000304.jpg" group-title="NOVELAS", AMOUR Secret 15
+http://news.yellovideoplus.bj:8080/vod/_definst_/video/file/27356/RackMultipart20210811-8036-djhpx7.mp4/playlist.m3u8
+
+
 
 #EXTGRP: FILMS ACTION
 #EXTINF:-1 tvg-logo="https://www.linkpicture.com/q/Basmati.jpg" group-title="FILMS ACTION",BASMATI BLUES
