@@ -63,9 +63,6 @@ http://news.yellovideoplus.bj:8080/vod/_definst_/video/file/27093/RackMultipart2
 http://news.yellovideoplus.bj:8080/vod/_definst_/video/file/27104/RackMultipart20210809-7879-1gxodtj.mp4/playlist.m3u8
 #EXTINF:-1 tvg-logo="" group-title="FILMS ACTION", DADJU TV
 http://41.79.218.138:8080/live/dadjutest/chunks.m3u8
-
-#EXTINF:-1 tvg-logo="https://www.linkpicture.com/q/IMG_20210812_071642.jpg" group-title="",FIRE with FIRE
-http://vod.yellovideoplus.bj:8080/vod/_definst_/video/file/27103/RackMultipart20210809-7958-2lm48d.mp4/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://www.linkpicture.com/q/Screenshot_20210727_001127-5.jpg" group-title="FILMS ACTION", MANTHAN
 http://news.yellovideoplus.bj:8080/vod/_definst_/video/file/20676/ManthanNocture.mp4/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://www.linkpicture.com/q/Screenshot_20210727_011012.jpg" group-title="FILMS ACTION",MAITRES D'ILLUSION
