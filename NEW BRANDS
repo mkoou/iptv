@@ -187,7 +187,29 @@ http://news.yellovideoplus.bj:8080/vod/_definst_/video/file/27360/RackMultipart2
 #EXTINF:-1 tvg-logo="https://www.linkpicture.com/q/IMG_20210817_000304.jpg" group-title="NOVELAS", AMOUR Secret 15
 http://news.yellovideoplus.bj:8080/vod/_definst_/video/file/27356/RackMultipart20210811-8036-djhpx7.mp4/playlist.m3u8
 
-
+#EXTGRP: PABLO ESCOBAR
+#EXTINF:-1 tvg-logo="https://www.linkpicture.com/q/IMG_20210817_004939.jpg" group-title="NOVELAS",PABLO 1
+http://news.yellovideoplus.bj:8080/vod/_definst_/video/file/27382/RackMultipart20210811-7914-nimhtc.mp4/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://www.linkpicture.com/q/IMG_20210817_004939.jpg" group-title="NOVELAS",Pablo 2
+http://news.yellovideoplus.bj:8080/vod/_definst_/video/file/27383/RackMultipart20210811-8025-lqqff9.mp4/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://www.linkpicture.com/q/IMG_20210817_004939.jpg" group-title="NOVELAS",Pablo 3
+http://news.yellovideoplus.bj:8080/vod/_definst_/video/file/27380/RackMultipart20210811-7958-nzo18k.mp4/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://www.linkpicture.com/q/IMG_20210817_004939.jpg" group-title="NOVELAS",Pablo 4
+http://news.yellovideoplus.bj:8080/vod/_definst_/video/file/27381/RackMultipart20210811-8036-uwbok0.mp4/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://www.linkpicture.com/q/IMG_20210817_004939.jpg" group-title="NOVELAS",Pablo 5
+http://news.yellovideoplus.bj:8080/vod/_definst_/video/file/27384/RackMultipart20210811-7947-11dw3x1.mp4/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://www.linkpicture.com/q/IMG_20210817_004939.jpg" group-title="NOVELAS",Pablo 6
+http://news.yellovideoplus.bj:8080/vod/_definst_/video/file/27378/RackMultipart20210811-7898-ieyvrg.mp4/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://www.linkpicture.com/q/IMG_20210817_004939.jpg" group-title="NOVELAS",Pablo 7
+http://news.yellovideoplus.bj:8080/vod/_definst_/video/file/27375/RackMultipart20210811-8048-3s2mop.mp4/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://www.linkpicture.com/q/IMG_20210817_004939.jpg" group-title="NOVELAS",Pablo 8
+http://news.yellovideoplus.bj:8080/vod/_definst_/video/file/27377/RackMultipart20210811-7980-1hz0w0l.mp4/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://www.linkpicture.com/q/IMG_20210817_004939.jpg" group-title="NOVELAS",Pablo 9
+http://news.yellovideoplus.bj:8080/vod/_definst_/video/file/27379/RackMultipart20210811-7936-1fdj8ak.mp4/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://www.linkpicture.com/q/IMG_20210817_004939.jpg" group-title="NOVELAS",Pablo 10
+http://news.yellovideoplus.bj:8080/vod/_definst_/video/file/27376/RackMultipart20210811-7992-d9jlrj.mp4/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://www.linkpicture.com/q/IMG_20210817_004939.jpg" group-title="NOVELAS",Pablo 11
+http://news.yellovideoplus.bj:8080/vod/_definst_/video/file/27371/RackMultipart20210811-7980-q904zn.mp4/playlist.m3u8
 
 #EXTGRP: FILMS ACTION
 #EXTINF:-1 tvg-logo="https://www.linkpicture.com/q/Basmati.jpg" group-title="FILMS ACTION",BASMATI BLUES
