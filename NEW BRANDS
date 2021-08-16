@@ -1,4 +1,3 @@
-#EXTGRP: MARA UNE FEMME UNIQUE 
 #EXTGRP: MARA UNE FEMME UNIQUE
 #EXTINF:-1 tvg-logo="https://www.linkpicture.com/q/IMG_20210816_213343.jpg" group-title="NOVELAS",MARA FU 1
 http://news.yellovideoplus.bj:8080/vod/_definst_/video/file/27223/RackMultipart20210810-7879-1lcjgnt.mp4/playlist.m3u8
@@ -60,7 +59,37 @@ http://news.yellovideoplus.bj:8080/vod/_definst_/video/file/27196/RackMultipart2
 http://news.yellovideoplus.bj:8080/vod/_definst_/video/file/27193/RackMultipart20210810-7914-14anlae.mp4/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://www.linkpicture.com/q/IMG_20210816_213343.jpg" group-title="NOVELAS",MARA FU 30
 http://news.yellovideoplus.bj:8080/vod/_definst_/video/file/27194/RackMultipart20210810-7992-1mhzu5r.mp4/playlist.m3u8
-
+#EXTGRP: MA VIE SANS ELLE
+#EXTINF:-1 tvg-logo="https://www.linkpicture.com/q/IMG_20210816_234549.jpg" group-title="NOVELAS",VIE sans ELLE 1
+http://news.yellovideoplus.bj:8080/vod/_definst_/video/file/27256/RackMultipart20210810-8025-8x7dc2.mp4/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://www.linkpicture.com/q/IMG_20210816_234549.jpg" group-title="NOVELAS",VIE sans Elle 2
+http://news.yellovideoplus.bj:8080/vod/_definst_/video/file/27254/RackMultipart20210810-7947-yosva5.mp4/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://www.linkpicture.com/q/IMG_20210816_234549.jpg" group-title="NOVELAS",VIE sans Elle 3
+http://news.yellovideoplus.bj:8080/vod/_definst_/video/file/27253/RackMultipart20210810-7958-1gzqvr.mp4/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://www.linkpicture.com/q/IMG_20210816_234549.jpg" group-title="NOVELAS",VIE sans Elle 4
+http://news.yellovideoplus.bj:8080/vod/_definst_/video/file/27255/RackMultipart20210810-7898-1r41aqp.mp4/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://www.linkpicture.com/q/IMG_20210816_234549.jpg" group-title="NOVELAS",VIE sans Elle 5
+http://news.yellovideoplus.bj:8080/vod/_definst_/video/file/27252/RackMultipart20210810-7881-nbcz5k.mp4/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://www.linkpicture.com/q/IMG_20210816_234549.jpg" group-title="NOVELAS",VIE sans Elle 6
+http://news.yellovideoplus.bj:8080/vod/_definst_/video/file/27251/RackMultipart20210810-7980-61mfuq.mp4/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://www.linkpicture.com/q/IMG_20210816_234549.jpg" group-title="NOVELAS",VIE sans Elle 7
+http://news.yellovideoplus.bj:8080/vod/_definst_/video/file/27250/RackMultipart20210810-7992-dq8h6.mp4/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://www.linkpicture.com/q/IMG_20210816_234549.jpg" group-title="NOVELAS",VIE sans Elle 8
+http://news.yellovideoplus.bj:8080/vod/_definst_/video/file/27248/RackMultipart20210810-8048-gu26mb.mp4/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://www.linkpicture.com/q/IMG_20210816_234549.jpg" group-title="NOVELAS",VIE sans Elle 9
+http://news.yellovideoplus.bj:8080/vod/_definst_/video/file/27249/RackMultipart20210810-7958-1vdeqsz.mp4/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://www.linkpicture.com/q/IMG_20210816_234549.jpg" group-title="NOVELAS",VIE sans Elle 10
+http://news.yellovideoplus.bj:8080/vod/_definst_/video/file/27246/RackMultipart20210810-7980-2kcn4.mp4/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://www.linkpicture.com/q/IMG_20210816_234549.jpg" group-title="NOVELAS",VIE sans Elle 11
+http://news.yellovideoplus.bj:8080/vod/_definst_/video/file/27247/RackMultipart20210810-8036-1uh8z8g.mp4/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://www.linkpicture.com/q/IMG_20210816_234549.jpg" group-title="NOVELAS",VIE sans Elle 12
+http://news.yellovideoplus.bj:8080/vod/_definst_/video/file/27245/RackMultipart20210810-8003-2y5w87.mp4/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://www.linkpicture.com/q/IMG_20210816_234549.jpg" group-title="NOVELAS",VIE sans Elle 13
+http://news.yellovideoplus.bj:8080/vod/_definst_/video/file/27244/RackMultipart20210810-8014-nrx3v5.mp4/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://www.linkpicture.com/q/IMG_20210816_234549.jpg" group-title="NOVELAS",VIE sans Elle 14
+http://news.yellovideoplus.bj:8080/vod/_definst_/video/file/27243/RackMultipart20210810-7936-1vhv3rf.mp4/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://www.linkpicture.com/q/IMG_20210816_234549.jpg" group-title="NOVELAS",VIE sans Elle 15
+http://news.yellovideoplus.bj:8080/vod/_definst_/video/file/27242/RackMultipart20210810-7947-1d68700.mp4/playlist.m3u8
 
 #EXTGRP: FILMS ACTION
 #EXTINF:-1 tvg-logo="https://www.linkpicture.com/q/Basmati.jpg" group-title="FILMS ACTION",BASMATI BLUES
