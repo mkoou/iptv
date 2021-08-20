@@ -1,25 +1,3 @@
-#EXTGRP: MADAME & MONSIEUR
-#EXTINF:-1 tvg-logo="https://www.linkpicture.com/q/Mm-Mrs.jpg" group-title="NOVELAS",Mm&Mrs 01
-http://news.yellovideoplus.bj:8080/vod/_definst_/video/file/27287/RackMultipart20210811-7936-beek46.mp4/playlist.m3u8
-#EXTINF:-1 tvg-logo="https://www.linkpicture.com/q/Mm-Mrs.jpg" group-title="NOVELAS",Mm&Mrs 02
-http://news.yellovideoplus.bj:8080/vod/_definst_/video/file/27345/RackMultipart20210811-8048-1o9uhbc.mp4/playlist.m3u8
-#EXTINF:-1 tvg-logo="https://www.linkpicture.com/q/Mm-Mrs.jpg" group-title="NOVELAS",Mm&Mrs 03
-http://news.yellovideoplus.bj:8080/vod/_definst_/video/file/27342/RackMultipart20210811-8003-156zhun.mp4/playlist.m3u8
-#EXTINF:-1 tvg-logo="https://www.linkpicture.com/q/Mm-Mrs.jpg" group-title="NOVELAS",Mm&Mrs 04
-http://news.yellovideoplus.bj:8080/vod/_definst_/video/file/27337/RackMultipart20210811-8036-6yxff0.mp4/playlist.m3u8
-#EXTINF:-1 tvg-logo="https://www.linkpicture.com/q/Mm-Mrs.jpg" group-title="NOVELAS",Mm&Mrs 05
-http://news.yellovideoplus.bj:8080/vod/_definst_/video/file/27343/RackMultipart20210811-7969-h2ndhe.mp4/playlist.m3u8
-#EXTINF:-1 tvg-logo="https://www.linkpicture.com/q/Mm-Mrs.jpg" group-title="NOVELAS",Mm&Mrs 06
-http://news.yellovideoplus.bj:8080/vod/_definst_/video/file/27339/RackMultipart20210811-8025-u02ja8.mp4/playlist.m3u8 
-#EXTINF:-1 tvg-logo="https://www.linkpicture.com/q/Mm-Mrs.jpg" group-title="NOVELAS",Mm&Mrs 07 
-http://news.yellovideoplus.bj:8080/vod/_definst_/video/file/27334/RackMultipart20210811-7980-4cm405.mp4/playlist.m3u8
-#EXTINF:-1 tvg-logo="https://www.linkpicture.com/q/Mm-Mrs.jpg" group-title="NOVELAS",Mm&Mrs 08 
-http://news.yellovideoplus.bj:8080/vod/_definst_/video/file/27336/RackMultipart20210811-8014-2zhnby.mp4/playlist.m3u8
-#EXTINF:-1 tvg-logo="https://www.linkpicture.com/q/Mm-Mrs.jpg" group-title="NOVELAS",Mm&Mrs 09 
-http://news.yellovideoplus.bj:8080/vod/_definst_/video/file/27335/RackMultipart20210811-8036-i6gqwd.mp4/playlist.m3u8
-#EXTINF:-1 tvg-logo="https://www.linkpicture.com/q/Mm-Mrs.jpg" group-title="NOVELAS",Mm&Mrs 10 
-http://news.yellovideoplus.bj:8080/vod/_definst_/video/file/27341/RackMultipart20210811-7969-c7g9q8.mp4/playlist.m3u8
-
 #EXTGRP: MARA UNE FEMME UNIQUE
 #EXTINF:-1 tvg-logo="https://www.linkpicture.com/q/IMG_20210816_213343.jpg" group-title="NOVELAS",MARA FU 1
 http://news.yellovideoplus.bj:8080/vod/_definst_/video/file/27223/RackMultipart20210810-7879-1lcjgnt.mp4/playlist.m3u8
