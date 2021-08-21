@@ -657,7 +657,65 @@ http://news.yellovideoplus.bj:8080/vod/_definst_/video/file/26335/3_-_AVITIKPAMB
 http://news.yellovideoplus.bj:8080/vod/_definst_/video/file/26336/4_-_AVITIKPAMBA_4_-_Full_HD__2021__Final.mp4/playlist.m3u8
 
                                             
-#EXTGRP:    LAST FLIGHT
+#EXTGRP: SERIE INTERNATIONAL 
+#EXTINF:-1 tvg-logo="https://www.linkpicture.com/q/Screenshot_20210821_020427.jpg" group-title="TOP MODEL",TM 1
+http://vod.yellovideoplus.bj:8080/vod/_definst_/video/file/27718/RackMultipart20210818-7980-57qnhm.mp4/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://www.linkpicture.com/q/Screenshot_20210821_020427.jpg" group-title="TOP MODEL",TM 2
+http://vod.yellovideoplus.bj:8080/vod/_definst_/video/file/27717/RackMultipart20210818-8036-60xw2j.mp4/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://www.linkpicture.com/q/Screenshot_20210821_020427.jpg" group-title="TOP MODEL",TM 3
+http://vod.yellovideoplus.bj:8080/vod/_definst_/video/file/27716/RackMultipart20210818-7936-rlagk3.mp4/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://www.linkpicture.com/q/Screenshot_20210821_020427.jpg" group-title="TOP MODEL",TM 4
+http://vod.yellovideoplus.bj:8080/vod/_definst_/video/file/27714/RackMultipart20210818-7936-l0krmz.mp4/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://www.linkpicture.com/q/Screenshot_20210821_020427.jpg" group-title="TOP MODEL",TM 5
+http://vod.yellovideoplus.bj:8080/vod/_definst_/video/file/27715/RackMultipart20210818-7881-d3wvd9.mp4/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://www.linkpicture.com/q/Screenshot_20210821_020427.jpg" group-title="TOP MODEL",TM 6
+http://vod.yellovideoplus.bj:8080/vod/_definst_/video/file/27713/RackMultipart20210818-7898-1k32fxi.mp4/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://www.linkpicture.com/q/Screenshot_20210821_020427.jpg" group-title="TOP MODEL",TM 7
+http://vod.yellovideoplus.bj:8080/vod/_definst_/video/file/27712/RackMultipart20210818-7958-tdx7oe.mp4/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://www.linkpicture.com/q/Screenshot_20210821_020427.jpg" group-title="TOP MODEL",TM 8
+http://vod.yellovideoplus.bj:8080/vod/_definst_/video/file/27711/RackMultipart20210818-7881-10qc4fr.mp4/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://www.linkpicture.com/q/Screenshot_20210821_020427.jpg" group-title="TOP MODEL",TM 9
+http://vod.yellovideoplus.bj:8080/vod/_definst_/video/file/27692/RackMultipart20210818-8036-10tqk69.mp4/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://www.linkpicture.com/q/Screenshot_20210821_020427.jpg" group-title="TOP MODEL",TM 10
+http://vod.yellovideoplus.bj:8080/vod/_definst_/video/file/27706/RackMultipart20210818-8048-z4t1ge.mp4/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://www.linkpicture.com/q/Screenshot_20210821_020427.jpg" group-title="TOP MODEL",TM 11
+http://vod.yellovideoplus.bj:8080/vod/_definst_/video/file/27700/RackMultipart20210818-8025-hqha7f.mp4/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://www.linkpicture.com/q/Screenshot_20210821_020427.jpg" group-title="TOP MODEL",TM 12
+http://vod.yellovideoplus.bj:8080/vod/_definst_/video/file/27701/RackMultipart20210818-7925-nfv9ej.mp4/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://www.linkpicture.com/q/Screenshot_20210821_020427.jpg" group-title="TOP MODEL",TM 13
+http://vod.yellovideoplus.bj:8080/vod/_definst_/video/file/27693/RackMultipart20210818-7914-dmc4tk.mp4/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://www.linkpicture.com/q/Screenshot_20210821_020427.jpg" group-title="TOP MODEL",TM 14
+http://vod.yellovideoplus.bj:8080/vod/_definst_/video/file/27697/RackMultipart20210818-8003-g9od1w.mp4/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://www.linkpicture.com/q/Screenshot_20210821_020427.jpg" group-title="TOP MODEL",TM 15
+http://vod.yellovideoplus.bj:8080/vod/_definst_/video/file/27705/RackMultipart20210818-7992-163i20n.mp4/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://www.linkpicture.com/q/Screenshot_20210821_020427.jpg" group-title="TOP MODEL",TM 16
+http://vod.yellovideoplus.bj:8080/vod/_definst_/video/file/27702/RackMultipart20210818-7947-1nphf03.mp4/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://www.linkpicture.com/q/Screenshot_20210821_020427.jpg" group-title="TOP MODEL",TM 17
+http://vod.yellovideoplus.bj:8080/vod/_definst_/video/file/27699/RackMultipart20210818-7914-52toza.mp4/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://www.linkpicture.com/q/Screenshot_20210821_020427.jpg" group-title="TOP MODEL",TM 18
+http://vod.yellovideoplus.bj:8080/vod/_definst_/video/file/27709/RackMultipart20210818-7936-kmo6c5.mp4/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://www.linkpicture.com/q/Screenshot_20210821_020427.jpg" group-title="TOP MODEL",TM 19
+http://vod.yellovideoplus.bj:8080/vod/_definst_/video/file/27694/RackMultipart20210818-8025-l7bx0w.mp4/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://www.linkpicture.com/q/Screenshot_20210821_020427.jpg" group-title="TOP MODEL",TM 20
+http://vod.yellovideoplus.bj:8080/vod/_definst_/video/file/27704/RackMultipart20210818-7992-yhbtv5.mp4/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://www.linkpicture.com/q/Screenshot_20210821_020427.jpg" group-title="TOP MODEL",TM 21
+http://vod.yellovideoplus.bj:8080/vod/_definst_/video/file/27695/RackMultipart20210818-7980-2qhudu.mp4/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://www.linkpicture.com/q/Screenshot_20210821_020427.jpg" group-title="TOP MODEL",TM 22
+http://vod.yellovideoplus.bj:8080/vod/_definst_/video/file/27708/RackMultipart20210818-7980-1f7e1h6.mp4/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://www.linkpicture.com/q/Screenshot_20210821_020427.jpg" group-title="TOP MODEL",TM 23
+http://vod.yellovideoplus.bj:8080/vod/_definst_/video/file/27703/RackMultipart20210818-7969-y62yer.mp4/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://www.linkpicture.com/q/Screenshot_20210821_020427.jpg" group-title="TOP MODEL",TM 24
+http://vod.yellovideoplus.bj:8080/vod/_definst_/video/file/27710/RackMultipart20210818-7947-1dcl7am.mp4/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://www.linkpicture.com/q/Screenshot_20210821_020427.jpg" group-title="TOP MODEL",TM 25
+http://vod.yellovideoplus.bj:8080/vod/_definst_/video/file/27698/RackMultipart20210818-8003-1gjkqe9.mp4/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://www.linkpicture.com/q/Screenshot_20210821_020427.jpg" group-title="TOP MODEL",TM 26
+http://vod.yellovideoplus.bj:8080/vod/_definst_/video/file/27707/RackMultipart20210818-7936-9ypdxx.mp4/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://www.linkpicture.com/q/Screenshot_20210821_020427.jpg" group-title="TOP MODEL",TM 27
+http://vod.yellovideoplus.bj:8080/vod/_definst_/video/file/27696/RackMultipart20210818-7969-1exwed3.mp4/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://www.linkpicture.com/q/Screenshot_20210821_020427.jpg" group-title="TOP MODEL",TM 28
+http://vod.yellovideoplus.bj:8080/vod/_definst_/video/file/27691/RackMultipart20210818-7879-fl7z8x.mp4/playlist.m3u8
+
+
 #EXTINF:-1 tvg-logo="https://www.linkpicture.com/q/Screenshot_20210726_225715-2.jpg" group-title="LAST FLIGHT",LAST FLIGHT 1
 http://news.yellovideoplus.bj:8080/vod/_definst_/video/file/21022/LastFlightEp1.mp4/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://www.linkpicture.com/q/Screenshot_20210726_225715-2.jpg" group-title="LAST FLIGHT",LAST FLIGHT 2
@@ -679,7 +737,7 @@ http://news.yellovideoplus.bj:8080/vod/_definst_/video/file/21030/LastFlightEp9.
 #EXTINF:-1 tvg-logo="https://www.linkpicture.com/q/Screenshot_20210726_225715-2.jpg" group-title="LAST FLIGHT",LAST FLIGHT 10
 http://news.yellovideoplus.bj:8080/vod/_definst_/video/file/21031/LastFlightEp10.mp4/playlist.m3u8
                                             
-#EXTGRP:    NOX
+
 #EXTINF:-1 tvg-logo="https://www.linkpicture.com/q/Screenshot_20210726_225715-3.jpg" group-title="NOX",NOX 1
 http://news.yellovideoplus.bj:8080/vod/_definst_/video/file/21033/NoxEp1.mp4/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://www.linkpicture.com/q/Screenshot_20210726_225715-3.jpg" group-title="NOX",NOX 2
