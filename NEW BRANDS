@@ -1049,6 +1049,46 @@ http://news.yellovideoplus.bj:8080/vod/_definst_/video/file/25882/RackMultipart2
 #EXTINF:-1 tvg-logo="https://www.linkpicture.com/q/Screenshot_20210726_234905.jpg" group-title="LADJAGAI",LADJAGAI Ep14
 http://news.yellovideoplus.bj:8080/vod/_definst_/video/file/25878/RackMultipart20210706-17312-15fu0yn.mp4/playlist.m3u8
 
+#EXTGRP: tvg-logo"https://www.linkpicture.com/q/istock-t.jpg" group-title="BEUATY-MAKE_UP", BEAUTY-MAKE_UP
+#EXTINF:-1 tvg-logo"https://www.linkpicture.com/q/istock-t.jpg" group-title="BEUATY-MAKE_UP", BEAUTY 1
+http://sharing.yellovideoplus.bj:8080/nimble/46083/f6d678ba480b9204.mp4/playlist.m3u8
+#EXTINF:-1 tvg-logo"https://www.linkpicture.com/q/istock-t.jpg" group-title="BEUATY-MAKE_UP", BEAUTY 2
+http://sharing.yellovideoplus.bj:8080/nimble/46083/4f715f401b0b58db.mp4/playlist.m3u8
+#EXTINF:-1 tvg-logo"https://www.linkpicture.com/q/istock-t.jpg" group-title="BEUATY-MAKE_UP", BEAUTY 3
+http://sharing.yellovideoplus.bj:8080/nimble/46083/dc402fe127568c7d.mp4/playlist.m3u8
+#EXTINF:-1 tvg-logo"https://www.linkpicture.com/q/istock-t.jpg" group-title="BEUATY-MAKE_UP", BEAUTY 4
+http://sharing.yellovideoplus.bj:8080/nimble/46083/4a6279011398fd39.mp4/playlist.m3u8
+#EXTINF:-1 tvg-logo"https://www.linkpicture.com/q/istock-t.jpg" group-title="BEUATY-MAKE_UP", BEAUTY 5
+http://sharing.yellovideoplus.bj:8080/nimble/46083/8cb39ed9519fc7b4.mp4/playlist.m3u8
+#EXTINF:-1 tvg-logo"https://www.linkpicture.com/q/istock-t.jpg" group-title="BEUATY-MAKE_UP", BEAUTY 6
+http://sharing.yellovideoplus.bj:8080/nimble/46083/8cb39ed9519fc7b4.mp4/playlist.m3u8
+#EXTINF:-1 tvg-logo"https://www.linkpicture.com/q/istock-t.jpg" group-title="BEUATY-MAKE_UP", BEAUTY 7
+http://sharing.yellovideoplus.bj:8080/nimble/46083/6fe4a4babaca6483.mp4/playlist.m3u8
+#EXTINF:-1 tvg-logo"https://www.linkpicture.com/q/istock-t.jpg" group-title="BEUATY-MAKE_UP", BEAUTY 8
+http://sharing.yellovideoplus.bj:8080/nimble/46083/f2959b7d638e3a26.mp4/playlist.m3u8
+#EXTINF:-1 tvg-logo"https://www.linkpicture.com/q/istock-t.jpg" group-title="BEUATY-MAKE_UP", BEAUTY 9
+http://sharing.yellovideoplus.bj:8080/nimble/46083/ebd2ba4baaf8a14c.mp4/playlist.m3u8
+#EXTINF:-1 tvg-logo"https://www.linkpicture.com/q/istock-t.jpg" group-title="BEUATY-MAKE_UP", BEAUTY 10
+http://sharing.yellovideoplus.bj:8080/nimble/46083/fa6f91c5c76380e8.mp4/playlist.m3u8
+#EXTINF:-1 tvg-logo"https://www.linkpicture.com/q/istock-t.jpg" group-title="BEUATY-MAKE_UP", BEAUTY 11
+http://sharing.yellovideoplus.bj:8080/nimble/46083/186369e73df1ce4c.mp4/playlist.m3u8
+#EXTINF:-1 tvg-logo"https://www.linkpicture.com/q/istock-t.jpg" group-title="BEUATY-MAKE_UP", BEAUTY 12
+http://sharing.yellovideoplus.bj:8080/nimble/46083/9a1ebe147b3ba962.mp4/playlist.m3u8
+#EXTINF:-1 tvg-logo"https://www.linkpicture.com/q/istock-t.jpg" group-title="BEUATY-MAKE_UP", BEAUTY 13
+http://sharing.yellovideoplus.bj:8080/nimble/46083/8580d12c91d921fe.mp4/playlist.m3u8
+#EXTINF:-1 tvg-logo"https://www.linkpicture.com/q/istock-t.jpg" group-title="BEUATY-MAKE_UP", BEAUTY 14
+http://sharing.yellovideoplus.bj:8080/nimble/46083/1f8383461056859d.mp4/playlist.m3u8
+#EXTINF:-1 tvg-logo"https://www.linkpicture.com/q/istock-t.jpg" group-title="BEUATY-MAKE_UP", BEAUTY 15
+http://sharing.yellovideoplus.bj:8080/nimble/46083/6463bc01f2fad039.mp4/playlist.m3u8
+#EXTINF:-1 tvg-logo"https://www.linkpicture.com/q/istock-t.jpg" group-title="BEUATY-MAKE_UP", BEAUTY 16
+http://sharing.yellovideoplus.bj:8080/nimble/46083/f4054b8c0291adb9.mp4/playlist.m3u8
+#EXTINF:-1 tvg-logo"https://www.linkpicture.com/q/istock-t.jpg" group-title="BEUATY-MAKE_UP", BEAUTY 17
+http://sharing.yellovideoplus.bj:8080/nimble/46083/ddb08f2d10c9b6ad.mp4/playlist.m3u8
+#EXTINF:-1 tvg-logo"https://www.linkpicture.com/q/istock-t.jpg" group-title="BEUATY-MAKE_UP", BEAUTY 18
+http://sharing.yellovideoplus.bj:8080/nimble/46083/d36fa8971c996030.mp4/playlist.m3u8
+#EXTINF:-1 tvg-logo"https://www.linkpicture.com/q/istock-t.jpg" group-title="BEUATY-MAKE_UP", BEAUTY 19
+http://sharing.yellovideoplus.bj:8080/nimble/46083/1623f7bc8ebdc191.mp4/playlist.m3u8
+
 
 #EXTGRP: SERIE ANIME
 #EXTGRP: PING GU 
