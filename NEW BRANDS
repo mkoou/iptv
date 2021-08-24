@@ -318,6 +318,32 @@ http://news.yellovideoplus.bj:8080/vod/_definst_/video/file/27376/RackMultipart2
 #EXTINF:-1 tvg-logo="https://www.linkpicture.com/q/IMG_20210817_004939.jpg" group-title="NOVELAS",Pablo 11
 http://news.yellovideoplus.bj:8080/vod/_definst_/video/file/27371/RackMultipart20210811-7980-q904zn.mp4/playlist.m3u8
 
+#EXTGRP: PARLEMENT DU RIRE
+#EXTINF:-1 tvg-logo="https://www.linkpicture.com/q/IMG_20210824_185220.jpg" group-title="PARLEMENT DU RIRE",RIRE 1
+http://sharing.yellovideoplus.bj:8080/nimble/556338/a8bda962e06a9434.mp4/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://www.linkpicture.com/q/IMG_20210824_185220.jpg" group-title="PARLEMENT DU RIRE",RIRE 2
+http://sharing.yellovideoplus.bj:8080/nimble/556338/ec0ea0a373a686c0.mp4/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://www.linkpicture.com/q/IMG_20210824_185220.jpg" group-title="PARLEMENT DU RIRE",RIRE 3
+http://sharing.yellovideoplus.bj:8080/nimble/556338/ea32eb3e4b2a475f.mp4/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://www.linkpicture.com/q/IMG_20210824_185220.jpg" group-title="PARLEMENT DU RIRE",RIRE 4
+http://sharing.yellovideoplus.bj:8080/nimble/556338/04a5fe52406a1cc7.mp4/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://www.linkpicture.com/q/IMG_20210824_185220.jpg" group-title="PARLEMENT DU RIRE",RIRE 5
+http://sharing.yellovideoplus.bj:8080/nimble/556338/506b960928afc295.mp4/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://www.linkpicture.com/q/IMG_20210824_185220.jpg" group-title="PARLEMENT DU RIRE",RIRE 6
+http://sharing.yellovideoplus.bj:8080/nimble/556338/04a5fe52406a1cc7.mp4/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://www.linkpicture.com/q/IMG_20210824_185220.jpg" group-title="PARLEMENT DU RIRE",RIRE 7
+http://sharing.yellovideoplus.bj:8080/nimble/556338/e6f2e011f454a34a.mp4/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://www.linkpicture.com/q/IMG_20210824_185220.jpg" group-title="PARLEMENT DU RIRE",RIRE 8
+http://sharing.yellovideoplus.bj:8080/nimble/556338/f7686be1ff11be38.mp4/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://www.linkpicture.com/q/IMG_20210824_185220.jpg" group-title="PARLEMENT DU RIRE",RIRE 9
+http://sharing.yellovideoplus.bj:8080/nimble/556338/cd1b3ca462c25308.mp4/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://www.linkpicture.com/q/IMG_20210824_185220.jpg" group-title="PARLEMENT DU RIRE",RIRE 10
+http://sharing.yellovideoplus.bj:8080/nimble/556338/575d620a1309bed8.mp4/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://www.linkpicture.com/q/IMG_20210824_185220.jpg" group-title="PARLEMENT DU RIRE",RIRE 11
+http://sharing.yellovideoplus.bj:8080/nimble/556338/59d0fc2c6208fd2d.mp4/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://www.linkpicture.com/q/IMG_20210824_185220.jpg" group-title="PARLEMENT DU RIRE",RIRE 12
+http://sharing.yellovideoplus.bj:8080/nimble/556338/ee5418bc04a905c9.mp4/playlist.m3u8
+
 #EXTGRP: FILMS ACTION
 #EXTINF:-1 tvg-logo="https://www.linkpicture.com/q/Basmati.jpg" group-title="FILMS ACTION",BASMATI BLUES
 http://news.yellovideoplus.bj:8080/vod/_definst_/video/file/27283/RackMultipart20210811-7958-wikjsi.mp4/playlist.m3u8
