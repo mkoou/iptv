@@ -343,6 +343,23 @@ http://sharing.yellovideoplus.bj:8080/nimble/556338/575d620a1309bed8.mp4/playlis
 http://sharing.yellovideoplus.bj:8080/nimble/556338/59d0fc2c6208fd2d.mp4/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://www.linkpicture.com/q/IMG_20210824_185220.jpg" group-title="PARLEMENT DU RIRE",RIRE 12
 http://sharing.yellovideoplus.bj:8080/nimble/556338/ee5418bc04a905c9.mp4/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://www.linkpicture.com/q/IMG_20210824_185220.jpg" group-title="PARLEMENT DU RIRE",RIRE 13
+http://sharing.yellovideoplus.bj:8080/nimble/556338/8b81d7ece57f5d31.mp4/playlist.m3u8 
+#EXTINF:-1 tvg-logo="https://www.linkpicture.com/q/IMG_20210824_185220.jpg" group-title="PARLEMENT DU RIRE",RIRE 14
+http://sharing.yellovideoplus.bj:8080/nimble/556338/d8a8193a937349c9.mp4/playlist.m3u8 
+#EXTINF:-1 tvg-logo="https://www.linkpicture.com/q/IMG_20210824_185220.jpg" group-title="PARLEMENT DU RIRE",RIRE 15
+http://sharing.yellovideoplus.bj:8080/nimble/556338/58a7c0fa47480324.mp4/playlist.m3u8 
+#EXTINF:-1 tvg-logo="https://www.linkpicture.com/q/IMG_20210824_185220.jpg" group-title="PARLEMENT DU RIRE",RIRE 16
+http://sharing.yellovideoplus.bj:8080/nimble/556338/3adaaafe8df4962a.mp4/playlist.m3u8 
+#EXTINF:-1 tvg-logo="https://www.linkpicture.com/q/IMG_20210824_185220.jpg" group-title="PARLEMENT DU RIRE",RIRE 17
+http://sharing.yellovideoplus.bj:8080/nimble/556338/865271adfee661e9.mp4/playlist.m3u8 
+#EXTINF:-1 tvg-logo="https://www.linkpicture.com/q/IMG_20210824_185220.jpg" group-title="PARLEMENT DU RIRE",RIRE 18
+http://sharing.yellovideoplus.bj:8080/nimble/556338/15ce9213f10f8e5a.mp4/playlist.m3u8 
+#EXTINF:-1 tvg-logo="https://www.linkpicture.com/q/IMG_20210824_185220.jpg" group-title="PARLEMENT DU RIRE",RIRE 19
+http://sharing.yellovideoplus.bj:8080/nimble/556338/99369f50aadb0d99.mp4/playlist.m3u8 
+#EXTINF:-1 tvg-logo="https://www.linkpicture.com/q/IMG_20210824_185220.jpg" group-title="PARLEMENT DU RIRE",RIRE 20
+http://sharing.yellovideoplus.bj:8080/nimble/556338/ee5418bc04a905c9.mp4/playlist.m3u
+
 
 #EXTGRP: FILMS ACTION
 #EXTINF:-1 tvg-logo="https://www.linkpicture.com/q/Basmati.jpg" group-title="FILMS ACTION",BASMATI BLUES
