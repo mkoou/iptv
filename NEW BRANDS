@@ -1092,18 +1092,19 @@ http://news.yellovideoplus.bj:8080/vod/_definst_/video/file/25882/RackMultipart2
 #EXTINF:-1 tvg-logo="https://www.linkpicture.com/q/Screenshot_20210726_234905.jpg" group-title="LADJAGAI",LADJAGAI Ep14
 http://news.yellovideoplus.bj:8080/vod/_definst_/video/file/25878/RackMultipart20210706-17312-15fu0yn.mp4/playlist.m3u8
 
-#EXTGRP: SHEIKH RACHID FRANCE
-#EXTINF:-1 tvg-logo="" group-title="",PRÊCHE 1
+#EXTGRP:SHEIKH RACHID FRANCE
+
+#EXTINF:-1 tvg-logo="" group-title="SHEIKH RACHID FRANCE",PRÊCHE 1
 http://news.yellovideoplus.bj:8080/vod/_definst_/video/file/27853/RackMultipart20210820-7879-zk06lm.mp4/playlist.m3u8
-#EXTINF:-1 tvg-logo="" group-title="",PRÊCHE 2
+#EXTINF:-1 tvg-logo="" group-title="SHEIKH RACHID FRANCE",PRÊCHE 2
 http://sharing.yellovideoplus.bj:8080/nimble/556338/311aa3b67df9641e.mp4/playlist.m3u8
-#EXTINF:-1 tvg-logo="" group-title="",PRÊCHE 3
+#EXTINF:-1 tvg-logo="" group-title="SHEIKH RACHID FRANCE",PRÊCHE 3
 http://sharing.yellovideoplus.bj:8080/nimble/556338/3432a7b0bfabda01.mp4/playlist.m3u8
-#EXTINF:-1 tvg-logo="" group-title="",PRÊCHE 4
+#EXTINF:-1 tvg-logo="" group-title="SHEIKH RACHID FRANCE",PRÊCHE 4
 http://sharing.yellovideoplus.bj:8080/nimble/556338/d2931eb67a3dfea6.mp4/playlist.m3u8
-#EXTINF:-1 tvg-logo="" group-title="",PRÊCHE 5
+#EXTINF:-1 tvg-logo="" group-title="SHEIKH RACHID FRANCE",PRÊCHE 5
 http://sharing.yellovideoplus.bj:8080/nimble/556338/e7ac2a675ceb58fa.mp4/playlist.m3u8
-#EXTINF:-1 tvg-logo="" group-title="",PRÊCHE 6
+#EXTINF:-1 tvg-logo="" group-title="SHEIKH RACHID FRANCE",PRÊCHE 6
 http://sharing.yellovideoplus.bj:8080/nimble/556338/03be6bb93e981643.mp4/playlist.m3u8
 
 #EXTGRP : BEAUTE(MAKE UP) 
