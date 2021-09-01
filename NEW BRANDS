@@ -1,3 +1,47 @@
+#EXTINF:-1 tvg-logo="https://www.linkpicture.com/q/IMG_20210823_084326.jpg" group-title="",TEMPS ÉGARÉS
+http://news.yellovideoplus.bj:8080/vod/_definst_/video/file/20671/LeTempsEgare.mp4/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://www.linkpicture.com/q/IMG_20210823_084123.jpg" group-title="",AMOUR C'EST COMPLIQUÉ 
+http://news.yellovideoplus.bj:8080/vod/_definst_/video/file/20663/LAmourCestComplique.mp4/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://www.linkpicture.com/q/IMG_20210823_084050.jpg" group-title="",COUP DE FOUDRE 1ERE DANCE
+http://news.yellovideoplus.bj:8080/vod/_definst_/video/file/20654/CoupDeFoudreAlaPremiereDAnse.mp4/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://www.linkpicture.com/q/IMG_20210823_084221.jpg" group-title="",LES KANDAS
+http://news.yellovideoplus.bj:8080/vod/_definst_/video/file/20668/LesKandasmys.mp4/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://www.linkpicture.com/q/IMG_20210823_084245.jpg" group-title="",SOULLIERS DE NOËL 
+http://news.yellovideoplus.bj:8080/vod/_definst_/video/file/20670/LesSouliersDeNoel.mp4/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://www.linkpicture.com/q/IMG_20210823_084401.jpg" group-title="",MAISON À VENDRE 
+http://news.yellovideoplus.bj:8080/vod/_definst_/video/file/20675/MaisonAVvendre_coeurAPprendre.mp4/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://www.linkpicture.com/q/IMG_20210823_084521.jpg" group-title="",SUMMER
+http://news.yellovideoplus.bj:8080/vod/_definst_/video/file/20689/SummerInTheVineyard.mp4/playlist.m3u8
+#EXTINF:-1 tvg-logo="" group-title="",SAINT VALENTIN
+http://news.yellovideoplus.bj:8080/vod/_definst_/video/file/20683/SaintValentinPourToucjours.mp4/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://www.linkpicture.com/q/IMG_20210823_084658.jpg" group-title="",DE VALENTIN
+http://news.yellovideoplus.bj:8080/vod/_definst_/video/file/20694/UneIdylleDeSaintValentin.mp4/playlist.m3u8
+#EXTINF:-1 tvg-logo="" group-title="",LA ROSE DE NOËL
+http://news.yellovideoplus.bj:8080/vod/_definst_/video/file/20773/LaRoseDeNoel.mp4/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://www.linkpicture.com/q/IMG_20210823_083921.jpg" group-title="",AFTERNOON DELIGHT
+http://news.yellovideoplus.bj:8080/vod/_definst_/video/file/20647/AfternoonDelight.mp4/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://www.linkpicture.com/q/IMG_20210823_084428.jpg" group-title="",TAKE ME HOME
+http://news.yellovideoplus.bj:8080/vod/_definst_/video/file/20691/TakeMeHome.mp4/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://www.linkpicture.com/q/IMG_20210823_084740_1.jpg" group-title="",MISS NOBODY
+http://news.yellovideoplus.bj:8080/vod/_definst_/video/file/24145/MissNobody.mp4/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://www.linkpicture.com/q/IMG_20210823_084608.jpg" group-title="",THÉ LOST SOLDIER
+http://news.yellovideoplus.bj:8080/vod/_definst_/video/file/20692/TheLostSoldier.mp4/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://www.linkpicture.com/q/IMG_20210823_084143.jpg" group-title="",JAMESY BOY
+http://news.yellovideoplus.bj:8080/vod/_definst_/video/file/20661/JamesyBoy.mp4/playlist.m3u8
+#EXTINF:-1 tvg-logo="" group-title="",CHIEN ROBOT
+http://news.yellovideoplus.bj:8080/vod/_definst_/video/file/20651/ArchieChienRobot.mp4/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://www.linkpicture.com/q/IMG_20210823_084143_1.jpg" group-title="",TRIP TO JAMAICA
+http://news.yellovideoplus.bj:8080/vod/_definst_/video/file/18645/A_TRIP_TO_JAMAICA_MIABOX_TV.mp4/playlist.m3u8
+#EXTINF:-1 tvg-logo="" group-title="",FOR ONE LOVE 
+http://news.yellovideoplus.bj:8080/vod/_definst_/video/file/18665/FOR_ONE_LOVE_MIABOX_TV_1.mp4/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://www.linkpicture.com/q/IMG_20210823_084852.jpg" group-title="",GONE GREY
+http://news.yellovideoplus.bj:8080/vod/_definst_/video/file/18669/GONE_GREY_MIABOX_TV_1.mp4/playlist.m3u8
+#EXTINF:-1 tvg-logo="" group-title="",MRS RIGHT GUY
+http://news.yellovideoplus.bj:8080/vod/_definst_/video/file/20099/MrsRightGuy.mp4/playlist.m3u8
+#EXTINF:-1 tvg-logo="" group-title="",ONE ROOM
+http://news.yellovideoplus.bj:8080/vod/_definst_/video/file/20101/OneRoom.mp4/playlist.m3u8
+#EXTINF:-1 tvg-logo="" group-title="",IQJ
+http://news.yellovideoplus.bj:8080/vod/_definst_/video/file/20096/IQJ.mp4/playlist.m3u8
 #EXTGRP: MADAME & MONSIEUR
 #EXTINF:-1 tvg-logo="https://www.linkpicture.com/q/Mm-Mrs.jpg" group-title="NOVELAS",Mm&Mrs 01
 http://news.yellovideoplus.bj:8080/vod/_definst_/video/file/27287/RackMultipart20210811-7936-beek46.mp4/playlist.m3u8
