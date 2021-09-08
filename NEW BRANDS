@@ -377,6 +377,28 @@ http://news.yellovideoplus.bj:8080/vod/_definst_/video/file/27376/RackMultipart2
 #EXTINF:-1 tvg-logo="https://www.linkpicture.com/q/IMG_20210817_004939.jpg" group-title="NOVELAS",Pablo 11
 http://news.yellovideoplus.bj:8080/vod/_definst_/video/file/27371/RackMultipart20210811-7980-q904zn.mp4/playlist.m3u8
 
+#EXTGRP: DÉLIRES de TAKAM
+#EXTINF:-1 tvg-logo="https://www.linkpicture.com/q/IMG_20210908_124141.jpg" group-title="DÉLIRES DE TAKAM",S1×0
+http://sharing.yellovideoplus.bj:8080/nimble/556338/b98b2c401f7d183c.mp4/playlist.m3u8
+ #EXTINF:-1 tvg-logo="https://www.linkpicture.com/q/IMG_20210908_124141.jpg" group-title="DÉLIRES DE TAKAM",S1×02
+http://sharing.yellovideoplus.bj:8080/nimble/556338/566baa057b543a10.mp4/playlist.m3u8 
+#EXTINF:-1 tvg-logo="https://www.linkpicture.com/q/IMG_20210908_124141.jpg" group-title="DÉLIRES DE TAKAM",S1×03
+http://sharing.yellovideoplus.bj:8080/nimble/556338/8b4c8fe2993e8127.mp4/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://www.linkpicture.com/q/IMG_20210908_124141.jpg" group-title="DÉLIRES DE TAKAM",S1×04
+
+#EXTINF:-1 tvg-logo="https://www.linkpicture.com/q/IMG_20210908_124141.jpg" group-title="DÉLIRES DE TAKAM",S1×05
+http://sharing.yellovideoplus.bj:8080/nimble/556338/1a37b3df6027e7e4.mp4/playlist.m3u8 
+#EXTINF:-1 tvg-logo="https://www.linkpicture.com/q/IMG_20210908_124141.jpg" group-title="DÉLIRES DE TAKAM",S1×06
+http://sharing.yellovideoplus.bj:8080/nimble/556338/d9ee64fe0cc350e9.mp4/manifest.mpd
+#EXTINF:-1 tvg-logo="https://www.linkpicture.com/q/IMG_20210908_124141.jpg" group-title="DÉLIRES DE TAKAM",S1×07
+http://sharing.yellovideoplus.bj:8080/nimble/556338/6330b6ad34d8ba20.mp4/playlist.m3u8  
+#EXTINF:-1 tvg-logo="https://www.linkpicture.com/q/IMG_20210908_124141.jpg" group-title="DÉLIRES DE TAKAM",S1×08
+http://sharing.yellovideoplus.bj:8080/nimble/556338/23a84669b6129433.mp4/playlist.m3u8 
+#EXTINF:-1 tvg-logo="https://www.linkpicture.com/q/IMG_20210908_124141.jpg" group-title="DÉLIRES DE TAKAM",S1×09
+http://sharing.yellovideoplus.bj:8080/nimble/556338/088d11610109c3bb.mp4/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://www.linkpicture.com/q/IMG_20210908_124141.jpg" group-title="DÉLIRES DE TAKAM",S1×10
+http://sharing.yellovideoplus.bj:8080/nimble/556338/57ef5b5398d0e64f.mp4/playlist.m3u8
+
 #EXTGRP: PARLEMENT DU RIRE
 #EXTINF:-1 tvg-logo="https://www.linkpicture.com/q/IMG_20210824_185220.jpg" group-title="PARLEMENT DU RIRE",RIRE 1
 http://sharing.yellovideoplus.bj:8080/nimble/556338/a8bda962e06a9434.mp4/playlist.m3u8
