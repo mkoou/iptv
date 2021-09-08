@@ -13,6 +13,22 @@ http://sharing.yellovideoplus.bj:8080/nimble/556338/c25f57495d2086ff.mp4/playlis
 http://sharing.yellovideoplus.bj:8080/nimble/556338/b440ad9a2f39d4a4.mp4/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://fr.web.img6.acsta.net/pictures/16/06/14/10/49/088159.jpg" group-title="TYRANT", TYRANTS01E07
 http://sharing.yellovideoplus.bj:8080/nimble/556338/44bdc66dfbde9255.mp4/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://fr.web.img6.acsta.net/pictures/16/06/14/10/49/088159.jpg" group-title="TYRANT", TYRANTS01E09
+http://sharing.yellovideoplus.bj:8080/nimble/556338/428a668446bb51b2.mp4/playlist.m3u8 
+#EXTINF:-1 tvg-logo="https://fr.web.img6.acsta.net/pictures/16/06/14/10/49/088159.jpg" group-title="TYRANT", TYRANTS01E10
+http://sharing.yellovideoplus.bj:8080/nimble/556338/922cee1f924a88ad.mp4/playlist.m3u8 
+#EXTINF:-1 tvg-logo="https://fr.web.img6.acsta.net/pictures/16/06/14/10/49/088159.jpg" group-title="TYRANT", TYRANTS01E11
+http://sharing.yellovideoplus.bj:8080/nimble/556338/4f3509d473c9f323.mp4/playlist.m3u8 
+#EXTINF:-1 tvg-logo="https://fr.web.img6.acsta.net/pictures/16/06/14/10/49/088159.jpg" group-title="TYRANT", TYRANTS01E12
+http://sharing.yellovideoplus.bj:8080/nimble/556338/d1efe2f82d078df8.mp4/playlist.m3u8 
+#EXTINF:-1 tvg-logo="https://fr.web.img6.acsta.net/pictures/16/06/14/10/49/088159.jpg" group-title="TYRANT", TYRANTS01E13
+http://sharing.yellovideoplus.bj:8080/nimble/556338/38e187bc1ca96b90.mp4/playlist.m3u8 
+#EXTINF:-1 tvg-logo="https://fr.web.img6.acsta.net/pictures/16/06/14/10/49/088159.jpg" group-title="TYRANT", TYRANTS01E14
+http://sharing.yellovideoplus.bj:8080/nimble/556338/5384dbcff5bc76aa.mp4/manifest.mpd 
+#EXTINF:-1 tvg-logo="https://fr.web.img6.acsta.net/pictures/16/06/14/10/49/088159.jpg" group-title="TYRANT", TYRANTS01E15
+http://sharing.yellovideoplus.bj:8080/nimble/556338/f8b72c0e35b49ee4.mp4/playlist.m3u8
+
+
 #EXTINF:-1 tvg-logo="https://www.linkpicture.com/q/IMG_20210823_084326.jpg" group-title="",TEMPS ÉGARÉS
 http://news.yellovideoplus.bj:8080/vod/_definst_/video/file/20671/LeTempsEgare.mp4/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://www.linkpicture.com/q/IMG_20210823_084123.jpg" group-title="",AMOUR C'EST COMPLIQUÉ 
