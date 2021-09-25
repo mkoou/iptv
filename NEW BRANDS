@@ -1,3 +1,24 @@
+#EXTGRP: VIRGINIE
+#EXTINF:-1 tvg-logo="https://www.linkpicture.com/q/IMG_20210925_081528.jpg" group-title="VIRGINIE",VIRGINIE 1
+http://sharing.yellovideoplus.bj:8080/nimble/473253/f9fc8380e87cd07e.mp4/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://www.linkpicture.com/q/IMG_20210925_081528.jpg" group-title="VIRGINIE",VIRGINIE 2
+http://sharing.yellovideoplus.bj:8080/nimble/473253/eb5a28c1decb43ba.mp4/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://www.linkpicture.com/q/IMG_20210925_081528.jpg" group-title="VIRGINIE",VIRGINIE 3
+http://sharing.yellovideoplus.bj:8080/nimble/473253/dc99262c5cf274c8.mp4/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://www.linkpicture.com/q/IMG_20210925_081528.jpg" group-title="VIRGINIE",VIRGINIE 4
+http://sharing.yellovideoplus.bj:8080/nimble/473253/2bae4df163fd1d94.mp4/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://www.linkpicture.com/q/IMG_20210925_081528.jpg" group-title="VIRGINIE",VIRGINIE 5
+http://sharing.yellovideoplus.bj:8080/nimble/473253/1efadaf210e88968.mp4/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://www.linkpicture.com/q/IMG_20210925_081528.jpg" group-title="VIRGINIE",VIRGINIE 6
+http://sharing.yellovideoplus.bj:8080/nimble/473253/44b7f67c6f4c05ed.mp4/playlist.m3u8 
+#EXTINF:-1 tvg-logo="https://www.linkpicture.com/q/IMG_20210925_081528.jpg" group-title="VIRGINIE",VIRGINIE 7
+http://sharing.yellovideoplus.bj:8080/nimble/473253/0e834960395089d5.mp4/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://www.linkpicture.com/q/IMG_20210925_081528.jpg" group-title="VIRGINIE",VIRGINIE 8
+http://sharing.yellovideoplus.bj:8080/nimble/473253/de942288366b9c59.mp4/playlist.m3u8 
+#EXTINF:-1 tvg-logo="https://www.linkpicture.com/q/IMG_20210925_081528.jpg" group-title="VIRGINIE",VIRGINIE 9
+http://sharing.yellovideoplus.bj:8080/nimble/473253/5230e4cb1d455c8c.mp4/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://www.linkpicture.com/q/IMG_20210925_081528.jpg" group-title="VIRGINIE",VIRGINIE 10
+
 #EXTGRP : TYRAN
 #EXTINF:-1 tvg-logo="https://fr.web.img6.acsta.net/pictures/16/06/14/10/49/088159.jpg" group-title="TYRANT", TYRANTS01E01
 http://sharing.yellovideoplus.bj:8080/nimble/556338/355e66db3036d071.mp4/playlist.m3u8
