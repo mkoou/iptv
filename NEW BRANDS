@@ -1,14 +1,14 @@
-#EXTINF:-1 tvg-logo="" group-title="",I_SELL_THE_DEAD
+#EXTINF:-1 tvg-logo="https://www.linkpicture.com/q/IMG_20210927_182823.jpg" group-title="",I_SELL_THE_DEAD
 http://vod.yellovideoplus.bj:8080/vod/_definst_/video/file/29300/I_SELL_THE_DEAD_VF.mp4/playlist.m3u8
 #EXTINF:-1 tvg-logo="" group-title="",IMMORTELLE
 http://vod.yellovideoplus.bj:8080/vod/_definst_/video/file/29299/IMMORTELLE.mp4/playlist.m3u8
 #EXTINF:-1 tvg-logo="" group-title="",HOT_SUMMER_NIGHTS
 http://vod.yellovideoplus.bj:8080/vod/_definst_/video/file/29298/HOT_SUMMER_NIGHTS_VF.mp4/playlist.m3u8
-#EXTINF:-1 tvg-logo="" group-title="",DRIVE_HARD
+#EXTINF:-1 tvg-logo="https://www.linkpicture.com/q/IMG_20210927_182629.jpg" group-title="",DRIVE_HARD
 http://vod.yellovideoplus.bj:8080/vod/_definst_/video/file/29297/DRIVE_HARD.mp4/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://www.linkpicture.com/q/IMG_20210927_180848.jpg" group-title="",DEMENTIA
 http://vod.yellovideoplus.bj:8080/vod/_definst_/video/file/29296/DEMENTIA_VF.mp4/playlist.m3u8
-#EXTINF:-1 tvg-logo="" group-title="",BAD_SAMARITAN
+#EXTINF:-1 tvg-logo="https://www.linkpicture.com/q/IMG_20210927_182653.jpg" group-title="",BAD_SAMARITAN
 http://vod.yellovideoplus.bj:8080/vod/_definst_/video/file/29294/BAD_SAMARITAN_VF.mp4/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://www.linkpicture.com/q/IMG_20210927_180825.jpg" group-title="",AMERICAN_ANIMALS
 http://vod.yellovideoplus.bj:8080/vod/_definst_/video/file/29293/AMERICAN_ANIMALS_VF.mp4/playlist.m3u8
@@ -30,7 +30,7 @@ http://vod.yellovideoplus.bj:8080/vod/_definst_/video/file/29306/SAVANNA.mp4/pla
 http://vod.yellovideoplus.bj:8080/vod/_definst_/video/file/29304/LE_SECRET_DES_KENNEDY_VF.mp4/playlist.m3u8
 #EXTINF:-1 tvg-logo="" group-title="",MAN_DOWN
 http://vod.yellovideoplus.bj:8080/vod/_definst_/video/file/29305/MAN_DOWN_VF.mp4/playlist.m3u8
-#EXTINF:-1 tvg-logo="" group-title="",MATRIARCH
+#EXTINF:-1 tvg-logo="https://www.linkpicture.com/q/IMG_20210927_182729.jpg" group-title="",MATRIARCH
 http://vod.yellovideoplus.bj:8080/vod/_definst_/video/file/29309/MATRIARCH.mp4/playlist.m3u8
 #EXTINF:-1 tvg-logo="" group-title="",ORIGINE_INCONNUE
 http://vod.yellovideoplus.bj:8080/vod/_definst_/video/file/29310/ORIGINE_INCONNUE.mp4/playlist.m3u8
