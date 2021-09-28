@@ -1,3 +1,34 @@
+#EXTINF:-1 tvg-logo="https://www.linkpicture.com/q/toi-mon-amour.jpg" group-title="NOVELAS",ToiMonAmour 16
+http://vod.yellovideoplus.bj:8080/vod/_definst_/video/file/29357/RackMultipart20210927-15222-i2e5q0.mp4/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://www.linkpicture.com/q/toi-mon-amour.jpg" group-title="NOVELAS",ToiMonAmour 17
+http://vod.yellovideoplus.bj:8080/vod/_definst_/video/file/29409/RackMultipart20210927-15196-1ovtcue.mp4/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://www.linkpicture.com/q/toi-mon-amour.jpg" group-title="NOVELAS",ToiMonAmour 18
+http://vod.yellovideoplus.bj:8080/vod/_definst_/video/file/29411/RackMultipart20210927-15196-14yurph.mp4/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://www.linkpicture.com/q/toi-mon-amour.jpg" group-title="NOVELAS",ToiMonAmour 19
+http://vod.yellovideoplus.bj:8080/vod/_definst_/video/file/29410/RackMultipart20210927-15198-e1ztwm.mp4/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://www.linkpicture.com/q/toi-mon-amour.jpg" group-title="NOVELAS",ToiMonAmour 20
+http://vod.yellovideoplus.bj:8080/vod/_definst_/video/file/29412/RackMultipart20210927-15232-1sg8yry.mp4/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://www.linkpicture.com/q/toi-mon-amour.jpg" group-title="NOVELAS",ToiMonAmour 21
+http://vod.yellovideoplus.bj:8080/vod/_definst_/video/file/29399/RackMultipart20210927-15232-14n49p2.mp4/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://www.linkpicture.com/q/toi-mon-amour.jpg" group-title="NOVELAS",ToiMonAmour 22
+http://vod.yellovideoplus.bj:8080/vod/_definst_/video/file/29402/RackMultipart20210927-15207-1vojoo5.mp4/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://www.linkpicture.com/q/toi-mon-amour.jpg" group-title="NOVELAS",ToiMonAmour 23
+http://vod.yellovideoplus.bj:8080/vod/_definst_/video/file/29407/RackMultipart20210927-15265-1lxx581.mp4/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://www.linkpicture.com/q/toi-mon-amour.jpg" group-title="NOVELAS",ToiMonAmour 24
+http://vod.yellovideoplus.bj:8080/vod/_definst_/video/file/29400/RackMultipart20210927-15232-1eh2qmy.mp4/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://www.linkpicture.com/q/toi-mon-amour.jpg" group-title="NOVELAS",ToiMonAmour 25
+http://vod.yellovideoplus.bj:8080/vod/_definst_/video/file/29408/RackMultipart20210927-15265-2gvgc9.mp4/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://www.linkpicture.com/q/toi-mon-amour.jpg" group-title="NOVELAS",ToiMonAmour 26
+http://vod.yellovideoplus.bj:8080/vod/_definst_/video/file/29398/RackMultipart20210927-15265-9mt31x.mp4/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://www.linkpicture.com/q/toi-mon-amour.jpg" group-title="NOVELAS",ToiMonAmour 27
+http://vod.yellovideoplus.bj:8080/vod/_definst_/video/file/29401/RackMultipart20210927-15232-1qdka3w.mp4/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://www.linkpicture.com/q/toi-mon-amour.jpg" group-title="NOVELAS",ToiMonAmour 28
+http://vod.yellovideoplus.bj:8080/vod/_definst_/video/file/29403/RackMultipart20210927-15196-1mh359l.mp4/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://www.linkpicture.com/q/toi-mon-amour.jpg" group-title="NOVELAS",ToiMonAmour 29
+http://vod.yellovideoplus.bj:8080/vod/_definst_/video/file/29406/RackMultipart20210927-15196-tukpxf.mp4/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://www.linkpicture.com/q/toi-mon-amour.jpg" group-title="NOVELAS",ToiMonAmour 30
+http://vod.yellovideoplus.bj:8080/vod/_definst_/video/file/29404/RackMultipart20210927-15198-4giypp.mp4/playlist.m3u8
+
 #EXTINF:-1 tvg-logo="https://www.linkpicture.com/q/IMG_20210927_182823.jpg" group-title="",I_SELL_THE_DEAD
 http://vod.yellovideoplus.bj:8080/vod/_definst_/video/file/29300/I_SELL_THE_DEAD_VF.mp4/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://www.linkpicture.com/q/Screenshot_2021_0927_183506.jpg" group-title="",IMMORTELLE
