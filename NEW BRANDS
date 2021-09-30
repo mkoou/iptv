@@ -1,66 +1,4 @@
-#EXTINF:-1 tvg-logo="https://www.linkpicture.com/q/toi-mon-amour.jpg" group-title="NOVELAS",16
-http://news.yellovideoplus.bj:8080/vod/_definst_/video/file/29357/RackMultipart20210927-15222-i2e5q0.mp4/playlist.m3u8
-#EXTINF:-1 tvg-logo="https://www.linkpicture.com/q/toi-mon-amour.jpg" group-title="NOVELAS",17
-http://news.yellovideoplus.bj:8080/vod/_definst_/video/file/29409/RackMultipart20210927-15196-1ovtcue.mp4/playlist.m3u8
-#EXTINF:-1 tvg-logo="https://www.linkpicture.com/q/toi-mon-amour.jpg" group-title="NOVELAS",18
-http://news.yellovideoplus.bj:8080/vod/_definst_/video/file/29411/RackMultipart20210927-15196-14yurph.mp4/playlist.m3u8
-#EXTINF:-1 tvg-logo="https://www.linkpicture.com/q/toi-mon-amour.jpg" group-title="NOVELAS",19
-http://news.yellovideoplus.bj:8080/vod/_definst_/video/file/29410/RackMultipart20210927-15198-e1ztwm.mp4/playlist.m3u8
-#EXTINF:-1 tvg-logo="https://www.linkpicture.com/q/toi-mon-amour.jpg" group-title="NOVELAS",20
-http://news.yellovideoplus.bj:8080/vod/_definst_/video/file/29412/RackMultipart20210927-15232-1sg8yry.mp4/playlist.m3u8
-#EXTINF:-1 tvg-logo="https://www.linkpicture.com/q/toi-mon-amour.jpg" group-title="NOVELAS",21
-http://news.yellovideoplus.bj:8080/vod/_definst_/video/file/29399/RackMultipart20210927-15232-14n49p2.mp4/playlist.m3u8
-#EXTINF:-1 tvg-logo="https://www.linkpicture.com/q/toi-mon-amour.jpg" group-title="NOVELAS",22
-http://news.yellovideoplus.bj:8080/vod/_definst_/video/file/29402/RackMultipart20210927-15207-1vojoo5.mp4/playlist.m3u8
-#EXTINF:-1 tvg-logo="https://www.linkpicture.com/q/toi-mon-amour.jpg" group-title="NOVELAS",23
-http://news.yellovideoplus.bj:8080/vod/_definst_/video/file/29407/RackMultipart20210927-15265-1lxx581.mp4/playlist.m3u8
-#EXTINF:-1 tvg-logo="https://www.linkpicture.com/q/toi-mon-amour.jpg" group-title="NOVELAS",24
-http://news.yellovideoplus.bj:8080/vod/_definst_/video/file/29400/RackMultipart20210927-15232-1eh2qmy.mp4/playlist.m3u8
-#EXTINF:-1 tvg-logo="https://www.linkpicture.com/q/toi-mon-amour.jpg" group-title="NOVELAS",25
-http://news.yellovideoplus.bj:8080/vod/_definst_/video/file/29408/RackMultipart20210927-15265-2gvgc9.mp4/playlist.m3u8
-#EXTINF:-1 tvg-logo="https://www.linkpicture.com/q/toi-mon-amour.jpg" group-title="NOVELAS",26
-http://news.yellovideoplus.bj:8080/vod/_definst_/video/file/29398/RackMultipart20210927-15265-9mt31x.mp4/playlist.m3u8
-#EXTINF:-1 tvg-logo="https://www.linkpicture.com/q/toi-mon-amour.jpg" group-title="NOVELAS",27
-http://news.yellovideoplus.bj:8080/vod/_definst_/video/file/29401/RackMultipart20210927-15232-1qdka3w.mp4/playlist.m3u8
-#EXTINF:-1 tvg-logo="https://www.linkpicture.com/q/toi-mon-amour.jpg" group-title="NOVELAS",28
-http://news.yellovideoplus.bj:8080/vod/_definst_/video/file/29403/RackMultipart20210927-15196-1mh359l.mp4/playlist.m3u8
-#EXTINF:-1 tvg-logo="https://www.linkpicture.com/q/toi-mon-amour.jpg" group-title="NOVELAS",29
-http://news.yellovideoplus.bj:8080/vod/_definst_/video/file/29406/RackMultipart20210927-15196-tukpxf.mp4/playlist.m3u8
-#EXTINF:-1 tvg-logo="https://www.linkpicture.com/q/toi-mon-amour.jpg" group-title="NOVELAS",30
-http://news.yellovideoplus.bj:8080/vod/_definst_/video/file/29404/RackMultipart20210927-15198-4giypp.mp4/playlist.m3u8
-
-#EXTINF:-1 tvg-logo="https://www.linkpicture.com/q/IMG_20210816_234549.jpg" group-title="NOVELAS", 16
-http://news.yellovideoplus.bj:8080/vod/_definst_/video/file/29343/RangrasiyaMaVieSansElle_EP_016.mp4/playlist.m3u8
-#EXTINF:-1 tvg-logo="https://www.linkpicture.com/q/IMG_20210816_234549.jpg" group-title="NOVELAS", 17
-http://news.yellovideoplus.bj:8080/vod/_definst_/video/file/29344/RangrasiyaMaVieSansElle_EP_019.mp4/playlist.m3u8
-#EXTINF:-1 tvg-logo="https://www.linkpicture.com/q/IMG_20210816_234549.jpg" group-title="NOVELAS", 18
-http://news.yellovideoplus.bj:8080/vod/_definst_/video/file/29344/RangrasiyaMaVieSansElle_EP_018.mp4/playlist.m3u8 
-#EXTINF:-1 tvg-logo="https://www.linkpicture.com/q/IMG_20210816_234549.jpg" group-title="NOVELAS", 19
-http://news.yellovideoplus.bj:8080/vod/_definst_/video/file/29345/RangrasiyaMaVieSansElle_EP_019.mp4/playlist.m3u8
-#EXTINF:-1 tvg-logo="https://www.linkpicture.com/q/IMG_20210816_234549.jpg" group-title="NOVELAS", 20
-http://news.yellovideoplus.bj:8080/vod/_definst_/video/file/29346/RangrasiyaMaVieSansElle_EP_020.mp4/playlist.m3u8
-#EXTINF:-1 tvg-logo="https://www.linkpicture.com/q/IMG_20210816_234549.jpg" group-title="NOVELAS", 21
-http://news.yellovideoplus.bj:8080/vod/_definst_/video/file/29347/RangrasiyaMaVieSansElle_EP_021.mp4/playlist.m3u8
-#EXTINF:-1 tvg-logo="https://www.linkpicture.com/q/IMG_20210816_234549.jpg" group-title="NOVELAS", 22
-http://news.yellovideoplus.bj:8080/vod/_definst_/video/file/29348/RangrasiyaMaVieSansElle_EP_022.mp4/playlist.m3u8
-#EXTINF:-1 tvg-logo="https://www.linkpicture.com/q/IMG_20210816_234549.jpg" group-title="NOVELAS", 23
-http://news.yellovideoplus.bj:8080/vod/_definst_/video/file/29349/RangrasiyaMaVieSansElle_EP_023.mp4/playlist.m3u8
-#EXTINF:-1 tvg-logo="https://www.linkpicture.com/q/IMG_20210816_234549.jpg" group-title="NOVELAS", 24
-http://news.yellovideoplus.bj:8080/vod/_definst_/video/file/29350/RangrasiyaMaVieSansElle_EP_024.mp4/playlist.m3u8
-#EXTINF:-1 tvg-logo="https://www.linkpicture.com/q/IMG_20210816_234549.jpg" group-title="NOVELAS", 25
-http://news.yellovideoplus.bj:8080/vod/_definst_/video/file/29351/RangrasiyaMaVieSansElle_EP_025.mp4/playlist.m3u8
-#EXTINF:-1 tvg-logo="https://www.linkpicture.com/q/IMG_20210816_234549.jpg" group-title="NOVELAS", 26
-http://news.yellovideoplus.bj:8080/vod/_definst_/video/file/29352/RangrasiyaMaVieSansElle_EP_026.mp4/playlist.m3u8
-#EXTINF:-1 tvg-logo="https://www.linkpicture.com/q/IMG_20210816_234549.jpg" group-title="NOVELAS", 27
-http://news.yellovideoplus.bj:8080/vod/_definst_/video/file/29353/RangrasiyaMaVieSansElle_EP_027.mp4/playlist.m3u8
-#EXTINF:-1 tvg-logo="https://www.linkpicture.com/q/IMG_20210816_234549.jpg" group-title="NOVELAS", 28
-http://news.yellovideoplus.bj:8080/vod/_definst_/video/file/29354/RangrasiyaMaVieSansElle_EP_028.mp4/playlist.m3u8
-#EXTINF:-1 tvg-logo="https://www.linkpicture.com/q/IMG_20210816_234549.jpg" group-title="NOVELAS", 29
-http://news.yellovideoplus.bj:8080/vod/_definst_/video/file/29355/RangrasiyaMaVieSansElle_EP_029.mp4/playlist.m3u8
-#EXTINF:-1 tvg-logo="https://www.linkpicture.com/q/IMG_20210816_234549.jpg" group-title="NOVELAS", 30
-http://news.yellovideoplus.bj:8080/vod/_definst_/video/file/29356/RangrasiyaMaVieSansElle_EP_030.mp4/playlist.m3u8
-
-
+#EXTGRP: NOUVEAUX FILMS ACTION
 #EXTINF:-1 tvg-logo="https://www.linkpicture.com/q/IMG_20210927_182823.jpg" group-title="",I_SELL_THE_DEAD
 http://news.yellovideoplus.bj:8080/vod/_definst_/video/file/29300/I_SELL_THE_DEAD_VF.mp4/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://www.linkpicture.com/q/Screenshot_2021_0927_183506.jpg" group-title="",IMMORTELLE
@@ -246,6 +184,7 @@ http://news.yellovideoplus.bj:8080/vod/_definst_/video/file/20099/MrsRightGuy.mp
 http://news.yellovideoplus.bj:8080/vod/_definst_/video/file/20101/OneRoom.mp4/playlist.m3u8
 #EXTINF:-1 tvg-logo="" group-title="",IQJ
 http://news.yellovideoplus.bj:8080/vod/_definst_/video/file/20096/IQJ.mp4/playlist.m3u8
+
 #EXTGRP : MADAME & MONSIEUR
 #EXTINF:-1 tvg-logo="https://www.linkpicture.com/q/Mm-Mrs.jpg" group-title="NOVELAS",Mm&Mrs 01
 http://news.yellovideoplus.bj:8080/vod/_definst_/video/file/27287/RackMultipart20210811-7936-beek46.mp4/playlist.m3u8
@@ -327,7 +266,6 @@ http://news.yellovideoplus.bj:8080/vod/_definst_/video/file/27306/RackMultipart2
 http://news.yellovideoplus.bj:8080/vod/_definst_/video/file/27305/RackMultipart20210811-7914-q1xbz.mp4/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://www.linkpicture.com/q/Mm-Mrs.jpg" group-title="NOVELAS",Mm&Mrs 40
 http://news.yellovideoplus.bj:8080/vod/_definst_/video/file/27304/RackMultipart20210811-7936-1tdmtwi.mp4/playlist.m3u8
-
 #EXTINF:-1 tvg-logo="https://www.linkpicture.com/q/Mm-Mrs.jpg" group-title="NOVELAS",Mm&Mrs 41
 http://news.yellovideoplus.bj:8080/vod/_definst_/video/file/27301/RackMultipart20210811-7898-x34sjt.mp4/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://www.linkpicture.com/q/Mm-Mrs.jpg" group-title="NOVELAS",Mm&Mrs 42
@@ -539,6 +477,36 @@ http://news.yellovideoplus.bj:8080/vod/_definst_/video/file/27173/RackMultipart2
 http://news.yellovideoplus.bj:8080/vod/_definst_/video/file/27171/RackMultipart20210810-7958-1zjsv1.mp4/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://www.linkpicture.com/q/toi-mon-amour.jpg" group-title="NOVELAS",ToiMonAmour 15
 http://news.yellovideoplus.bj:8080/vod/_definst_/video/file/27175/RackMultipart20210810-8036-19yedl7.mp4/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://www.linkpicture.com/q/toi-mon-amour.jpg" group-title="NOVELAS",16
+http://news.yellovideoplus.bj:8080/vod/_definst_/video/file/29357/RackMultipart20210927-15222-i2e5q0.mp4/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://www.linkpicture.com/q/toi-mon-amour.jpg" group-title="NOVELAS",17
+http://news.yellovideoplus.bj:8080/vod/_definst_/video/file/29409/RackMultipart20210927-15196-1ovtcue.mp4/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://www.linkpicture.com/q/toi-mon-amour.jpg" group-title="NOVELAS",18
+http://news.yellovideoplus.bj:8080/vod/_definst_/video/file/29411/RackMultipart20210927-15196-14yurph.mp4/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://www.linkpicture.com/q/toi-mon-amour.jpg" group-title="NOVELAS",19
+http://news.yellovideoplus.bj:8080/vod/_definst_/video/file/29410/RackMultipart20210927-15198-e1ztwm.mp4/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://www.linkpicture.com/q/toi-mon-amour.jpg" group-title="NOVELAS",20
+http://news.yellovideoplus.bj:8080/vod/_definst_/video/file/29412/RackMultipart20210927-15232-1sg8yry.mp4/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://www.linkpicture.com/q/toi-mon-amour.jpg" group-title="NOVELAS",21
+http://news.yellovideoplus.bj:8080/vod/_definst_/video/file/29399/RackMultipart20210927-15232-14n49p2.mp4/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://www.linkpicture.com/q/toi-mon-amour.jpg" group-title="NOVELAS",22
+http://news.yellovideoplus.bj:8080/vod/_definst_/video/file/29402/RackMultipart20210927-15207-1vojoo5.mp4/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://www.linkpicture.com/q/toi-mon-amour.jpg" group-title="NOVELAS",23
+http://news.yellovideoplus.bj:8080/vod/_definst_/video/file/29407/RackMultipart20210927-15265-1lxx581.mp4/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://www.linkpicture.com/q/toi-mon-amour.jpg" group-title="NOVELAS",24
+http://news.yellovideoplus.bj:8080/vod/_definst_/video/file/29400/RackMultipart20210927-15232-1eh2qmy.mp4/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://www.linkpicture.com/q/toi-mon-amour.jpg" group-title="NOVELAS",25
+http://news.yellovideoplus.bj:8080/vod/_definst_/video/file/29408/RackMultipart20210927-15265-2gvgc9.mp4/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://www.linkpicture.com/q/toi-mon-amour.jpg" group-title="NOVELAS",26
+http://news.yellovideoplus.bj:8080/vod/_definst_/video/file/29398/RackMultipart20210927-15265-9mt31x.mp4/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://www.linkpicture.com/q/toi-mon-amour.jpg" group-title="NOVELAS",27
+http://news.yellovideoplus.bj:8080/vod/_definst_/video/file/29401/RackMultipart20210927-15232-1qdka3w.mp4/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://www.linkpicture.com/q/toi-mon-amour.jpg" group-title="NOVELAS",28
+http://news.yellovideoplus.bj:8080/vod/_definst_/video/file/29403/RackMultipart20210927-15196-1mh359l.mp4/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://www.linkpicture.com/q/toi-mon-amour.jpg" group-title="NOVELAS",29
+http://news.yellovideoplus.bj:8080/vod/_definst_/video/file/29406/RackMultipart20210927-15196-tukpxf.mp4/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://www.linkpicture.com/q/toi-mon-amour.jpg" group-title="NOVELAS",30
+http://news.yellovideoplus.bj:8080/vod/_definst_/video/file/29404/RackMultipart20210927-15198-4giypp.mp4/playlist.m3u8
 
 #EXTGRP : MA VIE SANS ELLE
 #EXTINF:-1 tvg-logo="https://www.linkpicture.com/q/IMG_20210816_234549.jpg" group-title="NOVELAS",VIE sans ELLE 1
@@ -571,6 +539,37 @@ http://news.yellovideoplus.bj:8080/vod/_definst_/video/file/27244/RackMultipart2
 http://news.yellovideoplus.bj:8080/vod/_definst_/video/file/27243/RackMultipart20210810-7936-1vhv3rf.mp4/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://www.linkpicture.com/q/IMG_20210816_234549.jpg" group-title="NOVELAS",VIE sans Elle 15
 http://news.yellovideoplus.bj:8080/vod/_definst_/video/file/27242/RackMultipart20210810-7947-1d68700.mp4/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://www.linkpicture.com/q/IMG_20210816_234549.jpg" group-title="NOVELAS", 16
+http://news.yellovideoplus.bj:8080/vod/_definst_/video/file/29343/RangrasiyaMaVieSansElle_EP_016.mp4/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://www.linkpicture.com/q/IMG_20210816_234549.jpg" group-title="NOVELAS", 17
+http://news.yellovideoplus.bj:8080/vod/_definst_/video/file/29344/RangrasiyaMaVieSansElle_EP_019.mp4/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://www.linkpicture.com/q/IMG_20210816_234549.jpg" group-title="NOVELAS", 18
+http://news.yellovideoplus.bj:8080/vod/_definst_/video/file/29344/RangrasiyaMaVieSansElle_EP_018.mp4/playlist.m3u8 
+#EXTINF:-1 tvg-logo="https://www.linkpicture.com/q/IMG_20210816_234549.jpg" group-title="NOVELAS", 19
+http://news.yellovideoplus.bj:8080/vod/_definst_/video/file/29345/RangrasiyaMaVieSansElle_EP_019.mp4/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://www.linkpicture.com/q/IMG_20210816_234549.jpg" group-title="NOVELAS", 20
+http://news.yellovideoplus.bj:8080/vod/_definst_/video/file/29346/RangrasiyaMaVieSansElle_EP_020.mp4/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://www.linkpicture.com/q/IMG_20210816_234549.jpg" group-title="NOVELAS", 21
+http://news.yellovideoplus.bj:8080/vod/_definst_/video/file/29347/RangrasiyaMaVieSansElle_EP_021.mp4/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://www.linkpicture.com/q/IMG_20210816_234549.jpg" group-title="NOVELAS", 22
+http://news.yellovideoplus.bj:8080/vod/_definst_/video/file/29348/RangrasiyaMaVieSansElle_EP_022.mp4/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://www.linkpicture.com/q/IMG_20210816_234549.jpg" group-title="NOVELAS", 23
+http://news.yellovideoplus.bj:8080/vod/_definst_/video/file/29349/RangrasiyaMaVieSansElle_EP_023.mp4/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://www.linkpicture.com/q/IMG_20210816_234549.jpg" group-title="NOVELAS", 24
+http://news.yellovideoplus.bj:8080/vod/_definst_/video/file/29350/RangrasiyaMaVieSansElle_EP_024.mp4/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://www.linkpicture.com/q/IMG_20210816_234549.jpg" group-title="NOVELAS", 25
+http://news.yellovideoplus.bj:8080/vod/_definst_/video/file/29351/RangrasiyaMaVieSansElle_EP_025.mp4/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://www.linkpicture.com/q/IMG_20210816_234549.jpg" group-title="NOVELAS", 26
+http://news.yellovideoplus.bj:8080/vod/_definst_/video/file/29352/RangrasiyaMaVieSansElle_EP_026.mp4/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://www.linkpicture.com/q/IMG_20210816_234549.jpg" group-title="NOVELAS", 27
+http://news.yellovideoplus.bj:8080/vod/_definst_/video/file/29353/RangrasiyaMaVieSansElle_EP_027.mp4/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://www.linkpicture.com/q/IMG_20210816_234549.jpg" group-title="NOVELAS", 28
+http://news.yellovideoplus.bj:8080/vod/_definst_/video/file/29354/RangrasiyaMaVieSansElle_EP_028.mp4/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://www.linkpicture.com/q/IMG_20210816_234549.jpg" group-title="NOVELAS", 29
+http://news.yellovideoplus.bj:8080/vod/_definst_/video/file/29355/RangrasiyaMaVieSansElle_EP_029.mp4/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://www.linkpicture.com/q/IMG_20210816_234549.jpg" group-title="NOVELAS", 30
+http://news.yellovideoplus.bj:8080/vod/_definst_/video/file/29356/RangrasiyaMaVieSansElle_EP_030.mp4/playlist.m3u8
+
 #EXTGRP : SECRET DE L'AMOUR
 #EXTINF:-1 tvg-logo="https://www.linkpicture.com/q/IMG_20210817_000304.jpg" group-title="NOVELAS", AMOUR Secret 1
 http://news.yellovideoplus.bj:8080/vod/_definst_/video/file/27385/RackMultipart20210811-7925-fxafuh.mp4/playlist.m3u8
