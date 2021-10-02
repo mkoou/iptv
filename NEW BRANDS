@@ -1,4 +1,6 @@
 #EXTGRP: NOUVEAUX FILMS ACTION
+#EXTINF:-1,ZONE DE GUERRE
+http://news.yellovideoplus.bj:8080/vod/_definst_/video/file/29308/WAR_ZONE_VF_1.mp4/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://www.linkpicture.com/q/IMG_20210927_182823.jpg" group-title="",I_SELL_THE_DEAD
 http://news.yellovideoplus.bj:8080/vod/_definst_/video/file/29300/I_SELL_THE_DEAD_VF.mp4/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://www.linkpicture.com/q/Screenshot_2021_0927_183506.jpg" group-title="",IMMORTELLE
