@@ -134,7 +134,7 @@ http://sharing.yellovideoplus.bj:8080/nimble/556338/355e66db3036d071.mp4/playlis
 http://sharing.yellovideoplus.bj:8080/nimble/556338/103f44b7faaeef96.mp4/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://fr.web.img6.acsta.net/pictures/16/06/14/10/49/088159.jpg" group-title="TYRANT", TYRANTS01E03
 http://sharing.yellovideoplus.bj:8080/nimble/556338/747a9e290579c3c5.mp4/playlist.m3u8
-EXTINF:-1 tvg-logo="https://fr.web.img6.acsta.net/pictures/16/06/14/10/49/088159.jpg" group-title="TYRANT", TYRANTS01E04
+#EXTINF:-1 tvg-logo="https://fr.web.img6.acsta.net/pictures/16/06/14/10/49/088159.jpg" group-title="TYRANT", TYRANTS01E04
 http://sharing.yellovideoplus.bj:8080/nimble/556338/00d54ec28f65e28c.mp4/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://fr.web.img6.acsta.net/pictures/16/06/14/10/49/088159.jpg" group-title="TYRANT", TYRANTS01E05
 http://sharing.yellovideoplus.bj:8080/nimble/556338/c25f57495d2086ff.mp4/playlist.m3u8
