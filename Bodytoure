@@ -1,0 +1,79 @@
+
+#EXTGRP:BEINSPORTS
+#EXTINF:-1 group-title="BEIN SPORTS",Bein Sports 1 LOW
+http://185.180.223.89:25461/imiktec@gmail.com/Abd9090/150|User-agent=useragent
+
+#EXTINF:-1 group-title="BEIN SPORTS",Bein Sports 2 LOW
+http://185.180.223.89:25461/imiktec@gmail.com/Abd9090/149|User-agent=useragent
+
+#EXTINF:-1 group-title="BEIN SPORTS",Bein Sports 3 LOW
+http://185.180.223.89:25461/imiktec@gmail.com/Abd9090/148|User-agent=useragent
+
+#EXTINF:-1 group-title="BEIN SPORTS",Bein Sports 4 LOW 
+http://185.180.223.89:25461/imiktec@gmail.com/Abd9090/147|User-agent=useragent
+
+#EXTINF:-1 group-title="BEIN SPORTS",Bein Sports 5 LOW
+http://185.180.223.89:25461/imiktec@gmail.com/Abd9090/146|User-agent=useragent
+
+#EXTINF:-1 group-title="BEIN SPORTS",Bein Sports 6 LOW
+http://185.180.223.89:25461/imiktec@gmail.com/Abd9090/145|User-agent=useragent
+
+#EXTINF:-1 group-title="BEIN SPORTS",Bein Sports 7 LOW
+http://185.180.223.89:25461/imiktec@gmail.com/Abd9090/144|User-agent=useragent
+
+#EXTINF:-1 group-title="BEIN SPORTS",Bein Sports 8 LOW
+http://185.180.223.89:25461/imiktec@gmail.com/Abd9090/143|User-agent=useragent
+
+#EXTINF:-1 group-title="BEIN SPORTS",Bein Sports 9 LOW
+http://185.180.223.89:25461/imiktec@gmail.com/Abd9090/142|User-agent=useragent
+
+#EXTINF:-1 group-title="BEIN SPORTS",Bein Sports 10 LOW
+http://185.180.223.89:25461/imiktec@gmail.com/Abd9090/141|User-agent=useragent
+
+#EXTINF:-1 group-title="BEIN SPORTS",Bein Sports 11 LOW
+http://185.180.223.89:25461/imiktec@gmail.com/Abd9090/140|User-agent=useragent
+
+#EXTINF:-1 group-title="BEIN SPORTS",Bein Sports 12 LOW
+http://185.180.223.89:25461/imiktec@gmail.com/Abd9090/139|User-agent=useragent
+
+#EXTINF:-1 tvg-id="" tvg-name="Bein Sports 1 HD" tvg-logo="" group-title="BEIN SPORTS",Bein Sports 1 HD
+http://185.180.223.89:25461/imiktec@gmail.com/Abd9090/40|User-agent=useragent
+
+#EXTINF:-1 tvg-id="" tvg-name="Bein Sports 2 HD" tvg-logo="" group-title="BEIN SPORTS",Bein Sports 2 HD
+http://185.180.223.89:25461/imiktec@gmail.com/Abd9090/41|User-agent=useragent
+
+#EXTINF:-1 tvg-id="" tvg-name="Bein Sports 3HD" tvg-logo="" group-title="BEIN SPORTS",Bein Sports 3 HD
+http://185.180.223.89:25461/imiktec@gmail.com/Abd9090/42|User-agent=useragent
+
+#EXTINF:-1 tvg-id="" tvg-name="Bein Sports 4 HD" tvg-logo="" group-title="BEIN SPORTS",Bein Sports 4 HD
+http://185.180.223.89:25461/imiktec@gmail.com/Abd9090/43|User-agent=useragent
+
+#EXTINF:-1 tvg-id="" tvg-name="Bein Sports 5 HD" tvg-logo="" group-title="BEIN SPORTS",Bein Sports 5 HD
+http://185.180.223.89:25461/imiktec@gmail.com/Abd9090/44|User-agent=useragent
+
+#EXTINF:-1 tvg-id="" tvg-name="Bein Sports 6 HD" tvg-logo="" group-title="BEIN SPORTS",Bein Sports 6 HD
+http://185.180.223.89:25461/imiktec@gmail.com/Abd9090/45|User-agent=useragent
+
+#EXTINF:-1 tvg-id="" tvg-name="Bein Sports 7 HD" tvg-logo="" group-title="BEIN SPORTS",Bein Sports 7 HD
+http://185.180.223.89:25461/imiktec@gmail.com/Abd9090/46|User-agent=useragent
+
+#EXTINF:-1 tvg-id="" tvg-name="Bein Sports 8 HD" tvg-logo="" group-title="BEIN SPORTS",Bein Sports 8 HD
+http://185.180.223.89:25461/imiktec@gmail.com/Abd9090/47|User-agent=useragent
+
+#EXTINF:-1 tvg-id="" tvg-name="Bein Sports 9 HD" tvg-logo="" group-title="BEIN SPORTS",Bein Sports 9 HD
+http://185.180.223.89:25461/imiktec@gmail.com/Abd9090/48|User-agent=useragent
+
+#EXTINF:-1 tvg-id="" tvg-name="Bein Sports 10 HD" tvg-logo="" group-title="BEIN SPORTS",Bein Sports 10 HD
+http://185.180.223.89:25461/imiktec@gmail.com/Abd9090/49|User-agent=useragent
+
+#EXTINF:-1 tvg-id="" tvg-name="Bein Sports 11 HD" tvg-logo="" group-title="BEIN SPORTS",Bein Sports 11 HD
+http://185.180.223.89:25461/imiktec@gmail.com/Abd9090/50|User-agent=useragent
+
+#EXTINF:-1 tvg-id="PlutoTVSPORTBeINSportsXtra.us" tvg-name="Pluto TV SPORT : BeIN Sports Xtra" tvg-country="US" tvg-language="" tvg-logo="none" group-title="SPORTS",Pluto TV SPORT : BeIN Sports Xtra
+https://service-stitcher.clusters.pluto.tv/stitch/hls/channel/5df975e2b27cf5000921c102/master.m3u8?deviceType=web&deviceMake=Opera&deviceModel=Opera&sid=855d6801-c912-428d-b620-ede4dd0c3b15&deviceId=b702181a-c1d6-4ee2-9481-753f471e2ce7&deviceVersion=66.0.3515.44&appVersion=2.9.3-b879e400d5df7a969d4bff8863fe5cb02c7120e6&deviceDNT=0&userId=&advertisingId=&deviceLat=40.8364&deviceLon=-74.1403&app_name=&appName=web&buildVersion=&appStoreUrl=&architecture=&includeExtendedEvents=false&serverSideAds=tr
+
+
+
+
+
+
