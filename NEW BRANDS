@@ -1,7 +1,7 @@
 
 #EXTGRP:Mm&Mr SAISON 2
 #EXTINF:-1 tvg-logo="https://www.linkpicture.com/q/IMG_20211101_023337.jpg" group-title="Mm&Mm",Mm&MrS2x01
-http://news.yellovideoplus.bj:8080/vod/_definst_/video/file/29892/Mm-S2-Episode_1-1-CRF22.mp4/playlist.m3u8
+http://news.yellovideoplus.bj:8080/vod/_definst_/video/file/29892/Mm-S2-Episode_1-1.mp4/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://www.linkpicture.com/q/IMG_20211101_023337.jpg" group-title="Mm&Mm",Mm&MrS2x02
 http://news.yellovideoplus.bj:8080/vod/_definst_/video/file/29893/Mm-S2-Episode_2-1.mp4/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://www.linkpicture.com/q/IMG_20211101_023337.jpg" group-title="Mm&Mm",Mm&MrS2x03
