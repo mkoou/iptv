@@ -1,3 +1,151 @@
+
+#EXTGRP:Mm&Mr SAISON 2
+#EXTINF:-1 tvg-logo="https://www.linkpicture.com/q/IMG_20211101_023337.jpg" group-title="Mm&Mm",Mm&MrS2x01
+http://news.yellovideoplus.bj:8080/vod/_definst_/video/file/29892/Mm-S2-Episode_1-1-CRF22.mp4/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://www.linkpicture.com/q/IMG_20211101_023337.jpg" group-title="Mm&Mm",Mm&MrS2x02
+http://news.yellovideoplus.bj:8080/vod/_definst_/video/file/29893/Mm-S2-Episode_2-1.mp4/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://www.linkpicture.com/q/IMG_20211101_023337.jpg" group-title="Mm&Mm",Mm&MrS2x03
+http://news.yellovideoplus.bj:8080/vod/_definst_/video/file/29894/Mm-S2-Episode_3-1.mp4/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://www.linkpicture.com/q/IMG_20211101_023337.jpg" group-title="Mm&Mm",Mm&MrS2x04
+http://news.yellovideoplus.bj:8080/vod/_definst_/video/file/29895/Mm-S2-Episode_4-1.mp4/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://www.linkpicture.com/q/IMG_20211101_023337.jpg" group-title="Mm&Mm",Mm&MrS2x05
+http://news.yellovideoplus.bj:8080/vod/_definst_/video/file/29896/Mm-S2-Episode_5-1.mp4/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://www.linkpicture.com/q/IMG_20211101_023337.jpg" group-title="Mm&Mm",Mm&MrS2x06
+http://news.yellovideoplus.bj:8080/vod/_definst_/video/file/29897/Mm-S2-Episode_6-1.mp4/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://www.linkpicture.com/q/IMG_20211101_023337.jpg" group-title="Mm&Mm",Mm&MrS2x07
+http://news.yellovideoplus.bj:8080/vod/_definst_/video/file/29898/Mm-S2-Episode_7-1.mp4/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://www.linkpicture.com/q/IMG_20211101_023337.jpg" group-title="Mm&Mm",Mm&MrS2x08
+http://news.yellovideoplus.bj:8080/vod/_definst_/video/file/29899/Mm-S2-Episode_8-1.mp4/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://www.linkpicture.com/q/IMG_20211101_023337.jpg" group-title="Mm&Mm",Mm&MrS2x09
+http://news.yellovideoplus.bj:8080/vod/_definst_/video/file/29900/Mm-S2-Episode_9-1.mp4/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://www.linkpicture.com/q/IMG_20211101_023337.jpg" group-title="Mm&Mm",Mm&MrS2x10
+http://news.yellovideoplus.bj:8080/vod/_definst_/video/file/29901/Mm-S2-Episode_10-1.mp4/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://www.linkpicture.com/q/IMG_20211101_023337.jpg" group-title="Mm&Mm",Mm&MrS2x11
+http://news.yellovideoplus.bj:8080/vod/_definst_/video/file/29902/Mm-S2-Episode_11-1.mp4/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://www.linkpicture.com/q/IMG_20211101_023337.jpg" group-title="Mm&Mm",Mm&MrS2x12
+http://news.yellovideoplus.bj:8080/vod/_definst_/video/file/29903/Mm-S2-Episode_12-1.mp4/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://www.linkpicture.com/q/IMG_20211101_023337.jpg" group-title="Mm&Mm",Mm&MrS2x13
+http://news.yellovideoplus.bj:8080/vod/_definst_/video/file/29904/Mm-S2-Episode_13-1.mp4/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://www.linkpicture.com/q/IMG_20211101_023337.jpg" group-title="Mm&Mm",Mm&MrS2x14
+http://news.yellovideoplus.bj:8080/vod/_definst_/video/file/29905/Mm-S2-Episode_14-1.mp4/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://www.linkpicture.com/q/IMG_20211101_023337.jpg" group-title="Mm&Mm",Mm&MrS2x15
+http://news.yellovideoplus.bj:8080/vod/_definst_/video/file/29906/Mm-S2-Episode_15-1.mp4/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://www.linkpicture.com/q/IMG_20211101_023337.jpg" group-title="Mm&Mm",Mm&MrS2x16
+http://news.yellovideoplus.bj:8080/vod/_definst_/video/file/29907/Mm-S2-Episode_16-1.mp4/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://www.linkpicture.com/q/IMG_20211101_023337.jpg" group-title="Mm&Mm",Mm&MrS2x17
+http://news.yellovideoplus.bj:8080/vod/_definst_/video/file/29908/Mm-S2-Episode_17-1.mp4/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://www.linkpicture.com/q/IMG_20211101_023337.jpg" group-title="Mm&Mm",Mm&MrS2x18
+http://news.yellovideoplus.bj:8080/vod/_definst_/video/file/29909/Mm-S2-Episode_18-1.mp4/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://www.linkpicture.com/q/IMG_20211101_023337.jpg" group-title="Mm&Mm",Mm&MrS2x19
+http://news.yellovideoplus.bj:8080/vod/_definst_/video/file/29910/Mm-S2-Episode_19-1.mp4/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://www.linkpicture.com/q/IMG_20211101_023337.jpg" group-title="Mm&Mm",Mm&MrS2x20
+http://news.yellovideoplus.bj:8080/vod/_definst_/video/file/29911/Mm-S2-Episode_20-1.mp4/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://www.linkpicture.com/q/IMG_20211101_023337.jpg" group-title="Mm&Mm",Mm&MrS2x21
+http://news.yellovideoplus.bj:8080/vod/_definst_/video/file/29912/Mm-S2-Episode_21-1.mp4/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://www.linkpicture.com/q/IMG_20211101_023337.jpg" group-title="Mm&Mm",Mm&MrS2x22
+http://news.yellovideoplus.bj:8080/vod/_definst_/video/file/29913/Mm-S2-Episode_22-1.mp4/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://www.linkpicture.com/q/IMG_20211101_023337.jpg" group-title="Mm&Mm",Mm&MrS2x23
+http://news.yellovideoplus.bj:8080/vod/_definst_/video/file/29914/Mm-S2-Episode_23-1.mp4/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://www.linkpicture.com/q/IMG_20211101_023337.jpg" group-title="Mm&Mm",Mm&MrS2x24
+http://news.yellovideoplus.bj:8080/vod/_definst_/video/file/29915/Mm-S2-Episode_24-1.mp4/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://www.linkpicture.com/q/IMG_20211101_023337.jpg" group-title="Mm&Mm",Mm&MrS2x25
+http://news.yellovideoplus.bj:8080/vod/_definst_/video/file/29916/Mm-S2-Episode_25-1.mp4/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://www.linkpicture.com/q/IMG_20211101_023337.jpg" group-title="Mm&Mm",Mm&MrS2x26
+http://news.yellovideoplus.bj:8080/vod/_definst_/video/file/29917/Mm-S2-Episode_26-1.mp4/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://www.linkpicture.com/q/IMG_20211101_023337.jpg" group-title="Mm&Mm",Mm&MrS2x27
+http://news.yellovideoplus.bj:8080/vod/_definst_/video/file/29918/Mm-S2-Episode_27-1.mp4/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://www.linkpicture.com/q/IMG_20211101_023337.jpg" group-title="Mm&Mm",Mm&MrS2x28
+http://news.yellovideoplus.bj:8080/vod/_definst_/video/file/29919/Mm-S2-Episode_28-1.mp4/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://www.linkpicture.com/q/IMG_20211101_023337.jpg" group-title="Mm&Mm",Mm&MrS2x29
+http://news.yellovideoplus.bj:8080/vod/_definst_/video/file/29920/Mm-S2-Episode_29-1.mp4/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://www.linkpicture.com/q/IMG_20211101_023337.jpg" group-title="Mm&Mm",Mm&MrS2x30
+http://news.yellovideoplus.bj:8080/vod/_definst_/video/file/29921/Mm-S2-Episode_30-1.mp4/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://www.linkpicture.com/q/IMG_20211101_023337.jpg" group-title="Mm&Mm",Mm&MrS2x31
+http://news.yellovideoplus.bj:8080/vod/_definst_/video/file/29922/Mm-S2-Episode_31-1.mp4/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://www.linkpicture.com/q/IMG_20211101_023337.jpg" group-title="Mm&Mm",Mm&MrS2x32
+http://news.yellovideoplus.bj:8080/vod/_definst_/video/file/29923/Mm-S2-Episode_32-1.mp4/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://www.linkpicture.com/q/IMG_20211101_023337.jpg" group-title="Mm&Mm",Mm&MrS2x33
+http://news.yellovideoplus.bj:8080/vod/_definst_/video/file/29924/Mm-S2-Episode_33-1.mp4/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://www.linkpicture.com/q/IMG_20211101_023337.jpg" group-title="Mm&Mm",Mm&MrS2x34
+http://news.yellovideoplus.bj:8080/vod/_definst_/video/file/29925/Mm-S2-Episode_34-1.mp4/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://www.linkpicture.com/q/IMG_20211101_023337.jpg" group-title="Mm&Mm",Mm&MrS2x35
+http://news.yellovideoplus.bj:8080/vod/_definst_/video/file/29926/Mm-S2-Episode_35-1.mp4/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://www.linkpicture.com/q/IMG_20211101_023337.jpg" group-title="Mm&Mm",Mm&MrS2x36
+http://news.yellovideoplus.bj:8080/vod/_definst_/video/file/29927/Mm-S2-Episode_36-1.mp4/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://www.linkpicture.com/q/IMG_20211101_023337.jpg" group-title="Mm&Mm",Mm&MrS2x37
+http://news.yellovideoplus.bj:8080/vod/_definst_/video/file/29928/Mm-S2-Episode_37-1.mp4/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://www.linkpicture.com/q/IMG_20211101_023337.jpg" group-title="Mm&Mm",Mm&MrS2x38
+http://news.yellovideoplus.bj:8080/vod/_definst_/video/file/29929/Mm-S2-Episode_38-1.mp4/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://www.linkpicture.com/q/IMG_20211101_023337.jpg" group-title="Mm&Mm",Mm&MrS2x39
+http://news.yellovideoplus.bj:8080/vod/_definst_/video/file/29930/Mm-S2-Episode_39-1.mp4/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://www.linkpicture.com/q/IMG_20211101_023337.jpg" group-title="Mm&Mm",Mm&MrS2x40
+http://news.yellovideoplus.bj:8080/vod/_definst_/video/file/29931/Mm-S2-Episode_40-1.mp4/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://www.linkpicture.com/q/IMG_20211101_023337.jpg" group-title="Mm&Mm",Mm&MrS2x41
+http://news.yellovideoplus.bj:8080/vod/_definst_/video/file/29932/Mm-S2-Episode_41-1.mp4/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://www.linkpicture.com/q/IMG_20211101_023337.jpg" group-title="Mm&Mm",Mm&MrS2x42
+http://news.yellovideoplus.bj:8080/vod/_definst_/video/file/29933/Mm-S2-Episode_42-1.mp4/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://www.linkpicture.com/q/IMG_20211101_023337.jpg" group-title="Mm&Mm",Mm&MrS2x43
+http://news.yellovideoplus.bj:8080/vod/_definst_/video/file/29934/Mm-S2-Episode_43-1.mp4/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://www.linkpicture.com/q/IMG_20211101_023337.jpg" group-title="Mm&Mm",Mm&MrS2x44
+http://news.yellovideoplus.bj:8080/vod/_definst_/video/file/29935/Mm-S2-Episode_44-1.mp4/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://www.linkpicture.com/q/IMG_20211101_023337.jpg" group-title="Mm&Mm",Mm&MrS2x45
+http://news.yellovideoplus.bj:8080/vod/_definst_/video/file/29936/Mm-S2-Episode_45-1.mp4/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://www.linkpicture.com/q/IMG_20211101_023337.jpg" group-title="Mm&Mm",Mm&MrS2x46
+http://news.yellovideoplus.bj:8080/vod/_definst_/video/file/29937/Mm-S2-Episode_46-1.mp4/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://www.linkpicture.com/q/IMG_20211101_023337.jpg" group-title="Mm&Mm",Mm&MrS2x47
+http://news.yellovideoplus.bj:8080/vod/_definst_/video/file/29938/Mm-S2-Episode_47-1.mp4/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://www.linkpicture.com/q/IMG_20211101_023337.jpg" group-title="Mm&Mm",Mm&MrS2x48
+http://news.yellovideoplus.bj:8080/vod/_definst_/video/file/29939/Mm-S2-Episode_48-1.mp4/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://www.linkpicture.com/q/IMG_20211101_023337.jpg" group-title="Mm&Mm",Mm&MrS2x49
+http://news.yellovideoplus.bj:8080/vod/_definst_/video/file/29940/Mm-S2-Episode_49-1.mp4/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://www.linkpicture.com/q/IMG_20211101_023337.jpg" group-title="Mm&Mm",Mm&MrS2x50
+http://news.yellovideoplus.bj:8080/vod/_definst_/video/file/29941/Mm-S2-Episode_50-1.mp4/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://www.linkpicture.com/q/IMG_20211101_023337.jpg" group-title="Mm&Mm",Mm&MrS2x51
+http://news.yellovideoplus.bj:8080/vod/_definst_/video/file/29942/Mm-S2-Episode_51-1.mp4/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://www.linkpicture.com/q/IMG_20211101_023337.jpg" group-title="Mm&Mm",Mm&MrS2x52
+http://news.yellovideoplus.bj:8080/vod/_definst_/video/file/29943/Mm-S2-Episode_52-1.mp4/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://www.linkpicture.com/q/IMG_20211101_023337.jpg" group-title="Mm&Mm",Mm&MrS2x53
+http://news.yellovideoplus.bj:8080/vod/_definst_/video/file/29944/Mm-S2-Episode_53-1.mp4/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://www.linkpicture.com/q/IMG_20211101_023337.jpg" group-title="Mm&Mm",Mm&MrS2x54
+http://news.yellovideoplus.bj:8080/vod/_definst_/video/file/29945/Mm-S2-Episode_54-1.mp4/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://www.linkpicture.com/q/IMG_20211101_023337.jpg" group-title="Mm&Mm",Mm&MrS2x55
+http://news.yellovideoplus.bj:8080/vod/_definst_/video/file/29946/Mm-S2-Episode_55-1.mp4/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://www.linkpicture.com/q/IMG_20211101_023337.jpg" group-title="Mm&Mm",Mm&MrS2x56
+http://news.yellovideoplus.bj:8080/vod/_definst_/video/file/29947/Mm-S2-Episode_56-1.mp4/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://www.linkpicture.com/q/IMG_20211101_023337.jpg" group-title="Mm&Mm",Mm&MrS2x57
+http://news.yellovideoplus.bj:8080/vod/_definst_/video/file/29948/Mm-S2-Episode_57-1.mp4/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://www.linkpicture.com/q/IMG_20211101_023337.jpg" group-title="Mm&Mm",Mm&MrS2x58
+http://news.yellovideoplus.bj:8080/vod/_definst_/video/file/29949/Mm-S2-Episode_58-1.mp4/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://www.linkpicture.com/q/IMG_20211101_023337.jpg" group-title="Mm&Mm",Mm&MrS2x59
+http://news.yellovideoplus.bj:8080/vod/_definst_/video/file/29950/Mm-S2-Episode_59-1.mp4/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://www.linkpicture.com/q/IMG_20211101_023337.jpg" group-title="Mm&Mm",Mm&MrS2x60
+http://news.yellovideoplus.bj:8080/vod/_definst_/video/file/29951/Mm-S2-Episode_60-1.mp4/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://www.linkpicture.com/q/IMG_20211101_023337.jpg" group-title="Mm&Mm",Mm&MrS2x61
+http://news.yellovideoplus.bj:8080/vod/_definst_/video/file/29952/Mm-S2-Episode_61-1.mp4/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://www.linkpicture.com/q/IMG_20211101_023337.jpg" group-title="Mm&Mm",Mm&MrS2x62
+http://news.yellovideoplus.bj:8080/vod/_definst_/video/file/29953/Mm-S2-Episode_62-1.mp4/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://www.linkpicture.com/q/IMG_20211101_023337.jpg" group-title="Mm&Mm",Mm&MrS2x63
+http://news.yellovideoplus.bj:8080/vod/_definst_/video/file/29954/Mm-S2-Episode_63-1.mp4/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://www.linkpicture.com/q/IMG_20211101_023337.jpg" group-title="Mm&Mm",Mm&MrS2x64
+http://news.yellovideoplus.bj:8080/vod/_definst_/video/file/29955/Mm-S2-Episode_64-1.mp4/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://www.linkpicture.com/q/IMG_20211101_023337.jpg" group-title="Mm&Mm",Mm&MrS2x65
+http://news.yellovideoplus.bj:8080/vod/_definst_/video/file/29956/Mm-S2-Episode_65-1.mp4/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://www.linkpicture.com/q/IMG_20211101_023337.jpg" group-title="Mm&Mm",Mm&MrS2x66
+http://news.yellovideoplus.bj:8080/vod/_definst_/video/file/29957/Mm-S2-Episode_66-1.mp4/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://www.linkpicture.com/q/IMG_20211101_023337.jpg" group-title="Mm&Mm",Mm&MrS2x67
+http://news.yellovideoplus.bj:8080/vod/_definst_/video/file/29958/Mm-S2-Episode_67-1.mp4/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://www.linkpicture.com/q/IMG_20211101_023337.jpg" group-title="Mm&Mm",Mm&MrS2x68
+http://news.yellovideoplus.bj:8080/vod/_definst_/video/file/29959/Mm-S2-Episode_68-1.mp4/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://www.linkpicture.com/q/IMG_20211101_023337.jpg" group-title="Mm&Mm",Mm&MrS2x69
+http://news.yellovideoplus.bj:8080/vod/_definst_/video/file/29960/Mm-S2-Episode_69-1.mp4/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://www.linkpicture.com/q/IMG_20211101_023337.jpg" group-title="Mm&Mm",Mm&MrS2x70
+http://news.yellovideoplus.bj:8080/vod/_definst_/video/file/29961/Mm-S2-Episode_70-1.mp4/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://www.linkpicture.com/q/IMG_20211101_023337.jpg" group-title="Mm&Mm",Mm&MrS2x71
+http://news.yellovideoplus.bj:8080/vod/_definst_/video/file/29962/Mm-S2-Episode_71-1.mp4/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://www.linkpicture.com/q/IMG_20211101_023337.jpg" group-title="Mm&Mm",Mm&MrS2x72
+http://news.yellovideoplus.bj:8080/vod/_definst_/video/file/29963/Mm-S2-Episode_72-1.mp4/playlist.m3u8
+
+
 #EXTGRP: NOUVEAUX FILMS ACTION
 #EXTINF:-1,ZONE DE GUERRE
 http://news.yellovideoplus.bj:8080/vod/_definst_/video/file/29308/WAR_ZONE_VF_1.mp4/playlist.m3u8
