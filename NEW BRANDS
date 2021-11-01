@@ -146,6 +146,19 @@ http://news.yellovideoplus.bj:8080/vod/_definst_/video/file/29962/Mm-S2-Episode_
 http://news.yellovideoplus.bj:8080/vod/_definst_/video/file/29963/Mm-S2-Episode_72-1.mp4/playlist.m3u8
 
 
+#EXTGRP: Mon MARI
+#EXTINF:-1 tvg-logo="https://www.linkpicture.com/q/Screenshot_20211101_093413.jpg" group-title ="Mon MARI", Mon MARI 1
+http://vod.yellovideoplus.bj:8080/vod/_definst_/video/file/28405/Mon_Mari_1.mp4/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://www.linkpicture.com/q/Screenshot_20211101_093413.jpg" group-title ="Mon MARI", Mon MARI 2
+http://vod.yellovideoplus.bj:8080/vod/_definst_/video/file/28407/Mon_Mari_2.mp4/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://www.linkpicture.com/q/Screenshot_20211101_093413.jpg" group-title ="Mon MARI", Mon MARI 3
+http://vod.yellovideoplus.bj:8080/vod/_definst_/video/file/28408/Mon_Mari_3.mp4/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://www.linkpicture.com/q/Screenshot_20211101_093413.jpg" group-title ="Mon MARI", Mon MARI 4
+http://vod.yellovideoplus.bj:8080/vod/_definst_/video/file/28409/Mon_Mari_4-new.mp4/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://www.linkpicture.com/q/Screenshot_20211101_093413.jpg" group-title ="Mon MARI", Mon MARI 5
+http://vod.yellovideoplus.bj:8080/vod/_definst_/video/file/28410/Mon_Mari_5-new.mp4/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://www.linkpicture.com/q/Screenshot_20211101_093413.jpg" group-title ="Mon MARI", Mon MARI 6
+http://vod.yellovideoplus.bj:8080/vod/_definst_/video/file/28411/Mon_Mari_6-new.mp4/playlist.m3u8
 #EXTGRP: NOUVEAUX FILMS ACTION
 #EXTINF:-1,ZONE DE GUERRE
 http://news.yellovideoplus.bj:8080/vod/_definst_/video/file/29308/WAR_ZONE_VF_1.mp4/playlist.m3u8
