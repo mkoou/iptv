@@ -1,0 +1,158 @@
+#EXTGRP:BEIN SPORTS
+#EXTINF:-1 tvg-logo="http://files.rednetcontent.com/chlogo2/arabic/beinsport1.png, BeiN_SPORT 1 HD
+http://212.224.98.204:2200/EX/bein1hd-ar/index.m3u8?token=RED_QOngaeW9Nf_bd8ZvskC1mQ==,1636063193.8094774567
+
+#EXTINF:-1 tvg-logo="http://files.rednetcontent.com/chlogo2/arabic/beinsport2.png", BeiN_SPORT 2 HD
+http://212.224.98.204:2200/EX/bein2hd-ar/index.m3u8?token=RED_QOngaeW9Nf_bd8ZvskC1mQ==,1636063193.8094774567
+
+#EXTINF:-1 tvg-logo="http://files.rednetcontent.com/chlogo2/arabic/beinsport3.png", BeiN_SPORT 3 HD
+http://212.224.98.204:2200/EX/bein3hd-ar/index.m3u8?token=RED_QOngaeW9Nf_bd8ZvskC1mQ==,1636063193.8094774567
+
+#EXTINF:-1 tvg-logo="http://files.rednetcontent.com/chlogo2/arabic/beinsport4.png", BeiN_SPORT 4 HD 
+http://212.224.98.204:2200/EX/bein4hd-ar/index.m3u8?token=RED_QOngaeW9Nf_bd8ZvskC1mQ==,1636063193.8094774567
+
+#EXTINF:-1 tvg-logo="http://files.rednetcontent.com/chlogo2/arabic/beinsport55.png", BeiN_SPORT 5 HD
+http://212.224.98.204:2200/EX/bein5hd-ar/index.m3u8?token=RED_QOngaeW9Nf_bd8ZvskC1mQ==,1636063193.8094774567
+
+#EXTINF:-1 tvg-logo="http://files.rednetcontent.com/chlogo2/arabic/beinsportt6.png", BeiN_SPORT 6 HD
+http://212.224.98.204:2200/EX/bein6hd-ar/index.m3u8?token=RED_QOngaeW9Nf_bd8ZvskC1mQ==,1636063193.8094774567
+
+#EXTINF:-1 tvg-logo="http://files.rednetcontent.com/chlogo2/arabic/beinsport7.png", BeiN_SPORT 7 HD
+http://212.224.98.204:2200/EX/bein7hd-ar/index.m3u8?token=RED_QOngaeW9Nf_bd8ZvskC1mQ==,1636063193.8094774567
+
+#EXTINF:-1 tvg-logo="http://files.rednetcontent.com/chlogo2/arabic/beinsportt8.png", BeiN_SPORT 8 HD
+http://212.224.98.204:2200/EX/bein8hd-ar/index.m3u8?token=RED_QOngaeW9Nf_bd8ZvskC1mQ==,1636063193.8094774567
+
+#EXTINF:-1 tvg-logo="http://files.rednetcontent.com/chlogo2/arabic/beinsportt9.png", BeiN_SPORT 9 HD
+http://212.224.98.204:2200/EX/bein9hd-ar/index.m3u8?token=RED_QOngaeW9Nf_bd8ZvskC1mQ==,1636063193.8094774567
+
+#EXTINF:-1 tvg-logo="http://files.rednetcontent.com/chlogo2/arabic/beinsport210.png", BeiN_SPORT 10 HD
+http://212.224.98.204:2200/EX/bein10hd-ar/index.m3u8?token=RED_QOngaeW9Nf_bd8ZvskC1mQ==,1636063193.8094774567
+
+#EXTINF:-1 tvg-logo="http://files.rednetcontent.com/chlogo2/arabic/beinsport11.png", BeiN_SPORT 11 HD
+http://212.224.98.204:2200/EX/bein11hd-ar/index.m3u8?token=RED_QOngaeW9Nf_bd8ZvskC1mQ==,1636063193.8094774567
+
+#EXTINF:-1 tvg-logo="http://files.rednetcontent.com/chlogo2/arabic/beinsport12.png", BeiN_SPORT 12 HD
+http://212.224.98.204:2200/EX/bein12hd-ar/index.m3u8?token=RED_QOngaeW9Nf_bd8ZvskC1mQ==,1636063193.8094774567
+
+#EXTINF:-1 tvg-logo="http://files.rednetcontent.com/chlogo2/arabic/beinsport13.png", BeiN_SPORT 13 HD
+http://212.224.98.204:2200/EX/beIN_Sports_13_HD-ar/index.m3u8?token=RED_QOngaeW9Nf_bd8ZvskC1mQ==,1636063193.8094774567
+
+#EXTGRP: RMC SPORTS 
+#EXTINF:-1 tvg-logo="http://files.rednetcontent.com/chlogo2/french/rmc_sport_news1.png", RMC SPORTS 1 HD 
+http://212.224.98.204:2200/EX/FR_RMC_SPORT1_HD-fr/index.m3u8?token=RED_QOngaeW9Nf_bd8ZvskC1mQ==,1636063193.8094774567
+
+#EXTINF:-1 tvg-logo="http://files.rednetcontent.com/chlogo2/french/rmc_sport_news2.png", RMC SPORTS 2 HD 
+http://212.224.98.204:2200/EX/FR_RMC_SPORT2_HD-fr/index.m3u8?token=RED_QOngaeW9Nf_bd8ZvskC1mQ==,1636063193.8094774567
+
+#EXTINF:-1 tvg-logo="http://files.rednetcontent.com/chlogo2/french/rmc_sport_news3.png", RMC SPORTS 3 HD 
+http://212.224.98.204:2200/EX/FR_RMC_SPORT3_HD-fr/index.m3u8?token=RED_QOngaeW9Nf_bd8ZvskC1mQ==,1636063193.8094774567
+
+#EXTINF:-1 tvg-logo="http://files.rednetcontent.com/chlogo2/french/rmc_sport_news41.png", RMC SPORTS 4 HD 
+http://212.224.98.204:2200/EX/FR_RMC_SPORT4_HD-fr/index.m3u8?token=RED_QOngaeW9Nf_bd8ZvskC1mQ==,1636063193.8094774567
+
+#EXTINF:-1 tvg-logo="http://files.rednetcontent.com/chlogo2/french/rmc_sport_news5.png", RMC SPORTS 5 HD 
+http://212.224.98.204:2200/EX/FR_RMC_SPORT5_HD-fr/index.m3u8?token=RED_QOngaeW9Nf_bd8ZvskC1mQ==,1636063193.8094774567
+
+#EXTINF:-1 tvg-logo="http://files.rednetcontent.com/chlogo2/french/rmc_sport_news6.png", RMC SPORTS 6
+http://212.224.98.204:2200/EX/FR_RMC_SPORT6_HD-fr/index.m3u8?token=RED_QOngaeW9Nf_bd8ZvskC1mQ==,1636063193.8094774567
+
+#EXTINF:-1 tvg-logo="http://files.rednetcontent.com/chlogo2/french/rmc_sport_news7.png", RMC SPORTS 7 HD 
+http://212.224.98.204:2200/EX/FR_RMC_SPORT7_HD-fr/index.m3u8?token=RED_QOngaeW9Nf_bd8ZvskC1mQ==,1636063193.8094774567
+
+#EXTINF:-1 tvg-logo="http://files.rednetcontent.com/chlogo2/french/rmc_sport_news8.png", RMC SPORTS 8 HD 
+http://212.224.98.204:2200/EX/FR_RMC_SPORT8_HD-fr/index.m3u8?token=RED_QOngaeW9Nf_bd8ZvskC1mQ==,1636063193.8094774567
+
+#EXTINF:-1 tvg-logo="http://files.rednetcontent.com/chlogo2/french/rmc_sport_news9.png", RMC SPORTS 9 HD 
+http://212.224.98.204:2200/EX/FR_RMC_SPORT9_HD-fr/index.m3u8?token=RED_QOngaeW9Nf_bd8ZvskC1mQ==,1636063193.8094774567
+
+#EXTINF:-1 tvg-logo="http://files.rednetcontent.com/chlogo2/french/rmc_sport_news10.png", RMC SPORTS 10 HD 
+http://212.224.98.204:2200/EX/FR_RMC_SPORT10_HD-fr/index.m3u8?token=RED_QOngaeW9Nf_bd8ZvskC1mQ==,1636063193.8094774567
+
+#EXTINF:-1 tvg-logo="http://files.rednetcontent.com/chlogo2/french/rmc_sport_news11.png", RMC SPORTS 11 HD 
+http://212.224.98.204:2200/EX/FR_RMC_SPORT11HD-fr/index.m3u8?token=RED_QOngaeW9Nf_bd8ZvskC1mQ==,1636063193.8094774567
+
+#EXTINF:-1 tvg-logo="http://files.rednetcontent.com/chlogo2/french/rmc_sport_news12.png", RMC SPORTS 12 HD 
+http://45.153.33.138:2200/EX/FR_RMC_SPORT12HD-fr/index.m3u8?token=RED_QOngaeW9Nf_bd8ZvskC1mQ==,1636063193.8094774567
+
+#EXTINF:-1 tvg-logo="http://files.rednetcontent.com/chlogo2/french/rmc_sport_news13.png", RMC SPORTS 13 HD 
+http://45.153.33.138:2200/EX/FR_RMC_SPORT13HD-fr/index.m3u8?token=RED_QOngaeW9Nf_bd8ZvskC1mQ==,1636063193.8094774567
+#EXTINF:-1 tvg-logo="https://i.pinimg.com/236x/ee/3d/fa/ee3dfa9f02aea76663dfcaf7ac2ed10e.jpg", NOVELAS TV 
+http://212.224.98.204:2200/EX/Novelas-fr/index.m3u8?token=RED_RwbgMzfsry_sOHyzEobuHg==,1613175151.4862313191
+#EXTINF:-1 tvg-logo="http://files.rednetcontent.com:80/chlogo/syfy.png", SYFY
+http://212.224.98.204:2200/EX/SYFY_FR-fr/index.m3u8?token=RED_RwbgMzfsry_sOHyzEobuHg==,1613175151.4862313191
+#EXTINF:-1, CANAL+SERIE 
+http://212.224.98.204:2200/EX/CANAL_PLUS_SERIES-fr/index.m3u8?token=RED_RwbgMzfsry_sOHyzEobuHg==,1613175151.4862313191
+#EXTINF:-1 tvg-logo="http://files.rednetcontent.com:80/chlogo2/french/canal+.png", CANAL +
+http://212.224.98.204:2200/EX/CANAL_PLUS-fr/index.m3u8?token=RED_RwbgMzfsry_sOHyzEobuHg==,1613175151.4862313191
+#EXTINF:-1 tvg-logo="http://files.rednetcontent.com:80/chlogo2/french/canalf+.png", CANAL +FAMILY 
+http://212.224.98.204:2200/EX/CANAL_PLUS_FAMILY-fr/index.m3u8?token=RED_RwbgMzfsry_sOHyzEobuHg==,1613175151.4862313191
+#EXTINF:-1, CANAL+DECALE
+http://212.224.98.204:2200/EX/CANAL_PLUS_DECALE-fr/index.m3u8?token=RED_RwbgMzfsry_sOHyzEobuHg==,1613175151.4862313191
+#EXTINF:-1 tvg-logo="http://files.rednetcontent.com:80/chlogo2/french/RTL9_logo_2011.png", RTL9
+http://212.224.98.204:2200/EX/RTL9-fr/index.m3u8?token=RED_RwbgMzfsry_sOHyzEobuHg==,1613175151.4862313191
+#EXTINF:-1, ACTION 
+http://212.224.98.204:2200/EX/ACTION-fr/index.m3u8?token=RED_RwbgMzfsry_sOHyzEobuHg==,1613175151.4862313191
+#EXTINF:-1 tvg-logo="http://files.rednetcontent.com:80/chlogo2/french/M6.png", M6
+http://212.224.98.204:2200/EX/FR_M6_HD-fr/index.m3u8?token=RED_RwbgMzfsry_sOHyzEobuHg==,1613175151.4862313191
+#EXTINF:-1 tvg-logo="http://files.rednetcontent.com:80/chlogo2/french/%C4%B1nfosport.png", INFOSPORT
+http://212.224.98.204:2200/EX/INFOSPORT-fr/index.m3u8?token=RED_RwbgMzfsry_sOHyzEobuHg==,1613175151.4862313191
+#EXTINF:-1, CANAL+SPORTS
+http://212.224.98.204:2200/EX/CANAL_PLUS_SPORT-fr/index.m3u8?token=RED_RwbgMzfsry_sOHyzEobuHg==,1613175151.4862313191
+
+#EXTGRP:AFRICANS 
+#EXTINF:-1, AM YORUBA TV 
+http://212.224.98.204:2200/AFR-EX/Africa_Magic_Yoruba-dstv/index.m3u8?token=RED_xsKYpjFXfR2R9VmKZ1xGeQ==,1613074318.5541473799
+#EXTINF:-1 tvg-logo"http://files.rednetcontent.com/chlogo2/Africans/africamagichausa.png", AM HAUSA 
+http://212.224.98.204:2200/AFR-EX/Africa_Magic_Hausa-dstv/index.m3u8?token=RED_dE4bFIWcQXQdYkW0lGb2Xw==,1613134661.6245172503
+#EXTINF:-1 tvg-logo"http://files.rednetcontent.com/chlogo2/Africans/showcase.png", AM SHOWCASE
+http://212.224.98.204:2200/AFR-EX/Africa_Magic_Showcase_HD-dstv/index.m3u8?token=RED_dE4bFIWcQXQdYkW0lGb2Xw==,1613134661.6245172503
+#EXTINF:-1, AM EPIC 
+http://212.224.98.204:2200/AFR-EX/Africa_Magic_Epic-dstv/index.m3u8?token=RED_dE4bFIWcQXQdYkW0lGb2Xw==,1613134661.6245172503
+#EXTINF:-1, AM IGBO
+http://212.224.98.204:2200/AFR-EX/Africa_Magic_Igbo-dstv/index.m3u8?token=RED_dE4bFIWcQXQdYkW0lGb2Xw==,1613134661.6245172503
+#EXTINF:-1, NOLLYWOOD MOVIES
+http://212.224.98.204:2200/N-EX/AAF_Nollywood_Movies_channel-af/index.m3u8?token=RED_dE4bFIWcQXQdYkW0lGb2Xw==,1613134661.6245172503
+#EXTINF:-1, AREWA 24 
+http://212.224.98.204:2200/N-EX/RAF_Arewa_24_NG-af/index.m3u8?token=RED_xsKYpjFXfR2R9VmKZ1xGeQ==,1613074318.5541473799
+#EXTINF:-1, NOVELAS TV 
+http://212.224.98.204:2200//N-EX/AF_Novelastv_FR-af/index.m3u8?token=RED_xsKYpjFXfR2R9VmKZ1xGeQ==,1613074318.5541473799
+
+http://flusonic-15.platinum-tv.com:80/infosport/tracks-v1a1/mono.m3u8?token=test
+
+http://flusonic-15.platinum-tv.com:80/AUTOMOTO/tracks-v1a1/mono.m3u8?token=test
+
+#EXTGRP: BULGARIAN
+#EXTINF:-1 "https://epg.cdnrdn.com/NovaTV.bg-20210719.xml" group-title="Bulgarian" tvg-logo="http://files.rednetcontent.com/chlogo2/greek/ckat.png" tvg-id="1619, Nova TV   
+http://212.224.98.204:2200/EX/novatv-bul/index.m3u8?token=RED_QOngaeW9Nf_bd8ZvskC1mQ==,1636063193.8094774567
+#EXTINF:-1 "https://epg.cdnrdn.com/NovaTV.bg-20210719.xml"dvr":"disabled"language":"group-title="Bulgarian" tvg-logo="http://files.rednetcontent.com/chlogo/novatv-logo.png" tvg-id="2975, bTV Comedy   
+http://212.224.98.204:2200/EX/btvcomedy-bul/index.m3u8?token=RED_QOngaeW9Nf_bd8ZvskC1mQ==,1636063193.8094774567
+#EXTINF:-1 "https://epg.cdnrdn.com/bTVComedy.bg-20210719.xml"dvr":"disabled"language":"group-title="Bulgarian" tvg-logo="http://files.rednetcontent.com/chlogo/btv-comedy-2014-logo.png" tvg-id="254, bTV Cinema   
+http://212.224.98.204:2200/EX/btvcinema-bul/index.m3u8?token=RED_QOngaeW9Nf_bd8ZvskC1mQ==,1636063193.8094774567
+#EXTINF:-1 "https://epg.cdnrdn.com/-20210719.xml"dvr":"disabled"language":"group-title="Bulgarian" tvg-logo="http://files.rednetcontent.com/chlogo/BTV_Cinema.png" tvg-id="1804, bTV Action   
+http://212.224.98.204:2200/EX/btvaction-bul/index.m3u8?token=RED_QOngaeW9Nf_bd8ZvskC1mQ==,1636063193.8094774567
+#EXTINF:-1 "https://epg.cdnrdn.com/bTVCinema.bg-20210719.xml"dvr":"disabled"language":"group-title="Bulgarian" tvg-logo="http://files.rednetcontent.com/chlogo/Btv-action.png" tvg-id="14291,bTV Lady   
+http://212.224.98.204:2200/EX/btvlady-bul/index.m3u8?token=RED_QOngaeW9Nf_bd8ZvskC1mQ==,1636063193.8094774567
+#EXTINF:-1 "https://epg.cdnrdn.com/bTVLady.bg-20210719.xml"dvr":"disabled"language":"group-title="Bulgarian" tvg-logo="http://files.rednetcontent.com/chlogo2/greek/BTV_Lady_2016_logo.png" tvg-id="14293, Kino Nova   
+http://212.224.98.204:2200/EX/kinonova-bul/index.m3u8?token=RED_QOngaeW9Nf_bd8ZvskC1mQ==,1636063193.8094774567
+#EXTINF:-1 "https://epg.cdnrdn.com/KinoNova.bg-20210719.xml"dvr":"disabled"language":"group-title="Bulgarian" tvg-logo="http://files.rednetcontent.com/chlogo2/greek/kinonova.png" tvg-id="1802, Diema   
+http://212.224.98.204:2200/EX/diema-bul/index.m3u8?token=RED_QOngaeW9Nf_bd8ZvskC1mQ==,1636063193.8094774567
+#EXTINF:-1 "https://epg.cdnrdn.com/Diema.bg-20210719.xml"dvr":"disabled"language":"group-title="Bulgarian" tvg-logo="http://files.rednetcontent.com/chlogo/Diema.png" tvg-id="4399,Diema Family   
+http://212.224.98.204:2200/EX/diemafamily-bul/index.m3u8?token=RED_QOngaeW9Nf_bd8ZvskC1mQ==,1636063193.8094774567
+#EXTINF:-1 "https://epg.cdnrdn.com/DiemaFamily.bg-20210719.xml"dvr":"disabled"language":"group-title="Bulgarian" tvg-logo="http://files.rednetcontent.com/chlogo/Diema_Family.png" tvg-id="11403, TV +   
+http://212.224.98.204:2200/EX/tvplus-bul/index.m3u8?token=RED_QOngaeW9Nf_bd8ZvskC1mQ==,1636063193.8094774567
+#EXTINF:-1 "https://epg.cdnrdn.com/-20210719.xml"dvr":"disabled"language":"group-title="Bulgarian" tvg-logo="http://files.rednetcontent.com/chlogo/tv+.png" tvg-id="14289, Comedy +   
+http://212.224.98.204:2200/EX/comedyplus-bul/index.m3u8?token=RED_QOngaeW9Nf_bd8ZvskC1mQ==,1636063193.8094774567
+#EXTINF:-1 "https://epg.cdnrdn.com/-20210719.xml"dvr":"disabled"language":"group-title="Bulgarian" tvg-logo="http://files.rednetcontent.com/chlogo2/greek/comedy.png" tvg-id="14292,FOX   
+http://212.224.98.204:2200/EX/fox-bul/index.m3u8?token=RED_QOngaeW9Nf_bd8ZvskC1mQ==,1636063193.8094774567
+#EXTINF:-1 "https://epg.cdnrdn.com/-20210719.xml"dvr":"disabled"language":"group-title="Bulgarian" tvg-logo="http://files.rednetcontent.com/chlogo/fox_tv.png" tvg-id="18088, FOX Life   
+http://212.224.98.204:2200/EX/foxlife-bul/index.m3u8?token=RED_QOngaeW9Nf_bd8ZvskC1mQ==,1636063193.8094774567
+#EXTINF:-1 "https://epg.cdnrdn.com/-20210719.xml"dvr":"disabled"language":"group-title="Bulgarian" tvg-logo="http://files.rednetcontent.com/chlogo/fox_life.png" tvg-id="21860, Film Box Extra   
+http://212.224.98.204:2200/EX/filmboxextra-bul/index.m3u8?token=RED_QOngaeW9Nf_bd8ZvskC1mQ==,1636063193.8094774567
+#EXTINF:-1 "https://epg.cdnrdn.com/FilmBox.bg-20210719.xml"dvr":"disabled"language":"group-title="Bulgarian" tvg-logo="http://files.rednetcontent.com/chlogo2/polish/filmbox.png" tvg-id="14288, Action +   
+http://212.224.98.204:2200/EX/actionplus-bul/index.m3u8?token=RED_QOngaeW9Nf_bd8ZvskC1mQ==,1636063193.8094774567
+#EXTINF:-1 "https://epg.cdnrdn.com/-20210719.xml"dvr":"disabled"language":"group-title="Bulgarian" tvg-logo="http://files.rednetcontent.com/chlogo2/greek/top250_0134_action.png" tvg-id="1971, TV Evropa   
+http://212.224.98.204:2200/EX/tvevropa-bul/index.m3u8?token=RED_QOngaeW9Nf_bd8ZvskC1mQ==,1636063193.8094774567
+#EXTINF:-1 "https://epg.cdnrdn.com/TVEvropa.bg-20210719.xml"dvr":"disabled"language":"Bulgarian" :"Newstvg-logo="http://files.rednetcontent.com/chlogo/TV_Evropa.png" tvg-id="18089, TLC   
+http://212.224.98.204:2200/EX/tlc-bul/index.m3u8?token=RED_QOngaeW9Nf_bd8ZvskC1mQ==,1636063193.8094774567
+
