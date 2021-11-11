@@ -280,106 +280,6 @@ http://news.yellovideoplus.bj:8080/vod/_definst_/video/file/29301/I_THINK_WE_ARE
 #EXTINF:-1 tvg-logo="" group-title="",LE_REVE_DE_LINDSAY
 http://news.yellovideoplus.bj:8080/vod/_definst_/video/file/29303/LE_REVE_DE_LINDSAY.mp4/playlist.m3u8
 
-
-#EXTGRP: VIRGINIE
-#EXTINF:-1 tvg-logo="https://www.linkpicture.com/q/IMG_20210925_081528.jpg" group-title="VIRGINIE",VIRGINIE 1
-http://sharing.yellovideoplus.bj:8080/nimble/473253/f9fc8380e87cd07e.mp4/playlist.m3u8
-#EXTINF:-1 tvg-logo="https://www.linkpicture.com/q/IMG_20210925_081528.jpg" group-title="VIRGINIE",VIRGINIE 2
-http://sharing.yellovideoplus.bj:8080/nimble/473253/eb5a28c1decb43ba.mp4/playlist.m3u8
-#EXTINF:-1 tvg-logo="https://www.linkpicture.com/q/IMG_20210925_081528.jpg" group-title="VIRGINIE",VIRGINIE 3
-http://sharing.yellovideoplus.bj:8080/nimble/473253/dc99262c5cf274c8.mp4/playlist.m3u8
-#EXTINF:-1 tvg-logo="https://www.linkpicture.com/q/IMG_20210925_081528.jpg" group-title="VIRGINIE",VIRGINIE 4
-http://sharing.yellovideoplus.bj:8080/nimble/473253/2bae4df163fd1d94.mp4/playlist.m3u8
-#EXTINF:-1 tvg-logo="https://www.linkpicture.com/q/IMG_20210925_081528.jpg" group-title="VIRGINIE",VIRGINIE 5
-http://sharing.yellovideoplus.bj:8080/nimble/473253/1efadaf210e88968.mp4/playlist.m3u8
-#EXTINF:-1 tvg-logo="https://www.linkpicture.com/q/IMG_20210925_081528.jpg" group-title="VIRGINIE",VIRGINIE 6
-http://sharing.yellovideoplus.bj:8080/nimble/473253/44b7f67c6f4c05ed.mp4/playlist.m3u8 
-#EXTINF:-1 tvg-logo="https://www.linkpicture.com/q/IMG_20210925_081528.jpg" group-title="VIRGINIE",VIRGINIE 7
-http://sharing.yellovideoplus.bj:8080/nimble/473253/0e834960395089d5.mp4/playlist.m3u8
-#EXTINF:-1 tvg-logo="https://www.linkpicture.com/q/IMG_20210925_081528.jpg" group-title="VIRGINIE",VIRGINIE 8
-http://sharing.yellovideoplus.bj:8080/nimble/473253/de942288366b9c59.mp4/playlist.m3u8 
-#EXTINF:-1 tvg-logo="https://www.linkpicture.com/q/IMG_20210925_081528.jpg" group-title="VIRGINIE",VIRGINIE 9
-http://sharing.yellovideoplus.bj:8080/nimble/473253/5230e4cb1d455c8c.mp4/playlist.m3u8
-#EXTINF:-1 tvg-logo="https://www.linkpicture.com/q/IMG_20210925_081528.jpg" group-title="VIRGINIE",VIRGINIE 10_1
-http://sharing.yellovideoplus.bj:8080/nimble/473253/496f860c006ba16e.mp4/playlist.m3u8 
-#EXTINF:-1 tvg-logo="https://www.linkpicture.com/q/IMG_20210925_081528.jpg" group-title="VIRGINIE",VIRGINIE 10_2
-http://sharing.yellovideoplus.bj:8080/nimble/473253/43ccdb937701fec6.mp4/playlist.m3u8
-#EXTINF:-1 tvg-logo="https://www.linkpicture.com/q/IMG_20210925_081528.jpg" group-title="VIRGINIE",VIRGINIE 11
-http://sharing.yellovideoplus.bj:8080/nimble/473253/a0821aa143ce2573.mp4/playlist.m3u8
-#EXTINF:-1 tvg-logo="https://www.linkpicture.com/q/IMG_20210925_081528.jpg" group-title="VIRGINIE",VIRGINIE 12_1
-http://sharing.yellovideoplus.bj:8080/nimble/473253/50dfaabad4fc459e.mp4/playlist.m3u8 
-#EXTINF:-1 tvg-logo="https://www.linkpicture.com/q/IMG_20210925_081528.jpg" group-title="VIRGINIE",VIRGINIE 12_2
-http://sharing.yellovideoplus.bj:8080/nimble/473253/a6028b23dacf8834.mp4/playlist.m3u8
-#EXTINF:-1 tvg-logo="https://www.linkpicture.com/q/IMG_20210925_081528.jpg" group-title="VIRGINIE",VIRGINIE 14_1
-http://sharing.yellovideoplus.bj:8080/nimble/473253/1c449af20a305b3e.mp4/playlist.m3u8
-#EXTINF:-1 tvg-logo="https://www.linkpicture.com/q/IMG_20210925_081528.jpg" group-title="VIRGINIE",VIRGINIE 14_2
-http://sharing.yellovideoplus.bj:8080/nimble/473253/0c09c6327badd54e.mp4/playlist.m3u8 
-#EXTINF:-1 tvg-logo="https://www.linkpicture.com/q/IMG_20210925_081528.jpg" group-title="VIRGINIE",VIRGINIE 15
-http://sharing.yellovideoplus.bj:8080/nimble/473253/d17dce5e27b9cf0c.mp4/playlist.m3u8 
-#EXTINF:-1 tvg-logo="https://www.linkpicture.com/q/IMG_20210925_081528.jpg" group-title="VIRGINIE",VIRGINIE 16_1
-http://sharing.yellovideoplus.bj:8080/nimble/473253/6751d61f8b21fa24.mp4/playlist.m3u8 
-#EXTINF:-1 tvg-logo="https://www.linkpicture.com/q/IMG_20210925_081528.jpg" group-title="VIRGINIE",VIRGINIE 16_2
-http://sharing.yellovideoplus.bj:8080/nimble/473253/ae96cb1037f78c84.mp4/playlist.m3u8
-#EXTINF:-1 tvg-logo="https://www.linkpicture.com/q/IMG_20210925_081528.jpg" group-title="VIRGINIE",VIRGINIE 17
-http://sharing.yellovideoplus.bj:8080/nimble/473253/d4edf9914ca22dbd.mp4/playlist.m3u8 
-#EXTINF:-1 tvg-logo="https://www.linkpicture.com/q/IMG_20210925_081528.jpg" group-title="VIRGINIE",VIRGINIE 18
-http://sharing.yellovideoplus.bj:8080/nimble/473253/1d713599aaf675cb.mp4/playlist.m3u8
-#EXTINF:-1 tvg-logo="https://www.linkpicture.com/q/IMG_20210925_081528.jpg" group-title="VIRGINIE",VIRGINIE 19
-http://sharing.yellovideoplus.bj:8080/nimble/473253/b815433de1625f15.mp4/playlist.m3u8
-#EXTINF:-1 tvg-logo="https://www.linkpicture.com/q/IMG_20210925_081528.jpg" group-title="VIRGINIE",VIRGINIE 20
-http://sharing.yellovideoplus.bj:8080/nimble/473253/d3f3a1c92aa1f5d7.mp4/playlist.m3u8
-#EXTINF:-1 tvg-logo="https://www.linkpicture.com/q/IMG_20210925_081528.jpg" group-title="VIRGINIE",VIRGINIE 21
-http://sharing.yellovideoplus.bj:8080/nimble/473253/77f2eb9134a54731.mp4/playlist.m3u8
-#EXTINF:-1 tvg-logo="https://www.linkpicture.com/q/IMG_20210925_081528.jpg" group-title="VIRGINIE",VIRGINIE 22_1
-http://sharing.yellovideoplus.bj:8080/nimble/473253/b62e63ae32bb0aa1.mp4/playlist.m3u8
-#EXTINF:-1 tvg-logo="https://www.linkpicture.com/q/IMG_20210925_081528.jpg" group-title="VIRGINIE",VIRGINIE 22_2
-http://sharing.yellovideoplus.bj:8080/nimble/473253/91ec0c61c4e8eca4.mp4/playlist.m3u8
-#EXTINF:-1 tvg-logo="https://www.linkpicture.com/q/IMG_20210925_081528.jpg" group-title="VIRGINIE",VIRGINIE 23
-http://sharing.yellovideoplus.bj:8080/nimble/473253/bb9b3f1249c61fb3.mp4/playlist.m3u8
-#EXTINF:-1 tvg-logo="https://www.linkpicture.com/q/IMG_20210925_081528.jpg" group-title="VIRGINIE",VIRGINIE 24_1
-http://sharing.yellovideoplus.bj:8080/nimble/473253/2164089c591f006b.mp4/playlist.m3u8
-#EXTINF:-1 tvg-logo="https://www.linkpicture.com/q/IMG_20210925_081528.jpg" group-title="VIRGINIE",VIRGINIE 24_2
-http://sharing.yellovideoplus.bj:8080/nimble/473253/6a24d3e11c6f1de6.mp4/playlist.m3u8
-#EXTINF:-1 tvg-logo="https://www.linkpicture.com/q/IMG_20210925_081528.jpg" group-title="VIRGINIE",VIRGINIE 25_1
-http://sharing.yellovideoplus.bj:8080/nimble/473253/4070c1cc7045fb92.mp4/playlist.m3u8
-#EXTINF:-1 tvg-logo="https://www.linkpicture.com/q/IMG_20210925_081528.jpg" group-title="VIRGINIE",VIRGINIE 25_2
-http://sharing.yellovideoplus.bj:8080/nimble/473253/7a24e4fe253587ae.mp4/playlist.m3u8 
-#EXTINF:-1 tvg-logo="https://www.linkpicture.com/q/IMG_20210925_081528.jpg" group-title="VIRGINIE",VIRGINIE 26_1
-http://sharing.yellovideoplus.bj:8080/nimble/473253/c4b8255af9515cb9.mp4/playlist.m3u8
-#EXTINF:-1 tvg-logo="https://www.linkpicture.com/q/IMG_20210925_081528.jpg" group-title="VIRGINIE",VIRGINIE 26_2
-http://sharing.yellovideoplus.bj:8080/nimble/473253/470715c60e6a6d8f.mp4/playlist.m3u8
-#EXTINF:-1 tvg-logo="https://www.linkpicture.com/q/IMG_20210925_081528.jpg" group-title="VIRGINIE",VIRGINIE 27_1
-http://sharing.yellovideoplus.bj:8080/nimble/473253/100848f990303aa5.mp4/playlist.m3u8
-#EXTINF:-1 tvg-logo="https://www.linkpicture.com/q/IMG_20210925_081528.jpg" group-title="VIRGINIE",VIRGINIE 27_2
-http://sharing.yellovideoplus.bj:8080/nimble/473253/f8a6b866113ce699.mp4/playlist.m3u8
-#EXTINF:-1 tvg-logo="https://www.linkpicture.com/q/IMG_20210925_081528.jpg" group-title="VIRGINIE",VIRGINIE 28_1
-http://sharing.yellovideoplus.bj:8080/nimble/473253/5ededfccc1b4b4f0.mp4/playlist.m3u8
-#EXTINF:-1 tvg-logo="https://www.linkpicture.com/q/IMG_20210925_081528.jpg" group-title="VIRGINIE",VIRGINIE 28_2
-http://sharing.yellovideoplus.bj:8080/nimble/473253/0836fcd49ff87f7f.mp4/playlist.m3u8
-#EXTINF:-1 tvg-logo="https://www.linkpicture.com/q/IMG_20210925_081528.jpg" group-title="VIRGINIE",VIRGINIE 29_1
-http://sharing.yellovideoplus.bj:8080/nimble/473253/4b136033a66792bd.mp4/playlist.m3u8 
-#EXTINF:-1 tvg-logo="https://www.linkpicture.com/q/IMG_20210925_081528.jpg" group-title="VIRGINIE",VIRGINIE 29_2
-http://sharing.yellovideoplus.bj:8080/nimble/473253/d591cab7f0409535.mp4/playlist.m3u8 
-#EXTINF:-1 tvg-logo="https://www.linkpicture.com/q/IMG_20210925_081528.jpg" group-title="VIRGINIE",VIRGINIE 30_1
-http://sharing.yellovideoplus.bj:8080/nimble/473253/b0c0a76dede1f424.mp4/playlist.m3u8
-#EXTINF:-1 tvg-logo="https://www.linkpicture.com/q/IMG_20210925_081528.jpg" group-title="VIRGINIE",VIRGINIE 30_2
-http://sharing.yellovideoplus.bj:8080/nimble/473253/732b10aa340004f6.mp4/playlist.m3u8
-
-#EXTGRP : TYRAN
-#EXTINF:-1 tvg-logo="https://fr.web.img6.acsta.net/pictures/16/06/14/10/49/088159.jpg" group-title="TYRANT", TYRANTS01E01
-http://sharing.yellovideoplus.bj:8080/nimble/556338/355e66db3036d071.mp4/playlist.m3u8
-#EXTINF:-1 tvg-logo="https://fr.web.img6.acsta.net/pictures/16/06/14/10/49/088159.jpg" group-title="TYRANT", TYRANTS01E02
-http://sharing.yellovideoplus.bj:8080/nimble/556338/103f44b7faaeef96.mp4/playlist.m3u8
-#EXTINF:-1 tvg-logo="https://fr.web.img6.acsta.net/pictures/16/06/14/10/49/088159.jpg" group-title="TYRANT", TYRANTS01E03
-http://sharing.yellovideoplus.bj:8080/nimble/556338/747a9e290579c3c5.mp4/playlist.m3u8
-#EXTINF:-1 tvg-logo="https://fr.web.img6.acsta.net/pictures/16/06/14/10/49/088159.jpg" group-title="TYRANT", TYRANTS01E04
-http://sharing.yellovideoplus.bj:8080/nimble/556338/00d54ec28f65e28c.mp4/playlist.m3u8
-#EXTINF:-1 tvg-logo="https://fr.web.img6.acsta.net/pictures/16/06/14/10/49/088159.jpg" group-title="TYRANT", TYRANTS01E05
-http://sharing.yellovideoplus.bj:8080/nimble/556338/c25f57495d2086ff.mp4/playlist.m3u8
-#EXTINF:-1 tvg-logo="https://fr.web.img6.acsta.net/pictures/16/06/14/10/49/088159.jpg" group-title="TYRANT", TYRANTS01E06
-http://sharing.yellovideoplus.bj:8080/nimble/556338/b440ad9a2f39d4a4.mp4/playlist.m3u8
-#EXTINF:-1 tvg-logo="https://fr.web.img6.acsta.net/pictures/16/06/14/10/49/088159.jpg" group-title="TYRANT", TYRANTS01E07
-http://sharing.yellovideoplus.bj:8080/nimble/556338/44bdc66dfbde9255.mp4/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://www.linkpicture.com/q/IMG_20210823_084326.jpg" group-title="",TEMPS ÉGARÉS
 http://news.yellovideoplus.bj:8080/vod/_definst_/video/file/20671/LeTempsEgare.mp4/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://www.linkpicture.com/q/IMG_20210823_084123.jpg" group-title="",AMOUR C'EST COMPLIQUÉ 
@@ -530,7 +430,7 @@ http://news.yellovideoplus.bj:8080/vod/_definst_/video/file/29274/MaraUneFemmeUn
 #EXTINF:-1 tvg-logo="https://www.linkpicture.com/q/IMG_20210816_213343.jpg" group-title="NOVELAS",MARA FU 35
 http://news.yellovideoplus.bj:8080/vod/_definst_/video/file/29275/MaraUneFemmeUnique_Ep35.mp4/chunk.m3u8?nimblesessionid=27690337
 #EXTINF:-1 tvg-logo="https://www.linkpicture.com/q/IMG_20210816_213343.jpg" group-title="NOVELAS",MARA FU 36
-http://news.yellovideoplus.bj:8080/vod/_definst_/video/file/29276/MaraUneFemmeUnique_Ep36.mp4/chunk.m3u8?nimblesessionid=27690337
+http://news.yellovideoplus.bj:8080/vod/_definst_/video/file/29276/MaraUneFemmeUnique_Ep36.mp4/chunk.m3u8
 #EXTINF:-1 tvg-logo="https://www.linkpicture.com/q/IMG_20210816_213343.jpg" group-title="NOVELAS",MARA FU 37
 http://news.yellovideoplus.bj:8080/vod/_definst_/video/file/29277/MaraUneFemmeUnique_Ep37.mp4/chunk.m3u8?nimblesessionid=27690337
 #EXTINF:-1 tvg-logo="https://www.linkpicture.com/q/IMG_20210816_213343.jpg" group-title="NOVELAS",MARA FU 38
@@ -1168,6 +1068,106 @@ http://news.yellovideoplus.bj:8080/vod/_definst_/video/file/27707/RackMultipart2
 http://news.yellovideoplus.bj:8080/vod/_definst_/video/file/27696/RackMultipart20210818-7969-1exwed3.mp4/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://www.linkpicture.com/q/Screenshot_20210821_020427.jpg" group-title="NOVELAS",TM 28
 http://news.yellovideoplus.bj:8080/vod/_definst_/video/file/27691/RackMultipart20210818-7879-fl7z8x.mp4/playlist.m3u8
+
+#EXTGRP: VIRGINIE
+#EXTINF:-1 tvg-logo="https://www.linkpicture.com/q/IMG_20210925_081528.jpg" group-title="VIRGINIE",VIRGINIE 1
+http://sharing.yellovideoplus.bj:8080/nimble/473253/f9fc8380e87cd07e.mp4/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://www.linkpicture.com/q/IMG_20210925_081528.jpg" group-title="VIRGINIE",VIRGINIE 2
+http://sharing.yellovideoplus.bj:8080/nimble/473253/eb5a28c1decb43ba.mp4/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://www.linkpicture.com/q/IMG_20210925_081528.jpg" group-title="VIRGINIE",VIRGINIE 3
+http://sharing.yellovideoplus.bj:8080/nimble/473253/dc99262c5cf274c8.mp4/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://www.linkpicture.com/q/IMG_20210925_081528.jpg" group-title="VIRGINIE",VIRGINIE 4
+http://sharing.yellovideoplus.bj:8080/nimble/473253/2bae4df163fd1d94.mp4/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://www.linkpicture.com/q/IMG_20210925_081528.jpg" group-title="VIRGINIE",VIRGINIE 5
+http://sharing.yellovideoplus.bj:8080/nimble/473253/1efadaf210e88968.mp4/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://www.linkpicture.com/q/IMG_20210925_081528.jpg" group-title="VIRGINIE",VIRGINIE 6
+http://sharing.yellovideoplus.bj:8080/nimble/473253/44b7f67c6f4c05ed.mp4/playlist.m3u8 
+#EXTINF:-1 tvg-logo="https://www.linkpicture.com/q/IMG_20210925_081528.jpg" group-title="VIRGINIE",VIRGINIE 7
+http://sharing.yellovideoplus.bj:8080/nimble/473253/0e834960395089d5.mp4/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://www.linkpicture.com/q/IMG_20210925_081528.jpg" group-title="VIRGINIE",VIRGINIE 8
+http://sharing.yellovideoplus.bj:8080/nimble/473253/de942288366b9c59.mp4/playlist.m3u8 
+#EXTINF:-1 tvg-logo="https://www.linkpicture.com/q/IMG_20210925_081528.jpg" group-title="VIRGINIE",VIRGINIE 9
+http://sharing.yellovideoplus.bj:8080/nimble/473253/5230e4cb1d455c8c.mp4/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://www.linkpicture.com/q/IMG_20210925_081528.jpg" group-title="VIRGINIE",VIRGINIE 10_1
+http://sharing.yellovideoplus.bj:8080/nimble/473253/496f860c006ba16e.mp4/playlist.m3u8 
+#EXTINF:-1 tvg-logo="https://www.linkpicture.com/q/IMG_20210925_081528.jpg" group-title="VIRGINIE",VIRGINIE 10_2
+http://sharing.yellovideoplus.bj:8080/nimble/473253/43ccdb937701fec6.mp4/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://www.linkpicture.com/q/IMG_20210925_081528.jpg" group-title="VIRGINIE",VIRGINIE 11
+http://sharing.yellovideoplus.bj:8080/nimble/473253/a0821aa143ce2573.mp4/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://www.linkpicture.com/q/IMG_20210925_081528.jpg" group-title="VIRGINIE",VIRGINIE 12_1
+http://sharing.yellovideoplus.bj:8080/nimble/473253/50dfaabad4fc459e.mp4/playlist.m3u8 
+#EXTINF:-1 tvg-logo="https://www.linkpicture.com/q/IMG_20210925_081528.jpg" group-title="VIRGINIE",VIRGINIE 12_2
+http://sharing.yellovideoplus.bj:8080/nimble/473253/a6028b23dacf8834.mp4/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://www.linkpicture.com/q/IMG_20210925_081528.jpg" group-title="VIRGINIE",VIRGINIE 14_1
+http://sharing.yellovideoplus.bj:8080/nimble/473253/1c449af20a305b3e.mp4/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://www.linkpicture.com/q/IMG_20210925_081528.jpg" group-title="VIRGINIE",VIRGINIE 14_2
+http://sharing.yellovideoplus.bj:8080/nimble/473253/0c09c6327badd54e.mp4/playlist.m3u8 
+#EXTINF:-1 tvg-logo="https://www.linkpicture.com/q/IMG_20210925_081528.jpg" group-title="VIRGINIE",VIRGINIE 15
+http://sharing.yellovideoplus.bj:8080/nimble/473253/d17dce5e27b9cf0c.mp4/playlist.m3u8 
+#EXTINF:-1 tvg-logo="https://www.linkpicture.com/q/IMG_20210925_081528.jpg" group-title="VIRGINIE",VIRGINIE 16_1
+http://sharing.yellovideoplus.bj:8080/nimble/473253/6751d61f8b21fa24.mp4/playlist.m3u8 
+#EXTINF:-1 tvg-logo="https://www.linkpicture.com/q/IMG_20210925_081528.jpg" group-title="VIRGINIE",VIRGINIE 16_2
+http://sharing.yellovideoplus.bj:8080/nimble/473253/ae96cb1037f78c84.mp4/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://www.linkpicture.com/q/IMG_20210925_081528.jpg" group-title="VIRGINIE",VIRGINIE 17
+http://sharing.yellovideoplus.bj:8080/nimble/473253/d4edf9914ca22dbd.mp4/playlist.m3u8 
+#EXTINF:-1 tvg-logo="https://www.linkpicture.com/q/IMG_20210925_081528.jpg" group-title="VIRGINIE",VIRGINIE 18
+http://sharing.yellovideoplus.bj:8080/nimble/473253/1d713599aaf675cb.mp4/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://www.linkpicture.com/q/IMG_20210925_081528.jpg" group-title="VIRGINIE",VIRGINIE 19
+http://sharing.yellovideoplus.bj:8080/nimble/473253/b815433de1625f15.mp4/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://www.linkpicture.com/q/IMG_20210925_081528.jpg" group-title="VIRGINIE",VIRGINIE 20
+http://sharing.yellovideoplus.bj:8080/nimble/473253/d3f3a1c92aa1f5d7.mp4/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://www.linkpicture.com/q/IMG_20210925_081528.jpg" group-title="VIRGINIE",VIRGINIE 21
+http://sharing.yellovideoplus.bj:8080/nimble/473253/77f2eb9134a54731.mp4/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://www.linkpicture.com/q/IMG_20210925_081528.jpg" group-title="VIRGINIE",VIRGINIE 22_1
+http://sharing.yellovideoplus.bj:8080/nimble/473253/b62e63ae32bb0aa1.mp4/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://www.linkpicture.com/q/IMG_20210925_081528.jpg" group-title="VIRGINIE",VIRGINIE 22_2
+http://sharing.yellovideoplus.bj:8080/nimble/473253/91ec0c61c4e8eca4.mp4/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://www.linkpicture.com/q/IMG_20210925_081528.jpg" group-title="VIRGINIE",VIRGINIE 23
+http://sharing.yellovideoplus.bj:8080/nimble/473253/bb9b3f1249c61fb3.mp4/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://www.linkpicture.com/q/IMG_20210925_081528.jpg" group-title="VIRGINIE",VIRGINIE 24_1
+http://sharing.yellovideoplus.bj:8080/nimble/473253/2164089c591f006b.mp4/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://www.linkpicture.com/q/IMG_20210925_081528.jpg" group-title="VIRGINIE",VIRGINIE 24_2
+http://sharing.yellovideoplus.bj:8080/nimble/473253/6a24d3e11c6f1de6.mp4/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://www.linkpicture.com/q/IMG_20210925_081528.jpg" group-title="VIRGINIE",VIRGINIE 25_1
+http://sharing.yellovideoplus.bj:8080/nimble/473253/4070c1cc7045fb92.mp4/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://www.linkpicture.com/q/IMG_20210925_081528.jpg" group-title="VIRGINIE",VIRGINIE 25_2
+http://sharing.yellovideoplus.bj:8080/nimble/473253/7a24e4fe253587ae.mp4/playlist.m3u8 
+#EXTINF:-1 tvg-logo="https://www.linkpicture.com/q/IMG_20210925_081528.jpg" group-title="VIRGINIE",VIRGINIE 26_1
+http://sharing.yellovideoplus.bj:8080/nimble/473253/c4b8255af9515cb9.mp4/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://www.linkpicture.com/q/IMG_20210925_081528.jpg" group-title="VIRGINIE",VIRGINIE 26_2
+http://sharing.yellovideoplus.bj:8080/nimble/473253/470715c60e6a6d8f.mp4/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://www.linkpicture.com/q/IMG_20210925_081528.jpg" group-title="VIRGINIE",VIRGINIE 27_1
+http://sharing.yellovideoplus.bj:8080/nimble/473253/100848f990303aa5.mp4/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://www.linkpicture.com/q/IMG_20210925_081528.jpg" group-title="VIRGINIE",VIRGINIE 27_2
+http://sharing.yellovideoplus.bj:8080/nimble/473253/f8a6b866113ce699.mp4/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://www.linkpicture.com/q/IMG_20210925_081528.jpg" group-title="VIRGINIE",VIRGINIE 28_1
+http://sharing.yellovideoplus.bj:8080/nimble/473253/5ededfccc1b4b4f0.mp4/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://www.linkpicture.com/q/IMG_20210925_081528.jpg" group-title="VIRGINIE",VIRGINIE 28_2
+http://sharing.yellovideoplus.bj:8080/nimble/473253/0836fcd49ff87f7f.mp4/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://www.linkpicture.com/q/IMG_20210925_081528.jpg" group-title="VIRGINIE",VIRGINIE 29_1
+http://sharing.yellovideoplus.bj:8080/nimble/473253/4b136033a66792bd.mp4/playlist.m3u8 
+#EXTINF:-1 tvg-logo="https://www.linkpicture.com/q/IMG_20210925_081528.jpg" group-title="VIRGINIE",VIRGINIE 29_2
+http://sharing.yellovideoplus.bj:8080/nimble/473253/d591cab7f0409535.mp4/playlist.m3u8 
+#EXTINF:-1 tvg-logo="https://www.linkpicture.com/q/IMG_20210925_081528.jpg" group-title="VIRGINIE",VIRGINIE 30_1
+http://sharing.yellovideoplus.bj:8080/nimble/473253/b0c0a76dede1f424.mp4/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://www.linkpicture.com/q/IMG_20210925_081528.jpg" group-title="VIRGINIE",VIRGINIE 30_2
+http://sharing.yellovideoplus.bj:8080/nimble/473253/732b10aa340004f6.mp4/playlist.m3u8
+
+#EXTGRP : TYRAN
+#EXTINF:-1 tvg-logo="https://fr.web.img6.acsta.net/pictures/16/06/14/10/49/088159.jpg" group-title="TYRANT", TYRANTS01E01
+http://sharing.yellovideoplus.bj:8080/nimble/556338/355e66db3036d071.mp4/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://fr.web.img6.acsta.net/pictures/16/06/14/10/49/088159.jpg" group-title="TYRANT", TYRANTS01E02
+http://sharing.yellovideoplus.bj:8080/nimble/556338/103f44b7faaeef96.mp4/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://fr.web.img6.acsta.net/pictures/16/06/14/10/49/088159.jpg" group-title="TYRANT", TYRANTS01E03
+http://sharing.yellovideoplus.bj:8080/nimble/556338/747a9e290579c3c5.mp4/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://fr.web.img6.acsta.net/pictures/16/06/14/10/49/088159.jpg" group-title="TYRANT", TYRANTS01E04
+http://sharing.yellovideoplus.bj:8080/nimble/556338/00d54ec28f65e28c.mp4/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://fr.web.img6.acsta.net/pictures/16/06/14/10/49/088159.jpg" group-title="TYRANT", TYRANTS01E05
+http://sharing.yellovideoplus.bj:8080/nimble/556338/c25f57495d2086ff.mp4/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://fr.web.img6.acsta.net/pictures/16/06/14/10/49/088159.jpg" group-title="TYRANT", TYRANTS01E06
+http://sharing.yellovideoplus.bj:8080/nimble/556338/b440ad9a2f39d4a4.mp4/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://fr.web.img6.acsta.net/pictures/16/06/14/10/49/088159.jpg" group-title="TYRANT", TYRANTS01E07
+http://sharing.yellovideoplus.bj:8080/nimble/556338/44bdc66dfbde9255.mp4/playlist.m3u8
 
 #EXTGRP : PARLEMENT DU RIRE
 #EXTINF:-1 tvg-logo="https://www.linkpicture.com/q/IMG_20210824_185220.jpg" group-title="PARLEMENT DU RIRE",RIRE 1
