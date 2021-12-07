@@ -1,6 +1,6 @@
 #EXTGRP: GAZAPA
 #EXTINF:-1 tvg-logo="https://www.linkpicture.com/q/Screenshot_20211118_190816.jpg" group-title="",GAZAPA 1
-http://news.yellovideoplus.bj:8080/vod/_definst_/video/file/30585/Episode_.mp4/playlist.m3u8
+http://news.yellovideoplus.bj:8080/vod/_definst_/video/file/30585/Episode_1.mp4/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://www.linkpicture.com/q/Screenshot_20211118_190816.jpg" group-title="",GAZAPA 2
 http://news.yellovideoplus.bj:8080/vod/_definst_/video/file/30586/Episode_2.mp4/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://www.linkpicture.com/q/Screenshot_20211118_190816.jpg" group-title="",GAZAPA 3
