@@ -1,3 +1,43 @@
+#EXTGRP: FILMS EUROPEEN
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/7/75/Netflix_icon.svg/2048px-Netflix_icon.svg.png" group-title="FILMS EUROPEEN", Hell
+http://vod.yellovideoplus.bj:8080/vod/_definst_/video/file/31173/VirusCannibalHellOfTheLiving.mp4/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/7/75/Netflix_icon.svg/2048px-Netflix_icon.svg.png" group-title="FILMS EUROPEEN", DETECTIVE K
+http://vod.yellovideoplus.bj:8080/vod/_definst_/video/file/31168/DetectiveK.mp4/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/7/75/Netflix_icon.svg/2048px-Netflix_icon.svg.png" group-title="FILMS EUROPEEN", CONFUCIUS
+http://vod.yellovideoplus.bj:8080/vod/_definst_/video/file/31167/Confucius.mp4/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/7/75/Netflix_icon.svg/2048px-Netflix_icon.svg.png" group-title="FILMS EUROPEEN", Colour loyalty
+http://vod.yellovideoplus.bj:8080/vod/_definst_/video/file/31166/ColourOfTheLoyalty.mp4/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/7/75/Netflix_icon.svg/2048px-Netflix_icon.svg.png" group-title="FILMS EUROPEEN", CattleCall
+http://vod.yellovideoplus.bj:8080/vod/_definst_/video/file/31165/CattleCall.mp4/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/7/75/Netflix_icon.svg/2048px-Netflix_icon.svg.png" group-title="FILMS EUROPEEN", AlmightyThor
+http://vod.yellovideoplus.bj:8080/vod/_definst_/video/file/31163/AlmightyThor.mp4/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/7/75/Netflix_icon.svg/2048px-Netflix_icon.svg.png" group-title="FILMS EUROPEEN", 256
+http://vod.yellovideoplus.bj:8080/vod/_definst_/video/file/30808/RackMultipart20211123-32738-10nnj9g.mp4/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/7/75/Netflix_icon.svg/2048px-Netflix_icon.svg.png" group-title="FILMS EUROPEEN", Madrow
+http://vod.yellovideoplus.bj:8080/vod/_definst_/video/file/29657/PROGRAM-STORE_MADTOW.mp4/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/7/75/Netflix_icon.svg/2048px-Netflix_icon.svg.png" group-title="FILMS EUROPEEN", MEGAPIRANHA
+http://vod.yellovideoplus.bj:8080/vod/_definst_/video/file/31186/MegaPiranha.mp4/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/7/75/Netflix_icon.svg/2048px-Netflix_icon.svg.png" group-title="FILMS EUROPEEN", HORRIBLE
+http://vod.yellovideoplus.bj:8080/vod/_definst_/video/file/31182/Horrible.mp4/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/7/75/Netflix_icon.svg/2048px-Netflix_icon.svg.png" group-title="FILMS EUROPEEN", ECOUTES 
+http://vod.yellovideoplus.bj:8080/vod/_definst_/video/file/31181/EcoutesNoctures.mp4/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/7/75/Netflix_icon.svg/2048px-Netflix_icon.svg.png" group-title="FILMS EUROPEEN", 2 Loustcs
+http://vod.yellovideoplus.bj:8080/vod/_definst_/video/file/31178/DeuxLousticsEnBordee.mp4/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/7/75/Netflix_icon.svg/2048px-Netflix_icon.svg.png" group-title="FILMS EUROPEEN", DeathBell
+http://vod.yellovideoplus.bj:8080/vod/_definst_/video/file/31175/DeathBell1.mp4/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/7/75/Netflix_icon.svg/2048px-Netflix_icon.svg.png" group-title="FILMS EUROPEEN", Costarican
+http://vod.yellovideoplus.bj:8080/vod/_definst_/video/file/31174/CostaricanSummer.mp4/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/7/75/Netflix_icon.svg/2048px-Netflix_icon.svg.png" group-title="FILMS EUROPEEN", MULAN
+http://vod.yellovideoplus.bj:8080/vod/_definst_/video/file/31234/Mulan.mp4/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/7/75/Netflix_icon.svg/2048px-Netflix_icon.svg.png" group-title="FILMS EUROPEEN", FELIX
+http://vod.yellovideoplus.bj:8080/vod/_definst_/video/file/31230/FelixErCompagnie.mp4/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/7/75/Netflix_icon.svg/2048px-Netflix_icon.svg.png" group-title="FILMS EUROPEEN", Juste Dalchimie
+http://vod.yellovideoplus.bj:8080/vod/_definst_/video/file/31232/JusteUneDalchimie.mp4/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/7/75/Netflix_icon.svg/2048px-Netflix_icon.svg.png" group-title="FILMS EUROPEEN", Ecstasy
+http://vod.yellovideoplus.bj:8080/vod/_definst_/video/file/31229/Ecstasy.mp4/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/7/75/Netflix_icon.svg/2048px-Netflix_icon.svg.png" group-title="FILMS EUROPEEN", Dragon
+http://vod.yellovideoplus.bj:8080/vod/_definst_/video/file/31228/Dragonsword.mp4/playlist.m3u8
+
 #EXTGRP: GAZAPA
 #EXTINF:-1 tvg-logo="https://www.linkpicture.com/q/Screenshot_20211118_190816.jpg" group-title="",GAZAPA 1
 http://news.yellovideoplus.bj:8080/vod/_definst_/video/file/30585/Episode_1.mp4/playlist.m3u8
