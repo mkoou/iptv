@@ -1,24 +1,24 @@
 #EXTGRP: FILMS EUROPEEN
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/7/75/Netflix_icon.svg/2048px-Netflix_icon.svg.png" group-title="FILMS EUROPEEN",Senior skip
-http://news.yellovideoplus.bj:8080/vod/_definst_/video/file/31213/SeniorSkipDay.mp4/manifest.mpd
+http://news.yellovideoplus.bj:8080/vod/_definst_/video/file/31213/SeniorSkipDay.mp4/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/7/75/Netflix_icon.svg/2048px-Netflix_icon.svg.png" group-title="FILMS EUROPEEN",16Decembre
-http://news.yellovideoplus.bj:8080/vod/_definst_/video/file/31220/1612.mp4/manifest.mpd
+http://news.yellovideoplus.bj:8080/vod/_definst_/video/file/31220/1612.mp4/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/7/75/Netflix_icon.svg/2048px-Netflix_icon.svg.png" group-title="FILMS EUROPEEN",Ninja Hottori
-http://news.yellovideoplus.bj:8080/vod/_definst_/video/file/31215/TheLengendOfNinjaHattori.mp4/manifest.mpd
+http://news.yellovideoplus.bj:8080/vod/_definst_/video/file/31215/TheLengendOfNinjaHattori.mp4/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/7/75/Netflix_icon.svg/2048px-Netflix_icon.svg.png" group-title="FILMS EUROPEEN",Red Eye
-http://news.yellovideoplus.bj:8080/vod/_definst_/video/file/31212/RedEye.mp4/manifest.mpd
+http://news.yellovideoplus.bj:8080/vod/_definst_/video/file/31212/RedEye.mp4/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/7/75/Netflix_icon.svg/2048px-Netflix_icon.svg.png" group-title="FILMS EUROPEEN",Rabid
-http://news.yellovideoplus.bj:8080/vod/_definst_/video/file/31211/Rabid.mp4/manifest.mpd
+http://news.yellovideoplus.bj:8080/vod/_definst_/video/file/31211/Rabid.mp4/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/7/75/Netflix_icon.svg/2048px-Netflix_icon.svg.png" group-title="FILMS EUROPEEN",Norwegian ninja
-http://news.yellovideoplus.bj:8080/vod/_definst_/video/file/31208/NorwegianNinja.mp4/manifest.mpd
+http://news.yellovideoplus.bj:8080/vod/_definst_/video/file/31208/NorwegianNinja.mp4/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/7/75/Netflix_icon.svg/2048px-Netflix_icon.svg.png" group-title="FILMS EUROPEEN",Matchbox
-http://news.yellovideoplus.bj:8080/vod/_definst_/video/file/31209/OperationMatchbox.mp4/manifest.mpd
+http://news.yellovideoplus.bj:8080/vod/_definst_/video/file/31209/OperationMatchbox.mp4/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/7/75/Netflix_icon.svg/2048px-Netflix_icon.svg.png" group-title="FILMS EUROPEEN",Mort vivant
-http://news.yellovideoplus.bj:8080/vod/_definst_/video/file/31185/LaRevancheDesMortesVivantes.mp4/manifest.mpd
+http://news.yellovideoplus.bj:8080/vod/_definst_/video/file/31185/LaRevancheDesMortesVivantes.mp4/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/7/75/Netflix_icon.svg/2048px-Netflix_icon.svg.png" group-title="FILMS EUROPEEN",Mega Phyton
-http://news.yellovideoplus.bj:8080/vod/_definst_/video/file/31187/MegaPython.mp4/manifest.mpd
+http://news.yellovideoplus.bj:8080/vod/_definst_/video/file/31187/MegaPython.mp4/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/7/75/Netflix_icon.svg/2048px-Netflix_icon.svg.png" group-title="FILMS EUROPEEN",filmbox
-http://news.yellovideoplus.bj:8080/vod/_definst_/video/file/31438/RackMultipart20211214-28956-6yd8p1.mp4/manifest.mpd
+http://news.yellovideoplus.bj:8080/vod/_definst_/video/file/31438/RackMultipart20211214-28956-6yd8p1.mp4/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/7/75/Netflix_icon.svg/2048px-Netflix_icon.svg.png" group-title="FILMS EUROPEEN", Hell
 http://news.yellovideoplus.bj:8080/vod/_definst_/video/file/31173/VirusCannibalHellOfTheLiving.mp4/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/7/75/Netflix_icon.svg/2048px-Netflix_icon.svg.png" group-title="FILMS EUROPEEN", DETECTIVE K
