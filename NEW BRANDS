@@ -1,4 +1,6 @@
 #EXTGRP: FILMS EUROPEEN
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/7/75/Netflix_icon.svg/2048px-Netflix_icon.svg.png" group-title="FILMS EUROPEEN",Machine girls
+http://news.yellovideoplus.bj:8080/vod/_definst_/video/file/31170/MachineGirl.mp4/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/7/75/Netflix_icon.svg/2048px-Netflix_icon.svg.png" group-title="FILMS EUROPEEN",Senior skip
 http://news.yellovideoplus.bj:8080/vod/_definst_/video/file/31213/SeniorSkipDay.mp4/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/7/75/Netflix_icon.svg/2048px-Netflix_icon.svg.png" group-title="FILMS EUROPEEN",16Decembre
