@@ -53,21 +53,21 @@ http://news.yellovideoplus.bj:8080/vod/_definst_/video/file/31195/MensongesEp010
 
 #EXTGRP: FILMS EUROPEEN
 #EXTINF:-1 tvg-logo="https://www.pngitem.com/pimgs/m/104-1041504_n-netflix-logo-netflix-logo-png-transparent-png.png" group-title="FILMS",BodyGarde
-http://vod.yellovideoplus.bj:8080/vod/_definst_/video/file/31164/Bodyguard.mp4/playlist.m3u8
+http://news.yellovideoplus.bj:8080/vod/_definst_/video/file/31164/Bodyguard.mp4/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://www.pngitem.com/pimgs/m/104-1041504_n-netflix-logo-netflix-logo-png-transparent-png.png" group-title="FILMS",Tokyo Police
-http://vod.yellovideoplus.bj:8080/vod/_definst_/video/file/31172/TokyoGorePolice.mp4/playlist.m3u8
+http://news.yellovideoplus.bj:8080/vod/_definst_/video/file/31172/TokyoGorePolice.mp4/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://www.pngitem.com/pimgs/m/104-1041504_n-netflix-logo-netflix-logo-png-transparent-png.png" group-title="FILMS",DeathBell2
-http://vod.yellovideoplus.bj:8080/vod/_definst_/video/file/31176/DeathBell2.mp4/playlist.m3u8
+http://news.yellovideoplus.bj:8080/vod/_definst_/video/file/31176/DeathBell2.mp4/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://www.pngitem.com/pimgs/m/104-1041504_n-netflix-logo-netflix-logo-png-transparent-png.png" group-title="FILMS",DR DRACULA
-http://vod.yellovideoplus.bj:8080/vod/_definst_/video/file/31180/DrDracula.mp4/playlist.m3u8
+http://news.yellovideoplus.bj:8080/vod/_definst_/video/file/31180/DrDracula.mp4/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://www.pngitem.com/pimgs/m/104-1041504_n-netflix-logo-netflix-logo-png-transparent-png.png" group-title="FILMS",JESUS
-http://vod.yellovideoplus.bj:8080/vod/_definst_/video/file/31183/Jesus.mp4/playlist.m3u8
+http://news.yellovideoplus.bj:8080/vod/_definst_/video/file/31183/Jesus.mp4/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://www.pngitem.com/pimgs/m/104-1041504_n-netflix-logo-netflix-logo-png-transparent-png.png" group-title="FILMS",VAMPIRE
-http://vod.yellovideoplus.bj:8080/vod/_definst_/video/file/31216/VampireGirlvsFrankenstein.mp4/playlist.m3u8
+http://news.yellovideoplus.bj:8080/vod/_definst_/video/file/31216/VampireGirlvsFrankenstein.mp4/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://www.pngitem.com/pimgs/m/104-1041504_n-netflix-logo-netflix-logo-png-transparent-png.png" group-title="https://www.pngitem.com/pimgs/m/104-1041504_n-netflix-logo-netflix-logo-png-transparent-png.png",YAKUZA
-http://vod.yellovideoplus.bj:8080/vod/_definst_/video/file/31217/YakuzaOrdreDuDragon.mp4/playlist.m3u8
+http://news.yellovideoplus.bj:8080/vod/_definst_/video/file/31217/YakuzaOrdreDuDragon.mp4/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://www.pngitem.com/pimgs/m/104-1041504_n-netflix-logo-netflix-logo-png-transparent-png.png" group-title="FILMS",ZOMBIE APOCALYPSE
-http://vod.yellovideoplus.bj:8080/vod/_definst_/video/file/31218/ZombieApocalyse.mp4/playlist.m3u8
+http://news.yellovideoplus.bj:8080/vod/_definst_/video/file/31218/ZombieApocalyse.mp4/playlist.m3u8
 
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/7/75/Netflix_icon.svg/2048px-Netflix_icon.svg.png" group-title="FILMS EUROPEEN",Guerrier
 http://vod.yellovideoplus.bj:8080/vod/_definst_/video/file/31231/GuerrierTheveil.mp4/playlist.m3u8
