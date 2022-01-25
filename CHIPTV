@@ -1,4 +1,31 @@
 #EXTM3U
+
+
+#EXTINF:-1 tvg-id="" tvg-name="Bein Sports 12 HD" tvg-logo="" group-title="Live TV",Bein Sports 1 HD
+http://185.180.223.89:25461/moukaila30@gmail.com/Ko808090/40|User-agent=useragent
+#EXTINF:-1 tvg-id="" tvg-name="Bein Sports 11 HD" tvg-logo="" group-title="Live TV",Bein Sports 2 HD
+http://185.180.223.89:25461/moukaila30@gmail.com/Ko808090/41|User-agent=useragent
+#EXTINF:-1 tvg-id="" tvg-name="Bein Sports 10 HD" tvg-logo="" group-title="Live TV",Bein Sports 3 HD
+http://185.180.223.89:25461/moukaila30@gmail.com/Ko808090/42|User-agent=useragent
+#EXTINF:-1 tvg-id="" tvg-name="Bein Sports 9 HD" tvg-logo="" group-title="Live TV",Bein Sports 4 HD
+http://185.180.223.89:25461/moukaila30@gmail.com/Ko808090/43|User-agent=useragent
+#EXTINF:-1 tvg-id="" tvg-name="Bein Sports 8 HD" tvg-logo="" group-title="Live TV",Bein Sports 5 HD
+http://185.180.223.89:25461/moukaila30@gmail.com/Ko808090/44|User-agent=useragent
+#EXTINF:-1 tvg-id="" tvg-name="Bein Sports 7 HD" tvg-logo="" group-title="Live TV",Bein Sports 6 HD
+http://185.180.223.89:25461/moukaila30@gmail.com/Ko808090/45|User-agent=useragent
+#EXTINF:-1 tvg-id="" tvg-name="Bein Sports 6 HD" tvg-logo="" group-title="Live TV",Bein Sports 7 HD
+http://185.180.223.89:25461/moukaila30@gmail.com/Ko808090/46|User-agent=useragent
+#EXTINF:-1 tvg-id="" tvg-name="Bein Sports 5 HD" tvg-logo="" group-title="Live TV",Bein Sports 8 HD
+http://185.180.223.89:25461/moukaila30@gmail.com/Ko808090/47|User-agent=useragent
+#EXTINF:-1 tvg-id="" tvg-name="Bein Sports 4 HD" tvg-logo="" group-title="Live TV",Bein Sports 9 HD
+http://185.180.223.89:25461/moukaila30@gmail.com/Ko808090/48|User-agent=useragent
+#EXTINF:-1 tvg-id="" tvg-name="Bein Sports 3 HD" tvg-logo="" group-title="Live TV",Bein Sports 10 HD
+http://185.180.223.89:25461/moukaila30@gmail.com/Ko808090/49|User-agent=useragent
+#EXTINF:-1 tvg-id="" tvg-name="Bein Sports 2 HD" tvg-logo="" group-title="Live TV",Bein Sports 11 HD
+http://185.180.223.89:25461/moukaila30@gmail.com/Ko808090/50|User-agent=useragent
+#EXTINF:-1 tvg-id="" tvg-name="Bein Sports 1 HD" tvg-logo="" group-title="Live TV",Bein Sports 12 HD
+http://185.180.223.89:25461/moukaila30@gmail.com/Ko808090/51|User-agent=useragent
+
 #EXTINF:-1 tvg-id="" tvg-name="PPV 1 HD" tvg-logo="" group-title="Live TV",PPV 1 HD
 http://185.180.223.89:25461/moukaila30@gmail.com/Ko808090/90|User-agent=useragent
 #EXTINF:-1 tvg-id="" tvg-name="PPV 10 HD" tvg-logo="" group-title="Live TV",PPV 10 HD
@@ -53,30 +80,7 @@ http://185.180.223.89:25461/moukaila30@gmail.com/Ko808090/54|User-agent=useragen
 http://185.180.223.89:25461/moukaila30@gmail.com/Ko808090/53|User-agent=useragent
 #EXTINF:-1 tvg-id="" tvg-name="Arena Sports 1 HD Croatian" tvg-logo="" group-title="Live TV",Arena Sports 1 HD Croatian
 http://185.180.223.89:25461/moukaila30@gmail.com/Ko808090/52|User-agent=useragent
-#EXTINF:-1 tvg-id="" tvg-name="Bein Sports 12 HD" tvg-logo="" group-title="Live TV",Bein Sports 12 HD
-http://185.180.223.89:25461/moukaila30@gmail.com/Ko808090/51|User-agent=useragent
-#EXTINF:-1 tvg-id="" tvg-name="Bein Sports 11 HD" tvg-logo="" group-title="Live TV",Bein Sports 11 HD
-http://185.180.223.89:25461/moukaila30@gmail.com/Ko808090/50|User-agent=useragent
-#EXTINF:-1 tvg-id="" tvg-name="Bein Sports 10 HD" tvg-logo="" group-title="Live TV",Bein Sports 10 HD
-http://185.180.223.89:25461/moukaila30@gmail.com/Ko808090/49|User-agent=useragent
-#EXTINF:-1 tvg-id="" tvg-name="Bein Sports 9 HD" tvg-logo="" group-title="Live TV",Bein Sports 9 HD
-http://185.180.223.89:25461/moukaila30@gmail.com/Ko808090/48|User-agent=useragent
-#EXTINF:-1 tvg-id="" tvg-name="Bein Sports 8 HD" tvg-logo="" group-title="Live TV",Bein Sports 8 HD
-http://185.180.223.89:25461/moukaila30@gmail.com/Ko808090/47|User-agent=useragent
-#EXTINF:-1 tvg-id="" tvg-name="Bein Sports 7 HD" tvg-logo="" group-title="Live TV",Bein Sports 7 HD
-http://185.180.223.89:25461/moukaila30@gmail.com/Ko808090/46|User-agent=useragent
-#EXTINF:-1 tvg-id="" tvg-name="Bein Sports 6 HD" tvg-logo="" group-title="Live TV",Bein Sports 6 HD
-http://185.180.223.89:25461/moukaila30@gmail.com/Ko808090/45|User-agent=useragent
-#EXTINF:-1 tvg-id="" tvg-name="Bein Sports 5 HD" tvg-logo="" group-title="Live TV",Bein Sports 5 HD
-http://185.180.223.89:25461/moukaila30@gmail.com/Ko808090/44|User-agent=useragent
-#EXTINF:-1 tvg-id="" tvg-name="Bein Sports 4 HD" tvg-logo="" group-title="Live TV",Bein Sports 4 HD
-http://185.180.223.89:25461/moukaila30@gmail.com/Ko808090/43|User-agent=useragent
-#EXTINF:-1 tvg-id="" tvg-name="Bein Sports 3 HD" tvg-logo="" group-title="Live TV",Bein Sports 3 HD
-http://185.180.223.89:25461/moukaila30@gmail.com/Ko808090/42|User-agent=useragent
-#EXTINF:-1 tvg-id="" tvg-name="Bein Sports 2 HD" tvg-logo="" group-title="Live TV",Bein Sports 2 HD
-http://185.180.223.89:25461/moukaila30@gmail.com/Ko808090/41|User-agent=useragent
-#EXTINF:-1 tvg-id="" tvg-name="Bein Sports 1 HD" tvg-logo="" group-title="Live TV",Bein Sports 1 HD
-http://185.180.223.89:25461/moukaila30@gmail.com/Ko808090/40|User-agent=useragent
+
 #EXTINF:-1 tvg-id="" tvg-name="Gtv" tvg-logo="" group-title="Live TV",Gtv
 http://185.180.223.89:25461/moukaila30@gmail.com/Ko808090/39|User-agent=useragent
 #EXTINF:-1 tvg-id="" tvg-name="PTV Sports" tvg-logo="" group-title="Live TV",PTV Sports
