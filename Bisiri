@@ -1,70 +1,10 @@
-#EXTGRP:BEINSPORTS
-#EXTINF:-1 tvg-id="" tvg-name="Bein Sports 1 HD" tvg-logo="" group-title="BEIN SPORTS",Bein Sports 1 HD
-http://185.180.223.89:25461/ibrahimzakeye@gmail.com/Mou909090/40|User-agent=useragent
-
-#EXTINF:-1 tvg-id="" tvg-name="Bein Sports 2 HD" tvg-logo="" group-title="BEIN SPORTS",Bein Sports 2 HD
-http://185.180.223.89:25461/ibrahimzakeye@gmail.com/Mou909090/41|User-agent=useragent
-
-#EXTINF:-1 tvg-id="" tvg-name="Bein Sports 3HD" tvg-logo="" group-title="BEIN SPORTS",Bein Sports 3 HD
-http://185.180.223.89:25461/ibrahimzakeye@gmail.com/Mou909090/42|User-agent=useragent
-
-#EXTINF:-1 tvg-id="" tvg-name="Bein Sports 4 HD" tvg-logo="" group-title="BEIN SPORTS",Bein Sports 4 HD
-http://185.180.223.89:25461/ibrahimzakeye@gmail.com/Mou909090/43|User-agent=useragent
-
-#EXTINF:-1 tvg-id="" tvg-name="Bein Sports 5 HD" tvg-logo="" group-title="BEIN SPORTS",Bein Sports 5 HD
-http://185.180.223.89:25461/ibrahimzakeye@gmail.com/Mou909090/44|User-agent=useragent
-
-#EXTINF:-1 tvg-id="" tvg-name="Bein Sports 6 HD" tvg-logo="" group-title="BEIN SPORTS",Bein Sports 6 HD
-http://185.180.223.89:25461/ibrahimzakeye@gmail.com/Mou909090/45|User-agent=useragent
-
-#EXTINF:-1 tvg-id="" tvg-name="Bein Sports 7 HD" tvg-logo="" group-title="BEIN SPORTS",Bein Sports 7 HD
-http://185.180.223.89:25461/ibrahimzakeye@gmail.com/Mou909090/46|User-agent=useragent
-
-#EXTINF:-1 tvg-id="" tvg-name="Bein Sports 8 HD" tvg-logo="" group-title="BEIN SPORTS",Bein Sports 8 HD
-http://185.180.223.89:25461/ibrahimzakeye@gmail.com/Mou909090/47|User-agent=useragent
-
-#EXTINF:-1 tvg-id="" tvg-name="Bein Sports 9 HD" tvg-logo="" group-title="BEIN SPORTS",Bein Sports 9 HD
-http://185.180.223.89:25461/ibrahimzakeye@gmail.com/Mou909090/48|User-agent=useragent
-
-#EXTINF:-1 tvg-id="" tvg-name="Bein Sports 10 HD" tvg-logo="" group-title="BEIN SPORTS",Bein Sports 10 HD
-http://185.180.223.89:25461/ibrahimzakeye@gmail.com/Mou909090/49|User-agent=useragent
-
-#EXTINF:-1 tvg-id="" tvg-name="Bein Sports 11 HD" tvg-logo="" group-title="BEIN SPORTS",Bein Sports 11 HD
-http://185.180.223.89:25461/ibrahimzakeye@gmail.com/Mou909090/50|User-agent=useragent
-
-
-#EXTINF:-1 group-title="BEIN SPORTS",Bein Sports 1 LOW
-http://185.180.223.89:25461/ibrahimzakeye@gmail.com/Mou909090/150|User-agent=useragent
-
-#EXTINF:-1 group-title="BEIN SPORTS",Bein Sports 2 LOW
-http://185.180.223.89:25461/ibrahimzakeye@gmail.com/Mou909090/149|User-agent=useragent
-
-#EXTINF:-1 group-title="BEIN SPORTS",Bein Sports 3 LOW
-http://185.180.223.89:25461/ibrahimzakeye@gmail.com/Mou909090/148|User-agent=useragent
-
-#EXTINF:-1 group-title="BEIN SPORTS",Bein Sports 4 LOW 
-http://185.180.223.89:25461/ibrahimzakeye@gmail.com/Mou909090/147|User-agent=useragent
-
-#EXTINF:-1 group-title="BEIN SPORTS",Bein Sports 5 LOW
-http://185.180.223.89:25461/ibrahimzakeye@gmail.com/Mou909090/146|User-agent=useragent
-
-#EXTINF:-1 group-title="BEIN SPORTS",Bein Sports 6 LOW
-http://185.180.223.89:25461/ibrahimzakeye@gmail.com/Mou909090/145|User-agent=useragent
-
-#EXTINF:-1 group-title="BEIN SPORTS",Bein Sports 7 LOW
-http://185.180.223.89:25461/ibrahimzakeye@gmail.com/Mou909090/144|User-agent=useragent
-
-#EXTINF:-1 group-title="BEIN SPORTS",Bein Sports 8 LOW
-http://185.180.223.89:25461/ibrahimzakeye@gmail.com/Mou909090/143|User-agent=useragent
-
-#EXTINF:-1 group-title="BEIN SPORTS",Bein Sports 9 LOW
-http://185.180.223.89:25461/ibrahimzakeye@gmail.com/Mou909090/142|User-agent=useragent
-
-#EXTINF:-1 group-title="BEIN SPORTS",Bein Sports 10 LOW
-http://185.180.223.89:25461/ibrahimzakeye@gmail.com/Mou909090/141|User-agent=useragent
-
-#EXTINF:-1 group-title="BEIN SPORTS",Bein Sports 11 LOW
-http://185.180.223.89:25461/ibrahimzakeye@gmail.com/Mou909090/140|User-agent=useragent
-
-#EXTINF:-1 group-title="BEIN SPORTS",Bein Sports 12 LOW
-http://185.180.223.89:25461/ibrahimzakeye@gmail.com/Mou909090/139|User-agent=useragent
+#EXTINF:-1 tvg-id="AbuDhabiEmirates.ae" tvg-name="Abu Dhabi Emirates" tvg-country="AE" tvg-language="Arabic" tvg-logo="SPORTS" group-title="SPORTS",Abu Dhabi Emirates
+https://admdn3.cdn.mangomolo.com/emarat/smil:emarat.stream.smil/playlist.m3u8
+#EXTINF:-1 tvg-id="AbuDhabiSports1.ae" tvg-name="Abu Dhabi Sports" tvg-country="ARAB" tvg-language="Arabic" tvg-logo="https://i.imgur.com/lKl2wZH.png" group-title="SPORTS",Abu Dhabi Sports 1 (1080p)
+https://admdn1.cdn.mangomolo.com/adsports1/smil:adsports1.stream.smil/index_8.m3u8
+#EXTINF:-1 tvg-id="AbuDhabiSports2.ae" tvg-name="Abu Dhabi Sports 2" tvg-country="AE" tvg-language="Arabic" tvg-logo="SPORTS" group-title="SPORTS",Abu Dhabi Sports 2
+https://admdn5.cdn.mangomolo.com/adsports2/smil:adsports2.stream.smil/playlist.m3u8
+#EXTINF:-1 tvg-id="AbuDhabiSports3.ae" tvg-name="Abu Dhabi Sports 3" tvg-country="AE" tvg-language="Arabic" tvg-logo="SPORTS" group-title="SPORTS",Abu Dhabi Sports 3
+https://admdn3.cdn.mangomolo.com/adsports3/smil:adsports3.stream.smil/playlist.m3u8
+#EXTINF:-1 tvg-id="AbuDhabiSports4.ae" tvg-name="Abu Dhabi Sports 4" tvg-country="ARAB" tvg-language="Arabic" tvg-logo="https://statres.cdn.mgmlcdn.com/analytics/uploads/164/5e3ad6cc72.png" group-title="SPORTS",Abu Dhabi Sports 4 (1080p) [Geo-blocked]
+https://admdn4ta.cdn.mgmlcdn.com/adsports4/smil:adsports4.stream.smil/playlist.m3u8
