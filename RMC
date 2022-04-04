@@ -46,6 +46,12 @@ http://45.153.33.138:2200/EX/FR_RMC_SPORT15HD-fr/index.m3u8?token=RED_BZZcWqGH8Z
 
 #EXTINF:-1 tvg-logo="http://files.rednetcontent.com/chlogo2/french/rmc_sport_news16.png", RMC SPORTS 16 HD 
 http://45.153.33.138:2200/EX/FR_RMC_SPORT16HD-fr/index.m3u8?token=RED_BZZcWqGH8Z_cyzXdy2XJTw==,1648653608.96596990299|User-agent=REDLINECLIENT
+#EXTINF:-1, BEINSPORTS1
+http://free.tv1.live:80/star7live/LZENQZuGKM/8114
+#EXTINF:-1, BEINSPORTS2
+http://free.tv1.live:80/star7live/LZENQZuGKM/8115
+#EXTINF:-1, BEINSPORTS3
+http://free.tv1.live:80/star7live/LZENQZuGKM/8116
 
 #EXTINF:-1 tvg-id="",5572" group-title="",beIN Sports 1 Premium SD
 http://free.tv1.live:80/star7live/LZENQZuGKM/7873
