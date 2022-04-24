@@ -1,3 +1,34 @@
+#EXTGRP: Juz'29
+#EXTINF:-1 tvg-logo="https://img.myloview.fr/papiers-peints/saint-coran-livre-islamique-calligraphie-livre-arabe-arabesque-le-coran-modele-de-logo-du-coran-400-77645378.jpg" group-title="",At tur
+http://sharing.yellovideoplus.bj:8080/nimble/1780512/4a34bf5343d8fed8.mp4/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://img.myloview.fr/papiers-peints/saint-coran-livre-islamique-calligraphie-livre-arabe-arabesque-le-coran-modele-de-logo-du-coran-400-77645378.jpg" group-title="",An Najm
+http://sharing.yellovideoplus.bj:8080/nimble/1780512/0eefbdfb9f088658.mp4/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://img.myloview.fr/papiers-peints/saint-coran-livre-islamique-calligraphie-livre-arabe-arabesque-le-coran-modele-de-logo-du-coran-400-77645378.jpg" group-title="",Al Hashr
+http://sharing.yellovideoplus.bj:8080/nimble/1780512/21e6db70f940b981.mp4/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://img.myloview.fr/papiers-peints/saint-coran-livre-islamique-calligraphie-livre-arabe-arabesque-le-coran-modele-de-logo-du-coran-400-77645378.jpg" group-title="",Al Mumtahanah
+http://sharing.yellovideoplus.bj:8080/nimble/1780512/d671e12bfb340b61.mp4/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://img.myloview.fr/papiers-peints/saint-coran-livre-islamique-calligraphie-livre-arabe-arabesque-le-coran-modele-de-logo-du-coran-400-77645378.jpg" group-title="",As Saff
+http://sharing.yellovideoplus.bj:8080/nimble/1780512/549349954efc282b.mp4/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://img.myloview.fr/papiers-peints/saint-coran-livre-islamique-calligraphie-livre-arabe-arabesque-le-coran-modele-de-logo-du-coran-400-77645378.jpg" group-title="",Al Jumu'ah
+http://sharing.yellovideoplus.bj:8080/nimble/1780512/7afad20c7b9705f4.mp4/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://img.myloview.fr/papiers-peints/saint-coran-livre-islamique-calligraphie-livre-arabe-arabesque-le-coran-modele-de-logo-du-coran-400-77645378.jpg" group-title="",Al munafiqun
+http://sharing.yellovideoplus.bj:8080/nimble/1780512/0c2a8904453a3bc8.mp4/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://img.myloview.fr/papiers-peints/saint-coran-livre-islamique-calligraphie-livre-arabe-arabesque-le-coran-modele-de-logo-du-coran-400-77645378.jpg" group-title="",At taghabun
+http://sharing.yellovideoplus.bj:8080/nimble/1780512/976895a9f0758ded.mp4/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://img.myloview.fr/papiers-peints/saint-coran-livre-islamique-calligraphie-livre-arabe-arabesque-le-coran-modele-de-logo-du-coran-400-77645378.jpg" group-title="",At Talaq
+http://sharing.yellovideoplus.bj:8080/nimble/1780512/928cb8090fafdbea.mp4/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://img.myloview.fr/papiers-peints/saint-coran-livre-islamique-calligraphie-livre-arabe-arabesque-le-coran-modele-de-logo-du-coran-400-77645378.jpg" group-title="",At Tahrim
+http://sharing.yellovideoplus.bj:8080/nimble/1780512/8bac4113b5752af5.mp4/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://img.myloview.fr/papiers-peints/saint-coran-livre-islamique-calligraphie-livre-arabe-arabesque-le-coran-modele-de-logo-du-coran-400-77645378.jpg" group-title="",Al Qalam
+http://sharing.yellovideoplus.bj:8080/nimble/1780512/31e85093fb778be4.mp4/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://img.myloview.fr/papiers-peints/saint-coran-livre-islamique-calligraphie-livre-arabe-arabesque-le-coran-modele-de-logo-du-coran-400-77645378.jpg" group-title="",Al Haqqat
+http://sharing.yellovideoplus.bj:8080/nimble/1780512/eea679124d9caa6e.mp4/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://img.myloview.fr/papiers-peints/saint-coran-livre-islamique-calligraphie-livre-arabe-arabesque-le-coran-modele-de-logo-du-coran-400-77645378.jpg" group-title="",Al jinn
+http://sharing.yellovideoplus.bj:8080/nimble/1780512/489c3d1593ddbe29.mp4/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://img.myloview.fr/papiers-peints/saint-coran-livre-islamique-calligraphie-livre-arabe-arabesque-le-coran-modele-de-logo-du-coran-400-77645378.jpg" group-title="",Al Insan
+http://sharing.yellovideoplus.bj:8080/nimble/1780512/a0a926c6b1140ba3.mp4/playlist.m3u8
+
+
 #EXTGRP: JAMILAH & ALADDIN
 #EXTINF:-1 tvg-logo="https://www.linkpicture.com/q/Screenshot_20220107-085516.jpg" group-title="JAMILAH & ALADDIN",JAM&ALA 1
 http://news.yellovideoplus.bj:8080/vod/_definst_/video/file/31711/JamilahEtAladinS1Ep01.mp4/playlist.m3u8
