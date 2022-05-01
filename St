@@ -1,0 +1,540 @@
+
+#EXTINF:-1 group-title="ST SPORTS", PRIME 
+https://a-delivery11.mxdcontent.net/v/0d5ad733bfb8094b0e615d38f863fed6.mp4?s=VSp2lbggQHKDENr6iQIsbQ&e=1604016132&_t=1603997007
+
+#EXTINF:-1 tvg-logo="https://cdn.startimestv.com/banner/legacy/c_-2080553815.png" group-title="ST SPORTS", ST WORLD FOOTBALL LOW
+http://ms-azure-video.gslb.startimestv.com/live/ST_WORLD_FOOTBALL_HD_996_300_320x240_210852/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://cdn.startimestv.com/banner/legacy/c_-1497572737.png" group-title="ST SPORTS", ST SPORTS PREMIUM LOW 
+http://ms-azure-video.gslb.startimestv.com/live/ST_SPORTS_PREMIUM_980_300_320x240_197232/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://cdn.startimestv.com/banner/legacy/c_-955113695.png" group-title="ST SPORTS",ST SPORTS FOCUS LOW
+http://ms-azure-video.gslb.startimestv.com/live/ST_SPORTS_FOCUS_970_300_320x240_197186/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://cdn.startimestv.com/banner/legacy/c_1802743986.png" group-title="ST SPORTS",ST SPORTS LIFE LOW 
+http://ms-azure-video.gslb.startimestv.com/live/ST_SPORTS_LIFE_976_300_320x240_197204/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://cdn.startimestv.com/banner/legacy/c_455874997.png" group-title="ST SPORTS",ST SPORTS ARENA LOW 
+http://ms-azure-video.gslb.startimestv.com/live/ST_SPORTS_ARENA_972_300_320x240_197192/playlist.m3u8
+#EXTINF:-1 NTA SPORTS LOW
+http://ms-azure-video.gslb.startimestv.com/live/NTA_SPORTS_1048_300_320x240_308058/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://cdn.startimestv.com/banner/legacy/c_-2080553815.png" group-title="ST SPORTS",ST WORLD FOOTBALL HD 
+http://ms-azure-video.gslb.startimestv.com/live/ST_WORLD_FOOTBALL_HD_996_650_480x360_210854/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://cdn.startimestv.com/banner/legacy/c_-1497572737.png" group-title="ST SPORTS",ST SPORTS PREMIUM HD
+http://ms-azure-video.gslb.startimestv.com/live/ST_SPORTS_PREMIUM_980_650_480x360_197234/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://cdn.startimestv.com/banner/legacy/c_-955113695.png" group-title="ST SPORTS",ST SPORTS FOCUS HD
+http://ms-azure-video.gslb.startimestv.com/live/ST_SPORTS_FOCUS_970_650_480x360_197188/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://cdn.startimestv.com/banner/legacy/c_1802743986.png" group-title="ST SPORTS",ST SPORTS LIFE HD 
+http://ms-azure-video.gslb.startimestv.com/live/ST_SPORTS_LIFE_976_650_480x360_197206/playlist.m3u8
+#EXTINF:-1 NTA SPORTS HD
+http://ms-azure-video.gslb.startimestv.com/live/NTA_SPORTS_1048_500_480x360_308058/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://cdn.startimestv.com/banner/legacy/c_1802743986.png" group-title="ST SPORTS",ST SPORTS ARENA HD
+http://ms-azure-video.gslb.startimestv.com/live/ST_SPORTS_ARENA_972_650_480x360_197194/playlist.m3u8
+#EXTINF:-1 tvg-logo="group-title="ST SPORTS", STAD AFRIC
+http://ms-azure-video.gslb.startimestv.com:80/live/STAD_AFRIC_1168_250_320x240_662512/playlist.m3u8
+#EXTINF:-1 tvg-logo="group-title="ST SPORTS",AFRICA SPORTS 
+http://ms-azure-video.gslb.startimestv.com:80/live/AFRICA_SPORTS_TV_1172_250_320x240_724134/playlist.m3u8
+#EXTINF:0 tvg-id="" tvg-logo="https://img16.lostpic.net/2019/08/14/1ac6ff7d32537ac2f156286d22f67dd5.png" group-title="ST SPORTS",SETANTA SPORTS 1 LOW 
+http://ott-cdn.ucom.am/s81/01.m3u8
+#EXTINF:0 tvg-id="" tvg-logo="https://s3.beetv.kz/rosing-beelinekz-production/8e418551517f29a06b5d.jpg" group-title="ST SPORTS",SETANTA SPORT 2 LOW
+http://ott-cdn.ucom.am/s82/01.m3u8
+#EXTINF:0 tvg-id="" tvg-logo="https://img16.lostpic.net/2019/08/14/1ac6ff7d32537ac2f156286d22f67dd5.png" group-title="ST SPORTS",SETANTA SPORTS 1 HD
+http://ott-cdn.ucom.am/s81/03.m3u8
+#EXTINF:0 tvg-id="" tvg-logo="https://s3.beetv.kz/rosing-beelinekz-production/8e418551517f29a06b5d.jpg" group-title="ST SPORTS",SETANTA SPORT 2 HD
+http://ott-cdn.ucom.am/s82/03.m3u8
+#EXTINF:0 tvg-country="UN" tvg-logo="https://i.imgur.com/FgyiahB.png" group-title="Sport(984)",SPORT : BeIN Sports Xtra,SPORT | BeIN Sports Xtra
+https://service-stitcher.clusters.pluto.tv/stitch/hls/channel/5df975e2b27cf5000921c102/master.m3u8?deviceType=web&deviceMake=Opera&deviceModel=Opera&sid=855d6801-c912-428d-b620-ede4dd0c3b15&deviceId=b702181a-c1d6-4ee2-9481-753f471e2ce7&deviceVersion=66.0.3515.44&appVersion=2.9.3-b879e400d5df7a969d4bff8863fe5cb02c7120e6&deviceDNT=0&userId=&advertisingId=&deviceLat=40.8364&deviceLon=-74.1403&app_name=&appName=web&buildVersion=&appStoreUrl=&architecture=&includeExtendedEvents=false&serverSideAds=tr&checkedby
+#EXTINF:-1 tvg-logo="https://www.tf1pub.fr/sites/default/files/thumbnails/image/tmccouleur_0.png" group-title="ST MOVIE", ST MOVIES PLUS 
+http://ms-azure-video.gslb.startimestv.com/live/ST_Movies_Plus_1170_250_320x240_710924/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://www.tf1pub.fr/sites/default/files/thumbnails/image/tmccouleur_0.png" group-title="ST MOVIE", ST MOVIES PLUS HD  
+http://ms-azure-video.gslb.startimestv.com/live/ST_Movies_Plus_1170_500_480x360_710926/playlist.m3u8
+#EXTINF:-1AREA_TEN LOW 
+http://ms-azure-video.gslb.startimestv.com:80/live/AREA_TEN_1148_250_320x240_532322/playlist.m3u8
+#EXTINF:-1AREA_TEN HD
+http://ms-azure-video.gslb.startimestv.com:80/live/AREA_TEN_1148_500_480x360_532324/playlist.m3u8
+#EXTINF:-1 E-STAR LOW 
+http://ms-azure-video.gslb.startimestv.com:80/live/E_STARS_882_250_320x240_193986/playlist.m3u8
+#EXTINF:-1 E-STAR HD
+http://ms-azure-video.gslb.startimestv.com:80/live/E_STARS_882_500_480x360_193988/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://www.tf1pub.fr/sites/default/files/thumbnails/image/tmccouleur_0.png" group-title="ST MOVIE",TMC LOW
+http://ms-azure-video.gslb.startimestv.com/live/TMC_858_250_320x240_191670/playlist.m3u8
+#EXTINF:-1 tvg-logo="http://static.startimestv.com:80/static/JOY_PRIME/JOY_PRIME.jpg" group-title="ST MOVIE", JOY_PRIME LOW 
+http://ms-azure-video.gslb.startimestv.com/live/JOY_PRIME_725_250_320x240_69649/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://cdn.startimestv.com/banner/legacy/c_985858831.png" group-title="ST MOVIE",AFOREVER 
+http://ms-azure-video.gslb.startimestv.com:80/live/AFOREVO_TV_1158_250_320x240_647872/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://cdn.startimestv.com/banner/legacy/c_-83889935.png" group-title="ST MOVIE",ST DADIN KOWA SD
+http://ms-azure-video.gslb.startimestv.com/live/ST_DADIN_KOWA_844_250_320x240_191634/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://cdn.startimestv.com/banner/legacy/c_-83889935.png" group-title="ST MOVIE",ST DADIN KOWA PLUS HD 
+http://ms-azure-video.gslb.startimestv.com/live/ST_DADIN_KOWA_844_500_480x360_191636/playlist.m3u8
+#EXTINF:-1 tvg-logo="http://www.zeemagic.tv/wp-content/themes/zeemagic/images/logo_new_v1.png" group-title="ST MOVIE",ZEE MAGIC LOW 
+http://ms-azure-video.gslb.startimestv.com/live/ZEE_Magic_1074_250_320x240_424214/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://cdn.startimestv.com/static/image/product/c5426b41-707b-4213-8da6-2892d3932151.png" group-title="ST MOVIE", ST ZEE CINEMA LOW 
+http://ms-azure-video.gslb.startimestv.com/live/ZEE_CINEMA_1176_250_320x240_734264/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://cdn.startimestv.com/static/image/product/c5426b41-707b-4213-8da6-2892d3932151.png" group-title="ST MOVIE", ST ZEE CINEMA HD 
+http://ms-azure-video.gslb.startimestv.com/live/ZEE_CINEMA_1176_500_480x360_734266/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://cdn.startimestv.com/static/image/product/a9504fe1-451d-46b0-afad-357957d0e354.png" group-title="ST MOVIE",AMC SERIE LOW 
+http://ms-azure-video.gslb.startimestv.com/live/AMC_Series_1070_250_320x240_424206/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://cdn.startimestv.com/static/image/product/00dfa884-53fd-4ff6-8c86-c5d823807adc.png" group-title="ST MOVIE",AMC MOVIES LOW
+http://ms-azure-video.gslb.startimestv.com/live/AMC_MOVIES_990_250_320x240_210828/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://cdn.startimestv.com/static/files/console/5db06fa4-7740-41a5-b293-67236c1c3bb4.jpg" group-title="ST MOVIE",STAR LIFE LOW 
+http://ms-azure-video.gslb.startimestv.com/live/STAR_LIFE_1034_250_320x240_277466/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn%3AANd9GcTauNB7FuvYTqyAOo4VFes7Vbs2rdV7ntB-GwYhvhZJ9ic_w8-Q" group-title="ST MOVIE",PASSION TV LOW 
+http://ms-azure-video.gslb.startimestv.com/live/PASSIONS_TV_932_250_320x240_195098/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://cdn.startimestv.com/static/image/program/c_-1958593009.png" group-title="ST MOVIE",ST NOVELAS F LOW 
+http://ms-azure-video.gslb.startimestv.com/live/ST_NOVELA_F_1060_250_320x240_343722/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://cdn.startimestv.com/banner/legacy/c_1824291351.png" group-title="ST MOVIE",ST BOOLYWOOD LOW
+http://ms-azure-video.gslb.startimestv.com/live/ST_BOLLYWOOD_992_250_320x240_210836/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://cdn.startimestv.com/static/image/product/dd49036c-5aae-41ad-87ec-e8ed63dbc55b.png" group-title="ST MOVIE",ST NOLLYWOOD PLUS LOW 
+http://ms-azure-video.gslb.startimestv.com/live/ST_NOLLYWOOD_PLUS_733_250_320x240_73713/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://cdn.startimestv.com/static/image/product/dd49036c-5aae-41ad-87ec-e8ed63dbc55b.png" group-title="ST MOVIE",ST NOLLYWOOD PLUS HD
+http://ms-azure-video.gslb.startimestv.com/live/ST_NOLLYWOOD_PLUS_733_500_480x320_73713/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://cdn.startimestv.com/static/image/program/c_41075536.png" group-title="ST MOVIE",ST NOVELAS F PLUS LOW 
+http://ms-azure-video.gslb.startimestv.com/live_record/ST_NOVELA_F_PLUS_1066_250_320x240_368820/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://cdn.startimestv.com/banner/legacy/c_-1141016517.png" group-title="ST MOVIE",ST KUNGFU LOW 
+http://ms-azure-video.gslb.startimestv.com/live_record/ST_KUNGFU_627_250_320x240_7769/playlist.m3u8
+http://ms-azure-video.gslb.startimestv.com:80/live_record/ST_KUNGFU_627_250_320x240_7769/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://cdn.startimestv.com/banner/legacy/c_-867556708.png" group-title="ST MOVIE",ST SINO DRAMA LOW 
+http://ms-azure-video.gslb.startimestv.com/live/ST_SINO_DRAMA_986_250_320x240_210814/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://www.tf1pub.fr/sites/default/files/thumbnails/image/tmccouleur_0.png" group-title="ST MOVIE",TMC HD 
+http://ms-azure-video.gslb.startimestv.com/live/TMC_858_500_480x360_191672/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://cdn.startimestv.com/static/image/product/a9504fe1-451d-46b0-afad-357957d0e354.png" group-title="ST MOVIE",AMC SERIE HD 
+http://ms-azure-video.gslb.startimestv.com/live/AMC_Series_1070_500_480x360_424208/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://cdn.startimestv.com/static/image/product/00dfa884-53fd-4ff6-8c86-c5d823807adc.png" group-title="ST MOVIE",AMC MOVIES HD 
+http://ms-azure-video.gslb.startimestv.com/live/AMC_MOVIES_990_500_480x320_210830/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://cdn.startimestv.com/static/files/console/5db06fa4-7740-41a5-b293-67236c1c3bb4.jpg" group-title="ST MOVIE",STAR LIFE HD
+http://ms-azure-video.gslb.startimestv.com/live/STAR_LIFE_1034_500_480x360_277468/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn%3AANd9GcTauNB7FuvYTqyAOo4VFes7Vbs2rdV7ntB-GwYhvhZJ9ic_w8-Q" group-title="ST MOVIE",PASSION TV HD 
+http://ms-azure-video.gslb.startimestv.com/live/PASSIONS_TV_932_500_480x360_195100/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://cdn.startimestv.com/static/image/program/c_-1958593009.png" group-title="ST MOVIE",ST NOVELAS F HD 
+http://ms-azure-video.gslb.startimestv.com/live/ST_NOVELA_F_1060_500_480x360_343724/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://cdn.startimestv.com/banner/legacy/c_1824291351.png" group-title="ST MOVIE",ST BOOLYWOOD HD 
+http://ms-azure-video.gslb.startimestv.com/live/ST_BOLLYWOOD_992_500_480x360_210838/playlist.m3u8
+#EXTINF:-1 tvg-logo="http://static.startimestv.com:80/static/FARIN_WATA/FARIN_WATA.jpg?l=540" group-title="ST MOVIE", FARIN WATA LOW
+http://ms-azure-video.gslb.startimestv.com/live/FARIN_WATA_794_250_320x240_191142/playlist.m3u8
+#EXTINF:-1 tvg-logo="http://static.startimestv.com:80/static/FARIN_WATA/FARIN_WATA.jpg?l=540" group-title="ST MOVIE", FARIN WATA HD
+http://ms-azure-video.gslb.startimestv.com/live/FARIN_WATA_794_500_480x360_191144/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://cdn.startimestv.com/static/image/program/c_41075536.png" group-title="ST MOVIE",ST NOVELAS E PLUS HD 
+http://ms-azure-video.gslb.startimestv.com/live/ST_NOLLYWOOD_PLUS_733_500_480x360_73715/playlist.m3u8
+tvg-logo="https://cdn.startimestv.com/static/image/program/c_41075536.png" group-title="ST MOVIE",ST NOVELAS E PLUS LOW 
+http://ms-azure-video.gslb.startimestv.com/live_record/ST_NOVELA_F_PLUS_1066_500_480x360_368822/playlist.m3u8
+#EXTINF:-1 tvg-logo="http://www.zeemagic.tv/wp-content/themes/zeemagic/images/logo_new_v1.png" group-title="ST MOVIE",ZEE MAGIC HD 
+http://ms-azure-video.gslb.startimestv.com/live/ZEE_Magic_1074_500_480x360_424216/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://cdn.startimestv.com/banner/legacy/c_-1141016517.png" group-title="ST MOVIE",ST KUNGFU HD
+http://ms-azure-video.gslb.startimestv.com/live_record/ST_KUNGFU_627_500_480x360_7771/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://cdn.startimestv.com/banner/legacy/c_-867556708.png" group-title="ST MOVIE",ST SINO DRAMA HD 
+http://ms-azure-video.gslb.startimestv.com/live/ST_SINO_DRAMA_986_500_480x360_210816/playlist.m3u8
+#EXTINF:-1,STAR TV LOW 
+http://ms-azure-video.gslb.startimestv.com:80/live/STAR_TV_904_250_320x240_194036/playlist.m3u8
+
+#EXTINF:-1 tvg-logo="http://cdn.startimestv.com/static/image/product/4fe35077-2454-43a4-90a6-3d9db5ec5462.png?l=320",ST ID F
+http://ms-azure-video.gslb.startimestv.com:80/live/ID_F_1240_250_320x240__TS/playlist.m3u8
+
+#EXTINF:-1 tvg-logo="http://cdn.startimestv.com/static/files/console/045b7b4d-c899-4f67-a211-72dd91f0001e.png?l=320",ST NGC_F 
+http://ms-azure-video.gslb.startimestv.com:80/live/NGC_F_1188_250_320x240_824224/playlist.m3u8
+
+#EXTINF:-1 tvg-logo="http://cdn.startimestv.com/static/files/console/4cedbd6b-0505-496d-89a9-074a51851dac.png?l=320",ST NGW F
+http://ms-azure-video.gslb.startimestv.com:80/live/NGW_F_1192_250_320x240_824256/playlist.m3u8
+
+#EXTINF:-1 tvg-logo="http://cdn.startimestv.com/static/files/console/775a54da-1e8d-4f90-937a-f3a32aa95d6c.png?l=320",ESPN 
+http://ms-azure-video.gslb.startimestv.com:80/live/ESPN_1184_250_320x240_824214/playlist.m3u8
+
+#EXTINF:-1 tvg-logo="http://cdn.startimestv.com/static/files/console/24de3185-4cb0-46c0-a7fe-b4ad32a01f8d.png?l=320", ESPN 2 
+http://ms-azure-video.gslb.startimestv.com:80/live_g/ESPN_2_1248_250_320x240_v1_FMP4/playlist.m3u8
+#EXTINF:-1 tvg-logo="http://cdn.startimestv.com/static/files/console/775a54da-1e8d-4f90-937a-f3a32aa95d6c.png?l=320",ESPN 
+http://ms-azure-video.gslb.startimestv.com:80/live/ESPN_1184_650_480x360_824214/playlist.m3u8
+
+#EXTINF:-1 tvg-logo="http://cdn.startimestv.com/static/files/console/24de3185-4cb0-46c0-a7fe-b4ad32a01f8d.png?l=320", ESPN 2 
+http://ms-azure-video.gslb.startimestv.com:80/live_g/ESPN_2_1248_500_480x360_v1_FMP4/playlist.m3u8
+#EXTGRP: ST GENERAL
+#EXTINF:-1 group-title="ST GENERAL",CCTV 4 LOW
+http://ms-azure-video.gslb.startimestv.com:80/live/CCTV_4_659_250_320x240_54625/playlist.m3u8
+
+#EXTINF:-1 group-title="ST GENERAL", ST AFRO LOW
+http://ms-azure-video.gslb.startimestv.com:80/live_g/ST_AFRO_TV_1238_250_320x240_v1_FMP4/playlist.m3u8
+
+#EXTINF:-1 group-title="ST GENERAL",TNT AFRICA LOW 
+http://ms-azure-video.gslb.startimestv.com:80/live_g/TNT_AFRICA_1250_250_320x240_v1_FMP4/playlist.m3u8
+
+#EXTINF:-1 group-title="ST GENERAL",PBO LOW 
+http://ms-azure-video.gslb.startimestv.com:80/live_g/PBO_1258_250_320x240_v1_FMP4/playlist.m3u8
+
+#EXTINF:-1 group-title="ST GENERAL",ST NOLLYWOOD F LOW 
+http://ms-azure-video.gslb.startimestv.com:80/live/ST_NOLLYWOOD_F_1200_250_320x240_870420/playlist.m3u8
+
+#EXTINF:-1 group-title="ST GENERAL",FOX LOW
+http://ms-azure-video.gslb.startimestv.com:80/live/FOX_1198_250_320x240_825180/playlist.m3u8
+
+#EXTINF:-1 group-title="ST GENERAL",SKY NEW LOW
+http://ms-azure-video.gslb.startimestv.com:80/live_g/SKY_NEWS_1224_250_320x240_v1_FMP4/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://www.indiantelevision.com/sites/default/files/images/tv-images/2020/01/09/zeecafe.jpg",ZEE CAFE LOW 
+http://mhdtvworld.net:80/xyz/zee5m3u8.m3u8?c=http://z5ams.akamaized.net/zeecafesd/index.m3u8
+
+#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn%3AANd9GcSmxjEbQQ7lNo-rDC7alnof2Xt0dazuYZhn6Q&usqp=CAU",ZEE BOLLYWOOD
+http://mhdtvworld.net:80/xyz/zee5m3u8.m3u8?c=http://z5ams.akamaized.net:80/classic/index.m3u8
+
+#EXTINF:-1 tvg-logo="http://www.zeemagic.tv/wp-content/themes/zeemagic/images/logo_new_v1.png",ZEE_MAGIC 
+http://mhdtvworld.net:80/xyz/zee5m3u8.m3u8?c=http://z5ams.akamaized.net:80/magic/index.m3u8
+
+#EXTINF:-1,ZEE_ACTION
+http://mhdtvworld.net:80/xyz/zee5m3u8.m3u8?c=http://z5ams.akamaized.net/action/index.m3u8
+
+#EXTINF:-1 tvg-logo="https://cdn.startimestv.com/static/image/product/c5426b41-707b-4213-8da6-2892d3932151.png",ZEE_CINEMA 
+http://mhdtvworld.net:80/xyz/zee5m3u8.m3u8?c=http://z5ams.akamaized.net:80/cinema/index.m3u8
+
+#EXTINF:-1 tvg-logo="https://cdn.startimestv.com/static/image/product/c5426b41-707b-4213-8da6-2892d3932151.png",ZEE_CINEMA UK
+http://mhdtvworld.net:80/xyz/zee5m3u8.m3u8?c=http://z5ams.akamaized.net/cinemauk/index.m3u8
+
+#EXTINF:-1 tvg-logo="https://cdn.startimestv.com/static/image/product/c5426b41-707b-4213-8da6-2892d3932151.png",ZEE_CINEMA IND
+http://mhdtvworld.net:80/xyz/zee5m3u8.m3u8?c=http://z5ams.akamaized.net/zcinemahd/index.m3u8
+
+#EXTINF:-1 tvg-logo="https://cdn.startimestv.com/static/image/product/c5426b41-707b-4213-8da6-2892d3932151.png",ZEE_CINEMA BG
+http://mhdtvworld.net:80/xyz/zee5m3u8.m3u8?c=http://z5ams.akamaized.net/zbanglacnm/index.m3u8
+
+#EXTINF:-1,ZEE_APACS
+http://mhdtvworld.net:80/xyz/zee5m3u8.m3u8?c=http://z5ams.akamaized.net/apacsea/index.m3u8
+
+#EXTINF:-1,ZEE_ANIMOL
+http://mhdtvworld.net:80/xyz/zee5m3u8.m3u8?c=http://z5ams.akamaized.net/zeeanmol/index.m3u8
+#EXTINF:-1, CRIME DISTRICT LOW 
+http://ms-azure-video.gslb.startimestv.com/live/CRIME_DISTRICT_806_250_320x240_191170/playlist.m3u8
+
+#EXTINF:-1, ST CHINESE HOMELAND LOW 
+http://ms-azure-video.gslb.startimestv.com/live/ST_CHINESE_HOMELAND_657_250_320x240_51121/playlist.m3u8
+
+#EXTINF:-1,MBC Bollywoo
+https://shls-mbcbollywood-prod-dub.shahid.net/out/v1/a79c9d7ef2a64a54a64d5c4567b3462a/index_8.m3u8
+#EXTINF:-1,MBC Msr
+https://shls-masr-prod-dub.shahid.net/out/v1/b7093401da27496797a8949de23f4578/index_8.m3u8
+#EXTINF:-1 tvg-id="MBC2.MBC2En.ae" tvg-logo="https://static.epg.best/ae/MBC2En.ae.png",MBC 2 LOW
+https://shls-mbc2-prod-dub.shahid.net/out/v1/b4befe19798745fe986f5a9bfba62126/index_8.m3u8
+#EXTINF:-1,MBC 3 LOW
+https://shls-mbc3-prod-dub.shahid.net/out/v1/d5bbe570e1514d3d9a142657d33d85e6/index_8.m3u8
+#EXTINF:-1,MBC 4 LOW
+https://shls-mbc4-prod-dub.shahid.net/out/v1/c08681f81775496ab4afa2bac7ae7638/index_8.m3u8
+#EXTINF:-1,MBC 5 LOW
+https://shls-mbc5-prod-dub.shahid.net/out/v1/2720564b6a4641658fdfb6884b160da2/index_8.m3u8
+#EXTINF:-1,MBC Action LOW
+https://shls-mbcaction-prod-dub.shahid.net/out/v1/68dd761538e5460096c42422199d050b/index_8.m3u8
+#EXTINF:-1,MBC MAX LOW
+https://shls-mbcmax-prod-dub.shahid.net/out/v1/13815a7cda864c249a88c38e66a2e653/index.m3u8
+#EXTINF:-1,MBC drama ksa
+https://shls-mbcdramaksa-prod-dub.shahid.net/out/v1/ce0f0762d89e4394a856c5fd13e43645/index_8.m3u8
+#EXTINF:-1,MBC Msr
+https://shls-masr-prod-dub.shahid.net/out/v1/b7093401da27496797a8949de23f4578/index_8.m3u8
+
+#EXTINF:-1,MBC 1
+http://web13.iptv-planet.com:8080/hls/Hi_mbc1.m3u8
+#EXTINF:-1,MBC 2
+http://web13.iptv-planet.com:8080/hls/Hi_mbc2.m3u8
+#EXTINF:-1,MBC 3
+http://web13.iptv-planet.com:8080/hls/Hi_mbc3.m3u8
+#EXTINF:-1,MBC 4
+http://web13.iptv-planet.com:8080/hls/Hi_mbc4.m3u8
+#EXTINF:-1,MBC 5
+http://web13.iptv-planet.com:8080/hls/Hi_mbc5.m3u8
+#EXTINF:-1,MBC ACTION 
+http://web13.iptv-planet.com:8080/hls/Hi_mbcaction.m3u8
+#EXTINF:-1,SONY SAB
+http://103.214.202.218:8081/live/sonysab/chunks.m3u8
+#EXTINF:-1,TEN 1
+http://103.214.202.218:8081/live/ten1hd/chunks.m3u8
+#EXTINF:-1,TEN 2
+http://103.214.202.218:8081/live/ten2hd/chunks.m3u8
+#EXTINF:-1,TEN 3
+http://103.214.202.218:8081/live/ten3hd/chunks.m3u8
+#EXTINF:-1, SONY SIX
+http://103.214.202.218:8081/live/sonysix/chunks.m3u8
+
+#EXTINF:-1 tvg-logo="http://cdn.startimestv.com/banner/legacy/c_1091692591.png?l=320" group-title="ST GENERAL",ST YORUBA LOW
+http://ms-azure-video.gslb.startimestv.com/live/ST_YORUBA_902_250_320x240_194032/playlist.m3u8
+#EXTINF:-1 tvg-logo="http://cdn.startimestv.com/banner/legacy/c_1091692591.png?l=320" group-title="ST GENERAL",ST YORUBA HD 
+http://ms-azure-video.gslb.startimestv.com/live/ST_YORUBA_902_250_320x240_194034/playlist.m3u8
+#EXTINF:-1 group-title="ST GENERAL", E-STAR LOW 
+http://ms-azure-video.gslb.startimestv.com:80/live/E_STARS_882_500_480x360_193986/playlist.m3u8
+#EXTINF:-1 group-title="ST GENERAL", E-STAR HD 
+http://ms-azure-video.gslb.startimestv.com:80/live/E_STARS_882_500_480x360_193988/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://4.bp.blogspot.com/-qNv99ZSJk-0/W0xw1Fau9II/AAAAAAAAAu0/lfazAwm4mTEiJkZj94EU93K-B2VIrWJTACLcBGAs/s1600/index.gpn" group-title="ST GENERAL", NIGBATI LOW
+http://ms-azure-video.gslb.startimestv.com/live/NIGBATI_693_250_320x240_61667/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://4.bp.blogspot.com/-qNv99ZSJk-0/W0xw1Fau9II/AAAAAAAAAu0/lfazAwm4mTEiJkZj94EU93K-B2VIrWJTACLcBGAs/s1600/index.pn" group-title="ST GENERAL",NIGBATI HD 
+http://ms-azure-video.gslb.startimestv.com/live/NIGBATI_693_500_480x360_61669/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://pbs.twimg.com/profile_images/1168905044047093760/wuBOZ2bl_400x400.jp" group-title="ST GENERAL", ORISUN LOW 
+http://ms-azure-video.gslb.startimestv.com/live/ORISUN_840_250_320x240_191626/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://pbs.twimg.com/profile_images/1168905044047093760/wuBOZ2bl_400x400.jp" group-title="ST GENERAL", ORISUN HD
+http://ms-azure-video.gslb.startimestv.com/live/ORISUN_840_500_480x360_191628/playlist.m3u8
+#EXTINF:-1BORDER TV LOW
+http://ms-azure-video.gslb.startimestv.com/live/BORDER_TV_872_250_320x240_193966/playlist.m3u8
+#EXTINF:-1BORDER TV HD
+http://ms-azure-video.gslb.startimestv.com/live/BORDER_TV_872_500_480x360_193968/playlist.m3u8
+#EXTINF:-1 tvg-logo="http://3.bp.blogspot.com/-DecyS1q11uo/Ub4y3vz8FyI/AAAAAAAAAGo/QNTUV3aFz90/s1600/wap_tv_ng.pn" group-title="ST GENERAL",WAP TV LOW
+http://ms-azure-video.gslb.startimestv.com/live/WAP_TV_956_250_320x240_195208/playlist.m3u8
+#EXTINF:-1 tvg-logo="http://3.bp.blogspot.com/-DecyS1q11uo/Ub4y3vz8FyI/AAAAAAAAAGo/QNTUV3aFz90/s1600/wap_tv_ng.pn" group-title="ST GENERAL",WAP TV HD
+http://ms-azure-video.gslb.startimestv.com/live/WAP_TV_956_500_480x360_195210/playlist.m3u8
+#EXTINF:-1ST ADEPA LOW
+http://ms-azure-video.gslb.startimestv.com/live/ST_ADEPA_1002_250_320x240_212294/playlist.m3u8
+#EXTINF:-1ST ADEPA HD
+http://ms-azure-video.gslb.startimestv.com/live/ST_ADEPA_1002_500_480x360_212296/playlist.m3u8
+#EXTINF:-1 tvg-logo="http://cdn.startimestv.com:80/static/image/c_-2094646665_meitu_1.jpg?l=240",ISI MBIDO LOW
+http://ms-azure-video.gslb.startimestv.com/live/ISI_MBIDO_691_250_320x240_61663/playlist.m3u8
+#EXTINF:-1 tvg-logo="http://cdn.startimestv.com:80/static/image/c_-2094646665_meitu_1.jpg?l=240",ISI MBIDO HD
+http://ms-azure-video.gslb.startimestv.com/live/ISI_MBIDO_691_500_480x360_61665/playlist.m3u8
+#EXTINF:-1DOVE TV 
+http://ms-azure-video.gslb.startimestv.com/live/DOVE_TV_812_250_320x240_191184/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://cdn.startimestv.com/banner/legacy/c_1780519567.pn" group-title="ST GENERAL",ST SWAHILI LOW 
+http://ms-azure-video.gslb.startimestv.com/live/ST_SWAHILI_854_500_480x360_191664/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://miro.medium.com/max/304/0*fau7ftAAELfVFgEo.pn" group-title="ST GENERAL",TELECONGO LOW 
+http://ms-azure-video.gslb.startimestv.com/live/TELECONGO_619_250_320x240_7753/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://yt3.ggpht.com/a/AGF-l79c-DJZ0-G8Kd7f6Hlv5Mq3XhHhfFIqbzfSVg=s900-c-k-c0xffffffff-no-rj-mo",AFRICA MEDIA LOW 
+http://ms-azure-video.gslb.startimestv.com/live/AFRIQUE_MEDIA_1086_250_320x240_431676/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQ6y-BnLnQmT-zEGdPXqw-ImvRzKMfroV4YcSiSBNNFclz4X3ce&s",RTI 1 LOW
+http://ms-azure-video.gslb.startimestv.com/live/RTI1_934_250_320x240_195106/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn%3AANd9GcTto90Lq9rE8sRB2pHHn-BUKGNCzE-brQjkPSfnFzD68GP4T008",RTI 2 LOW
+http://ms-azure-video.gslb.startimestv.com/live/RTI_2_936_250_320x240_195110/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://cdn.startimestv.com/static/files/console/f4b3a259-1a43-4c06-b1a5-25764a94cff9.pn" group-title="ST GENERAL",ST REAL TIME LOW 
+http://ms-azure-video.gslb.startimestv.com/live/ST_REAL_TIME_1030_250_320x240_272296/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://cdn.startimestv.com/static/files/console/5dfe9275-eb7d-4c03-a4e2-a16f1a51db55.jp" group-title="ST GENERAL",COLORS TV LOW 
+http://ms-azure-video.gslb.startimestv.com/live/COLORS_1072_250_320x240_424210/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://static.iptv-epg.com/fr/TFX.fr.pn" group-title="ST GENERAL",TFX LOW
+http://ms-azure-video.gslb.startimestv.com/live/TFX_856_250_320x240_191666/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://cdn.startimestv.com/banner/legacy/c_-850293745.pn" group-title="ST GENERAL",E ! F LOW
+http://ms-azure-video.gslb.startimestv.com/live/E__F_802_25_320x240_191162/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://frenchflicks.com/tl_files/tv5monde/TV5MONDEInfologo.pn" group-title="ST GENERAL",TV5 MONDE LOW 
+http://ms-azure-video.gslb.startimestv.com/live/TV5_MONDE_862_250_320x240_191678/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn%3AANd9GcTkOrePHF7tEhS8AwwO3cfboNfgcf_vimnlU_lqRc9Djij9cjo3",AFRIQUE MEDIA LOW 
+http://ms-azure-video.gslb.startimestv.com/live/AFRIQUE_MEDIA_1086_250_320x240_431676/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://s2.glbimg.com/VBSLCt7d5tQy445F1I_sc7eEKX0=/s.glbimg.com/og/rg/f/original/2013/03/11/sem_titulo-6.jp" group-title="ST GENERAL",TVCA LOW 
+http://ms-azure-video.gslb.startimestv.com/live/TVCA_615_250_320x240_7745/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://pbs.twimg.com/profile_images/932237935554031616/aZ9fICQo_400x400.jp" group-title="ST GENERAL",RTNC LOW 
+http://ms-azure-video.gslb.startimestv.com/live/RTNC_609_250_320x240_7733/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://cdn.startimestv.com/static/image/product/6cf8a8a6-b8bd-4db4-ab3e-a744c9cbb1d1.pn" group-title="ST GENERAL",SAVANNAH TV LOW 
+http://ms-azure-video.gslb.startimestv.com/live/SAVANNAH_TV_944_250_320x240_195160/playlist.m3u8
+#EXTINF:-1  tvg-logo="https://www.lebouquetafricain.com/images/chaines/antenne-a.pn" group-title="ST GENERAL",ANTENNE À LOW
+http://ms-azure-video.gslb.startimestv.com/live/ANTENNE_A_1028_250_320x240_265684/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://ctr.cdnartwhere.eu/sites/demo/files/styles/manual_crop/public/logo_ab3_0.jp" group-title="ST GENERAL",AB3 LOW 
+http://ms-azure-video.gslb.startimestv.com/live/AB3_816_250_320x240_191576/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://cdn.startimestv.com/static/image/product/7324f1d5-ed32-4e96-afc1-a4ecba60111e.pn" group-title="ST GENERAL",ST RISE LOW 
+http://ms-azure-video.gslb.startimestv.com/live/ST_Rise_852_250_320x240_191654/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://i0.wp.com/blog.shanegraphique.com/wp-content/uploads/2011/09/RTL9.jpg?resize=759%2C500&ssl=1",RTL9 LOW 
+http://ms-azure-video.gslb.startimestv.com/live/RTL9_774_250_320x240_190830/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://www.tv-direct.fr/assets/logo/chaines/ab1.jp" group-title="ST GENERAL",AB1 LOW 
+http://ms-azure-video.gslb.startimestv.com/live/AB1_800_250_320x240_191158/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://i1.sndcdn.com/avatars-000420699624-fbtcou-t500x500.jp" group-title="ST GENERAL",SOURCE AFRICA LOW 
+http://ms-azure-video.gslb.startimestv.com/live/SOURCE_AFRICA_1140_250_320x240_530838/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://static-media.streema.com/media/cache/23/fb/23fbbe2641e5d83c311fb38e63a7a657.jp" group-title="ST GENERAL",RTNB LOW 
+http://ms-azure-video.gslb.startimestv.com/live/RTNB_611_250_320x240_7737/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://senego.com/wp-content/uploads/2018/04/logo_rts1.pn" group-title="ST GENERAL",RTS1 LOW 
+http://ms-azure-video.gslb.startimestv.com/live/RTS_1_938_250_320x240_195146/playlist.m3u8
+
+
+#EXTGRP: MONO SPORTS 
+#EXTINF:-1 tvg-name="beiN_SPORTS_1" tvg-logo="" group-title="MONO SPORTS", beiN_SPORTS_1 
+http://194.32.79.172:4868/Beinsport1/tracks-v1a1/mono.m3u8
+#EXTINF:-1 tvg-name="beiN_SPORTS_2" tvg-logo="" group-title="MONO SPORTS", beiN_SPORTS_2
+http://194.32.79.172:4868/Beinsport2x/tracks-v1a1/mono.m3u8
+#EXTINF:-1 tvg-name="beiN_SPORTS_3" tvg-logo="" group-title="MONO SPORTS", beiN_SPORTS_3
+http://194.32.79.172:4868/beinsport3ZX3/tracks-v1a1/mono.m3u8
+#EXTINF:-1 tvg-name="beiN_SPORTS_4" tvg-logo="" group-title="MONO SPORTS", beiN_SPORTS_4
+http://194.32.79.172:4868/be4/tracks-v1a1/mono.m3u8
+#EXTINF:-1 tvg-name="beiN_SPORTS_5" tvg-logo="" group-title="MONO SPORTS", beiN_SPORTS_5
+http://194.32.79.172:4868/b5/tracks-v1a1/mono.m3u8
+#EXTINF:-1 tvg-name="beiN_SPORTS_6" tvg-logo="" group-title="MONO SPORTS", beiN_SPORTS_6
+http://194.32.79.172:4868/b6/tracks-v1a1/mono.m3u8
+#EXTINF:-1 tvg-name="beiN_SPORTS_7" tvg-logo="" group-title="MONO SPORTS", beiN_SPORTS_7"
+http://194.32.79.172:4868/b7/tracks-v1a1/mono.m3u8
+#EXTINF:-1 tvg-name="beiN_SPORTS_8" tvg-logo="" group-title="MONO SPORTS", beiN_SPORTS_8
+http://194.32.79.172:4868/b8s/tracks-v1a1/mono.m3u8
+#EXTINF:-1 tvg-name="beiN_SPORTS_9" tvg-logo="" group-title="MONO SPORTS", beiN_SPORTS_9
+http://194.32.79.172:4868/Beinsport9..ahceF5mALgNmAL....gN9snD9snDmALgN9snDmALgN9snDmALgN9snD/tracks-v1a1/mono.m3u8
+#EXTINF:-1 tvg-name="beiN_SPORTS_10" tvg-logo="" group-title="MONO SPORTS", beiN_SPORTS_10
+http://194.32.79.172:4868/beiNSports10.lyUPaCvZbb..qlyUPaCvZbbox9qlyUPaCvZbbox9ylyUPaCvZbbox9yqlyUPaCvZbbox9y/tracks-v1a1/mono.m3u8
+#EXTINF:-1 tvg-name="beiN_SPORTS_11" tvg-logo="" group-title="MONO SPORTS", beiN_SPORTS_11
+http://194.32.79.172:4868/beiNSports11...CqB5eemEtbYMZCqB5eemEtbYMZtbYMZCqB5eemEtbYMZ/tracks-v1a1/mono.m3u8
+#EXTINF:-1 tvg-name="beiN_SPORTS_12" tvg-logo="" group-title="MONO SPORTS", beiN_SPORTS_12
+http://194.32.79.172:4868/beinsport12..UAoLkO4gObJZ5qCUAoLkO4gObJZ5qCAoLkO4gObJZ5qCUAoLkO4gOb/tracks-v1a1/mono.m3u8
+#EXTINF:-1 tvg-name="beiN_SPORTS_13" tvg-logo="" group-title="MONO SPORTS", beiN_SPORTS_13
+http://194.32.79.172:4868/beinsport13.ddd32dadzz12saj78uesgsAf34fesfc4fsdfaSDA4efdsadas/tracks-v1a1/mono.m3u8
+
+#EXTGRP:Bein AIR 
+#EXTINF:-1 group-title="BeiN AIR"tvg-logo="https://teevee-hd.com/img/bein1.png",BeinSport 1
+https://www.livedoomovie.com/02_epl1_720p/chunklist.m3u8
+#EXTINF:-1 group-title="BeiN AIR"tvg-logo="https://teevee-hd.com/img/bein2.png",BeinSport 2 
+https://www.livedoomovie.com/02_epl2_720p/chunklist.m3u8
+#EXTINF:-1 tvg-logo="https://image.xumo.com/v1/channels/channel/9999387/248x140.png?type=channelTile" title-group="BeiN AIR", BeiN XTRA
+https://bein-xtra-roku-us.amagi.tv/amRdirect/rdid=d807042f-1f42-55bc-851d-36b64a7e357c&coppa=false&is_lat=1&content=a8df209d9eb0538c97dce33d0dbf4387&genre=ROKU_ADS_CONTENT_GENRE&platform=web&content_type=livefeed&content_rating=ROKU_ADS_CONTENT_RATING&is_roku_lat=1&bmodel=bm1&studio_id=bein&channel_id=151908&channelStore=us&tags=ROKU_CONTENT_TAGS/hls/amagi_hls_data_beinAAAAA-beinxtra/CDN/1920x1080_5640800/index.m3u8
+#EXTINF:-1 group-title="BeiN AIR"tvg-logo="https://teevee-hd.com/img/bein1.png",BeinSport 1HD AR 
+http://ydv2wp0o6ma.a.trbcdn.net/hls/CDN-HLS-Bein1-CC.m3u8
+
+#EXTGRP: BeiN Alliptv
+#EXTINF:-1 group-title="SPORTS A",BeiN 1HD
+http://portal.alliptv.tv:8080/2164190962/1174590290/126
+#EXTINF:-1 group-title="SPORTS A",BeiN 2HD
+http://portal.alliptv.tv:8080/2164190962/1174590290/127
+#EXTINF:-1 group-title="SPORTS A",BeiN 3HD
+http://portal.alliptv.tv:8080/2164190962/1174590290/128
+
+#EXTGRP: SPORTS TV HD 
+#EXTINF:-1 tvg-logo="https://www.doomovie-hd.com/assets/img/ch_logo/hd-sporttv1.jpg" group-title="SPORTS TV HD", SPORT TV 1 HD
+https://www.livedoomovies.com/02_SPORTTV_1_720p/chunklist.m3u8
+#EXTINF:-1 tvg-logo="https://www.doomovie-hd.com/assets/img/ch_logo/hd-sporttv2.jpg" group-title="SPORTS TV HD", SPORT TV 2 HD
+https://www.livedoomovies.com/02_SPORTTV_2_720p/chunklist.m3u8
+#EXTINF:-1 tvg-logo="https://www.doomovie-hd.com/assets/img/ch_logo/hd-sporttv3.jpg" group-title="SPORTS TV HD", SPORT TV 3 HD
+https://www.livedoomovies.com/02_SPORTTV_3_720p/chunklist.m3u8
+#EXTINF:-1 tvg-logo="https://www.doomovie-hd.com/assets/img/ch_logo/hd-sporttv4.jpg" group-title="SPORTS TV HD", SPORT TV 4 HD
+https://www.livedoomovies.com/02_SPORTTV_4_720p/chunklist.m3u8
+#EXTINF:-1 tvg-logo="https://www.doomovie-hd.com/assets/img/ch_logo/hd-sporttv5.jpg" group-title="SPORTS TV HD", SPORT TV 5 HD
+https://www.livedoomovies.com/02_SPORTTV_5_720p/chunklist.m3u8
+
+#EXTGRP: T SPORTS 
+#EXTINF:-1 group-title="T SPORT"tvg-logo="https://www.doomovie-hd.com/assets/img/ch_logo/hd-tsport1.png",TRUESPORT HD1
+https://www.livedoomovie.com/02_2sporthd1_720p/chunklist.m3u8
+#EXTINF:-1 group-title="T SPORT"tvg-logo="https://www.doomovie-hd.com/assets/img/ch_logo/hd-tsport2.png",TRUESPORT HD2
+https://www.livedoomovie.com/02_2sporthd2_720p/chunklist.m3u8
+#EXTINF:-1 group-title="T SPORT"tvg-logo="https://imgcloud.fwiptv.cc/postor/20181127121521True_sport2.jpg",TRUE SPORT 2
+https://www.livedoomovie.com/02_sport2_480p/chunklist.m3u8.
+#EXTINF:-1 group-title="T SPORT"tvg-logo="https://www.doomovie-hd.com/assets/img/ch_logo/hd-tsport3.png",TRUESPORT HD3
+https://www.livedoomovie.com/02_2sporthd3_720p/chunklist.m3u8
+#EXTINF:-1 group-title="T SPORT"tvg-logo="https://www.doomovie-hd.com/assets/img/ch_logo/hd-tsport4.png",TRUESPORT HD4
+https://www.livedoomovie.com/02_2sporthd4_720p/chunklist.m3u8
+#EXTINF:-1 group-title="T SPORT"tvg-logo="https://imgcloud.fwiptv.cc/postor/20181125112204True_sport5.jpg",TRUE SPORT 5
+https://www.livedoomovie.com/02_sport5_480p/chunklist.m3u8
+#EXTINF:-1 group-title="T SPORT"tvg-logo="https://imgcloud.fwiptv.cc/postor/20181125112227True_sport6.jpg",TRUE SPORT 6
+https://www.livedoomovie.com/02_sport6_480p/chunklist.m3u8
+#EXTINF:-1 group-title="T SPORT"tvg-logo="https://imgcloud.fwiptv.cc/postor/20181125112240True_sport7.jpg",TRUE SPORT 7
+https://www.livedoomovie.com/02_sport7_480p/chunklist.m3u8
+
+#EXTGRP: SONY INDIA
+#EXTINF:-1 group-title="SONY INDIA", SONY MAX
+https://load.airtelxstream.in/sonymax/smil:common.smil/chunks.m3u8
+#EXTINF:-1 group-title="SONY INDIA", SONY WAH
+https://load.airtelxstream.in/sonywah/smil:common.smil/chunks.m3u8
+#EXTINF:-1 group-title="SONY INDIA", SONY MAX 2 
+https://load.airtelxstream.in/sonymax2/smil:common.smil/chunks.m3u8
+#EXTINF:-1 group-title="SONY INDIA", SONY SAB
+https://load.airtelxstream.in/sonysab/smil:common.smil/chunks.m3u8
+#EXTINF:-1 group-title="SONY INDIA", SONY SIX
+https://load.airtelxstream.in/sonysix/smil:common.smil/chunks.m3u8
+#EXTINF:-1 group-title="SONY INDIA", ZEE BG CINEMA
+https://load.airtelxstream.in/zeebanglacinema/smil:common.smil/chunks.m3u8
+#EXTINF:-1 group-title="SONY INDIA", JAYA MAX
+https://load.airtelxstream.in/jayamax/smil:common.smil/chunks.m3u8
+
+#EXTGRP: CHINA 
+#EXTINF:-1 group-title="ST CHINA", CCTV 1 **
+http://cctv5cnch5ca.v.wscdns.com:80/live/cctv1_2/index.m3u8
+http://cctvcnch5ca.v.wscdns.com:80/live/cctv1_2/index.m3u8
+#EXTINF:-1 group-title="ST CHINA", CCTV 1 HD
+http://cctv5alih5ca.v.myalicdn.com/live/cctv1_2/index.m3u8
+#EXTINF:-1 group-title="ST CHINA", CCTV 2 HD
+http://cctv5alih5ca.v.myalicdn.com/live/cctv2_2/index.m3u8
+#EXTINF:-1 group-title="ST CHINA", CCTV 3 HD
+http://cctv5alih5ca.v.myalicdn.com/live/cctv2_2/index.m3u8
+#EXTINF:-1 group-title="ST CHINA", CCTV 4 LOW
+http://ms-azure-video.gslb.startimestv.com:80/live/CCTV_4_659_250_320x240_54625/playlist.m3u8
+#EXTINF:-1 group-title="ST CHINA", CCTV 4 HD
+http://ms-azure-video.gslb.startimestv.com:80/live/CCTV_4_659_500_480x360_54627/playlist.m3u8
+#EXTINF:-1 group-title="ST CHINA", CCTV 5 HD 
+http://cctv5alih5ca.v.myalicdn.com/live/cctv5_2/index.m3u8
+#EXTINF:-1 group-title="ST CHINA", CCTV 5+ HD 
+http://cctv5alih5ca.v.myalicdn.com/live/cctv5plus_2/index.m3u8
+#EXTINF:-1 group-title="ST CHINA", CCTV 6 HD 
+http://cctv5alih5ca.v.myalicdn.com/live/cctv6_2/index.m3u8
+#EXTINF:-1 group-title="ST CHINA", CCTV 7 HD 
+http://cctv5alih5ca.v.myalicdn.com/live/cctv7_2/index.m3u8
+#EXTINF:-1 group-title="ST CHINA", CCTV 8 HD
+http://cctv5alih5ca.v.myalicdn.com/live/cctv8_2/index.m3u8
+#EXTINF:-1 group-title="ST CHINA", CCTV 9 HD
+http://cctv5alih5ca.v.myalicdn.com/live/cctv9_2/index.m3u8
+#EXTINF:-1 group-title="ST CHINA", CCTV 10 HD
+http://cctv5alih5ca.v.myalicdn.com/live/cctv10_2/index.m3u8
+#EXTINF:-1 group-title="ST CHINA", CCTV 11 HD
+http://cctv5alih5ca.v.myalicdn.com/live/cctv11_2/index.m3u8
+#EXTINF:-1 group-title="ST CHINA", CCTV 12 HD
+http://cctv5alih5ca.v.myalicdn.com/live/cctv12_2/index.m3u8
+#EXTINF:-1 group-title="ST CHINA", CCTV 13 HD
+http://cctv5alih5ca.v.myalicdn.com/live/cctv13_2/index.m3u8
+#EXTINF:-1 group-title="ST CHINA", CCTV 14 HD
+http://cctv5alih5ca.v.myalicdn.com/live/cctvchild_2/index.m3u8
+#EXTINF:-1 group-title="ST CHINA", CCTV 15 HD
+http://cctv5alih5ca.v.myalicdn.com/live/cctv15_2/index.m3u8
+#EXTINF:-1 group-title="ST CHINA", CCTV 16 HD
+http://cctv5alih5ca.v.myalicdn.com/live/cctv16_2/index.m3u8
+#EXTINF:-1 group-title="ST CHINA", CCTV 17 HD
+http://cctv5alih5ca.v.myalicdn.com/live/cctv17_2/index.m3u8
+
+#EXTGRP: SPORTS PREMIER 
+#EXTINF:-1 group-title="SPORT PRWMOER"tvg-logo="https://teevee-hd.com/img/premierfootball1.png",Premiere Football HD1
+https://www.livedoomovie.com/02_PremierHD1_720p/chunklist.m3u8
+#EXTINF:-1 group-title="SPORT PREIMIER"tvg-logo="https://teevee-hd.com/img/premierfootball2.png",Premiere Football HD2
+https://www.livedoomovie.com/02_PremierHD2_720p/chunklist.m3u8
+#EXTINF:-1 group-title="SPORT PREMIER"tvg-logo="https://teevee-hd.com/img/premierfootball3.png",Premiere Football HD3
+https://www.livedoomovie.com/02_PremierHD3_720p/chunklist.m3u8
+#EXTINF:-1 group-title="SPORT PREMIER"tvg-logo="https://teevee-hd.com/img/premierfootball4.png",Premiere Football HD4
+https://www.livedoomovie.com/02_PremierHD4_720p/chunklist.m3u8
+#EXTINF:-1 group-title="SPORT PREMIER"tvg-logo="https://teevee-hd.com/img/premierfootball5.png",Premiere Football HD5
+https://www.livedoomovie.com/02_PremierHD5_720p/chunklist.m3u8
+
+#EXTGRP: FOX SPORTS 
+#EXTINF:-1 group-title="FOX SPORT"tvg-logo="https://teevee-hd.com/img/foxsport1.png",FOX SPORTS HD
+https://www.livedoomovie.com/02_foxsport_720p/chunklist.m3u8
+#EXTINF:-1 group-title="FOX SPORT"tvg-logo="https://teevee-hd.com/img/foxsport2.png",FOX SPORTS 2
+https://www.livedoomovie.com/02_FoxSport2_TH_720p/chunklist.m3u8
+#EXTINF:-1 group-title="FOX SPORT"tvg-logo="https://teevee-hd.com/img/foxsport3.png",FOX SPORTS 3
+https://www.livedoomovie.com/02_FoxSport3_TH_720p/chunklist.m3u8
+
+#EXTGRP: OTHER 
+#EXTINF:-1 tvg-logo="http://cdn.startimestv.com:80/static/image/tv1_channel_logo.png" group-title="ST OTHERS",ZNBC TV1 
+http://ms-azure-video.gslb.startimestv.com:80/live/ZNBC_TV_1_958_250_320x240_195212/playlist.m3u8
+#EXTINF:-1,ZNBC TV2
+http://ms-azure-video.gslb.startimestv.com:80/live/ZNBC_TV_2_960_250_320x240_195216/playlist.m3u8
+#EXTINF:-1 tvg-logo="http://static.startimestv.com:80/static/Glow_TV.jpg" group-title="ST OTHERS", Glow LOW 
+http://ms-azure-video.gslb.startimestv.com:80/live/Glow_TV_886_250_320x240_193994/playlist.m3u8
+#EXTINF:-1 tvg-logo="http://static.startimestv.com:80/static/SABC.jpg" group-title="ST OTHERS", SABC LOW 
+http://ms-azure-video.gslb.startimestv.com:80/live/SABC_1_940_250_320x240_195150/playlist.m3u8
+#EXTINF:-1,DIAMOND TV LOW 
+http://ms-azure-video.gslb.startimestv.com:80/live/Diamond_TV_1008_250_320x240_219724/playlist.m3u8
+#EXTINF:-1, FRESH TV 
+http://ms-azure-video.gslb.startimestv.com:80/live/FRESH_TV_1010_250_320x240_220084/playlist.m3u8
+#EXTINF:-1 tvg-logo="http://static.startimestv.com:80/static/PRIME_TV/PRIME_TV.jpg" group-title="ST OTHERS", PRIME TV LOW 
+http://ms-azure-video.gslb.startimestv.com:80/live/PRIME_TV_1014_250_320x240_227734/playlist.m3u8
+#EXTINF:-1,ABN TV LOW 
+http://ms-azure-video.gslb.startimestv.com:80/live/ABN_TV_1006_250_320x240_219720/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://www.lyngsat.com/logo/tv/ss/st-novela-p-cn.png" group-title="ST OTHERS",ST Novelas P
+http://ms-azure-video.gslb.startimestv.com:80/live/ST_Novela_P_1138_250_320x240_519570/playlist.m3u8
+#EXTINF:-1 tvg-logo="http://static.startimestv.com:80/static/files/production/poster/2020/1/321338.jpg" group-title="ST OTHERS",STV LOW 
+http://ms-azure-video.gslb.startimestv.com:80/live/STV_906_250_320x240_194040/playlist.m3u8
+#EXTINF:-1 tvg-logo="" group-title="ST OTHERS" TV MIRAMAR LOW 
+http://ms-azure-video.gslb.startimestv.com:80/live/TV_MIRAMAR_954_250_320x240_195204/playlist.m3u8
+#EXTINF:-1 tvg-logo="http://static.startimestv.com:80/static/TIM/TIM.jpg" group-title="ST OTHERS", TIM LOW 
+http://ms-azure-video.gslb.startimestv.com:80/live/TIM_699_250_320x240_61679/playlist.m3u8
+#EXTINF:-1 tvg-logo="http://static.startimestv.com:80/static/TVM1/TVM1.jpg" group-title="ST OTHERS" ,TVM1 LOW 
+http://ms-azure-video.gslb.startimestv.com:80/live/TVM1_788_250_320x240_191114/playlist.m3u8
+#EXTINF:-1,TVM2 
+http://ms-azure-video.gslb.startimestv.com:80/live/TVM2_790_250_320x240_191134/playlist.m3u8
+#EXTINF:-1 tvg-logo="http://static.startimestv.com:80/static/TOP_MZ/TOP_MZ.jpg" group-title="ST OTHERS", TOP MZ LOW 
+http://ms-azure-video.gslb.startimestv.com:80/live/TOP_MZ_860_250_320x240_191674/playlist.m3u8
+#EXTINF:-, WASAFI LOW 
+http://ms-azure-video.gslb.startimestv.com:80/live/Wasafi_968_250_320x240_196854/playlist.m3u8
+#EXTINF:-1,ADOM TV LOW 
+http://ms-azure-video.gslb.startimestv.com:80/live/Adom_TV_727_250_320x240_69653/playlist.m3u8
+#EXTINF:-1 tvg-logo="http://cdn.startimestv.com:80/static/image/maxtv.png" group-title="ST OTHERS", MAX TV LOW 
+http://ms-azure-video.gslb.startimestv.com:80/live/MAX_TV_920_250_320x240_195070/playlist.m3u8
+#EXTINF:-1 tvg-logo="http://static.startimestv.com:80/static/UTV/UTV.jpg" group-title="ST OTHERS" ,UTV LOW 
+http://ms-azure-video.gslb.startimestv.com:80/live/UTV_912_250_320x240_194052/playlist.m3u8
+#EXTINF:-1 tvg-logo="" group-title="ST OTHERS" METRO TV LOW 
+http://ms-azure-video.gslb.startimestv.com:80/live/Metro_TV_1056_250_320x240_337354/playlist.m3u8 
+#EXTINF:-1 tvg-logo="http://cdn.startimestv.com:80/static/image/program/c_997732233.png" group-title="ST OTHERS", GTV SPORTS PLUS LOW
+http://ms-azure-video.gslb.startimestv.com:80/live/GTV_SPORTS_PLUS_888_300_320x240_194002/playlist.m3u8
+#EXTINF:-1 tvg-logo="http://cdn.startimestv.com:80/static/image/program/c_997732233.png" group-title="ST OTHERS" ,GTV SPORTS PLUS HD
+http://ms-azure-video.gslb.startimestv.com:80/live/GTV_SPORTS_PLUS_888_650_480x360_194004/playlist.m3u8
+#EXTINF:-1 tvg-logo="http://static.startimestv.com:80/static/Angel_TV/Angel_TV.jpg" group-title="ST OTHERS" ,Angel TV LOW 
+http://ms-azure-video.gslb.startimestv.com:80/live/Angel_TV_1058_250_320x240_337358/playlist.m3u8
+#EXTINF:-1 tvg-logo="http://cdn.startimestv.com:80/static/image/ghonetv.png" group-title="ST OTHERS", Gh_One LOW 
+http://ms-azure-video.gslb.startimestv.com:80/live/Gh_one_729_250_320x240_69657/playlist.m3u8
+#EXTGRP: GROUP MBC
+#EXTINF:-1 MBC 1
+http://web13.iptv-planet.com:8080/hls/Hi_mbc1.m3u8
+#EXTINF:-1 MBC 2
+http://web13.iptv-planet.com:8080/hls/Hi_mbc2.m3u8
+#EXTINF:-1 MBC 3
+http://web13.iptv-planet.com:8080/hls/Hi_mbc3.m3u8
+#EXTINF:-1 MBC 4
+http://web13.iptv-planet.com:8080/hls/Hi_mbc4.m3u8
+#EXTINF:-1 MBC 5
+http://web13.iptv-planet.com:8080/hls/Hi_mbc5.m3u8
+#EXTINF:-1 MBC ACTION 
+http://web13.iptv-planet.com:8080/hls/Hi_mbcaction.m3u8
