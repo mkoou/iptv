@@ -76,7 +76,7 @@ http://line.dino-ott.ru:8000/f59e252f9b/moukaila/553691
 
 #EXTGRP: MBC LOW
 #EXTINF:1 tvg-country="AE" tvg-logo="https://i.imgur.com/eKBXOKd.png" group-title="MBC LOW",MBC
-https://shls-mbc1ksa-prod-dub.shahid.net/out/v1/451b666db1fb41c7a4bbecf7b4865107/index_8.m3u8
+https://shls-mbc1ksa-prod-dub.shahid.net/out/v1/84ab37e99d6e4b16b33c6600f94f6ccb/index_8.m3u8
 #EXTINF:1 tvg-country="AE" tvg-logo="https://i.imgur.com/KXuzL1u.png" group-title="MBC LOW",MBC 2 HD
 https://shls-mbc2-prod-dub.shahid.net/out/v1/b4befe19798745fe986f5a9bfba62126/index_8.m3u8
 #EXTINF:1 tvg-country="AE" tvg-logo="https://i.imgur.com/FVNVC73.png" group-title="MBC LOW",MBC 3
