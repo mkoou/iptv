@@ -12,6 +12,8 @@ http://news.yellovideoplus.bj:8080/live/rtl9_bj/chunks.m3u8
 http://news.yellovideoplus.bj:8080/live/passion_bj/chunks.m3u8
 #EXTINF:-1 tvg-logo="http://s3.i3ns.net/portal/picon/2021-07/f46f73caa11f8703f4da93504d93f55b.png" group-title="",TV5 MONDE HD
 http://news.yellovideoplus.bj:8080/live/tv5_bj/chunks.m3u8
+#EXTINF:-1, SCIENCES & Vie 
+http://news.yellovideoplus.bj:8080/live/svtv_bj/chunks.m3u8
 #EXTINF:-1 tvg-logo="" group-title="", E-TELE HD
 http://news.yellovideoplus.bj:8080/live/etele_bj/chunks.m3u8
 #EXTINF:-1 tvg-logo="" group-title="",CHRIST LIVE
