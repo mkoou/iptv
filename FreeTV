@@ -1,40 +1,40 @@
-#EXTINF:-1 tvg-logo="" group-title="", TF1 HD
+#EXTINF:-1 tvg-id="tf1.fr" tvg-name="FR: TF 1" tvg-logo="http://s3.i3ns.net/portal/picon/2021-06/d8fa325e3c7d2142d8a75f91ab50be9d.png" group-title="France",TF1
 http://news.yellovideoplus.bj:8080/live/tf1_bj/chunks.m3u8
-#EXTINF:-1 tvg-logo="" group-title="",TFX
+#EXTINF:-1 tvg-id="tfx.fr" tvg-name="FR: TFX" tvg-logo="http://s3.i3ns.net/portal/picon/2021-06/0560d6d37fe3411c2f401dd825fc280f.png" group-title="France",TFX
 http://news.yellovideoplus.bj:8080/live/tfx_bj/chunks.m3u8
-#EXTINF:-1 tvg-logo="" group-title="", ACTION HD  
+#EXTINF:-1 tvg-logo="http://s3.i3ns.net/portal/picon/2021-08/b7f966a0262a8930229949b1c4dcd4db.png" group-title="",ACTION HD  
 http://news.yellovideoplus.bj:8080/live/action_bj/chunks.m3u8
-#EXTINF:-1 tvg-logo="" group-title="", RTL9 HD
+#EXTINF:-1 tvg-logo="http://s3.i3ns.net/portal/picon/2021-06/4a4b548daa819e3173e6965166d43b6d.png" group-title="", RTL9 HD
 http://news.yellovideoplus.bj:8080/live/rtl9_bj/chunks.m3u8
-#EXTINF:-1 tvg-logo="" group-title="", PASSION NOVELAS HD
+#EXTINF:-1 tvg-logo="https://adweknow.com/wp-content/uploads/2021/03/PASSION-NOVELAS-LOGO-2-Ren%C3%A9-Saal.jpg" group-title="", PASSION NOVELAS HD
 http://news.yellovideoplus.bj:8080/live/passion_bj/chunks.m3u8
-#EXTINF:-1 tvg-logo="" group-title="",TV5 MONDE HD
+#EXTINF:-1 tvg-logo="http://s3.i3ns.net/portal/picon/2021-07/f46f73caa11f8703f4da93504d93f55b.png" group-title="",TV5 MONDE HD
 http://news.yellovideoplus.bj:8080/live/tv5_bj/chunks.m3u8
 #EXTINF:-1 tvg-logo="" group-title="", E-TELE HD
 http://news.yellovideoplus.bj:8080/live/etele_bj/chunks.m3u8
 #EXTINF:-1 tvg-logo="" group-title="",CHRIST LIVE
 http://news.yellovideoplus.bj:8080/live/christlive_bj/chunks.m3u8
-#EXTINF:-1 tvg-logo="" group-title="", AFRICA 24
+#EXTINF:-1 tvg-logo="http://s3.i3ns.net/portal/picon/2021-09/87f7a3a32379ad237c919698c4455525.png" group-title="", AFRICA 24
 http://news.yellovideoplus.bj:8080/live/africa24_bj/chunks.m3u8
-#EXTINF:-1 tvg-logo="" group-title="",RTI 1
+#EXTINF:-1 tvg-logo="http://s3.i3ns.net/portal/picon/2020-06/6ee008591c2cecc71129692f7aeacbbb.png" group-title="",RTI 1
 http://news.yellovideoplus.bj:8080/live/rti_bj/chunks.m3u8
-#EXTINF:-1 tvg-logo="" group-title="",RTI 2
+#EXTINF:-1 tvg-logo="http://s3.i3ns.net/portal/picon/2021-05/6dfc904872b8ddbdb3908d740d308626.png" group-title="",RTI 2
 http://news.yellovideoplus.bj:8080/live/rti2_bj/chunks.m3u8
 #EXTINF:-1 tvg-logo="" group-title="",RTI 3
 http://news.yellovideoplus.bj:8080/live/rti3_bj/chunks.m3u8
-#EXTINF:-1 tvg-logo="" group-title="",MANGAS TV
+#EXTINF:-1 tvg-logo="http://s3.i3ns.net/portal/picon/2021-06/b765ff65f607f8ac4bf64d08265742de.png" group-title="",MANGAS TV
 http://news.yellovideoplus.bj:8080/live/mangas_bj/chunks.m3u8
-#EXTINF:-1 tvg-logo="" group-title="",ORTB
+#EXTINF:-1 tvg-logo="http://s3.i3ns.net/portal/picon/2020-06/028d499b76bdefa89573b79c8fe3f6b6.png" group-title="",ORTB
 http://news.yellovideoplus.bj:8080/live/ortb_bj/chunks.m3u8
-#EXTINF:-1 tvg-logo="" group-title="",ORTM
+#EXTINF:-1 tvg-logo="http://s3.i3ns.net/portal/picon/2020-06/5a6df755e609cfd9e2a94380b786a9ee.png" group-title="",ORTM
 http://news.yellovideoplus.bj:8080/live/ortm_bj/chunks.m3u8
-#EXTINF:-1 tvg-logo="" group-title="",TRACE KITOKO
+#EXTINF:-1 tvg-logo="http://s3.i3ns.net/portal/picon/2021-06/e4dca6eb997c13c793f53c8b762c3888.png" group-title="",TRACE KITOKO
 http://news.yellovideoplus.bj:8080/live/trace_kitoko_eur/chunks.m3u8
 #EXTINF:-1 tvg-logo="" group-title="", TVC BENIN
 http://news.yellovideoplus.bj:8080/live/tvc_bj/chunks.m3u8
-#EXTINF:-1 tvg-logo="" group-title="",TRACE URBAN
+#EXTINF:-1 tvg-logo="http://s3.i3ns.net/portal/picon/2021-06/b768e20a35d6680c628734ae61d34a6d.png" group-title="",TRACE URBAN
 http://news.yellovideoplus.bj:8080/live/trace_urban_euro/chunks.m3u8
-#EXTINF:-1 tvg-logo="" group-title="", TRACE GOSPEL 
+#EXTINF:-1 tvg-logo="http://s3.i3ns.net/portal/picon/2021-06/12c04b179e5ada9d08f5453b425ddcb3.png" group-title="", TRACE GOSPEL 
 http://news.yellovideoplus.bj:8080/live/trace_gospel/chunks.m3u8
 #EXTINF:-1 tvg-logo="" group-title="", BBLACK
 http://news.yellovideoplus.bj:8080/live/bblack_bj/chunks.m3u8
@@ -42,9 +42,9 @@ http://news.yellovideoplus.bj:8080/live/bblack_bj/chunks.m3u8
 http://news.yellovideoplus.bj:8080/live/MCM_bj/chunks.m3u8
 #EXTINF:-1 tvg-logo="" group-title="", EDEN
 http://news.yellovideoplus.bj:8080/live/edentv_bj/chunks.m3u8
-#EXTINF:-1 tvg-logo="" group-title="",BONE TV
+#EXTINF:-1 tvg-logo="" group-title="",B-ONE TV
 http://news.yellovideoplus.bj:8080/live/bone_bj/chunks.m3u8
-#EXTINF:-1 tvg-logo="" group-title="",CANAL J
+#EXTINF:-1 tvg-logo="http://s3.i3ns.net/portal/picon/2021-06/c8af18c131f90aebac528b02d5245d2e.png" group-title="",CANAL J
 http://news.yellovideoplus.bj:8080/live/canalj_bj/chunks.m3u8
 #EXTINF:-1 tvg-logo="" group-title="",RTG
 http://news.yellovideoplus.bj:8080/live/rtg_bj/chunks.m3u8
