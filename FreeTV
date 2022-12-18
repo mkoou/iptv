@@ -17,7 +17,7 @@ http://news.yellovideoplus.bj:8080/live/christlive_bj/chunks.m3u8
 #EXTINF:-1 tvg-logo="" group-title="", AFRICA 24
 http://news.yellovideoplus.bj:8080/live/africa24_bj/chunks.m3u8
 #EXTINF:-1 tvg-logo="" group-title="",RTI 1
-http://news.yellovideoplus.bj:8080/live/rti1_bj/chunks.m3u8
+http://news.yellovideoplus.bj:8080/live/rti_bj/chunks.m3u8
 #EXTINF:-1 tvg-logo="" group-title="",RTI 2
 http://news.yellovideoplus.bj:8080/live/rti2_bj/chunks.m3u8
 #EXTINF:-1 tvg-logo="" group-title="",RTI 3
