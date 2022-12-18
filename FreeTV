@@ -3,7 +3,7 @@ http://news.yellovideoplus.bj:8080/live/tf1_bj/chunks.m3u8
 #EXTINF:-1 tvg-id="tfx.fr" tvg-name="FR: TFX" tvg-logo="http://s3.i3ns.net/portal/picon/2021-06/0560d6d37fe3411c2f401dd825fc280f.png" group-title="",TFX
 http://news.yellovideoplus.bj:8080/live/tfx_bj/chunks.m3u8
 #EXTINF:-1 tvg-id="" tvg-logo="https://img-cdn.curl.pk/chimg/7356549361.png" group-title="",AB1 
-http://news.yellovideoplus.bj:8080/live/tfx_bj/chunks.m3u8
+http://news.yellovideoplus.bj:8080/live/ab1_bj/chunks.m3u8
 #EXTINF:-1 tvg-logo="http://s3.i3ns.net/portal/picon/2021-08/b7f966a0262a8930229949b1c4dcd4db.png" group-title="",ACTION HD  
 http://news.yellovideoplus.bj:8080/live/action_bj/chunks.m3u8
 #EXTINF:-1 tvg-logo="http://s3.i3ns.net/portal/picon/2021-06/4a4b548daa819e3173e6965166d43b6d.png" group-title="", RTL9 HD
