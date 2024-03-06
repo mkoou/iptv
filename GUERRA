@@ -1,0 +1,17 @@
+#EXTM3U
+#EXTINF:-1 tvg-logo="" group-title="",RTI 1
+http://news.yellovideoplus.bj:8080/live/rti1_encoder1/playlist.m3u8
+#EXTINF:-1 tvg-logo="" group-title="",RTI 2
+http://news.yellovideoplus.bj:8080/live/rti_encoder2/playlist.m3u8
+#EXTINF:-1 tvg-logo="" group-title="",ZEE MAGIC
+http://news.yellovideoplus.bj:8080/live/zeemagic_new/playlist.m3u8
+#EXTINF:-1 tvg-logo="" group-title="",IvoireChannel
+http://news.yellovideoplus.bj:8080/live/ivoirechannel_enc/playlist.m3u8
+#EXTINF:-1 tvg-logo="" group-title="",NTITV
+http://news.yellovideoplus.bj:8080/live/NTITV/playlist.m3u8
+#EXTINF:-1 tvg-logo="" group-title="",Reflet TV
+http://news.yellovideoplus.bj:8080/live/reflettv_enc/chunks.m3u8
+#EXTINF:-1 tvg-logo="" group-title="",Africa 24
+http://news.yellovideoplus.bj:8080/live/africa24_enc/playlist.m3u8
+#EXTINF:-1 tvg-logo="" group-title="",NOUR TV
+http://news.yellovideoplus.bj:8080/live/nourtv_enc/playlist.m3u8 
