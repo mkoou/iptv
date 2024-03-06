@@ -4,7 +4,7 @@ http://news.yellovideoplus.bj:8080/live/rti1_encoder1/playlist.m3u8
 #EXTINF:-1 tvg-logo="" group-title="",RTI 2
 http://news.yellovideoplus.bj:8080/live/rti_encoder2/playlist.m3u8
 #EXTINF:-1 tvg-logo="" group-title="",ZEE MAGIC
-http://news.yellovideoplus.bj:8080/live/zeemagic_new/playlist.m3u8
+http://news.yellovideoplus.bj:8080/live/zeemagic_enc/playlist.m3u8
 #EXTINF:-1 tvg-logo="" group-title="",IvoireChannel
 http://news.yellovideoplus.bj:8080/live/ivoirechannel_enc/playlist.m3u8
 #EXTINF:-1 tvg-logo="" group-title="",NTITV
