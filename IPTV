@@ -1,3 +1,3 @@
 #EXTM3U
 #EXT-X-STREAM-INF:BANDWIDTH=1200000,RESOLUTION=854x480 
-http://198.16.65.10:9000/play/live/B997E956D1A193BA.m3u8?id=3CxYp0bKxP1GQ1PGtVEGkqYhS7htd2O_iz5JTyQKn-Y&uid=794378948086FFC0&mk=1788755448&client=newaaa&token=XnpVORpeB7sFyKZmVJ-FmNk9pFRLNXaTxWug2q6FUsqBw2FdlUXcBZAT0QCQSnJwJqSiKZQsX7-uYF1C2B0kRkcOuPK4tKwwNJo52gTDqhigK1-rRA9aR6Lcoqm2JGxWhglz_5_U985ehsDopZc2Hkgg8bIzaW2sQxNcfAoDw376bclqg7MVRsk0OZ0nRckLXrNpIBhvjbirazet6xESmg&ver=d000:c021&last=pd9rTl2-n8dh8Fsd_qLjYWlqkUOd2hfbvC-y8F-m__4&sign=VlLhVRjbWxVZmuZPTkGilQ&sub=false&px=false&def=0&type=1&pid=
+http://nexusconnects.org:80/play/live.php?mac=00:1A:79:BB:E0:9C&stream=798790&extension=m3u8
