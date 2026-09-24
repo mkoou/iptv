@@ -1,3 +1,3 @@
 #EXTM3U
 #EXT-X-STREAM-INF:BANDWIDTH=1200000,RESOLUTION=854x480 
-http://nexusconnects.org:80/play/live.php?mac=00:1A:79:BB:E0:9C&stream=798790&extension=m3u8
+http://80.96.58.26/ako_proxy.php?key=MonSecret2026&u=aHR0cDovL2xpdmUuOGt1bHRyYS5vcmcvbGl2ZS9uZWxzb24xMDI0L25idWNud3EvNDU4OTU0Lm0zdTg&r=aHR0cDovL2FwcHNob2ZtYW5kby55b283LmNvbS8&.m3u8
