@@ -180,9 +180,6 @@ http://80.96.58.26/ako_proxy.php?key=MonSecret2026&u=aHR0cDovL2xpdmUuOGt1bHRyYS5
 #EXTINF:-1  tvg-logo="http://panel.tofi-xtv.com:80/images/4a1ae288a37c420559cf81886fcfaf12.png" group-title="BEIN HEVC",bEIN3 FR
 http://80.96.58.26:80/ako_proxy.php?key=MonSecret2026&u=aHR0cDovL2xpdmUuOGt1bHRyYS5vcmcvbGl2ZS9uZWxzb24xMDI0L25idWNud3EvOTQubTN1OA&r=aHR0cDovL2FwcHNob2ZtYW5kby55b283LmNvbS8&.m3u8
 
-#EXTINF:-1,1
-https://github.com/mkoou/iptv/raw/refs/heads/main/ss.m3u8
-
 #EXTINF:-1  tvg-logo="https://wjsports.liveblog365.com/wp-content/uploads/2025/08/landing-pages-imagem-generica-1920x800-1.png" group-title="SPORTTV",SPT TV1
 https://blcco.linkip.org/live/720_.m3u8
 #EXTINF:-1  tvg-logo="https://wjsports.liveblog365.com/wp-content/uploads/2025/08/landing-pages-imagem-generica-1920x800-1.png" group-title="SPORTTV",Sport TV1
