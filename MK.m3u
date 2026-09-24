@@ -166,7 +166,7 @@ http://80.96.58.26/ako_proxy.php?key=MonSecret2026&u=aHR0cDovL2xpdmUuOGt1bHRyYS5
 http://80.96.58.26/ako_proxy.php?key=MonSecret2026&u=aHR0cDovL2xpdmUuOGt1bHRyYS5vcmcvbGl2ZS9uZWxzb24xMDI0L25idWNud3EvNDU4OTU0Lm0zdTg&r=aHR0cDovL2FwcHNob2ZtYW5kby55b283LmNvbS8&.m3u8
 #EXTINF:-1  tvg-logo="http://pro.netmos.ovh:6051/img/beinsports4ar.png" group-title="BEIN HEVC",bEIN 4HEVC
 http://80.96.58.26/ako_proxy.php?key=MonSecret2026&u=aHR0cDovL2xpdmUuOGt1bHRyYS5vcmcvbGl2ZS9uZWxzb24xMDI0L25idWNud3EvNDU5MDAxLm0zdTg&r=aHR0cDovL2FwcHNob2ZtYW5kby55b283LmNvbS8&.m3u8
-#EXTINF:-1  tvg-logo="http://pro.netmos.ovh:6051/img/beinsports5ar.png" group-title="BSPORT",bEIN 5HEVC
+#EXTINF:-1  tvg-logo="http://pro.netmos.ovh:6051/img/beinsports5ar.png" group-title="BEIN HEVC",bEIN 5HEVC
 http://80.96.58.26/ako_proxy.php?key=MonSecret2026&u=aHR0cDovL2xpdmUuOGt1bHRyYS5vcmcvbGl2ZS9uZWxzb24xMDI0L25idWNud3EvNDU5MDAyLm0zdTg&r=aHR0cDovL2FwcHNob2ZtYW5kby55b283LmNvbS8&.m3u8
 #EXTINF:-1  tvg-logo="http://pro.netmos.ovh:6051/img/beinsports6ar.png" group-title="BEIN HEVC",bEIN 6HEVC
 http://80.96.58.26/ako_proxy.php?key=MonSecret2026&u=aHR0cDovL2xpdmUuOGt1bHRyYS5vcmcvbGl2ZS9uZWxzb24xMDI0L25idWNud3EvNDU4OTUwLm0zdTg&r=aHR0cDovL2FwcHNob2ZtYW5kby55b283LmNvbS8&.m3u8
@@ -389,31 +389,31 @@ https://blcco.linkip.org/live/3446_.m3u8
 #EXTINF:-1  tvg-logo="" group-title="CANAL+",LIVE7
 https://blcco.linkip.org/live/3445_.m3u8
 
-#EXTINF:-1  tvg-logo="" group-title="BEIN HD",bEIN 1 HD
+#EXTINF:-1  tvg-logo="http://pro.netmos.ovh:6051/img/beinsports1ar.png" group-title="BEIN HD",bEIN 1 HD
 http://proxpanel.cc/h1wqD6CY/byxHYgX/707929
-#EXTINF:-1  tvg-logo="" group-title="BEIN HD",bEIN 2 HD
+#EXTINF:-1  tvg-logo="http://pro.netmos.ovh:6051/img/beinsports2ar.png" group-title="BEIN HD",bEIN 2 HD
 http://proxpanel.cc/h1wqD6CY/byxHYgX/707928
-#EXTINF:-1  tvg-logo="" group-title="BEIN HD",bEIN 3 HD
+#EXTINF:-1  tvg-logo="http://pro.netmos.ovh:6051/img/beinsports3ar.png" group-title="BEIN HD",bEIN 3 HD
 http://proxpanel.cc/h1wqD6CY/byxHYgX/707927
-#EXTINF:-1  tvg-logo="" group-title="BEIN HD",bEIN 4 HD
+#EXTINF:-1  tvg-logo="http://pro.netmos.ovh:6051/img/beinsports4ar.png" group-title="BEIN HD",bEIN 4 HD
 http://proxpanel.cc/h1wqD6CY/byxHYgX/707926
-#EXTINF:-1  tvg-logo="" group-title="BEIN HD",bEIN 5 HD
+#EXTINF:-1  tvg-logo="http://pro.netmos.ovh:6051/img/beinsports5ar.png" group-title="BEIN HD",bEIN 5 HD
 http://proxpanel.cc/h1wqD6CY/byxHYgX/707925
-#EXTINF:-1  tvg-logo="" group-title="BEIN HD",bEIN 6 HD
+#EXTINF:-1  tvg-logo="http://pro.netmos.ovh:6051/img/beinsports6ar.png" group-title="BEIN HD",bEIN 6 HD
 http://proxpanel.cc/h1wqD6CY/byxHYgX/707924
-#EXTINF:-1  tvg-logo="" group-title="BEIN HD",bEIN 7 HD
+#EXTINF:-1  tvg-logo="http://pro.netmos.ovh:6051/img/beinsports7ar.png" group-title="BEIN HD",bEIN 7 HD
 http://proxpanel.cc/h1wqD6CY/byxHYgX/707923
-#EXTINF:-1  tvg-logo="" group-title="BEIN HD",bEIN 8 HD
+#EXTINF:-1  tvg-logo="http://pro.netmos.ovh:6051/img/beinsports8ar.png" group-title="BEIN HD",bEIN 8 HD
 http://proxpanel.cc/h1wqD6CY/byxHYgX/707922
-#EXTINF:-1  tvg-logo="" group-title="BEIN HD",bEIN 9 HD
+#EXTINF:-1  tvg-logo="http://pro.netmos.ovh:6051/img/beinsports9ar.png" group-title="BEIN HD",bEIN 9 HD
 http://proxpanel.cc/h1wqD6CY/byxHYgX/707921
-#EXTINF:-1  tvg-logo="" group-title="BEIN HD",bEIN 1EN HD
+#EXTINF:-1  tvg-logo="http://pro.netmos.ovh:6051/img/beinsports1ar.png" group-title="BEIN HD",bEIN 1EN HD
 http://proxpanel.cc/h1wqD6CY/byxHYgX/707920
-#EXTINF:-1  tvg-logo="" group-title="BEIN HD",bEIN 1FR HD
+#EXTINF:-1  tvg-logo="http://pro.netmos.ovh:6051/img/beinsports1ar.png" group-title="BEIN HD",bEIN 1FR HD
 http://proxpanel.cc/h1wqD6CY/byxHYgX/707919
-#EXTINF:-1  tvg-logo="" group-title="BEIN HD",bEIN 2FR HD
+#EXTINF:-1  tvg-logo="http://pro.netmos.ovh:6051/img/beinsports2ar.png" group-title="BEIN HD",bEIN 2FR HD
 http://proxpanel.cc/h1wqD6CY/byxHYgX/707917
-#EXTINF:-1  tvg-logo="" group-title="BEIN HD",bEIN 1FR HD
+#EXTINF:-1  tvg-logo="http://pro.netmos.ovh:6051/img/beinsports3ar.png" group-title="BEIN HD",bEIN 3FR HD
 http://proxpanel.cc/h1wqD6CY/byxHYgX/707916
 
 
